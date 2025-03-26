@@ -26,11 +26,11 @@ HEADERS = {
 user_cache = {}
 
 priority_mapping = {
-    "Lowest": "nejnižší",
-    "Low": "nízká",
-    "Normal": "normální",
-    "High": "vyšší",
-    "Highest": "nejvyšší"
+    "Lowest": "Nejnižší",
+    "Low": "Nízká",
+    "Normal": "Normální",
+    "High": "Vyšší",
+    "Highest": "Nejvyšší"
 }
 
 type_mapping = {
@@ -161,7 +161,12 @@ for task in detail_data.get("data", []):
         "comments": comments
     }
 
-    folder_name = f"{created_dt.date()}_{task.get('id')}"
+    if closed_dt:
+        year_month = closed_dt.strftime("%Y-%m")
+    else:
+        year_month = "unknown"
+
+    folder_name = f"{year_month}/{task.get('id')}"
     task_folder = os.path.join("summaries", folder_name)
     os.makedirs(task_folder, exist_ok=True)
 
