@@ -2,7 +2,7 @@ name: Aliteo Support Summary
 
 on:
   schedule:
-    - cron: "25 10 * * *" # každý den v 11:25
+    - cron: "35 10 * * *" # každý den v 11:35
   workflow_dispatch:
 
 jobs:
@@ -33,3 +33,11 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scripts/generate_summaries.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add summaries/
+          git diff --cached --quiet || git commit -m "📝 Auto update summaries from scheduled run"
+          git push
