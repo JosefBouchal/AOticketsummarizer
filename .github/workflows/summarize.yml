@@ -1,12 +1,12 @@
-name: Summarize Support Tickets
+name: Aliteo Support Summary
 
 on:
   schedule:
-    - cron: "0 8 * * *" # Každý den v 8:00 ráno (UTC)
-  workflow_dispatch: # Pro ruční spuštění
+    - cron: "25 10 * * *" # každý den v 11:25
+  workflow_dispatch:
 
 jobs:
-  summarize:
+  fetch-and-summarize:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,19 +16,20 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: "3.11"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run summarization script
+      - name: Run support preprocessing script
+        env:
+          ALITEO_API_KEY: ${{ secrets.ALITEO_API_KEY }}
+          ALITEO_EMAIL: ${{ secrets.ALITEO_EMAIL }}
+          ALITEO_COMPANY: ${{ secrets.ALITEO_COMPANY }}
+          ALITEO_FILTERID: ${{ secrets.ALITEO_FILTERID }}
+        run: python scripts/aliteo_summary.py
+
+      - name: Run GPT summary generation
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          SUPPORT_API_KEY: ${{ secrets.SUPPORT_API_KEY }}
-        run: python summarize_tickets.py
-
-      - name: Upload results
-        uses: actions/upload-artifact@v4
-        with:
-          name: ticket_summaries
-          path: summaries/ # adresář s výsledky
+        run: python scripts/generate_summaries.py
