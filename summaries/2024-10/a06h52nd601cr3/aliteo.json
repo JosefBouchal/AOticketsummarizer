@@ -1,0 +1,35 @@
+{
+  "id": "a06h52nd601cr3",
+  "created": "2024-10-11T14:02:53.56Z",
+  "closed": "2024-10-14T06:45:51.836Z",
+  "duration_minutes": 3882,
+  "first_response_minutes": 111,
+  "name": "Chyba - zobrazení porad z řady v daném měsíci",
+  "description": "Mám řadu porad, chci se podívat na řady v červnu a zobrazí mi i ty následující. Dělal jsem tak, že jsem si zobrazil porady v 9/24 a potom jsem se šipkami posouval dozadu Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report, posielam na vyvoj na opravu chyby."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Martin, malo by byt opravene.. mozes prosim potvrdit?"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Vypada to OK, díky"
+    }
+  ]
+}

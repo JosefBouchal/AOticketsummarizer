@@ -1,0 +1,43 @@
+{
+  "id": "a06lg4lv8g0o5d",
+  "created": "2024-11-14T08:08:16.178Z",
+  "closed": "2024-11-17T12:27:27.369Z",
+  "duration_minutes": 4579,
+  "first_response_minutes": 13,
+  "name": "Upomínky - nezobrazují se",
+  "description": "Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik, vies mi napisat postup ako toho dosiahnem? Inak mi to vyvoj nema ako opravit ak neviem replikovat chybu.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na calle potvrdene ze je to staly stav.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "prehodene na Vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Martin, malo by byt opravene, mozes prosim skontrolovat.?"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "už OK, díky"
+    }
+  ]
+}

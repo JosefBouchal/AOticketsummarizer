@@ -1,0 +1,27 @@
+{
+  "id": "a06bk7ji9009fc",
+  "created": "2024-08-29T15:50:12.663Z",
+  "closed": "2024-09-06T09:00:50.833Z",
+  "duration_minutes": 11110,
+  "first_response_minutes": 874,
+  "name": "Zvýraznění upozornění",
+  "description": "Zdravím,\r\nNebylo by možné, pokud mám otevřený detail nějaého úkolu, tak by se mi nějak graficky zvýraznil i v seznamu upozornění?\r\n[Image001]\r\n\r\nJde o to, ze jak daný úkol vyřídím, tak bych ho rád odebral z upozornění, ale kolikrát to nemužu najít...\r\n\r\nDíky\r\nZdražil",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, v ramci detailu ulohy je v pravom hornom rohu tlacidlo vymazat upozornenie: Tymto zmazete vsetky upozornenia tykajuce sa tejto ulohy. Riesi to Vas problem? Dakujem"
+    }
+  ]
+}

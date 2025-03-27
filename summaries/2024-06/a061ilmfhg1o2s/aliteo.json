@@ -1,0 +1,35 @@
+{
+  "id": "a061ilmfhg1o2s",
+  "created": "2024-06-12T14:36:57.955Z",
+  "closed": "2024-06-13T10:32:20.976Z",
+  "duration_minutes": 1195,
+  "first_response_minutes": 924,
+  "name": "Dotaz k úkolům pro více řešitelů",
+  "description": "Dobrý den,\r\n\r\nChtěl bych se zeptat na otázku týkající se úkolů. Pro lepší představu vymyslím konkrétní příklad:\r\n\r\nChci, aby mi všichni účastníci na začátku roku poslali svůj plán dovolených, tzn. že plán posílá každý uživatel sám za svou osobu. Je to tedy vlastně tentýž úkol pro více řešitelů. Je nutné, abych takový úkol tvořil ve více kopiích (jeden úkol = jeden řešitel), i když se jedná o stejný požadavek?\r\nJde mi o to, že když vytvořím jeden takový úkol a dám ho k řešení řešitelské skupině, tak jakmile ho za sebe vyřeší první řešitel a já mu následně schválím uzavření, tak je úkol vyřešen i u všech ostatních uživatelů, kteří mi ale svůj plán dovolené dosud neposlali.\r\nUmožňuje Aliteo nějaké jiné řešení takovýchto situací, než zakládat nový úkol pro každého uživatele separátně?\r\n\r\n\r\n\r\n\r\nDěkuji za radu a přeji hezký zbytek odpoledne.\r\n\r\nS pozdravem / Best regards\r\nOndřej Tomeš\r\nQuality and project manager\r\n\r\ntel.:         +420 773 699 977\r\ne-mail:    o.tomes@eson.cz< mailto:o.tomes@eson.cz >\r\nweb:        www.eson.cz< http://www.eson.cz/ >\r\n\r\n[Obsah obrázku logo, Grafika, grafický design, Písmo  Popis byl vytvořen automaticky]  CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\n\r\n\r\nThe first version of ESON CZ app is here! Tracking option shipment status and product previews right on your mobile!\r\nPrvní verze aplikace ESON CZ je zde! Možnost sledování stavu zásilek a náhledy produktů přímo ve Vašem mobilu!\r\n[Obsah obrázku Písmo, text, Grafika, snímek obrazovky  Popis byl vytvořen automaticky]< https://play.google.com/store/apps/details?id=cz.eson.eson&hl=cs >                [Obsah obrázku text, logo, Písmo, design  Popis byl vytvořen automaticky] < https://apps.apple.com/cz/app/eson/id6502104060?l=cs >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vás, v principe zalezi prave na tom, ako ho chcete ukoncovat. Ak trvate na tom, ze to chcete kontrolovat a pre kazdeho ukoncovat, tak to ani analyticky inak nejde. Ak na tom netrvate, tak mozete to urobit tak, ze ludi nedate cez riesitelsku skupinu ale po jednom ako \"viac riesitelov\" a v momentne, ked Vam to niekto odovzda, tak ho len z tych riesitelov odoberiete. To sposobi ze nebude tato uloha svietit medzi jeho reakcnymi a zaroven medzi riesitelmi vidite, kto to este neodovzdal. Ak trvate na zatvarani, tak je este mala pomoc a to v tom, ze vytvorite hlavnu ulohu, ktoru popisete a potom k nej pridate dielcie ulohy a tie hodite na kazdeho jedneho riesitela. Vyhodou naviac ako keby je, ze v zalozke dielcie ulohy potom vidite aka percentualna cast Vam chyba do ukoncenia celej ulohy. Zalezi teda na Vas ake su podmienky."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Zdravím, pane Dzuro, perfektně jste mi to vysvětlil a s těmi dílčími úkoly to je bezva tip. Pan jednatel už to začal takto řešit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vyborne, som rad ze sa vec vyriesila. Prajem pekny den."
+    }
+  ]
+}

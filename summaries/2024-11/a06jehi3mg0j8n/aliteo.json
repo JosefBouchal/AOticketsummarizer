@@ -1,0 +1,51 @@
+{
+  "id": "a06jehi3mg0j8n",
+  "created": "2024-10-29T10:00:16.457Z",
+  "closed": "2024-11-05T11:31:00.247Z",
+  "duration_minutes": 10170,
+  "first_response_minutes": 441,
+  "name": "V definici pohledu se neukládá vlastník",
+  "description": "Viz přiložené video. Chci mít pohled na úkoly, které zadal konkrétní uživatel zákazníka. Ale vlastník se do definice pohledu nikdy neuloží...",
+  "owner": "Robert Blaha",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 4,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, nieco podobne sme nedavno riesili, idem pohladat. Chcem sa ale spytat ak ten pohlad vytvoris ako novy, tak sa ta podmienka na vlastnika ulozi ci nie?"
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "Ne"
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "Jinak si při výběru vlastníka před vyplněním části jména přepni na externí uživatele a spolehlivě zatuhneš - alespoň u mě..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Hm skusam a mne to ide, asi nerobim vsetky kroky co ty.. ide mi to aj v pripade upravy existujuceho pripadu.."
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "No jasně, mě aplikovat taky jde. Ale pak ho ulož a znovu načti - to v té smyčce nevidím..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Robert Blaha (robert.blaha@karatsoftware.cz) mozes prosim vyskusat? malo by byt opravene.."
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "Funguje. Super! Díky 👍"
+    }
+  ]
+}

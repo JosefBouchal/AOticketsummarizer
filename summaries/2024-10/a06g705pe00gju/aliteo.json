@@ -1,0 +1,39 @@
+{
+  "id": "a06g705pe00gju",
+  "created": "2024-10-04T06:49:16.447Z",
+  "closed": "2024-10-07T11:12:14.914Z",
+  "duration_minutes": 4582,
+  "first_response_minutes": 27,
+  "name": "Otevření úkolu z kalendáře",
+  "description": "Vracím se k tématu otevření úkolu z kalendáře. Na události/poradě máme přímo tlačítko Otevřít poradu.. Neuděláme to stejné pro úkol? Bylo by to jednoznačné (teď musím vědět, že mám kliknout na tělo úkolu), a hlavně stejné.. Martin Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Martin, ano riesili sme to v pripade #5375 otevření úkolu z kalendáře Vysledok bol, ze sme to zaradili do vyvoja v ulohe tu: #5411 Preview na \"termin kalendara\" ktory je zaradeny v sprinte 24.3. Mas nieco ine na mysli?"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "jj, ale tam je myslím dohodnuto, že to bude po kliku na ten název úkolu, dával jsem ke zvážení, zda tam neudělat stejně jako na poradě vyloženě tlačítko Otevřít úkol... Ale nechávám na vás, i to co je aktuálně dohodnuté, je lepší než aktuální stav.. Díky, Martin"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "no celkovo sa to bude prerabat, a neviem aky bude finalny stav, ale malo by sa to prilizovat porade.. Nechat tento pripad otvoreny?"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Pokud se tím budete zabývat, tak můžeme uzavřít, stačí mi, že máte úkol na vývoj"
+    }
+  ]
+}

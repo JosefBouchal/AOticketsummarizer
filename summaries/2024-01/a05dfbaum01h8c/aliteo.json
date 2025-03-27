@@ -1,0 +1,31 @@
+{
+  "id": "a05dfbaum01h8c",
+  "created": "2024-01-08T10:59:00.922Z",
+  "closed": "2024-01-14T12:46:46.21Z",
+  "duration_minutes": 8747,
+  "first_response_minutes": 86,
+  "name": "[TT:09956624]  Re: GoPay obchodni komunikace (KARAT Software a.s., EVC:1441723327)",
+  "description": "Dobrý den, \r\n \r\nplatba v GoPay systému v obou případech zůstane označena jako neuhrazená. Pokud ji zašleme na váš bankovní účet, bude ji třeba na vaší straně manuálně spárovat s objednávkou.\r\n \r\n \r\n S pozdravem \r\n   \r\n Jana Gutlébetová • GOPAY s.r.o. \r\n Oddělení zákaznické péče \r\n  podpora@gopay.cz < mailto:podpora@gopay.cz > \r\n \r\nJak jsem si vedl/a?\r\n\r\n < https://secure.teamhively.com/ratings/add/user/85781/rating/3?ticket=9956624 > < https://secure.teamhively.com/ratings/add/user/85781/rating/2?ticket=9956624 > < https://secure.teamhively.com/ratings/add/user/85781/rating/1?ticket=9956624 >\r\n \r\nKlikněte na tvář a ohodnoťte náš výkon! < https://secure.teamhively.com/ratings/new/user/85781?ticket=9956624 >\r\n \r\n \r\n 90 % dotazů vyřešíte v Centru nápovědy < https://help.gopay.com/cs/?utm_source=email&utm_medium=signature&utm_campaign=jana-gutlebetova > nebo v GoPay poradně na Facebooku < https://www.facebook.com/groups/507514693003831 > \r\n \r\n < https://www.gopay.com/cs/?utm_source=email&utm_medium=signature&utm_campaign=jana-gutlebetova > < https://www.facebook.com/gopay.cz > < https://www.linkedin.com/company/gopay-s-r-o-/ > < https://twitter.com/gopaycz > < https://www.gopay.com/blog/?utm_source=email&utm_medium=signature&utm_campaign=jana-gutlebetova > \r\n \r\n < https://www.gopay.com/cs/financovani/?utm_source=email&utm_medium=signature&utm_campaign=jana-gutlebetova > \r\n \r\n \r\n----------------------\r\n Dne 8.1.2024 v 10:05:05\r\n \r\n \r\n >\r\n >\r\n > [Logo Aliteo]\r\n >\r\n > ODPOVĚĎ NA POŽADAVEK \r\n >\r\n > ALITEO  /  Support  /  ALITEO support \r\n >\r\n > #3782   podpora@gopay.cz  \r\n >\r\n > [TT:09956624] GoPay obchodni komunikace (KARAT Software a.s.,\r\n > EVC:1441723327) \r\n >\r\n > Zdravim Vas,\r\n > prosim Vas, ktora z tychto variant umozni stav, ze platba bude zaplatena, aby zakaznik co najskor mohol zacat pouzivat aplikaciu v suvislosti s touto platbou?\r\n >\r\n > Dakujem \r\n >\r\n >     Odpovědět na komentář    \r\n >\r\n > [Logo Aliteo]\r\n >\r\n > Copyright 2022 ALITEO • Powered by KARAT Software\r\n >\r\n >\r\n \r\n8.1.2024\r\n \r\nDobrý den, \r\n \r\nobdrželi jsme od vašeho zákazníka s e-mailovou adresou dvorak@ncline.cz platbu ve výši 82,28 EUR za objednávku 3309058370 provedenou na portálu app.aliteo.com.\r\n Bohužel platbu nebylo možné v našem systému spárovat s objednávkou z důvodu nesprávného variabilního symbolu.\r\n Platbu můžeme zaslat na bankovní účet, který máte v našem systému registrovaný, nebo vrátit na účet zákazníka.\r\n Která varianta vám vyhovuje?\r\n \r\nDěkujeme předem za vaši odpověď a přejeme vám hezký den",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, navrhujeme nasledovane: - platbu poukazete spat klientovi - mohli by ste nam prosim spravny variabilny symbol - klient zaplati opat so spravnym variabilnym symbolom - tym by sa mala platba sparovat a nastavit ako uhradena. Rozmyslam spravne?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mimo tento kanal bolo odkomunikovane s GoPay a rozhodli sme sa to riesit inak, preto tuto ulohu zatvaram na zaklade toho ze komunikacia s GoPay tuto fungovat nebude a funguje inak"
+    }
+  ]
+}

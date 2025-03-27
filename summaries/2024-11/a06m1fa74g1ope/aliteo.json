@@ -1,0 +1,27 @@
+{
+  "id": "a06m1fa74g1ope",
+  "created": "2024-11-18T13:06:20.25Z",
+  "closed": "2024-11-20T13:43:24.929Z",
+  "duration_minutes": 2917,
+  "first_response_minutes": 36,
+  "name": "Nejde založit projekt",
+  "description": "Dobrý den,\r\n\r\nzaložil jsem nový workspace pro společnost WEPGRA s.r.o., do kterého chceme přidat nové projekty. Každopádně když kliknu na +new project, tak se mi nechce objevit v nabídce pro jakou společnost a do jakého workspace se má projekt založit. V nabídce pro company a workspace se objevuje pouze \"Does not contain any items\". Zasílám v příloze dva screenshoty pro lepší porozumění situace. Předem děkuji za vyřešení.\r\n\r\nS přáním hezkého dne\r\nIng. Maxim Sáblík\r\nWEPGRA s.r.o.",
+  "owner": "Maxim Sablik",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, skúste teraz. Mali ste vypnuté právo pre pridávanie projektu. Dakujem"
+    }
+  ]
+}

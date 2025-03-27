@@ -1,0 +1,27 @@
+{
+  "id": "a05mtikfgg1o7u",
+  "created": "2024-03-21T19:35:22.574Z",
+  "closed": "2024-03-31T05:59:47.946Z",
+  "duration_minutes": 13584,
+  "first_response_minutes": 4944,
+  "name": "Přílohy - body.html",
+  "description": "Dobrýden, po UPG, se mi nějak rozsypala příloha body, originál mailu, ze které jsou u nás požadavky na supportu zakládány. Obrázek dva, že dříve to chodilo nerozsypáno Michal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, riesil som to s kolegom a  nejak sa mu to nepodarilo nasimulovat. 1. deje sa Vam to s kazdym emailom teraz? 2. Mohli by ste nam poslat originalny odoslany email, ktory sa mal konvertovat na prilohu"
+    }
+  ]
+}

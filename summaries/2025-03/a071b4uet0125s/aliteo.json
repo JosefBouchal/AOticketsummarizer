@@ -1,0 +1,55 @@
+{
+  "id": "a071b4uet0125s",
+  "created": "2025-02-14T08:01:16.109Z",
+  "closed": "2025-03-21T07:06:10.661Z",
+  "duration_minutes": 50344,
+  "first_response_minutes": 4,
+  "name": "Chybná sazba DPH a částky DPH a celkem v datech FV",
+  "description": "V data.xml FV (příloha v PDF) je chybně uvedena sazba DPH 23% a nikoliv 21% a pak jsou dle toho vypočteny blbě částky DPH a Celkem, pak taková faktura nelze automaticky zpracovat.\r\n\r\nDále je tam dán kurz 25,075 ale já bych řekl, že 6x25,075 není 150,54 ale 150,45.\r\n\r\nDále do banky došlo 7,38, tedy jste po zákazníkovi žádali 23% sazbu (dle dat) a pak dali tiskopis na 21% kde je celkem 7,26?\r\n\r\nOpravdu nevím co na toto říci\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 4,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dakujem za report, hned posielam na vyvoj.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "měsíc se s měsícem sešel a problém je tu zase 20250313_000144818.pdf , faktura vypadá na 21% sazba 23% a věřím že i uhrazeno bylo jak 23%, to zjistíme zítra, Dane, vím, že Ty za toto nemůžeš, ale takto to fakt nejde"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) rozumiem, snazim sa to popohnat na vyvoji.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) mam odpoved od @ Peter Ďurčák (peter.durcak@karatsoftware.sk) : Riesenie ma byt, ze budeme registrovany subjekt a tento problem uz nebude vznikat. Registracia je v stave, verim ze do 2 tyzdnov, bude hotovo. Vzniknutu situaciu si TWE zobral na seba, ze to doriesi so p. Zdenkou, a rucne sa to v KARATE opravi. Je to takto ok, alebo poukazujes na iny problem, ktoremu by sme sa mali vvenovat (napriklad v programovej casti)?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane, narovinu, to není vůbec v pohodě, jde vidět, že osoby jako je @ Peter Ďurčák (peter.durcak@karatsoftware.sk) či @ Allan Konečný (allan.konecny@karatsoftware.cz) absolutně neví o čem mluví, je to nepochopitelný krok, tímto se zvýší zátěž na účtárnu extrémě, ale extrémě oproti tomu, jaké jsou prodejnosti. Kdy by se překročil limit 10 000 EUR z rok se současnou prodejností? Nikdy, v současnosti AO nevydělá ani na Kyzlinga, natož samo na sebe. Pro mě je to nepochopitelné, řekl bych až k 🤮. PS: Dane, prosím neber si to osobně, fakt to není směřované na Tebe. S tímto případem si dělejte co chcete, mě už osud AO absolutně nezajímá. Luboš"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "už vidím FÚ v Brně, jak budeme dělat přiznání do SK na 1,38 EUR každý měsíc, si řeknou, hmm, borci a až ten jeden to přestane platit, tak stejně budeme muset podávat přiznání k OSS Nulové daňové přiznání Zaregistruje-li se osoba do režimu EU, podává také tzv. nulové daňové přiznání, pokud neuskuteční ve zdaňovacím období žádné plnění, které spadá do režimu EU. wow!!!! jen tak dál, tomu se říká efektivita, kolegialita a nevím ještě jaké ....."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Klidně ať si toto přečte i generální ředitel @ Martin Válek (martin.valek@karatsoftware.cz) , můj kouč @ Juraj Matěj (juraj.matej@karatsoftware.cz) (jelikož se to k němu stejně asi dostane)"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Aktualizujem stav: •\tAllan a Tomáš sa dohodli, že sa nakoniec nestaneme registrovaným subjektom vzhľadom na objektívne súvislosti. •\tChybne vystavené faktúry na neplatcu budú opravené preúčtovaním na ekonomickom oddelení pani Zdenkou. •\tAllan aktuálne čaká na schválenie sadzieb dane a spôsobu vystavovania faktúr zo strany Tomáša Wertheimera, aby mohol upraviť kód a nasadiť zmeny. •\tPo nasadení by už nemali vznikať faktúry s nesprávne uvedenou daňou."
+    }
+  ]
+}

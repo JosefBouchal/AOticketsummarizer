@@ -1,0 +1,43 @@
+{
+  "id": "a06im8oqs018r1",
+  "created": "2024-10-23T12:35:39.447Z",
+  "closed": "2024-10-25T05:02:56.514Z",
+  "duration_minutes": 2427,
+  "first_response_minutes": 36,
+  "name": "Přidané sdílené atributy do firemního do F5 se neukáže na detailu úkolu, seznamu, ...",
+  "description": "Přidal jsem sdílený atribut a pak firemní atribut pracovního prostoru, ve stejném okně jsem pak vybral daný výčet a vidím viz příloha. Po F5 se to zobrazilo\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 3,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, ak je mozne prosim napis mi stale v com je problem alebo aspon oznac v obrazku. Tak teda skusim sumar: - mas ulohu a nemas atributy  a stojis v detaile ulohy - pridas zdielany atribut, kde je definovany vycet hodnot - pridas potom atribut v pracovnom priestore a povolis vsetky hodnoty, ktore su definovane v zdielnom a povolis nastavenie aby bol ten atribut v lavom paneli v detaile ulohy - zrusis okno a vadi ti ze sa tam neobjavi hned ale az po f5 ?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane, já to packou v obrázku naznačil, ale vzhledem k tomu, že neumím udělat odkaz na přílohu (tak jsem to našel v popupe MWSnap163 2024-10-23, 14_30_19.png ), tak to je ta v čase 14:30:19 konec názvu 14_30_19 Mám firemní atribut (enum), který vychází se sdíleného. Jsem v úkole, dám nastavení společnosti, přidám enum sdíleného atributu, ten pak nastavím i do firemního atributu a vyplním jej do úkolu, v popupe atributů jej vidím, vyberu, uložím a pak vlevo je Produk: - a pokud jsem šel do seznamu úkolů, tak tam jsem taky viděl Produkt: -"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem.. proste pridanie atributu sa bez F5 nepremietne uplne az tam kde by malo.. bud nech sa to spravi srpavne alebo nech sa nezobrazuje vobec.. ono to je take nastavenie, ktore uprimne clovek nerobi bez refreshu asi.. ale mas pravdu je tam bug.. predal som na vyvoj.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "mě to celkem vyděsilo, je pravda, že jsem zkoušel enum s apostrofem, abych ověřil, že to nebude dělat problémy a naráz vidím, že se to do pak v detailu neukazuje, tak jsem už měl rozepsán mail s tím, že apostrofy dělají problém a pak jsem si všiml, že po F5 je to OK, tedy apostrof nezpůsobil problém jen F5. Jestli se rozhodnete řešit či neřešit nechávám na vás. Luboš"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "vazební úkol nevidím, ale není problém, zde bych si stejně podrobné notifikace nezapínal"
+    }
+  ]
+}

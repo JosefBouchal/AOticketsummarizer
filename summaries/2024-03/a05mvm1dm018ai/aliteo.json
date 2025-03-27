@@ -1,0 +1,39 @@
+{
+  "id": "a05mvm1dm018ai",
+  "created": "2024-03-22T07:51:36.769Z",
+  "closed": "2024-03-26T12:06:00.538Z",
+  "duration_minutes": 6014,
+  "first_response_minutes": 737,
+  "name": "Api chyba po UPG",
+  "description": "Dobrý den, kolegové z implmentačního týmu na naše poer bi mi píšeou. vypadá to, že je problém s endpointem DetailProject. Ověřovala jsem to i ručně přes swagger a ať vyplním jakékoliv id projektu, ukazuje to chybu, kterou posílám níže. Většina předcházejících endpointů prošla v pořádku (byla tam jenom drobná změna, kterou jsem opravila - místo prázdného listu v ListTimesheetst se nyní vrací Null pole), bohužel ale nejsem schopna zkontrolovat endpointy ListTask a DetalTask, protože pro ty je nutné dosadit atribut právě z problémového DetailProject. Mohla bych Vás tedy poprosit o prověření? Chybová hláška: { \"iserror\": true, \"error\": \"System.ApplicationException: TablesMaria.GetComponent: comp a045a5bkn003k3-dynamic.a045a79as00ion not found\\r\\n at Aliteo.TablesMariaInstance.GetComponent(String id, Boolean errorIfNotFound) in d:\\\\_aliteoPublish\\\\release\\\\Aliteo.Azure\\\\Tables\\\\TablesMariaInstance.cs:line 448\\r\\n at Aliteo.TablesMaria.GetComponent(String id, Boolean errorIfNotFound) in d:\\\\_aliteoPublish\\\\release\\\\Aliteo.Azure\\\\Tables\\\\TablesMaria.cs:line 46\\r\\n at Aliteo.DataStoreProvider.readComponent(Cache cache, String id, String info, Boolean errorIfNotFound) in d:\\\\_aliteoPublish\\\\release\\\\Aliteo.Cache\\\\Providers\\\\DataStoreProvider.cs:line 87\\r\\n at Aliteo.Cache.Get(String id, String info, String redisString, Boolean errorIfNotFound) in d:\\\\_aliteoPublish\\\\release\\\\Aliteo.Cache\\\\Cache.cs:line 233\\r\\n at Aliteo.FunctionApi.apiDataProject.<>c__DisplayClass64_0.<<getData>b__3>d.MoveNext() in d:\\\\_aliteoPublish\\\\release\\\\Aliteo.FunctionApi\\\\FunctionApi.cs:line 5873\\r\\n--- End of stack trace from previous location ---\\r\\n at Aliteo.IEnumerableExtensions.SelectAsync[TSource,TResult](IEnumerable`1 source, Func`2 method) in d:\\\\_aliteoPublish\\\\release\\\\Aliteo.BaseTypes\\\\Utils\\\\IEnumerableExtensions.cs:line 110\\r\\n at Aliteo.FunctionApi.apiDataProject.getData(CompProject xproject) in d:\\\\_aliteoPublish\\\\release\\\\Aliteo.FunctionApi\\\\FunctionApi.cs:line 5836\\r\\n at Aliteo.FunctionApi.ApiDetailProject.getData(Component comp) in d:\\\\_aliteoPublish\\\\release\\\\Aliteo.FunctionApi\\\\FunctionApi.cs:line 7253\\r\\n at Aliteo.FunctionApi.FunctionApi.getDataInner[T1](HttpRequest request, ILogger logger) in d:\\\\_aliteoPublish\\\\release\\\\Aliteo.FunctionApi\\\\FunctionApi.cs:line 3126\" }",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) riesil si prosim toto nejako inak s Pribylom? lebo vidim ze je k tomu uloha do vyvoja, ale ziadna odpoved tak ci si mu nevolala alebo co."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, malo by byt opravene. Mohli by ste prosim preverit a potvrdit ? Dakujem"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "díky, je to ok. Michal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, zatvaram.."
+    }
+  ]
+}

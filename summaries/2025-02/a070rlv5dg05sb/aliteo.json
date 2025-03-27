@@ -1,0 +1,39 @@
+{
+  "id": "a070rlv5dg05sb",
+  "created": "2025-02-10T13:54:47.317Z",
+  "closed": "2025-02-11T06:45:25.021Z",
+  "duration_minutes": 1010,
+  "first_response_minutes": 153,
+  "name": "ALITEO  - nyní nekomunikuje",
+  "description": "Mám ztrátu komunikace a ALITEO nereaguje!!!\r\n\r\n\r\n\r\nLubomír Bednář\r\nsystem analyst\r\n\r\ntel.: +420 581 737 148 | lubomir.bednar@karatsoftware.cz< mailto:lubomir.bednar@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubo, vieme zaznamenali sme vypadok okolo obeda, bol vacsi a potom ako pises pred tretou. Snazime sa pustat dump.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nemame na to konkretne riesenie este, budeme to riesit na produktovej porade ako dalej.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Klamal som vyssie, konzultoval som a asi vieme uz cim to je.. vraj aktualne pri vypadku staci dat F5 a pracujeme na nejakom autorieseni.. zajtra preberieme blizsie"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Ahoj Dane, jen pro info, já F5 dával a nepomohlo to, mě stačí víme o tom a snažíme se vyřešit, zde chápu, že to nemusí být jednoduché. Luboš"
+    }
+  ]
+}

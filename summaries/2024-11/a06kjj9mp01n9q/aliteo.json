@@ -1,0 +1,59 @@
+{
+  "id": "a06kjj9mp01n9q",
+  "created": "2024-11-07T09:51:41.305Z",
+  "closed": "2024-11-13T11:52:12.272Z",
+  "duration_minutes": 8760,
+  "first_response_minutes": 16,
+  "name": "ALITEO - substituce v rámci automatického založení úkolu ze šablony",
+  "description": "V rámci testu synchronizace, ale i z reálného života u zákazníků potřebujeme vytvářet úkoly pravidelně s nějakým názvem. Obvykle: souhrnný požadavek za období 2024/11 servisní práce za 2024/Q1, Q2, Q3 A tady bychom rádi využili substituce, které se při vygenerování doplní dle aktuálního data. Aktuálně se jedná pouze o substituce v názvu, ale mohly by být v textu, ale klidně nyní jen v názvu. A nyní je potřeba pouze datumová v nějakém obvyklém tvaru DD.MM.RRRR, RRRR/MM atd.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, zoberiem na poradu, ale predpokladam ze bude treba nejaku rozumnu analyzu... ako a kde to tam vymysliet.. no nic preriesime a dam ti vediet.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "No mě by stačilo, pokud by se řeklo, pokud se to napíše jako  [DNES] tak to dá dnes. když [YYYYMMDD] nebo [DD.MM.YYYY] tak se to při založení vyhodnotí, ale chápu, že to chcete vzít obecně."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano rozumiem, vymysliet nejaky vyraz, ktore sa na istych miestach bude povazovat za substituciu. Treba teda urobi nejaky zoznam toho co by sa chcelo a na akych miestach. Ja si viem predstavit aj generovanie atributov a podobne. Chce to vacsiu analyzu. Ale teda za teba: - generovanie konkretneho retazca v nazve ulohy - sucastou tohto generovania mat moznost vlozit premennu ktora sa bude menit na zaklade inych premennych - v tomto pripade je to len datum Tak?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, beriem na poradu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Na poradu : - suhlasite s toutom funkcionalitou? - mozem sa pustit do analyzy? Nieco take sme tu mali uz (tusim pre automaticke komentare) ale sme to nedotiahli nejako"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "ZP: Zaplanovane."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) mame to v plane vyvoja. Neviem kedy presne to bude realizovane. Bavili sme sa o tom, ze nasledne by to chcelo na viacerych miestach a podobne.. Kazdopadne je to v backlogu. Mozeme uzatvorit?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano"
+    }
+  ]
+}

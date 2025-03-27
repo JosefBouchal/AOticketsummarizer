@@ -1,0 +1,27 @@
+{
+  "id": "a05lnd1a900imn",
+  "created": "2024-03-12T13:12:15.542Z",
+  "closed": "2024-03-13T11:51:42.955Z",
+  "duration_minutes": 1359,
+  "first_response_minutes": 1342,
+  "name": "Záložky - prohlížeč Brave",
+  "description": "Zdravím,\r\n\r\nmám potíže při zobrazení některých záložek např. Lidé, Upozornění, Odvedená práce atd. Při prokliku na záložku Lidé končím tímto:\r\n[Image001]\r\n\r\nZkoušeno i v prohlížeči Edge a tam se zobrazuje v pořádku:\r\n[Image002]\r\n\r\nDěkuji za případné řešení.\r\nHezký den\r\nJana Možíšová\r\n\r\ntel.: +420 581 737 136 | jana.mozisova@karatsoftware.cz< mailto:jana.mozisova@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, bohuzial prehliadac Brave nepatri medzi prehliadace, pre ktore je aplikacia ALITEO optimalizovana. Prefeerovanymi prehliadacmi su chrome, edge a firefox. Prajem pekny den."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a05lqepts00pn0",
+  "created": "2024-03-13T07:00:09.525Z",
+  "closed": "2024-03-19T11:39:01.112Z",
+  "duration_minutes": 8918,
+  "first_response_minutes": 278,
+  "name": "Projekt - viditelnost vsetkych uloh pre internych uzivatelov",
+  "description": "Dobry den, je mozne v ramci projektu nastavit aby vsetci interny uzivatelia videli vsetky ulohy zadane v projekte aj ked nie su ako sledujuci. Priklad: mame vytvoreni Projekt na Karat kde chceme aby uzivatelia zadavali podnety na zmeny do IS, ale chceme aby videli vsetky ulohy.",
+  "owner": "Tomas Vrbican",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, uzivatelom, u ktorych chcete aby videli vsetky ulohy v projekte,  nastavte v ramci clenov projektu pravo supervizor projektovych uloh. Tak by mali vidiet vsetky ulohy v tomto projekte. Druhou moznostou, je vytvorit uzivatelsku skupinu v nastaveniach spolocnosti, pridat tam vsetkych uzivatelov. Nasledne tuto skupinu pridat do projektu a tam jej nastavit pravo supervizor."
+    }
+  ]
+}

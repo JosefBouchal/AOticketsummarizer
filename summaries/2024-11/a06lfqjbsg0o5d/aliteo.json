@@ -1,0 +1,95 @@
+{
+  "id": "a06lfqjbsg0o5d",
+  "created": "2024-11-14T06:18:09.219Z",
+  "closed": "2024-11-21T09:33:22.071Z",
+  "duration_minutes": 10275,
+  "first_response_minutes": 69,
+  "name": "Nemožnost změnit hodnocení úkolu přes API v modify",
+  "description": "Dobrý den, Dle swaggeru tedy nemůžeme to změnit přes API, ale vzhledem k tomu, že ALITEO při znovuotevření úkolu neprovádí vymazání hodnocení, tak pak se stane, že znovuotevřený případ co byl hodnocený uzavírá u nás automat a pak tam zůstává staré hodnocení, což je dle mě nesprávně (v předchozí synchronizaci jsme odesílali i vymazání hodnocení). Příklad úkolu, kde to zavřel náš automat a přitom zůstalo hodnocení je https://app.aliteo.com/task/a06ht574bg017o/?view=comments Tedy za mě: buď při znovuotevření případu mažte hodnocení a nebo by jste to dle mě měli zajistit, aby se to dalo měnit přes API. Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 18,
+    "from_owner": 9,
+    "from_others": 9,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) , @ Marcel Herman (marcel.herman@karatsoftware.cz) Na vědomí dávám, že toto není nyní shodné!"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, malo by to byt tak ze pri standardnom fungovani ked uzatvaras druhy krat, mas znova moznost zmenit povodne zadanie spokojnosti. Takze teda neupozornujes na chybu ale na nespravne fungovanie? Ze by si chcel uplne zmazat hodnotenie?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "zákazník druhý návrh o uzavření neprovede, tedy jej uzavíráme my dle vlastní logiky a tam si nepřeji mít hodnocení, které zákazník udělal při prvním uzavření, jak toho mám dosáhnout?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nejde to dosiahnut nijako aktualne.. zoberiem na poradu, co na to ostatni a uvidime co sa s tym da robit.. ci by to nemal byt vo vysledku nejaky parameter v nastaveniach (ponechavat hodnotenie/vymazavat pri znovuotvoreni ulohy) a co to prinesie"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "#22 #22 Úkol s SLA? zde si zkontroluju, jak dopadne automatické uzavření v AO"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Jinak automatické uzavírání v ALITEO vykazuje za mě taky chybný stav, jelikož automat potvrdil uzavření, ale ten nedal to hodnocení, co tam je"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ktore by tam malo byt? vidim ze vlavo hore pri riestielovi je nejake hodnotenie. Malo by tam byt ine?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tak je to hodnocení při uzavření, ne? tedy pokud zavírá automat, tak dle mě žádné.  Jako příklad, že zákazník je velmi spokojen s termínem, jelikož někdo řekl opraveno a navrhl k uzavření, ale pak to opraveno nebylo, tak to někdo otevřel a po dlouhých tahanicích to konečně druhá strana vyřešila. Pak navrhla k uzavření a zákazník zrovna do uzavření automatem nezareagoval, tak má tam být hodnocení termínu velmi spokojen? Případně i kvalita, jelikož pak to je třeba vyřešeno nepěkně. Za mě je to hodnocení posledního uzavření a jaké bylo to hodnocení?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, o tom by sa dalo bavit, ak zakaznik nezareagoval alebo nezmenil povodne hodnotenie, mozeme za to my? Dokonca si myslim ze zhorsit by problem nemal ale zlepsi hodnotenie ano. Kazdopadne, sme si mohli usetrit cas a stacilo na moj komentar ##2 odpovedat - \"ANO, pri znovuotvoreni pripadu by som chcel aby sa hodnotenie zmazalo\" a teda ak to uzivatel umyselne nezmeni, alebo to uzatvori automat namiesto neho malo by ostat nezmenene od znovuotvorenia a a teda bez hodnotenia."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "???? tak to vůbec nechápu, snažím se popsat proč co požaduju. Ale pokud se chceš bavit takto, OK - já s tím nemám problém. To co jsem žádal je snad popsané přímo v zadání, ne? Tedy nemohl bych ti odpovědět viz ##9 Ano, jelikož přímo v zaslaném popisu je: \"Tedy za mě: buď při znovuotevření případu mažte hodnocení a nebo by jste to dle mě měli zajistit, aby se to dalo měnit přes API.\" a na to snad jsem nemusel vůbec odpovídat na dotazy viz ##2 Ano."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Neviem ako \"takto\" - som sa Ta nejako dotkol? prepac nebol to umysel, len som konstatoval.. .. vzdy pracujem tak, ze sa snazim pochopit zadanie (dufam ze sa neurazis, ale u teba sa mi to casto krat stava,  ze je to komplikovane popisane pre mna) a potom sa spytam na potvrdenie zadavatela ci som danu vec pochopil a prislo mi ze v ##2 som to pochopil spravne .. tym ze si to dalej zacal popisovat som si myslel ze som to nepochopil spravne Takze som rad ze sme sa dostali do rovnakeho bodu a ja to beriem na poradu produktu.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "ZP: Doplnime moznost na check-box."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, ako vidis, pridame parameter ktorym si budes moct vybrat ci chces pri znovuotvoreni pripadu resetovat hodnotenie. Chcem sa len zo zaujimavosti spytat, ako to u Vas funguje, pretoze mam otazku: A k by bol riestel hodnoteny (odmeny a tak) na zaklade hodnotenia, je potom ok, ze bude hodnoteny viac krat za jednu ulohu? Ak sa dovoli znovuotvorenie, potom to realne hrozi.. dik a inak potom asi mozeme uzatvorit nie?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Ahoj, u nás máme právě hodnocení v rámci splnění ročních cílů a hlídají se i za řešitele. Ano pokud dojde k otevření další měsíc a zase k hodnocení, tak 1 úloha bude v hodnocení vícekrát, ale to i kdyby pak schvaloval ručně a změnil hodnocení. Za mě pokud zavírá automat, tak nemá být hodnocení co bylo předtím, jelikož to zavírá automat né ten uživatel. Tedy za mě, pokud by byl parametr Odebrat hodnocení při znovuotevření, tak bych volil Ano. A nebo nám to umožněte měnit aspoň přes API. Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No pockaj, ty sa chces k spokojnosti pri znovuotvoreni spravat inak ked to zatvara po druhy krat uzivatel a inak ked automat? Ty ale nevies dopredu kto to zatvori ked to znovuotvaras. Teda podla tvojho by to znamenalo neresetovat pri znovuotvoreni ale az pri zatvarani? Ak zatvara uzivatel ponuknes mu to co bolo a ak zatvara automat tak to chces \"vynulovat\"?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane nechci, když to zavírá uživatel a bude to chtít změnit, tak to změní, tedy ano, nemá možnost to vymazat. Pokud zavírá automat, tak ten nemá co hodnotit, tedy chci bez hodnocení. Ale ano, šel bych cestou, že při vrácení do řešení se vymaže hodnocení a pak uživatel se bude vyjadřovat jak to cítí v době uzavírání, tedy za mě OK"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, zaradene do planu vyvoja.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "sice ten vývojový případ nevidím, ale až to bude, tak to bude, když tak @ Marcel Herman (marcel.herman@karatsoftware.cz) a @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) o současném rozdílu jsou spraveni, tak  případně si popoženou"
+    }
+  ]
+}

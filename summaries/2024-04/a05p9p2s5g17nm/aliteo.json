@@ -1,0 +1,47 @@
+{
+  "id": "a05p9p2s5g17nm",
+  "created": "2024-04-09T07:29:45.073Z",
+  "closed": "2024-04-10T06:44:16.557Z",
+  "duration_minutes": 1394,
+  "first_response_minutes": 1,
+  "name": "FW: ALITEO - prodloužení licence se nezdařilo",
+  "description": "Tohle tu dlouho nebylo ☹\r\nTušíte, co s tím?\r\nJirka Dvořák\r\n\r\n\r\nFrom: notifications@aliteo.com Sent: Tuesday, April 9, 2024 12:00 AM\r\nTo: dvorak@ncline.cz\r\nSubject: ALITEO - prodloužení licence se nezdařilo\r\n\r\n\r\n\r\n[Logo Aliteo]\r\n\r\n\r\n\r\n\r\nCo nejdříve proveďte kroky k vyřešení\r\n\r\n\r\n\r\n\r\n\r\nProdloužení licence pro společnost NC Line a.s. se nezdařilo\r\n\r\n\r\n\r\n\r\nNezdařila se automatická platba na další období pro společnost NC Line a.s.. Zkontrolujte prosím, zda je zadaná platební metoda správná. Platbu je nutno uhradit do 0 dnů, jinak bude licence změněna na tarif Basic.\r\n\r\n\r\n\r\n\r\n    Zobrazit licenci     < https://app.aliteo.com/license/a04gqfgqh00vtk >\r\n\r\n\r\n\r\n\r\n\r\n[Logo Aliteo]\r\n\r\n\r\n\r\n\r\nCopyright 2022 ALITEO • Powered by KARAT Software",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, to nas mrzi, idem to hned riesit. Ospravedlnujem sa."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Hlavně, ať nepadneme do toho Basicu, to by mne všichni sežrali ☹\r\nJirka Dvořák"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Prosim, mozete mi poslat printscreen  z nastaveni spolocnosti, cast Licencie?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Tady to vypadá vše ok. Otázkou je, zda to není reziduum toho minulého problému, co prostě teď došlo emailem ☹\r\n\r\n\r\n[Image001]"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mne takisto pride ze je to v poriadku (licencia) a ze problem je len upozornenie emailom. Dal som to preverit kolegom. Budem Vas informovat hned ako to bude mozne.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mam info pan Dvorak, bola to ta lepsia varianta - co sa tyka licencie je to v poriadku. Islo len o to ze vyhodnotenie pre poslanie upozornenia bolo rychlejsie nez prebehla platba - opravime na nasej strane ale licencovanie je v poriadku. Dakujem ze s nami mate trpezlivost a ospravedlnujem sa za neprijemnost. prajem pekny den Dzuro"
+    }
+  ]
+}

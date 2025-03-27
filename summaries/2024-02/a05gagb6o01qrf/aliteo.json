@@ -1,0 +1,27 @@
+{
+  "id": "a05gagb6o01qrf",
+  "created": "2024-01-30T14:00:31.206Z",
+  "closed": "2024-02-05T07:47:49.358Z",
+  "duration_minutes": 8267,
+  "first_response_minutes": 485,
+  "name": "Excel a porady",
+  "description": "Dobrý den,\r\nMám dotaz, tušíte, kdy bude možný export výkazů do excelu? Rádi bychom s tím dále pracovali, ale nemáme tuhle možnost. Případně, jestli neexistuje nějaké externí napojení na databázi Aliteo a vyčítání dat rovnou ze systému.\r\nKromě toho jsem se chtěl zeptat, zda existuje možnost vytištění porady rovnou z Aliteo? Jde o to, že u jednotlivých vedoucích vznikají zápisy z porad, ale ty by bylo dobré nějak distribuovat dále. V současné době k tomu slouží sdílený disk, ale je škoda na to nepoužívat Aliteo.\r\nHezký den\r\nJiří Dvořák",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ad vykazy a excel - aktualne je mozne prostrednictvom API dostat vsetky potrebne data ohladom VP. V plane vyvoja mame vyslovene aj export na nejake tlacidlo v ramci aplikacie (nateraz len cez API) ad zapis - skuste mi viac priblizit komu a za akym ucelom sa zdielaju informacie z porady ludom a preco ti ludia na tej porade nie su (aspon pozvany) aby si priebeh porady mohli pozriet ak treba (aby som viac pochopil ciel). Kazdopadne export z porady je v plane vyvoja a pocitam s jednoduchym exportom do PDF"
+    }
+  ]
+}

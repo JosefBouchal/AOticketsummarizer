@@ -1,0 +1,27 @@
+{
+  "id": "a06b3evuqg13v2",
+  "created": "2024-08-25T14:08:58.133Z",
+  "closed": "2024-08-27T14:25:02.302Z",
+  "duration_minutes": 2896,
+  "first_response_minutes": 15,
+  "name": "Přiložené TXT soubory se zobrazují v náhledu bez zalomení ENTER",
+  "description": "Koukám na přílohy konkrétně: https://app.aliteo.com/task/a069kmj88g07jr/?view=attachments Ale je to asi jedno. Prostě na přílohu s koncovkou .TXT a soubor se v náhledu zobrazuje bez zalomení odstavců – ignoruje ENTER.\r\nZobrazením do nového okna se zalomení zobrazí správně. Přikládám i ten Status.txt soubor.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik za report, posunul som na vyvoj.."
+    }
+  ]
+}

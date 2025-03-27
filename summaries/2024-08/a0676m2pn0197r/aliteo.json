@@ -1,0 +1,43 @@
+{
+  "id": "a0676m2pn0197r",
+  "created": "2024-07-26T07:15:43.829Z",
+  "closed": "2024-08-15T13:27:46.51Z",
+  "duration_minutes": 29172,
+  "first_response_minutes": 238,
+  "name": "Atribúty uzavretej úlohy",
+  "description": "Chcela som sa opýtať, akým spôsobom sa viem doklikať ku Atribútom úlohy, ak je úloha uzavretá. V ľavom paneli sa nedá kliknúť na výpis atribútov, takže ak nesvieti v ľavom paneli, neviem si ho pozrieť. Pozerala som aj do Aktivít, ale tam je len informácia, že užívateľ zmenil atribút, ale nie je tam hodnota atribútu, čo tam napísal (v prípade atribúty typu text). Naštastie máme synchronizáciu do Karatu, takže si to viem pozrieť tam, ale bolo by fajn mať tú možnosť aj v Aliteu.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, chapem dotaz, preberiem s kolegami a dam vediet."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu: Maria ma pravdu, ak sa uloha archivuje, nie je mozne otvorit dialogove okno s atributmi. Aktualne myslim ze mame uz grafiku na to ako maju vyzerat needitovatelne atributy (riesili sme to asi pre externych). Takze asi by sa to okno malo otvorit stale ale atributy v nom by mali byt no.edit"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zaver z porady: - zadat do vyvoja a do backlogu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, mame tuto poziadavku zadanu v plane vyvoja. Zatial nemam termin nasadenia. Tuto ulohu mozeme uzatvorit?"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "OK, Ďakujem"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a06saj3dqg1mgd",
+  "created": "2025-01-06T08:42:18.132Z",
+  "closed": "2025-01-13T10:14:34.414Z",
+  "duration_minutes": 10172,
+  "first_response_minutes": 91,
+  "name": "Faktura",
+  "description": "Dobrý den,\r\nProsím o zaslání poslední faktury za licenci Aliteo, nebo odkaz, kde si jí mohu stáhnout.\r\nDěkuji\r\n\r\nS pozdravem\r\n\r\nPeter Zachariáš\r\n\r\n[LOGO]\r\n\r\nIT Manager | +420 601 103 233 | +420 565 300 344 | peter.zacharias@conteg.cz< mailto:peter.zacharias@conteg.cz >\r\nCONTEG, spol. s r.o. | K Silu 2179 | 393 01 Pelhřimov | Czech Republic\r\nwww.conteg.cz< https://www.conteg.cz >\r\n\r\n[PF2025Cz]< https://www.youtube.com/watch?v=HSyy-d1iFf8 >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, Ak ste licenciu uhradili, faktúru nájdete v menu kde sa licencia nastavuje. T.j. nastavenia spoločnosti –> licencie, a v okne dole nájdete históriu platieb. Tam by sa mala nachádzať faktúra a po kliknutí na ikonu by malo byť možné ju stiahnuť."
+    }
+  ]
+}

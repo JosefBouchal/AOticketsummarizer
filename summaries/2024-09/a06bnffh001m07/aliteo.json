@@ -1,0 +1,35 @@
+{
+  "id": "a06bnffh001m07",
+  "created": "2024-08-30T10:44:47.366Z",
+  "closed": "2024-09-10T05:56:30.828Z",
+  "duration_minutes": 15551,
+  "first_response_minutes": 133,
+  "name": "Odkaz na zaplánovaný úkol v kalendáři",
+  "description": "Po update při zaplánování úkolu do kalendáře se nevloží odkaz s přesměrováním do ALITEO na daný úkol. Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik, nahlasil som.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Martin, toto by malo byt opravene.. udalost v kalendari obsahuje odkaz na ulohu.."
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Za mě OK"
+    }
+  ]
+}

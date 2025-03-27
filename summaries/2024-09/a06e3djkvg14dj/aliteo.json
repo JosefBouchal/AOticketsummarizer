@@ -1,0 +1,31 @@
+{
+  "id": "a06e3djkvg14dj",
+  "created": "2024-09-17T21:08:16.633Z",
+  "closed": "2024-09-30T08:57:18.845Z",
+  "duration_minutes": 17989,
+  "first_response_minutes": 590,
+  "name": "Archivování sekce",
+  "description": "Dobrý den, mám projekt #1 Nové poaždavky v  tom mám sekce. Chtěl bych nějteré sekce archivaot ukoly v nich nejsou. Dám archivovat. Napíšeme mi to kalsicky potvrzovací hlášku, ale samotná sekce se nearchivuje. Stále ji vidím v sekcích čekal bych, že pak nebudou v sekcích. díky Michal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, ospravedlnujem sa za komplikacie, predavam tento problem na vyvoj na riesenie."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, chyba bola opravena, prosim o otestovanie.. dakujem"
+    }
+  ]
+}

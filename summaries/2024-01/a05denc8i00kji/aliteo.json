@@ -1,0 +1,55 @@
+{
+  "id": "a05denc8i00kji",
+  "created": "2024-01-08T07:21:00.52Z",
+  "closed": "2024-01-13T08:09:17.542Z",
+  "duration_minutes": 7248,
+  "first_response_minutes": 7,
+  "name": "[TT:09956624]  GoPay obchodni komunikace (KARAT Software a.s., EVC:1441723327)",
+  "description": "Dobrý den, obdrželi jsme od vašeho zákazníka s e-mailovou adresou dvorak@ncline.cz platbu ve výši 82,28 EUR za objednávku 3309058370 provedenou na portálu app.aliteo.com. Bohužel platbu nebylo možné v našem systému spárovat s objednávkou z důvodu nesprávného variabilního symbolu. Platbu můžeme zaslat na bankovní účet, který máte v našem systému registrovaný, nebo vrátit na účet zákazníka. Která varianta vám vyhovuje? Děkujeme předem za vaši odpověď a přejeme vám hezký den S pozdravem Jana Gutlébetová • GOPAY s.r.o. Oddělení zákaznické péče podpora@gopay.cz < mailto:podpora@gopay.cz > Jak jsem si vedl/a?",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 0,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) toto sa nam asi bude stavat castejsie, bude si na to treba dohodnut ako budeme postupovat. Neviem ci by najlepsie nebolo vratit, ale skor ide o to, aby dostali info (idelane na email) ze variabilny symbol nebol spravny. Aby vedel ze sa to vratilo na kartu. Co myslis?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, prosim Vas, ktora z tychto variant umozni stav, ze platba bude zaplatena, aby zakaznik co najskor mohol zacat pouzivat aplikaciu v suvislosti s touto platbou? Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) Dovolal som sa na podporu: - ak platbu prijmeme, aj tak nedostaneme od platobnej brany do ALITEO ze bolo zaplatene - takze najlepsie je vratit peniaze naspat (musi ist email od TWE), vtedy bude platba zrusena a malo by to takto prist aj z GoPay do ALITEO - potom poziadat nech zaplatia znova. Urobime to teda tak?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Plati dohoda z porady, nech nam daju vediet, ze kam ma zakaznik vyplnit VS aby ho pri cezhranicnej platbe spravne sparovali. Respektive ci si tie data z prikazu tahaju oni alebo ich im vpisuje banka."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) ako som dnes hovoril, odpisali, ze to sa musi dohodnut k klient so svojou bankou .. skusim tam este zavolat"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) ako som dnes hovoril, odpisali, ze to sa musi dohodnut k klient so svojou bankou .. skusim tam este zavolat"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ak sa informacia po tvojom hovore potvrdi, tak nateraz dohoda, ze upravime v dialogu informaciu o tom, ako sa ta offline platba sprava a Kyzlink vizualizuje."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, uz som to Kyzlinkovi zadal.. toto by som uzatvoril.."
+    }
+  ]
+}

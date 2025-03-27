@@ -1,0 +1,51 @@
+{
+  "id": "a06o7kr8h01ahm",
+  "created": "2024-12-05T13:53:32.501Z",
+  "closed": "2025-01-02T08:35:10.291Z",
+  "duration_minutes": 40001,
+  "first_response_minutes": 247,
+  "name": "Nesouhlasí terminologie nastavení s chováním",
+  "description": "Dle testu nejde úkol ani dát do žádosti o uzavření. Dále když je v žádosti o uzavření, tak dílčí nejde otevřít",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik, posuvam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, myslis to ze to tam nieje takisto opravene v popise toho checkboxu. Ze by tam nemalo byt len uzatvorene/zrusene, ale asi aj v ziadosti?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Ano, myslím to, že pokud to hlídáte na žádost, tak za mě to tam má být uvedeno, ať se ví jak se to bude chovat a né pak testováním zjišťovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, to som povedal Allanovi, budete to treba upravit, alebo pridat popisny text.. dik"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ok, pokud to vyřeší  (pohlídáte, že to udělá), klidně zavřeme"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Malo by byt opravene.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ok, díky"
+    }
+  ]
+}

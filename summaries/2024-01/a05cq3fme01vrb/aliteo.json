@@ -1,0 +1,31 @@
+{
+  "id": "a05cq3fme01vrb",
+  "created": "2024-01-03T07:13:13.247Z",
+  "closed": "2024-01-04T07:43:12.11Z",
+  "duration_minutes": 1469,
+  "first_response_minutes": 211,
+  "name": "Ukončenie projektu",
+  "description": "Dobrý deň, mala som založený projekt, ktorý mal svoj začiatok a koniec, teraz sa ukončil, všetky úlohy sú splnené. Nastavila som v Nastaveniach projekt na Ukončený, ale stále sa zjavuje aj v zozname projektov, aj sa ponúka pri založení novej úlohy. Mám ho dať archivovať? Keď ho dám archivovať, budem sa môcť k nemu ešte vrátiť - zobrazovať grafy a pod?",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, vsetko dobre v Novom roku. Ano, treba ho archivovat. Predpokladam ze data tak ci tak tahate z uloh a tam uz asi aj teraz musite mat zapnutu moznost \"vratane archivovanych\". Kazdopadne, projekt sa da spatne aktivovat ak by nieco nebolo v poriadku. V pripade dashboardov nad projektmi, je treba potom zaskrtnut \"vratane archivovanych projektov\":"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Ďakujem, myslela som si, len pre istotu sa pýtam, lebo keď som klikla na Archivovať, tak na mňa vybehla výhražná otázka, či naozaj chcem archivovať a veľke červené tlačidlo, tak to vo mne evokovalo, akoby to bol nevratný proces :) Skúsila som to teda a vyzerá to v poriadku, ďakujem."
+    }
+  ]
+}

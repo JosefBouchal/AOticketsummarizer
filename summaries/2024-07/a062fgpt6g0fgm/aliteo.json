@@ -1,0 +1,59 @@
+{
+  "id": "a062fgpt6g0fgm",
+  "created": "2024-06-19T14:39:45.411Z",
+  "closed": "2024-07-11T11:45:45.347Z",
+  "duration_minutes": 31505,
+  "first_response_minutes": 350,
+  "name": "Monitorování aktivit na poradě",
+  "description": "Ahoj, narazil jsem na problém, kdy se nám k poradě evidují aktivity Roberta, které vůbec nesouvisí s tou poradou - neřešili jsme ty úkoly atd.. Bavil jsem se o tom s Allanem - říkal, že je asi tím, že si Robert z té porady otevřel nové okno a potom se začalo vše v tom okně provedené monitorovat.. Nicméně jsou tm i aktivity proběhlé 14 dní po té poradě. Prosím podívejte se na to - za mě by tam měly být opravdu jen aktivity související s poradou..",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 1,
+    "from_others": 8,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano je to tak, ak pokracoval Robert v praci tak, ze otvoril nejaky objekt z porady, a potom dalej a dalej tak sa potom tie aktivity do porady zapisali. Neviem ci vobec je analyticky mozne odchytit kedy sa to uz tej porady netyka..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) mas na toto uz nejake riesenie...?? da sa to nejako riesit?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Aktuální stav je takový, že se aktivita porady přidává na poradě ve stavu Probíhá při změnách na úkolech, pokud byl úkol otevřen z porady a to včetně otevření v jiné záložce, kde si do url doplňuji addactivity. Kdyby se porada ukončila, problém by nenastal. Tady šlo o to, že Robert si asi z porady otevřel nějaké úkoly do záložek a řešil je později, ale jelikož Martin poradu neukončil, aktivity se zapsaly. Můžeme řešit to, kdy se addactivity z url vymaže - klikem na některou nabídku horní lišty?"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Allane nerozumím, jak to myslíš.. :-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Martin Válek (martin.valek@karatsoftware.cz) este to AKO dal na poradu, aby sme si odsuhlasili jeho navrh.. Ja ti to vysvetlim .. ked si zavolame.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu: - ake su pravidla toho kedy sa aktivity uzivatela zapisuju do aktivity porady - ma sa monitorovat aktivita pokial idem z ulohy do ulohy? (prvu ulohu som otvoril z porady) - lepsie popisat kedy sa aktivity zapisuju a kedy nie? v pripade Roberta doslo k zachyteniu aktivit, ktore zachytene byt nemali"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Je to funkcnost, aby bolo mozne na porade pamatat, na vsetky zasahy ktore bocas nej boli vykonane. Mame moznosti. 1. Automaticke ukoncenie porady v dany den ak nie je ukoncena. 2. V pripade kliknu na objekty v hornej liste prestanem zaznamenavat aktivity do porady. 3. ?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z dohody z MVA. 1. Klikom na evidenciu z hornej listy stracame addactivity. Ak sa do porady vratim znova aktivujem addactivity."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Bude vydane v dalsej verzii, v priebehu leta."
+    }
+  ]
+}

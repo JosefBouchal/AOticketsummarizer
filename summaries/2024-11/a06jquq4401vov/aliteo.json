@@ -1,0 +1,39 @@
+{
+  "id": "a06jquq4401vov",
+  "created": "2024-11-01T10:19:18.487Z",
+  "closed": "2024-11-11T08:54:12.608Z",
+  "duration_minutes": 14314,
+  "first_response_minutes": 4197,
+  "name": "Interní štítky pro uživatele",
+  "description": "Dobrý den, znovu se nám připomněli kolegové, kteří chtějí využívat interní štítky, ale nemají je možnost vytvářet ani podle nich filtrovat v pohledech. Poslední zprávu máme: #5191 Interní štítky - práva a tam zmiňujete, že budete systém štítků předělávat. V jakém časovém horizontu toto předělání bude v ostré verzi? Potřeboval bych kolegům řící nějaký časový rámec. Děkuji za informaci.",
+  "owner": "Jakub Trhlík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, co sa tyka prepracovania stitkov, je to aktualne vo vyvoji, takze s najblizsou verziou by ste to mali mat k dispozicii. Dalsia verzia by mala byt vydana na konci 2. mesiaca 2025. Len by som doplnil, ze aktualne ak im tie stitky doplnite do nastavene, tak oni s nimi potom mozu pracovat a zaroven podla nich aj filtrovat. Alebo som nepochopil uplne ako ste mysleli popis. Dakujem"
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Dobrý den, kolega Tomáš Faltýnek mi posílal info takto: \"štítky Interní už používám.... tedy lze je na SD použít: ale nejsem podle nich schopen filtrovat: Když si v pohledu rozkliknu sekci Obsahuje štítky, tak se mi nabídnou opět jen ty moje soukromé Co udělat pro to, abychom podle nich mohli i filtrovat seznam úkolů?\""
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Takto máme štítky přidané."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vzhladom na to, ze ide o nastavenie pracovneho priestoru, musite si v tom pohlade zvolit, konkretnu spolocnost a vybrat konkretny pracovny priestor . Potom sa Vam v oblasti stitky ponuknu aj konkretny stitky vybraneho pracovneho priestoru."
+    }
+  ]
+}

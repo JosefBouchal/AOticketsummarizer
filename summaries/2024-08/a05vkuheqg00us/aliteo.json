@@ -1,0 +1,35 @@
+{
+  "id": "a05vkuheqg00us",
+  "created": "2024-05-28T15:02:59.094Z",
+  "closed": "2024-08-07T11:01:16.839Z",
+  "duration_minutes": 101998,
+  "first_response_minutes": 126,
+  "name": "Kanban týmu",
+  "description": "Po diskuzi s AKO  (PDR,LTR,JUM) námět na realizaci kanbanu teamu nebo pracovní skupiny(?): Každý team může mít vlastní pohled na své úkoly: tým = jeden seznam sekcí úkoly ve vazbě do sekcí teamu úkol může být ve více teamech (odkaz na úkol) Na zamyšlení, zda u pracovní skupiny mít vlastní kanban.",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, mal by som dodatocne otazky.. Ak sa bavime o sekciach v time alebo pracovnej skupine, ktora je sucastou timu, bavime sa asi o riadiacich ulohach, chapem tomu spravne? Ak ano, co potom riadiace ulohy projektu - tam maju byt \"sekcie riadiacich uloh\" takisto?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Na zaklade callu: - Juraj vysvetlil pohlad - chce ulahcit pracu tym, ze time definuje sekcie, cez ktore bude prehanat ulohy z viacerych projektov. - problem je ze jeho ludia pracuju nad ulohami v roznych projektoch a roznych pracovnych priestoroch a bez toho aby preskakovali z projektu do projektu"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Riesime vo vyvoji v ramci #5020 Rework Tímov (a Projektov) bude mozne vkladat ulohy do tymov aj z inych projektov a timov a zoradit ich v Kan-bane."
+    }
+  ]
+}

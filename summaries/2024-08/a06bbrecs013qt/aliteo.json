@@ -1,0 +1,39 @@
+{
+  "id": "a06bbrecs013qt",
+  "created": "2024-08-27T15:01:10.321Z",
+  "closed": "2024-08-28T07:16:25.232Z",
+  "duration_minutes": 975,
+  "first_response_minutes": 7,
+  "name": "Nejde změnit termín porady",
+  "description": "Změnil jsem čas konání porady, při pokusu odeslat změny hláška viz. níže Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Martin, pozriem sa na to."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "reportoval som do vyvoja.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Martin, malo by byt opravene, mozes prosim skusit?"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "OK, funguje, díky"
+    }
+  ]
+}

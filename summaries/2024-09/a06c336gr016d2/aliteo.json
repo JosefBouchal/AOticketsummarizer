@@ -1,0 +1,43 @@
+{
+  "id": "a06c336gr016d2",
+  "created": "2024-09-02T06:24:56.86Z",
+  "closed": "2024-09-10T05:56:07.865Z",
+  "duration_minutes": 11491,
+  "first_response_minutes": 135,
+  "name": "Odkaz na úkol v upozorněních",
+  "description": "Který úkol? Není odkaz Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Martin, ide o  notifikaciu k timu, ze sa nieco v nom udialo. Urcite si dostal aj notifikaciu priamo k danej ulohe. Chapem ze je to neintuitivne - ze bude treba asi bud doplnit odkaz (ale URL linky davame prec, pretoze vacsinou je nazov tym linkom, ale teraz je to nazov timu) alebo to upozornenie negenerovat. Zoberiem na poradu, aj ja som sa s tym stretol uz.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu: ide o chybu? lebo ja som dostal upozornenia pre prac. skupinu a mam tam aj linky?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: je to chyba opravuje sa v inom pripade #5380 Upozornenie o projekte"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Martin, toto by malo byt opravene, skus na to prosim pozriet. Mne to na par miestach fungovalo.."
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "za mě OK"
+    }
+  ]
+}

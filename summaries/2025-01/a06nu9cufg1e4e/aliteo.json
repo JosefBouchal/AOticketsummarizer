@@ -1,0 +1,51 @@
+{
+  "id": "a06nu9cufg1e4e",
+  "created": "2024-12-03T07:22:46.715Z",
+  "closed": "2025-01-10T10:49:37.579Z",
+  "duration_minutes": 54926,
+  "first_response_minutes": 232,
+  "name": "Uzavření období pro vkládání VP",
+  "description": "v Karatu a i v jiných ekonomických SW je možné uzavírat období (ať jedním datem pro celý systém nebo konkrétní agendu). Toto v ALITEO není a chybí to, protože pak dochází ke stavu, že někdo vykáže Výkaz práce do uzavřeného období ale nedozví se to, protože to ALITEO nemá a padá to až při synchronizaci. Píšu to obecně, protože při synchronizaci s jiným SW to bude taky problém. Návrh řešení: na úroveň: Společnosti (případně pracovního prostoru, ale myslím že je to spíše o společnosti) přidat nastavení uzavření období pro vkládání Výkazů práce. Tuto hodnotu dovolit synchronizovat. Co to vyřeší: jakmile nějaký firma, třeba KSW uzavře období pro VP (5 dní zpětně, 15 den v měsíci, nebo při uzavření FR, to je jedno, tak toto datum ručně nebo synchronizací nastaví na společnosti) a jakmile někdo bude chtít vytvořit nebo změnit datum na VP do již uzavřeného období, tak vyskočí hláška, že to již není možné, protože je uzavřené období.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Nastavení společnosti",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Takze ty hovoris, ze by si chcel mat na nastaveni spolocnosti jeden datum (idealne mozno nastavovat synchronizaciou), a vsetky datumy vykazov prace, ktore su starsie alebo rovne tomuto datumu nepojdu upravovat. A toto obmedzenie bude NAD tymto obmedzenim: tak?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, zoberiem na poradu.. dik"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Doplnme do reworku vykazov prace."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "A prosím to datum umět nastavit přes API, díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) budeme realizovat sucastou prerabky/doplnenia funkcionality vykazov prace, vid uloha vo vazbe.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok"
+    }
+  ]
+}

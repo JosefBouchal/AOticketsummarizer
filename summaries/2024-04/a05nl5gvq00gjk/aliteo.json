@@ -1,0 +1,51 @@
+{
+  "id": "a05nl5gvq00gjk",
+  "created": "2024-03-27T13:00:47.889Z",
+  "closed": "2024-04-02T08:37:00.693Z",
+  "duration_minutes": 8376,
+  "first_response_minutes": 111,
+  "name": "Gantt - posun v časové ose",
+  "description": "Prosím zvážit připomínku k Gantt: doplnit posuvník  pro časovou osu, nebo změnit krok posunu tlačítky kalendáře např. o 25% dle zvoleného měřítka (den/týden/měsíc/rok). Dle Tooltypu se posouvá o měsíc , ale reálně posune např o rok. Z pohledu uživatele si chci jen posunout o 1 měsíc zpět - vidím rok 2024, ale posune se mi na rok 2023. Vím, že jde posunout v kalendáři přesně.",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Suhlasim, nahlasim, ze ta sipka by mala posuvat nejaky rozumny cas.. Opytam sa este naviac - preco neposuvas chytenim za gant? Tak je to aj tak najkomfortnejsie nie? ci nie?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Děkuji, o této možnosti jsem nevěděl - zkoušel jsem totiž  ovládání gantt nad  daty, kde je obsazený  interval a tím pádem není gantt jak chytit.  Ale to není typický scénář a umím s tím žít.  Tím pádem za mě vyřešeno"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "- oprava posunu klikanim na sipky je v rieseni - coskoro bude nasadenie - pridali sme aj posun pomocou klavesovych sipok - na margo toho ci pises v ##2 teoreticky by sa mohlo chytat aj za hlavicku, kde je casova os"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Ok, hlavička se snaží přetáhnout prvek, nebo označit text, pokud by to šlo tak za mě taky ok, ale jak jsem psal,  není to nic na čem bych lpěl.  Díky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) takze posun aj tooltipy na tlacidlach su opravene (este nieco ladime) - pozri prosim. Dusan pridal aj ovladanie sipkami na klavesnici. Este skusim vyriesit este ten drag aj nad hlavickou ganta.."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Děkuji, za mě je to vyřešeno."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) len pre info, pridali sme tahanie aj za os.."
+    }
+  ]
+}

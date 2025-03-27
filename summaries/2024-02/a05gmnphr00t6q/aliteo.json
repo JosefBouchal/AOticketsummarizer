@@ -1,0 +1,35 @@
+{
+  "id": "a05gmnphr00t6q",
+  "created": "2024-02-02T13:16:10.784Z",
+  "closed": "2024-02-22T08:07:35.201Z",
+  "duration_minutes": 28491,
+  "first_response_minutes": 4115,
+  "name": "Vymenený popis Termín a Kvalita na zozname úloh",
+  "description": "Dobrý deň, na zozname úloh vidím hodnotenie Kvalita 5 * a Termín 0 *, ale v detaile opačne Prosím o opravu.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za report, asi je vymene pomenovanie kvalita a termin na nahlade ulohy. Predal som na vyvoj na opravu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, spominany problem bol opraveny. Dakujem"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "uz je to v poriadku, dakujem"
+    }
+  ]
+}

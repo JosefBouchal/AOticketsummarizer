@@ -1,0 +1,35 @@
+{
+  "id": "a05gjikg501d6q",
+  "created": "2024-02-01T18:51:15.943Z",
+  "closed": "2024-02-06T11:26:50.504Z",
+  "duration_minutes": 6755,
+  "first_response_minutes": null,
+  "name": "Řazení úkolů v seznamu \"Z vyhledávání\" nerespektuje nastavení",
+  "description": "Přes vyhledávací pole vpravo nahoře dám hledat požadovaný text \"KRA\" . V nabídnutých úkolech se mi ani jeden nelíbí, takže si dám zobrazit všechny úkoly tlačítkem. V zobrazeném seznamu \"Z vyhledávání\" se ale nerespektuje nastavení řazení podle \"posledního komentáře\", které mám nastaveno (první úkol má komentář z roku 2015). Přitom když budu scrollovat dolů, tak najdu i novější komentáře , což je zase špatně. Když zkusím řazení změnit na něco jiného a zase zpět vrátím řazení dle \"posledního komentáře\", tak už se zdá, že jsou úkoly seřazeny správně .",
+  "owner": "Daniel Dzuro",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 3,
+    "from_others": 0,
+    "unique_authors": 0
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, chapem, je to chyba, posielam na vyvoj."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Je to opravene, ale mam info od vyvoja ze vzhladom na komplikovanost to bude az v dalsej verzii opravene. Ta by mala vyjst tento mesiac."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nastala chyba v synchronizacii, to sposobilo ze bol Siska chvilu internym uzivatelom. Zalozil internu ulohu. Nasledne sa mu pravo nastavilo naspat na externeho a teda stratil úpristup k svojim ulohami (zmena sukromia ulohy nie je mozna) Aby som mohol ulohu zatvorit, tak som zmenil vlastnika na seba."
+    }
+  ]
+}

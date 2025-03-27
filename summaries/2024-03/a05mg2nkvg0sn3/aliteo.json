@@ -1,0 +1,39 @@
+{
+  "id": "a05mg2nkvg0sn3",
+  "created": "2024-03-18T12:57:51.999Z",
+  "closed": "2024-03-19T10:02:44.708Z",
+  "duration_minutes": 1264,
+  "first_response_minutes": 47,
+  "name": "Užívateľská skupina vs. Člen projektu - práva",
+  "description": "Dobrý deň, mám zadefinovanú skupinu STEP a pridelenú ako člena projektu. Keď tu pridám osobu podľa nastavenia, tak nevidí výkazy práce (na úlohe) ostatných členov projektu, len svoje. Ak však pridám osobu ako člena projektu - tj. mimo skupinu tak zrazu už výkazy práce na úlohe vidí všetky. Mojim cieľom je docieliť, aby každý videl výkazy práce všetkých. Použila som skupinu, aby som nemusela pracne pridávať nového zamestnanca na každý projekt, tak som ho len pridala do skupiny, ale dôsledok je, že nevidí výkazy práce ostatných kolegov.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, asi sa jedna o chybu, preberiem s kolegami a dam vediet.. ale ciel by mal  byt ako pises, aby si mohla nastavit skupine podobne veci ako uzivatelovi a setrila si tak pracu."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "a ktore nastavenie teda ovplyvnuje, ci vidi alebo nevidi vykazy prace? poprosim o informaciu, cca dokedy to bude vyriesene, lebo mame 2 novych zamestnancov, tak ci ich mam teraz oklikavat rucne do kazdeho projektu alebo uz pockame, kedy sa to bude dat nastavit"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "jedna sa o chybu, ktora je v dalsej verzii opravena a ocakavame nasadenie tento tyzden ako bolo spominane na konferencii"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "super, dakujem"
+    }
+  ]
+}

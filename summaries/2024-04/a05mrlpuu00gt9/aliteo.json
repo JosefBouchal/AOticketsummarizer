@@ -1,0 +1,43 @@
+{
+  "id": "a05mrlpuu00gt9",
+  "created": "2024-03-21T08:30:57.881Z",
+  "closed": "2024-04-04T15:52:16.185Z",
+  "duration_minutes": 20601,
+  "first_response_minutes": 314,
+  "name": "Dielčie úlohy",
+  "description": "Zdravím, v úlohe #3666 API Aliteo III sme preberali že v API bude detail úlohy /DetailTask rozšírený o väzbu medzi dielčou a hlavnou úlohou. Zatiaľ som ho vo Swaggery nenašiel. Je to už von ?",
+  "owner": "Marek Sabo",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, pokial mam spravne informacie, tak by tato funkcionalita mala byt v dalsej verzii. Preverim to a dam vam vediet aktualny stav.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Plati povodny plan."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, preveroval som tento poziadavok a povodny plan - vydat v dalsej verzia plati."
+    },
+    {
+      "creator": "Marek Sabo",
+      "comment": "Kedy je očakávané vydanie novej verzie ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) na sekcii mame do konca maja, to je so vsetkym? takze povieme cca 2-3 mesiace do vydania?"
+    }
+  ]
+}

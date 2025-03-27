@@ -1,0 +1,47 @@
+{
+  "id": "a06ve2ofkg1om5",
+  "created": "2025-01-30T12:16:20.253Z",
+  "closed": "2025-02-03T20:30:00.213Z",
+  "duration_minutes": 6253,
+  "first_response_minutes": 9,
+  "name": "Chybne vystavenie FA",
+  "description": "STEP Software s.r.o. zakupil ALITEO skrz CUSTOM licenciu a vyvstali nam z toho chyby. 1. Potrebujeme opravit chybne cisla ktore su v casti jendotkova cena a celkom . (chyba Custom licencie) 2. Chyba citacia pri fakturovani bez DPH pri Custom licencii Nasledne poprosim o info o oprave nech si zakaznik moze pregenrovat spravnu FA.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) pls ries to s @ Dušan Kovář (dusan.kovar@karatsoftware.cz) nech sa to vyriesi aby mohla zajtra Maria si nanovo stiahnut FA. Ked si k tomu budete volat prizvita ma pls, dam viac info.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, pozrieme sa na to a budeme Vas informovat.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "faktura by mala byt opravena, teda je treba ju opatovne stiahnut.."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "vyzerá to v poriadku, ale prišla nám aj \"normálna\" faktúra z KARATu, takže zaevidujeme si tú"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "mozeme teda uzatvorit?"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "ano"
+    }
+  ]
+}

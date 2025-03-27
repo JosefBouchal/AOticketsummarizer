@@ -1,0 +1,27 @@
+{
+  "id": "a06ll3gu401icc",
+  "created": "2024-11-15T13:03:15.286Z",
+  "closed": "2024-11-22T13:15:48.208Z",
+  "duration_minutes": 10092,
+  "first_response_minutes": 12,
+  "name": "FW: Dlouhodobé vady v Aliteu",
+  "description": "Dobrý den, Urguji a připojuji ještě časté výpadky. Martin Nechvátal --------------------------------------------- From: Martin Nechvátal Sent: Monday, November 4, 2024 5:57 PM To: support@aliteo.com Subject: Dlouhodobé vady v Aliteu Dobrý den, Mám pár bolístek co mě a věřím, že nejen mě v Aliteu velmi omezují. 1.  Přílohy se často nezobrazí (hlavně u nových případů). Nejde ani otevřít v novém okně nebo stáhnout. Čekat a zkoušet co hodinu jestli už půjde otevřít příloha, ne které ten případ často stojí je dost otrava. 1.  V mobilním telefonu je Aliteo nepoužitelné ještě více než při spuštění před dvěma lety. Aplikace je již dlouho slibovaná a v posledních KARAT News i inzerovaná. Je v plánu nějaký postup, víte o těchto problémech? Děkuji Martin Nechvátal",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobry den, ak mate na myslis pripad #5898 Dlouhodobé vady v Aliteu tak sme vam na tento pripad odpovedali a poziadali o Vasu reakciu. Vzhladom na to, ze reakcia neprichadzala, bol pripad automaticky navrhnuty k uzatvoreniu a nasledne aj automaticky uzatvoreny. ad 1: o tomto probleme vieme, opravu mame v stave testovania, coskoro by mal byt tento problem vyrieseny. Skuste mi prosim napisat predsa Vas proces, ako jednotlive ulohy vytvarate. Mohli by sme to tymto smerom otestovat viac. ad 2: ako som pisal v minulom pripade, ALITEO je mozne pouzivat v prehliadaci, avsak je treba stranku oddtialit. Kazdopadne to nie je idealne riesenie. Pracujeme na aplikacii a verim ze zaciatkom dalsieho roka by mohla byt aplikacia k dispozicii."
+    }
+  ]
+}

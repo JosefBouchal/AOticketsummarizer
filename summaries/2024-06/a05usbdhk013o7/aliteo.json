@@ -1,0 +1,35 @@
+{
+  "id": "a05usbdhk013o7",
+  "created": "2024-05-22T15:45:30.644Z",
+  "closed": "2024-06-20T13:15:05.961Z",
+  "duration_minutes": 41609,
+  "first_response_minutes": 69,
+  "name": "Chybné chování editoru",
+  "description": "Popíšu postup toho, co je vidět v přiloženém videu a co je podle mě chyba. *   jsem v Chrome *   napíšu písmeno „a“ *   za něj vložím obrázek *   vrátím se mezi „a“ a obrázek šipkou doleva *   stlačím ENTER *   stlačím BackSpace (zatím vše naprosto v pořádku) *   znovu stlačím ENTER, ale nyní to napíše dva řádky *   stlačím BackSpace (ok) *   jdu šipkou doprava na začátek řádku s obrázkem *   stlačím BackSpace, ale nyní zmizí i obrázek",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report, posielam na vyvoj na opravu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) malo by byt opravene.. prosim o potvrdenioe"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Vypadá to ok."
+    }
+  ]
+}

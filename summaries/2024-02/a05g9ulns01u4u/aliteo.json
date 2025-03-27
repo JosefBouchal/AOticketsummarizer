@@ -1,0 +1,27 @@
+{
+  "id": "a05g9ulns01u4u",
+  "created": "2024-01-30T10:47:30.488Z",
+  "closed": "2024-02-05T07:28:19.136Z",
+  "duration_minutes": 8440,
+  "first_response_minutes": 416,
+  "name": "Ao - pomalé",
+  "description": "Ahojte,\r\n\r\nNeděje se něco s AO?\r\nUž od včerejška je to nárazově velmi pomalé a točí kolečko \"Akce probíhá\"\r\n\r\nDělám dneska z HO, ale ptal jsem se i jiných kolegů a mají stejný problém.\r\n\r\n Ing. Roman Pazdera\r\npartner manager\r\n\r\ntel.: +420 581 737 144 | mobil: +420 724 845 018 | roman.pazdera@karatsoftware.cz< mailto:roman.pazdera@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Roman, ano, je to tak v poslednej dobe mame problemy s odozvou ktora nasledne sposobi niekedy aj pad a restart aplikacie. Podla slov vyvoja by to mala riesit nova verzie, kde je trochu ina struktura. Snazime sa urychlit vyvoj aby sme co najskor vydali verziu, kde verim ze by toto malo byt odstranene."
+    }
+  ]
+}

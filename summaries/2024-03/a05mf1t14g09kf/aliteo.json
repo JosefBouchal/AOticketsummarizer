@@ -1,0 +1,31 @@
+{
+  "id": "a05mf1t14g09kf",
+  "created": "2024-03-18T06:59:15.291Z",
+  "closed": "2024-03-20T11:44:39.512Z",
+  "duration_minutes": 3165,
+  "first_response_minutes": 172,
+  "name": "zobrazení součtové lišty android chrome - nezobrazuje všechny údaje a nelze rolovat",
+  "description": "Zdar borci, Viz náš rozhovor na stánku v Brně - a obrázek níže - chci se podívat na minulý měsíc na součet hodin výkazů - ale v součtovém řádku je moc údajů, a na parametr, který hledám, se nevešel, a rolovat v té liště nejde. Tak se mějte a čus Filip Pražák consultant",
+  "owner": "Filip Pražák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Filip, dakujem za podnet, predavam na vyvoj. Musi sa to vyriesit aj pre responzivny design, nie len pre apku."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vyriesene, v dalsej verzii ktora by mala prist tento tyzden sa bude suctovaci riadok zalamovat."
+    }
+  ]
+}

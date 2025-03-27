@@ -1,0 +1,31 @@
+{
+  "id": "a05sm3ni2g03k4",
+  "created": "2024-05-05T14:34:46.456Z",
+  "closed": "2024-05-07T05:55:00.71Z",
+  "duration_minutes": 2360,
+  "first_response_minutes": 343,
+  "name": "Dotaz na fungování - výpadek?",
+  "description": "Dobrý den,\r\n\r\nprosím o prověření výpadku:\r\n\r\n[Image001]\r\n\r\nAO nám nyní nefunguje.\r\n\r\nDíky\r\n\r\nS pozdravem | Best regards\r\n\r\nTomáš Novák\r\nVedoucí výdeje | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nT:   +420 541 426 845\r\nM: +420 777 982 504\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n[Image002]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, vieme o tejto odstavke, chyba bola/je na strane poskytovatela teda Microsoftu. Mne sa uz podarilo prihlasit a pracovat. Pretrvava u Vas problem?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den,\r\n\r\njiž běží.\r\n\r\nDíky\r\n\r\nHezký den\r\n\r\nS pozdravem | Best regards\r\n\r\nTomáš Novák\r\nVedoucí výdeje | Head of outgoing\r\n\r\nNOVIKO s.r.o. – Letiště Brno – Tuřany  964/13 - 62700\r\nT:   +420 541 426 845\r\nM: +420 777 982 504\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n[Image001]"
+    }
+  ]
+}

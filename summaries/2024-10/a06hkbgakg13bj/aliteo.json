@@ -1,0 +1,67 @@
+{
+  "id": "a06hkbgakg13bj",
+  "created": "2024-10-15T07:01:39.617Z",
+  "closed": "2024-10-29T12:36:56.494Z",
+  "duration_minutes": 20495,
+  "first_response_minutes": 5,
+  "name": "odeslání vyjádření po ctrl+v",
+  "description": "Hoj, Po několikáte se mě stalo, že se mě vyjádření odeslalo po CTRL+V. Dan říkal, že zkratka pro odeslání je CTRL+ENTER a já si myslím, že by to šlo nasimulovat takto: 1.  Napiš jednořádkový text a dej 3-5x enter, abys vložený text byl vizuálně dál od psaného 2.  Enter většina z nás dává pravou rukou 3.  Hned na to dej CTRL+V, což většina z nás dělá levou rukou Podle mě se tam jeden enter zapomene, protože se mi několikrát stal oto, že jsem VIDĚL, jak tam dopadl vložený text, hned se smazal a vyjádření se odeslalo.. čus Filip Pražák consultant",
+  "owner": "Filip Pražák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 5,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "este prosim napis ze odkail si bral text do schranky..  ci z vonku, alebo v ramci AO alebo ako..?"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "Vkládal jsem formátovaný text z emailu\r\nViz vzorek\r\n\r\n\r\n\r\n  1.  Do WMS odchází výdejka s parametry, že se k ní backorder může generovat (popis níže, zde nezdržuju)  - 10ks něčeho\r\n  2.  ve WMS zpracujete pouze 8ks, a posíláte mi zpět v PC (položky výdejky zpět) info - že je to dílčí doklad 1. Když vyskladníte ze dvou položek obě částečně, obě mají číslo 1?\r\n  3.  tuto informaci já si načtu, a zjistím, že podléhám podmínce backorderu, budu se nyní držet pouze PC field005 - číslo 1-N\r\n  4.  měl bych tedy pustit generaci převodky (tedy pro WMS výdejky) - na rozdílové položky. Do fieldu006 PD (položky výdejky) pak posílám n+1.\r\n  5.  může se poslat něco jako field009 s informací deleted, tzn, že do backorderu se nic nemá dogenerovat a je konec sekvence.\r\n\r\n\r\n\r\n\r\nFilip Pražák\r\nconsultant\r\n\r\ntel.: +420 581 737 184 | mobil: +420 607 082 393 | filip.prazak@karatsoftware.cz< mailto:filip.prazak@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "Potvrzeno\r\n\r\nOdepisoval jsem do interního vyjádření KA pro zákazníka, a až jsem si byl jistý, že jsem dopsal vše, co jsem chtěl, udělal jsem:\r\n\r\n3x enter (asi 3x)\r\n\r\nCtrl+v a ono se to odeslalo bez vloženého textu\r\n\r\nVložený text měl formát textu v odrážkách viz níže (to asi do alitea nedoputuje dobře). Takže viz obr. [Image001]\r\n\r\n\r\n  1.  Do WMS odchází výdejka s parametry, že se k ní backorder může generovat (popis níže, zde nezdržuju)  - 10ks něčeho\r\n  2.  ve WMS zpracujete pouze 8ks, a posíláte mi zpět v PC (položky výdejky zpět) info - že je to dílčí doklad 1. Když vyskladníte ze dvou položek obě částečně, obě mají číslo 1?\r\n  3.  tuto informaci já si načtu, a zjistím, že podléhám podmínce backorderu, budu se nyní držet pouze PC field005 - číslo 1-N\r\n  4.  měl bych tedy pustit generaci převodky (tedy pro WMS výdejky) - na rozdílové položky. Do fieldu006 PD (položky výdejky) pak posílám n+1.\r\n  5.  může se poslat něco jako field009 s informací deleted, tzn, že do backorderu se nic nemá dogenerovat a je konec sekvence.\r\n\r\n\r\n\r\nKlidně mi zavolejte na teamsy rad ukazu\r\n\r\nFilip Pražák\r\nconsultant\r\n\r\ntel.: +420 581 737 184 | mobil: +420 607 082 393 | filip.prazak@karatsoftware.cz< mailto:filip.prazak@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, dik, vyskusame.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Josef Bouchal (Josef.Bouchal@karatsoftware.cz) prosim Ta, mohol by si pretestovat a spisat postup pre vyvoj.. ja som nieco skusal ale nedostal som sa k podobnemu vysledku"
+    },
+    {
+      "creator": "Josef Bouchal",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) Vytvořil jsem report do vývoje. #5744 Komentář se odešle i po stisknutí ENTER+CTRL"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "chlapi, viem preco mi to neslo - lebo som v edge skusil som chrome a tam to ide zakazdym nasimulovat problem nie je ani v mozille"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "wow. Edge? vážně?"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": ""
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Filip Pražák (filip.prazak@karatsoftware.cz) malo by byt opravene.."
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "my man!"
+    }
+  ]
+}

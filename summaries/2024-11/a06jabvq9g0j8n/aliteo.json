@@ -1,0 +1,31 @@
+{
+  "id": "a06jabvq9g0j8n",
+  "created": "2024-10-28T09:41:18.913Z",
+  "closed": "2024-11-20T15:44:34.476Z",
+  "duration_minutes": 33483,
+  "first_response_minutes": 218,
+  "name": "Dashboar - vlastník",
+  "description": "Dobrý deň pán Dzuro, chcem založiť widget, kde budú všetky úlohy kde je vybraná kolegyňa ako vlastník. Nastavím si to, v náhľade to ukazuje dobre, ale keď widget uloží, tak sa mi to rozbije, viď. video. Keď robím ten istý widget kde je kolegyňa ako riešiteľ alebo sledujúci, tak to ide OK.",
+  "owner": "Lukáš Zadžora",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, Dakujem za report, zjavne sa ta podmienka vobec neulozi. Predavam na Vyvoj na opravu a ospraveldnujem sa za neprijemnosti. Budem Vas informovat o stave."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, chyba bola opravena. Dakujem za trpezlivost."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a06495va601v4u",
+  "created": "2024-07-03T14:33:55.326Z",
+  "closed": "2024-07-06T07:39:22.029Z",
+  "duration_minutes": 3905,
+  "first_response_minutes": 50,
+  "name": "Problém ALITEO",
+  "description": "Dobrý den,\r\nPoslední cca dvě hodiny se nám každý tiket založí 10-20x do systému včetně toho, že zadavateli přijde stejný počet potvrzení !\r\n\r\nProsím o urgentní řešení\r\n\r\nS pozdravem\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravím Vás, ešte raz sa ospravedlňujeme za vzniknutú situáciu a chceme Vás ubezpečiť, že intenzívne pracujeme na jej riešení. Zdá sa, že došlo k zlyhaniu služby tretích strán, ktorá pre ALITEO spracováva emaily. Veríme, že problém bude čoskoro vyriešený. Ako dočasné riešenie, pokiaľ danú situáciu neodstránime, by sme Vám odporúčali pozastaviť odosielanie emailov z Vašej domény smerom na ALITEO. Prosím, informujte zadávateľov, že máme technické problémy a nech skúsi zadať požiadavku neskôr. Týmto opatrením zabránime nadmernému zaťaženiu používateľov, kým situáciu nevyriešime. Ďakujeme za Vašu trpezlivosť a pochopenie. Ospravedlňujeme sa za všetky nepríjemnosti, ktoré Vám to mohlo spôsobiť."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dobrý deň, radi by sme Vás informovali, že chyba bola odstránená a boli vykonané opatrenia, ktoré by mali zabrániť opätovnému vzniku podobných komplikácií. Ďakujeme za Vašu trpezlivosť a porozumenie. Prajeme Vám pekný deň. S pozdravom, Peter"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den,\r\nDěkuji za pozitivní zprávu. Rád bych se zeptal zda se vám nějak podaří odstranit duplicitně vytvořené položky z našeho prostředí, aktuálně máme v systému cca 600 tiketů, které jsou z valné části duplicitní\r\n\r\nS pozdravem\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Rozumiem. Úlohy môžete hromadne zrušiť po 100 a tým pádom Vám už nebudú prekážať v systéme. Video Vám zašlem aj emailom, pre prípad, že by neprešlo."
+    }
+  ]
+}

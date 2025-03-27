@@ -1,0 +1,39 @@
+{
+  "id": "a05mpp2h801dl8",
+  "created": "2024-03-20T21:27:36.486Z",
+  "closed": "2024-04-04T09:08:07.852Z",
+  "duration_minutes": 20860,
+  "first_response_minutes": 16,
+  "name": "Předefinovaný text se nevloží se zalomením",
+  "description": "Ve verzi 24 se Předdefinovaný text do textového pole příspěvku nevloží se svým zalomením řádků.",
+  "owner": "Lukáš Trunečka",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lukas, dik za report, posielam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lukáš Trunečka (lukas.trunecka@karatsoftware.cz) malo by byt opravene.. - pricina sa mohla stat pri nejakom importe, kedy tento komentar nebol definovany v editore ALITEO ale odniekial skopirovany s /r/n - toto je opravene a nahradzame <br> - kazdopadne by bolo fajn tieto komentare nadefinovat v ediotre, pripadne aj s formatom"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Jj, ono to bylo opravené celkem rychle chvilku po tom, co jsem o tom informoval. Díky ;-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lukáš Trunečka (lukas.trunecka@karatsoftware.cz) ano, je to tak, ja som sa k tomu dostal teraz aby som uzatvoril vyvoj aj support.."
+    }
+  ]
+}

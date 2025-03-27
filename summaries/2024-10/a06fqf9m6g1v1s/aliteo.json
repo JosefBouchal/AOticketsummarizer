@@ -1,0 +1,51 @@
+{
+  "id": "a06fqf9m6g1v1s",
+  "created": "2024-10-01T05:50:36.932Z",
+  "closed": "2024-10-03T05:06:27.334Z",
+  "duration_minutes": 2835,
+  "first_response_minutes": 77,
+  "name": "Včerejší oprava subtasku shodila stávající sychronizaci, je potřeba to co nejdříve opravit",
+  "description": "27.9. byla provedena úprava vzniku subtasku #5543 SetChanges - attrs a value hodnota ##16< https://app.aliteo.com/comment/a06fbsb5l01pbt/ >  a nyní na naší firmě nejde synchronizace, padá to na\r\n\r\nError: System.ApplicationException: Insert Subtask 8324562: Parent task a06du3k7qg1a3o is subtask - cannot ceŕeate subtask    at Aliteo.FunctionApi.FunctionApi.checkInsert(CacheTransaction transaction, Component parentComponent, DefField parentDefField, DefComp defComp, DataBase data, List`1 callbackItems, StringBuilder warning) in d:\\_aliteoPublish\\release\\Aliteo.FunctionApi\\FunctionApi.cs:line 5592    at Aliteo.FunctionApi.FunctionApi.insertComponentInner(CacheTransaction transaction, Component parentComponent, DefField parentDefField, DefComp defComp, CompUserCompany modifier, DataBase data, List`1 callbackItems, StringBuilder warning, HashSet`1 fields) in d:\\_aliteoPublish\\release\\Aliteo.FunctionApi\\FunctionApi.cs:line 5287    at Aliteo.FunctionApi.FunctionApi.<>c__DisplayClass72_2`3.< b__0>d.MoveNext() in d:\\_aliteoPublish\\release\\Aliteo.FunctionApi\\FunctionApi.cs:line 5211 --- End of stack trace from previous location ---    at Aliteo.CacheTransaction.Run(IContext context, Func`2 action) in d:\\_aliteoPublish\\release\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 417    at Aliteo.CacheTransaction.Run(IContext context, Func`2 action) in d:\\_aliteoPublish\\release\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 424    at Aliteo.FunctionApi.FunctionApi.Actualize[TComp,TActualize,TData](Cache cache, String sparam) in d:\\_aliteoPublish\\release\\Aliteo.FunctionApi\\FunctionApi.cs:line 5209    at Aliteo.FunctionApi.Generated.Actualize(Cache cache, String componentName, String sparam) in d:\\_aliteoPublish\\release\\Aliteo.FunctionApi\\Generated.cs:line 208    at Aliteo.FunctionApi.FunctionApi.DoSynchronize(Cache cache, String componentName, String command, String data) in d:\\_aliteoPublish\\release\\Aliteo.FunctionApi\\FunctionApi.cs:line 4556 componentName: Subtask: command: Actualize data: {   \"$type\": \"Aliteo.Sync.Shared.SubtaskActualize, Aliteo.Sync.Shared\",   \"data\": [     {       \"$type\": \"Aliteo.Sync.Shared.SubtaskData, Aliteo.Sync.Shared\",       \"Subtask\": \"a06foks3lg1ice\",       \"_componentName\": \"Subtask\",       \"_externalId\": \"8324562\",       \"_parentId\": \"a06du3k7qg1a3o\",       \"_parentFields\": [         \"Task/Subtasks\"       ],       \"_noNotification\": \"a01u778o8g10ln\",       \"_status\": 0,       \"_creator\": \"a015g173q016cv\",       \"_created\": \"2024-09-30T19:12:23Z\",       \"_changedStatus\": false,       \"_changedParent\": false     }   ],   \"modifier\": \"a015g173q016cv\",   \"fields\": [     \"Subtask\"   ],   \"companyId\": \"a013794r1g06um\" }\r\n\r\n\r\nProsím co nejrychleji opravit!!!!\r\n\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, predane na vyvoj.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ok toto můžeme uzavřít, jen prosím tu nejvyšší prioritu (i když dneska má Allan dovolenou, takže Kočíř?)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Neviem uprimne ci toto chceme nechat na Davida. Neviem ci s tym ma skusenosti a ci to nie je vacsi risk ako pockat na Allana. Zvladli by ste to kym sa vrati?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tak nyní nyní jsem musel odmazat data v IS KARAT, aby to jelo, pokud to někdo vytvoří, padne to znovu, poslal jsem mail, ať to nikdo nedělá, osobu, která ten záznam vytvořila přes API do KARATu jsem požádal a ví, aby nyní neposílal další data, ale čeká na to, až to bude moci spustit. Takže chápu, že se bojíš a já se bojím neméně, dneska to se zvýšenou kontrolou snad ustojíme, ale za chvíli bude mít delší dovču a takže možná to je to jen posunutí problému o 14 dní."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja osobne nemam s tym problem aby sa na to David pozriel, uz som to riesil aj s Dusanom. Pozru sa na to.  A ano mas pravdu, ze tieto veci asi bude musiet riesit aj niekto iny asi."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "díky moc"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "vobec nie je za co.."
+    }
+  ]
+}

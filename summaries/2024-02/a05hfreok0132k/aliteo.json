@@ -1,0 +1,107 @@
+{
+  "id": "a05hfreok0132k",
+  "created": "2024-02-08T15:34:19.281Z",
+  "closed": "2024-02-14T07:08:36.688Z",
+  "duration_minutes": 8134,
+  "first_response_minutes": 21,
+  "name": "Mazání řešitele při vytváření nového úkolu při změně úrovně soukromí",
+  "description": "Zakládám nový úkol a postupuju z vrchu dolů, tj. vyplním projekt . Řešitele . Teď si všimnu, že se mi vlastně až po výběru projektu nahoře objevilo nastavení na úroveň soukromí, tak ji změním na interní a tím rázem jsem přišel o nastavení řešitele a musím ho vybrat znovu . Pochopil bych, kdyby mnou vybraný řešitel díky změně úrovně soukromí nově vybrat nešel, ale toto evidentně není tento případ.",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 21,
+    "from_owner": 6,
+    "from_others": 15,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, no predpokladam ze rozumies tomu, ze ked sa vyberie projekt musia sa prehodnotit prava. Preto sa pri projekte veci, ktore s nim suvisia zmazu. Navrhujes teda aby sa pri prepnuti projektu riesitel nemazal, ale zistil ci sa v novom projekte nachadza a zmazal len vtedy ak sa nenachadza? Chapem spravne? Kolko krat sa ti tato vec stala, aby si zle vybral projekt? Dakujem"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "To si nerozumíme. Neřeším změnu projektu (to jsem popravdě ani nezkoušel). Řeším změnu úrovně soukromí (z veřejné na interní). Tj. vybírám projekt, pak řešitele a pak si všimnu že se mi nahoře objevila úroveň soukromí, tak ji změním na interní, načež se mi smaže řešitel."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) je dovod preco  odstranujes nastavene okno novej ulohy pri zmene sukromia ulohy? vid komentare vyssie. Ak je treba zalozim do vyvoja pripad na opravu ak sa to da opravit.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Řešitele úkolu lze vybrat za těchto podmínek: // Interní účastník společnosti může být řešitelem jakéhokoliv úkolu // Interní účastník projektu nebo týmu může být řešitelem jakéhokoliv úkolu v daném projektu nebo týmu // Externí účastník projektu nebo týmu může být řešitelem řídícího úkolu v daném projektu nebo týmu // Vždy platí, že externí účastník nemůže být řešitelem interního úkolu Tedy kdo může být řešitelem je ovlivněna skutečností, jestli jsem nebo nejsem ve vybraném projektu interním či externím uživatelem. Tedy změna projektu ovlivní, kdo může a nemůže být řešitelem. Proto při změně projektu vymažu řešitele. Ano, šlo by to celé komplikovat a vymazat jen ty, kteří nemůžou být - ale na to jednoduchým způsobem nejsem na klientské straně připraven. Ano, šlo by mazat řešitele pouze když se změní interní/externí ve vztahu k projektu - jen si nejsem jist jestli by uživatel nebyl více zmaten a navíc to v případě řídících úkolů nestačí. Toto je vysvětlení a minimálně priorita řešení je hodně nízká, za sebe navrhuji neřešit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) asi si necital posledny komentar. Pepa riesi to, ze sa riesitel zmazal pri zmene sukromia."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "// Vždy platí, že externí účastník nemůže být řešitelem interního úkolu To je stejné, algoritmus je ovlivněn. Pokud přepnu externí na interní, musím zrušit externí řešitele... kteří mohou být v řídícím úkolu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nie som si isty ci ti rozumiem. Pri zadavani ulohy nemozes prepinat medzi projektovou a riadiacou - takze uz v okne vies o aky typ ide. Tu sa bavime o projektovej ulohe Ak dobre rozmyslam, v projektovej ulohy moze byt riesitelom len interny clen projektu alebo interny clen spolocnosti. Nezavisle na tom ci je uloha na zaciatku interna alebo externa. Pri zmene sukroma jednym alebo druhym smerom by sa teoreticky toto nemalo menit. Jedine v pripade zmeny na sukromnu, kedy riesitelom moze byt len vlastnik. Alebo nerozumiem tomu spravne?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Ano, rozumíš správně. V projektovém úkolu a pokud nepřepínám na soukromou, by šlo řešitele ponechat. Nejsem si jist jestli to že to bude pokaždé jinak je lepší než dnešní stav. Dáme na poradu?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Len info pre @ Siska Josef (josef.siska@karatsoftware.cz) : ak by sa jednalo o to ze ide o projektovu ulohu a zmeni sa sukromie, tam by sa riesitel nemusel mazat. Avsak otazne je ci to uzivatel pochopi, ak sa to niekedy mazat bude a inokedy nie. Napriklad uz ked zmeni projekt, musi sa mazat alebo prehodnocovat. Navyse ak pojde o riadiacu ulohu tak aj pri zmene sukromia sa to musi zmazat (prehodnotit) lebo tam moze byt aj externy riesitelom ale len verejnej ulohy. Preberieme na porade, co na to kolegovia a dam vediet.. mozes medzi tym napisat svoj nazor.. dik"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "A nešlo by teda ve všech případech postupovat stejně? Před provedením samotné (libovolné) změny si zapamatovat zvoleného řešitele. Provést potřebné přehodnocení týkající se změny projektu/soukromí/nevím čeho. Podívat se, jestli ten původní zapamatovaný řešitel je pořád ve výčtu možných a pokud ano, tak jej tam vrátit. Pokud ne, tak ponechat vymazané."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) asi sam uznas ze je jednoduchsie pri zmene vsetko odstanit a pri opatovnom nastavovani uzivatelom prehodnocovat, ako vsetky zmeny vyhodnocovat separatne s ohladom na vsetky dalsie zmeny, ktore povodna zmena vyvolala.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "To samozřejmě uznávám, že je to jednodušší (pro systém). Ale pro uživatele je to při nejmenším otravné. Každopádně rozhodnutí je na Vaší poradě, já jen chtěl zpříjemnit pořizování úkolů sobě a potenciálně dalším uživatelům. Pokud je to nějaký velmi zásadní problém, tak se s tím bohužel naučím žít."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, to je jasne, ze co sa da spravit, tak by bolo fajn aby bolo - resp. nech sa nemaze priorite, ale skontroluje a az tak zmaze. Mna len stale napadaju situacie, kedy okno vyzera rovnako (pre obycajneho uzivatela) a pre neho ci nebude matuce ze to je v jednom pripade tak a v druhom pripade inak. ze si vlastne nevsimne ten rozdiel - ale spravanie ano."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Teď nevím, jestli máš na mysli to okno pro pořízení nového úkolu nebo obecně. Nebo máš nějaký konkrétní případ, kdy by to mohlo uživatele zmást?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "myslim nieco ako pisem v komentari ##9 - pri projektovej ulohe - zmena sukromia by nemala mat vplyv na riesitela a teda nemusis robit nic - pri riadiacej ulohe - moze byt riesitelom aj externy clen ale len verejnej ulohy - takze v tomto pripade ked zmenis sukromie, uz sa musi riesitel bud vymazat alebo kontrolovat Okno na riadiacu a projektovu ulohu vyzera pomerne rovnako, ale spravanie by bolo ine."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Z mého pohledu by to chování bylo pořád stejné. Pořád se ptám na otázku: Existuje řešitel i v novém výčtu možných řešitelů po tom co došlo ke změně? Ano = Zůstává. Ne = Maže se. To, že někdy bude vždy zůstávat a někdy se občas smaže je za mě osobně OK. Zkuste to prosím probrat na poradě. Pokud usoudíte. že tento problém s mazáním řešitelů mám jen já, tak můžeme uzavřít."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Poradime sa na porade a dam vediet... dik"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu: - pri zmene sukromia nemazat riesitela ale vyhodnotit, ci vyhodnotit ci moze byt riesitelom aj po zmene typu sukromia (mozno aj projektu)"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "#3941 Kontrola riesitela pri zmene sukromia"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) navrhovana zmena presla, do planu vyvoja sme pridali funkciu, ktora bude vyhodnocovat riesitela pri zmene sukromia. Ak bude moct ostat, ostane.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "OK, díky."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a05tm0lu701bkh",
+  "created": "2024-05-13T08:26:15.827Z",
+  "closed": "2024-05-23T05:09:31.696Z",
+  "duration_minutes": 14203,
+  "first_response_minutes": 25,
+  "name": "backspace v bloku kódu",
+  "description": "Píšu nové vyjádření. Napsal jsem zmínku osoby. Pod tím jsem vytvořil blok kódu. Tam jsem napsal „a“. Před řádek s „a“ jsem napsal nový řádek. Ve videu kontroluji, že tam ten nový řádek je šipkou nahoru a zpět dolů, ale nemusel bych. Pak jsem si to jakože rozmyslel, že ten nový řádek nechci, stojím na začátku řádku s tím „a“ a dávám BackSpace. Řádek před „a“ se nevymaže, ale vymaže to ještě před ním tu zmínku, což je špatně. Zkoušel jsem místo zmínky obrázek a je to stejné. Těch prázdných řádků před „a“ může být libovolný počet a také to udělá. Testuji a nahrávám to v Chrome, kde jsem na to narazil, ale i ve FF se to chová stejně. Více asi viz to přiložené video.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik za podnet, posielam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) malo by to byt opravene, teda aspon mne to nerobi.."
+    }
+  ]
+}

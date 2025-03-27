@@ -1,0 +1,59 @@
+{
+  "id": "a05on5v80g1vsm",
+  "created": "2024-04-04T19:09:31.537Z",
+  "closed": "2024-04-09T10:26:33.014Z",
+  "duration_minutes": 6677,
+  "first_response_minutes": 635,
+  "name": "Vložení nekompletního vyjádření do případu",
+  "description": "Dobrý den, je prosím nějak možné prověřit co se dělo s vkládáním komentářů v požadavku #287710 Problem when writing order to Karat< https://app.aliteo.com/task/a05ng5nsqg00pm/ > ve společnosti KARAT ?\r\n\r\nV komentáři 3, 8, 10 od zákazníka a v komentáři 14 ode mě nedošlo ke kompletnímu vložení celého požadavku.\r\n\r\nJá osobně jsem si jistojistě jistý, že ten komentář jsem tam měl před vložením kompletní.\r\n\r\nDěkuji.\r\n\r\nS pozdravem,\r\nMgr. Jan Procházka\r\nprogrammer\r\n\r\ntel.: +420 581 737 185 | mobil: +420 720 042 851 |  jan.prochazka@karatsoftware.cz KARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Jan Procházka",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 2,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pokusim sa zistit a budem Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vies mi poradit, ci to nejako vieme riesit? pripadne mam zalozit vyvojovy pripad?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Založ prosím návazný případ s vysokou prioritou na Dušana. Problém tam je je hodně nepříjemný nicméně tuším že bude problém to nasimulovat, kdyby se zapojil nějaký tester, tím lépe. S Dušanem jsem mluvil a bude to řešit s nejvyšší prioritou."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) uloha bola zalozena - je aj vo vazbach tejto ulohy, ale nebolo patchovane v piatok?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane ano, bylo nasazeno v sobotu. Vyřešil jsem problém proč se v sobotu neaktualizovaly úkoly a přenastavil tyto úkoly na testování."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, malo by byt opravene, mozete prosim vyskusat a dat vediet, ci je to ok?"
+    },
+    {
+      "creator": "Jan Procházka",
+      "comment": "Dobrý den, tak ono se to poměrně těžko testuje. Od té doby co se požadavek reklamoval, tak jsem napsal do různých ticketů různá vyjádření a vše v pořádku. Problém s nekompletním vkládáním komentářů byl ale náhodilý. Většinou to bylo ok, ale někdy to nedopadlo. Tak věřím, že vše je již opravené. Kdyby se problém opět někdy vyskytl, ozval bych se. Díky."
+    },
+    {
+      "creator": "Jan Procházka",
+      "comment": "Tento požadavek tedy asi můžeme uzavřít, děkuji."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem, dakujem za info.. mozno ze to suvisi nejako aj s obsahom.. Vela krat sa nam nepodari opravit problem, lebo ho nevieme replikovat a nasimulovat.. tak snad to bude v poriadku. Dakujem"
+    }
+  ]
+}

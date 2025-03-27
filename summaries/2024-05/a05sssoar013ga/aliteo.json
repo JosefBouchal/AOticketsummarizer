@@ -1,0 +1,39 @@
+{
+  "id": "a05sssoar013ga",
+  "created": "2024-05-07T06:05:15.422Z",
+  "closed": "2024-05-07T06:52:14.677Z",
+  "duration_minutes": 46,
+  "first_response_minutes": 14,
+  "name": "Informace o neaktuálním seznamu úkolů",
+  "description": "Postupně předávám úkoly na řešitele, navrátím se zpět na seznam úkolů a to že se nezmění seznam aktivních úkolů OK, tak to bylo i předtím, ale fungovalo to tak, že počet úkolů byl podbarven černě, ale nyní není.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubo, ano aj mne pride ze je to chyba, ze sa pri tychto ulohach koliesko podfarbovalo. Predavam na vyvoj ako chybu. Chces nechat otvorene kym sa neopravi?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "klidně můžeme zavřít"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) len pre info, bolo opravene"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "děkuji"
+    }
+  ]
+}

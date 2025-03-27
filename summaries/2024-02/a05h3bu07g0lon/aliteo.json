@@ -1,0 +1,63 @@
+{
+  "id": "a05h3bu07g0lon",
+  "created": "2024-02-05T14:50:27.356Z",
+  "closed": "2024-02-08T18:17:31.618Z",
+  "duration_minutes": 4527,
+  "first_response_minutes": 278,
+  "name": "Podpora náhledu pro další formáty příloh",
+  "description": "Prosím o rozšíření podpory okna náhledu na přílohu o další formáty. Konkrétně jde o formáty log , sql , xsl , csv , cs . Jsou to všechno formáty textových souborů, jen mají jinou příponu, takže by to nemuselo být tak těžké dopracovat a v praxi by to hodně pomohlo.",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 2,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ok, zoberiem na p oradu.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Zobrazime ako textovy subor (xsl, sql, csv, cs, ) akceptujeme a zobrazime ako cisty text. Doplnit do vyvoja od 24.2."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Uloha do vyvoja vytvorena."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) presli sme na poradi a v niektorom s dalsich sprintov podporime aj preview suborov xsl, sql, csv, cs ako cisty plain text."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "\"log\" ti z výčtu vypadl nebo ten se podporovat nechce? Příp. proč?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) myslim ze ti vypadol, resp si zobral len tie za prvym obrazkom z popisu. Podla Dusana mozeme tam dat aj log. Co myslis?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) overim to, ale myslim ze nechtiac vypadol.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "jj log som nevedel ze je format 😀 😀"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) ano, bude tam aj log, nejak vypadol pri kopirovani... mozeme izatvorit?"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "OK, můžeme."
+    }
+  ]
+}

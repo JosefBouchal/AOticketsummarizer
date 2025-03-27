@@ -1,0 +1,67 @@
+{
+  "id": "a06c3iljl01bej",
+  "created": "2024-09-02T09:13:56.262Z",
+  "closed": "2025-01-13T09:10:09.837Z",
+  "duration_minutes": 191516,
+  "first_response_minutes": 3,
+  "name": "Pohyb v menu - nový úkol. Neskáče ve správném pořadí",
+  "description": "v dialogu pro nový výkaz zadám začátek názvu projektu a chci přes klávesnici doskákat níže, nyní se to chová tak, že jako první najde to, co je: 1. dle abecedy první - i když tam mám položku co je oblíbená a tu by asi měl najít první? - za mě chyba. 2. pak skočí o jedna níže - OK 3. pak skočí o jedna níže - OK 4. skočí na první pole (pole co je 4 v abecedě, ale protože je to oblíbené, tak by to mělo být první). 5. skočí zase zpátky na pátou položku. za mě by to mělo být viz pravý sloupec: 1. to co je oblíbené (případně oblíbené dle abecedy, pokud je jich více) a zbytek pak neoblíbené dle abecedy. nejsem si jist, ale možná je to ve více rolovacích menu.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Výkazy práce",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 4,
+    "from_others": 7,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik za report, sice nemame klavesovu navigaciu optimalizovanu, ale poslal som na vyvoj (ak to tak pred tym fungovat).."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "neřeším klávesovou navigaci (jako tabulátor), ale pouze šipky v rolovacím menu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, je to predane na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) bolo opraven v alfe - mas tam nejake data a bol by si ochotny otestovat? lebo nie som si isty postupom co pises aby som to vedel dobre otestovat.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "asi nejsem, protože tam mám málo úkolů nebo projektů - takže budu věřit a zavřeme?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) testujeme to prave a ty si chcel aby sa pri vyhladavani stale nachadzali oblubene polozky hore v menu (ako pripnute)? pretoze takto to nemame tusim nikde, ze vyhladavanie zobrazuje jedno radenia bez ohladu na to ci su oblubene polozky ci nie.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) ano ty oblíbené navrchu - jako připnuté. I u nich když dám klávesu dolů, tak by to mělo jít shora dolů. Já vlastně chci jen aby to že zmáčknu tlačítko dolů, aby mi skočilo o jedno políčko dolů. (tak jak to vidím, tak skáču), protože vidím, že je to na 3tí pozici, tak dám 2x dolů a čekám že to tam bude."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) no, takze pri vyhladavani (zadas retazec) nemame dve kategorie, zeby boli hore zoradene oblubene a potom aby boli zoradene ostatne.. ked vyhladavas proste to nezohladnuje ci su alebo nie su oblubene.. - ale chapem ze ten pohyb klavesnicou rozumiem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) uz som to konecne pochopil, dokonca je to to tak ako psies, tie kategorie sa dnes uz urobia, ale pohyb po nich nefunguje.. vysvetlil som este raz vyvoju.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Petr malo by byt opravene, uz aj v ostrej, mozes prosim poztriet a pripadne potvrdit ?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "zkouším a vypadá to dobře."
+    }
+  ]
+}

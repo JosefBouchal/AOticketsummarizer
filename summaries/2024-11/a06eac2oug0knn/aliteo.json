@@ -1,0 +1,83 @@
+{
+  "id": "a06eac2oug0knn",
+  "created": "2024-09-19T13:38:16.298Z",
+  "closed": "2024-11-15T20:55:36.815Z",
+  "duration_minutes": 82517,
+  "first_response_minutes": 1131,
+  "name": "Upozornění z cizích soukromých komentářů",
+  "description": "Viz obrázek. Chodí mi upozornění na komentář (zde ##11), který nemám k dispozici, protože je zřejmě soukromý.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 15,
+    "from_owner": 5,
+    "from_others": 10,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Aha, tak pardon. Po F5 se ten 11 ukázal. Tak nic. Původní zadání je neplatné, a že se nenačetl komentář, to asi reklamovat nechci. Je možné, že byl změněn z privátního na interní, nebo nějak. Každopádně postup neznám. Je to tedy maximálně námět pro testera, co zkoušet. Uzavřít?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ako to nastalo? Prislo upozornenie, klikol si a v ten moment si tam ten komentar nemal? Alebo si bol v tej ulohe, upozrnenie prislo ale komentar sa nezjavil?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Měl jsem ten případ otevřený a zahlédl jsem, že měl přibýt komentář. Nepřiskočil. Zkusil jsem založit svůj, dostal číslo 12 a jak jsem viděl tu díru 9 a pak až 12, tak jsem z toho špatně vyvodil, že 11 je privátní. Po F5 se 11 ukázal. Ale mám dojem, že 10 stále nevidím, je privátní. Takže možná ten 11 vznikl odprivátněním té 10. Nevím, co se dělo na druhé straně."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Ano, ten 10 stále nevidím, je privátní. Je to vidět i v tom obrázku v ##1 . Takže 10 bude soukromý. Můžu se zkusit zeptat Moniky, co dělala. Hádám, že psala 10 jako soukromý. Pak jej zveřejnila, takže 10 bude archivovaný a 11 nový interní jako jeho kopie. Možná nepřiskočil, že je kopií ze soukromého, ale to můžu jen hádat. Se jí jdu zeptat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, je to tak, napisala 10 ako sukromny (pripravovala si), potom ho dokoncila a spravila na interny.. kazdopadne by ti ten komentar 11 mal priskocit bez f5 a to sa nestalo.. je tak?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Ano, nepřiskočil, je to vidět v tom Snap 20240919_152421.png , kde nepřiskočil ani po pořízení následujícího 12 (bez F5)."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, otestujeme a posunieme na vyvoj.."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "ok"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Skřeček (davidskrecek@gmail.com) prosim ta, mohol by si otestovat vyssie uvedeny problem? - druhy uzivatel prida komentar a inemu pride notifikacia (ma otvorenu tu ulohu) ale komentar sa neobjavi - toto otestujme klasicky - a potom aj variantu ze ten komentar vznikne zmenou sukromia (ktora sposobi archivaciou povodneho a vytvorenim noveho - prosim o vyskusanie viacerych kombinacii) Dakujem vopred"
+    },
+    {
+      "creator": "David Skřeček",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) 1. vytvoření interního/veřejného komentáře je v pořádku 2. soukromý přepnu na interní/veřejný -> nezobrazí se v seznamu, ani nepříjde upozornění ani zmínka (pokud uživatele v komentáři zmíním), je vyžadován refresh. Pokud změním soukromýna interní/veřejný a za ním půšu jiné interní/veřejné, tak se ten soukromý změněný nezobrazí, ale do seznamu přibývají ty další. Doufám, že je to tak pochopitelně popsané."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Skřeček (davidskrecek@gmail.com) popis prosim este viac ten bod 2, aby ak je to chyba ze sa nieco niekde nezobrazi, tak nech to mozeme dat opravit. Napriklad, ak to chapem spravne, tak po zverejneni sa nezobrazi vobec ten komentar, ak som pochopil, tak v tom komentari si mal zmienku, ktora nemala prist ak bol sukromny a ale ked ho zverejnis tak ocakavas ze by mala a podobne.. napis to viac detailne, alebo kludne daj aj gif/video. Ak je to teda chyba, rovno sprav vyvojovy poziadavok a daj ho do vazby..prosim"
+    },
+    {
+      "creator": "David Skřeček",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) mám uživatele David1 a David2 1. David1 přidá soukromý komentář, ve kterém označí David2. Potom ze soukromého udělá interní komentář. David2 obdrží upozornění na označení v komentáři (OK), pokud ale před změnou soukromého komentáře na interní už měl (a pořád má) otevřený úkol, ve kterém se tohle děje, a klikne ve zmínkách na onu zmínku označení (v komentáři soukromý->interní), tak se mu pořád komentář nezobrazí. Seznam komentářů se prostě neaktualizuje, pouze pokud provede refresh. 2. David2 ještě neprovedl refresh a pořád nevidí komentář, který David1 změní ze soukromého na interní. David1 přidává komentáře interní/veřejné, ty se David2 zobrazují, ale stále se nezobrazil ten komentář, který David1 změnil ze soukromého na interní. To zase napraví až refresh."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Predane na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Len pre info Pavel, malo by byt opravene ale este budeme testovat.. nez potvrdime ze ok.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "potvrdene, opravene..."
+    }
+  ]
+}

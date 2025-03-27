@@ -1,0 +1,43 @@
+{
+  "id": "a05s9bm8dg1cvf",
+  "created": "2024-05-02T12:17:52.913Z",
+  "closed": "2024-05-10T07:00:31.013Z",
+  "duration_minutes": 11202,
+  "first_response_minutes": 1071,
+  "name": "Nejde vytvoriť projektovú úlohu",
+  "description": "Dobrý deň, chceme vytvoriť úlohy ale vypíše to chybu, viď. príloha. Počet úloh ktoré vieme vytvoriť je obmedzovaný licenciou?",
+  "owner": "Lukáš Zadžora",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 3,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, zda sa ako keby vam tarif klesol na basic. Nemohlo sa stat ze ste nezaplatili na dalsie obdobie? Dakujem"
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "Dobrý deň, viete mi prosím Vás preveriť či to máme alebo nemáme zaplatené?"
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "Teraz máte aktívny náš najnižší tarif Basic, ktorý je zadarmo. Takže je to tak ako píšete že z nejakého dôvodu máme obmedzenie. Ja tu dnes ale nemám vedúceho, takže nemám moc ako preveriť či to bolo alebo nebolo zaplatené."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zistoval som a je to tak, 30.4 Vam skoncila custom licencia, ktora sluzila na nabeh platobnej brany. Prosim chodte do nastavenia licencii, vyberte si vhodny tarif a pocet uzivatelov a klasicky kartou zaplatte. Kartou by to malo nabehnut hned. Posielam Vam navody na moznosti platby - upozornujem ze platba kartou prebehne takmer hned a u platby prevodom sa caka na prevod od banky, ktory nemusi byt okamzity (hlavne ak nevyberiete jednu z ponuknutych bank). 1.\tPlatba kreditnou kartou : VIDEO Návod 1.\tPo zadaní údajov Vašej kreditnej karty sa licenčné poplatky automaticky strhávajú bez potreby manuálneho zásahu. Vaša licencia bude okamžite aktivovaná po každej úhrade. Systém bude sledovať všetky uhrady a pravidelne Vás bude notifikovať o blížiacich sa dátumoch splatnosti. 2.\tOnline platba cez platobný príkaz : VIDEO Návod 1.\tVygenerujeme Vám platobný doklad, ktorý môžete uhradiť priamo cez QR kód, online bankovníctvom alebo jeho údaje použiť pre manuálne zadanie platby. Doklad môže byť zaslaný aj na Váš e-mail. Licencia bude aktivovaná po potvrdení príjmu platby, čo môže trvať niekoľko dní. Aj pri tejto metóde Vám systém umožní sledovať všetky uhrady a informovať o termínoch splatnosti."
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "@ Seliga Jozef (jozef.seliga@lunys.sk) Ahoj Jožko, potrebujeme toto poriešiť."
+    }
+  ]
+}

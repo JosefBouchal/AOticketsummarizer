@@ -1,0 +1,27 @@
+{
+  "id": "a06b35ved00j8k",
+  "created": "2024-08-25T12:30:29.38Z",
+  "closed": "2024-08-25T14:01:53.137Z",
+  "duration_minutes": 91,
+  "first_response_minutes": 19,
+  "name": "smazání zmínky nevymaže zmínku z přehledu zmínek",
+  "description": "Mám nějakou zmínku. Píše se tam „Starší“ asi že to bylo ještě z doby před nasazením verze.\r\nDám u té jedné zmínky koš, nevymaže se. Ale po F5 už tam pak není. Takže se to jen neaktualizuje. V Console není vidět žádná chyba.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, dik, pridam to k tym zmazaniam upozorneni.."
+    }
+  ]
+}

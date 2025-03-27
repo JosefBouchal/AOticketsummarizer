@@ -1,0 +1,31 @@
+{
+  "id": "a06b6r9a100354",
+  "created": "2024-08-26T09:51:48.501Z",
+  "closed": "2024-08-26T10:19:52.656Z",
+  "duration_minutes": 28,
+  "first_response_minutes": 21,
+  "name": "Nejde mi v kalendáři tahat události myší",
+  "description": "když chci změnit den a čas",
+  "owner": "Bahula Michal",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Michal Bahula (michal.bahula@karatsoftware.cz) mne sa cosi marilo ze to neslo ale PDU mi povedal zevraj to islo tak som to nahlasil na vyvoj.."
+    },
+    {
+      "creator": "Bahula Michal",
+      "comment": "ano šlo to a nyní nejde - selektuje text a netahá"
+    }
+  ]
+}

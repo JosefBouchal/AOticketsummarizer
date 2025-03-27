@@ -1,0 +1,51 @@
+{
+  "id": "a06h54iaeg1cr3",
+  "created": "2024-10-11T14:23:00.135Z",
+  "closed": "2024-11-12T07:47:20.953Z",
+  "duration_minutes": 45684,
+  "first_response_minutes": 22,
+  "name": "Vyhledávání nad Poradami",
+  "description": "Potřeboval jsem najít, kdy jsme na poradě vedení řešili ALITEO.. Vrátilo se mi 168 výsledků. Uvítal bych: *\tMožnost termínu od .. do. ve kterém chci vyhledávat *\tMožnost volby konkrétního týmu/projektu, kde budou porady prohledány Po najetí na vyhledaný záznam náhled bodů porady, ve kterých byl hledaný význam nalezen. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 1,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, nejaky taky podnet  som uz niekedy daval,  pohladam a ked nie zoberiem na poradu.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) nespominas si? nedari sa mi to najst.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Nemalo by to riesit klientsky filter?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) no mal, akurat ze na poradach ziadny nie je.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zaver z porady: - pri fulltexte sa pouziva iba kleintsky filter, nikde tam nemame definiciu pohladu a preto by sme mohli: - dopracovat klientsky filter Projekt: - dopracovat klientsky filter Obdobie : @ Martin Válek (martin.valek@karatsoftware.cz) postacovalo by to takto?"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Myslím že by to mohlo být OK, asi ale raději zavolej, ať si to vyjasníme a neděláte to zbytečně. Děkuji"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Martin Válek (martin.valek@karatsoftware.cz) kludne zavolaj, ked budes mat chvilu, podla kalendara tam mas toho viac ako ja.."
+    }
+  ]
+}

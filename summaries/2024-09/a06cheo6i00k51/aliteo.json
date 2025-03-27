@@ -1,0 +1,35 @@
+{
+  "id": "a06cheo6i00k51",
+  "created": "2024-09-05T18:04:29.167Z",
+  "closed": "2024-09-06T06:02:19.944Z",
+  "duration_minutes": 717,
+  "first_response_minutes": 84,
+  "name": "Nelze změnit popis úkolu",
+  "description": "Když změním popis libovolného úkolu a chci jej uložit, dojde vždy k chybě, že byl překročen limit, přestože je popis třeba i prázdný . Prosím o vysokou prioritu, celkem mě to blokuje v používání Aliteo.",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano o tom to vieme, opravovali sme to uz cez den. Ale nechceli sme dvakrat za den patchovat, takze sa to patchne dnes v noci."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Už funguje, můžeme uzavřít, díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "jj funguje.. zatvaram"
+    }
+  ]
+}

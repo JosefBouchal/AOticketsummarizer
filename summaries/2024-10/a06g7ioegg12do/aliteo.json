@@ -1,0 +1,47 @@
+{
+  "id": "a06g7ioegg12do",
+  "created": "2024-10-04T10:12:15.055Z",
+  "closed": "2024-10-07T06:22:32.978Z",
+  "duration_minutes": 4090,
+  "first_response_minutes": 8,
+  "name": "Nefunkcni presun bodu Respect",
+  "description": "potřeboval bych prověřit, proč u některých porad stále nefunguje duplikace nebo přesun bodu zápisu z porady. Ve středu jsem měl IT poradu a chtěl jsem jeden neprobraný bod porady přesunout na další poradu. Při tom jsem zjistil, že mi to nefunguje. A nyní když vám píšu, jsem zkusil tento bodu duplikovat, a také to nefunguje. Konkrétně jsem chtěl u porady z 2.10. přesunout poslední testovací bod č. 8 do porady 24.10. Zřejmě je opět z nějakého důvodu nefunkční to propojení, jak o tom píšete níže.",
+  "owner": "Michal Truxa",
+  "priority": "Nejvyšší",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": "Projekty",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pripad som ihned presunul na kolegov z vyvoja. Ospravedlnujeme sa za sposobene problemy, budeme informovat o stave riesenia. Ďakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobry den pan Truxa, podla informacii z vyvoja by mal byt dany problem opraveny. Prosim Vas o kontrolu. Ďakujem vopred a ospravedlnujeme sa za neprijemnosti. Daniel Dzuro"
+    },
+    {
+      "creator": "Michal Truxa",
+      "comment": "Dobrý den, bod 8 z IT porady 2.10. do porady 24.10.  se mi podařilo přesunut. Pokud by se problém opakoval, ozvu se. M. Truxa"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mohli by ste prosim skusit aj duplikaciu?"
+    },
+    {
+      "creator": "Michal Truxa",
+      "comment": "Ano, u této konkrétní porady funguje obojí. M. Truxa"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za odpoved."
+    }
+  ]
+}

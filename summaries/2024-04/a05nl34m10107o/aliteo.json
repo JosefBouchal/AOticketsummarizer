@@ -1,0 +1,51 @@
+{
+  "id": "a05nl34m10107o",
+  "created": "2024-03-27T12:34:45.143Z",
+  "closed": "2024-04-07T09:55:16.5Z",
+  "duration_minutes": 15680,
+  "first_response_minutes": 10,
+  "name": "externí uživatel - editace",
+  "description": "Dobrý den,\r\n\r\ndokážeme prosím smazat již zadaného externího uživatele a zaregistrovat jej znovu?\r\n\r\nPřípad: e-shop se registrovat pod špatným mailem a nyní by potřeboval pozvánku znovu, již však nejde.\r\n\r\n\r\nDíky moc\r\n\r\nS pozdravem | Best regards\r\n\r\nTomáš Novák\r\nVedoucí výdeje | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nT:   +420 541 426 845\r\nM: +420 777 982 504\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n[Image001]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 2,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, chapem spravne ze pozvanku chcete poslat na rovnaky email, ale prihlasit sa pod inym emailom, nez sa povodne registroval uzivatel? Ďakujem"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, potřeboval jsem poslat pozvánku na email, který už byl registrovaný, ale špatně. E-shop registroval jiný e-mail do loginu vs. e-mail, na který jsem poslal pozvánku. Nyní máme vyřešeno (eshop spojil dva svoje e-maily a využijeme tak pouze jeden) = potřebovali bychom tak nyní ukázat, jak smazat / archivovat externího uživatele. Je tato možnost?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V nastaveniach spolocnosti, prejdite na dane uzivatela a v pokrocilych moznostiach dajte zakazat data, pripadne ho aj odpojit. Dajte prosim vediet ci je to to co ste potrebovali. Dakujem"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Vyzkoušel jsem a z části to náš problém (je to však díky tomu, že jsme nakonec pro daného uživatele využili jiný e-mail), Reálně bychom totiž potom potřebovali daného uživatele na stejném e-mailu oslovit znovu, což potom již nejde právě skrze chybové hlášení. Jde to ještě nějak obejít? Díky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) je na to nejaka moznost?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Podle mne pokud uživatele společnosti zakáží a odpojí, mohou jej znovu připojit novým odesláním pozvánky a to klidně na stejný email. Nevidím chybové hlášení, ale předpokládám, že tester se snažil zadat uživatele znovu. To nejde, pokud již existuje, ale je možné na něm znovu odeslat pozvánku na email, který může být stejný nebo jiný (email pro odeslání pozvánky)."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vyskusajte tohto uzivatela znova povolit, zmente emailovu adresu a poslite pozvanku znova.. nachadza sa to v nastaveiach spolocnosti - uzivatel - pokrocile"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a05epbqeng02dc",
+  "created": "2024-01-18T15:44:22.236Z",
+  "closed": "2024-01-24T19:02:16.536Z",
+  "duration_minutes": 8837,
+  "first_response_minutes": 197,
+  "name": "Upozornění - seskupení",
+  "description": "Námět na zlepšení práce s upozorněním: Doplnit možnost smazat všechny upozornění úkolu Doplnit možnost seskupovat upozornění (podle úkolu), nebo řazení dle  úkolu/času... Díky za zvážení",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj @ Juraj Matěj (juraj.matej@karatsoftware.cz) 1. zmazanie vsetky upozorneni vykonas priamo v ulohe kliknutim na tlacidlo, ktore vyvolas stlacenim na sipku vedla \"Upozornenie\": 2. Cela logika upozorneni bude prepracovana - mame uz aj logiku aj graficky navrh, len sa caka kym na to pride vhodna kombinacia kapacity a priority. Tu je maly nacrt: Neviem ci so odpovedal na vsetko co si potreboval.."
+    }
+  ]
+}

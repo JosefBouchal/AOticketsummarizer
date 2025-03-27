@@ -1,0 +1,43 @@
+{
+  "id": "a06cge2dvg0te4",
+  "created": "2024-09-05T12:07:31.836Z",
+  "closed": "2024-09-06T09:06:50.276Z",
+  "duration_minutes": 1259,
+  "first_response_minutes": 67,
+  "name": "Omezení velikosti komentáře ",
+  "description": "Dobrý den, prosím co je toto za nesmyslné omezení ? Proč nemohu do Alitea vložit poměrně standardní vyjádření. Komentář nelze vložit z důvodu velikosti vyjádření. Děkuji.",
+  "owner": "Jan Procházka",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za report. Oprava by mala byt n asadena dnes v noci a mala by riesit problemy tohto typu. Dodatocne sa chcem spytat, islo u Vas u plne novy komentar alebo o upravu povodneho. Snazil so sa teraz nasimulovat a problem som nemal vid gif: Ospravedlnujeme sa za neprijemnosti."
+    },
+    {
+      "creator": "Jan Procházka",
+      "comment": "Dobrý den, děkuji za reakci a opravu. Na velikost komentáře jsem narazil jak při vkládání úplně nového komentáře, tak i při editaci již vloženého komentáře (ale dnes vloženého komentáře). Jelikož mi nešlo vložit kompletně celé vyjádření, vložil jsem jej bez dvou obrázků - to už prošlo. Potom jsem vyjádření chtěl editovat a ty dva obrázky tam doplnit. A to také nešlo. Děkuji."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dnes v noci bol nasadeny opravny patch, mozete prosim vyskusat ci stale tento problem pretrvava?"
+    },
+    {
+      "creator": "Jan Procházka",
+      "comment": "Zdravím, zkoušel jsem vložit do komentáře totožné vyjádření a již to proběhlo v pořádku. Děkuji za rychlé řešení."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vyborne, dakujem"
+    }
+  ]
+}

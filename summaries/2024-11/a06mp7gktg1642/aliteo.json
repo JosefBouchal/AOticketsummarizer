@@ -1,0 +1,63 @@
+{
+  "id": "a06mp7gktg1642",
+  "created": "2024-11-24T07:29:45.556Z",
+  "closed": "2024-11-27T07:27:52.886Z",
+  "duration_minutes": 4318,
+  "first_response_minutes": 546,
+  "name": "přílohy v mejlech",
+  "description": "Zdar borci. Mám námět. V nastavení alitea mám pravděpodobně chození všech notifikací, které možou přijít (označení, komentář, nový komentář, propad dolaru na burze, narození koťátka v indii, …) a tak nějak mě to vyhovuje.. ale v momentě, kdy mi přijdou všechny notifikace co mohou k jednomu vyjádření viz obrázek, tak mi ten mejl přijde v x kopiích, a v každé kopii jsou všechny přílohy. V každém emailu se stejným předmětem viz obrázek je fotka co má 3MB. Přislo mi to celkem 5x. Nepřicházím s řešení, přicházím s námětem, protože takto mi můžete přeplnit schránku defakto spamem, ani si toho nemusím všimnout.. rozumný nápad, kromě vypni si notifikace (zkrať si je) mě nenapadá. V nastavení jsem se nešťoural, zda je nastavit, aby mi přílohy nechodily vůbec, což zas třeba nemusím chtít 😊 … Dík, filipp",
+  "owner": "Filip Pražák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 4,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Filip, chapem spravne ze to ječ viac notifikacii k jednemu komentaru? vieme preco sa ich generovalo viac? Pochopil by som ak by to bolo: - novy komentar - zmienka v teba v komentari - nova priloha (vyslovene musela byt pridana k ulohe nie len ku komentaru) A rozmyslam nad dalsimi - aby ich bolo 5, ale ty tam mas 3 krat oznacenie. Takze 3 oznacenie + 1 novy komentar + nova priloha. Preto 5? Ale preco vznikli tie 3.. nie ze by to riesilo problem.."
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "ahoj, jeden komentář, 3 emailové notifikace. (označení, vrácení od čeká na reakci, komentář jako takový). - proč jsem dostal 3 emaily? protože to tak mám nastavené, a je to správné nastavení (musím to tak mít)... není to chyba, je to námět na zlepšení - nevadí mi 3 emaily (vadí ale zvykl jsem si), vadí mi, že při každém mejlu které mi nevadí přijde aj příloha.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Rozumiem a suhlasim, ze by sa mali jednotlive po sebe iduce akcie nejako bulkovat spolu, teda aby to bol jeden email, alebo aspon vybrat tu najpodstatnejsiu.. zoberiem na poradu zajtra"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu prikladam odkaz na podobny problem ktory sme ale neriesili bulkovanim emailov ale vybratim jednej: #1915 Notifikacia o zmienke v komentari"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "dik. opatruj se, filip"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "ZP: Bude riesene v ramci pripadu vo vazbe."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Filip, preriesili sme a bude to riesene v plane vyvoja tak, ze budeme cakat isty interval... a vsetky upozornenia vytvorene v danom intervale sa zgrupia do jedneho emailoveho upozornenia"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "to me přijde logický. Tento task zavřeme, vy se s tim uz poperete .) diky borci a borkyně filipp"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Diky, borkyne este nemame 🙂"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": ""
+    }
+  ]
+}

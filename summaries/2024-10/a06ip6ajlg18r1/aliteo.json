@@ -1,0 +1,39 @@
+{
+  "id": "a06ip6ajlg18r1",
+  "created": "2024-10-24T05:37:31.954Z",
+  "closed": "2024-10-24T07:59:13.999Z",
+  "duration_minutes": 141,
+  "first_response_minutes": 141,
+  "name": "API - jaktože komponenta a06f5sb3ig0tmc nemá vyplněno eid?",
+  "description": "16.9.2024 14:19:12 bylo odesláno:\r\n\r\n{\r\n\r\n        \"company\": \"a069077mrg06rn\",\r\n\r\n        \"usercompany\": \"a06d063c900m9u\",\r\n\r\n        \"ts\": \"2024-09-16T12:19:12.563Z\",\r\n\r\n        \"changes\": [\r\n\r\n               {\r\n\r\n                       \"type\": \"Modify\",\r\n\r\n                       \"simple\": true,\r\n\r\n                       \"def\": \"Task\",\r\n\r\n                       \"id\": \"a06dgdc2ng3evm\",\r\n\r\n                       \"eid\": \"287\",\r\n\r\n                       \"fields\": [\r\n\r\n                               {\r\n\r\n                                      \"name\": \"Description\",\r\n\r\n                                      \"type\": \"FormattedText\",\r\n\r\n                                      \"value\": \"popis Dílčí úkol 1 k úkolu 3 (změna popisu a vlastníka)\"\r\n\r\n                               },\r\n\r\n                               {\r\n\r\n                                      \"name\": \"Owner\",\r\n\r\n                                      \"type\": \"UserCompany\",\r\n\r\n                                      \"value\": \"a06908gm1006rn\"\r\n\r\n                               }\r\n\r\n                       ]\r\n\r\n               },\r\n\r\n               {\r\n\r\n                       \"type\": \"Create\",\r\n\r\n                       \"simple\": true,\r\n\r\n                       \"def\": \"MemberTask\",\r\n\r\n                       \"eid\": \"306\",\r\n\r\n                       \"parent\": {\r\n\r\n                               \"id\": \"a06dgdc2ng3evm\",\r\n\r\n                               \"field\": \"Members\",\r\n\r\n                               \"def\": \"Task\"\r\n\r\n                       },\r\n\r\n                       \"fields\": [\r\n\r\n                               {\r\n\r\n                                      \"name\": \"Notifications\",\r\n\r\n                                      \"type\": \"Logical\",\r\n\r\n                                      \"value\": \"0\"\r\n\r\n                               },\r\n\r\n                               {\r\n\r\n                                      \"name\": \"UserCompany\",\r\n\r\n                                      \"type\": \"UserCompany\",\r\n\r\n                                      \"value\": \"a06908gm1006rn\"\r\n\r\n                               }\r\n\r\n                       ]\r\n\r\n               }\r\n\r\n        ]\r\n\r\n}\r\n\r\nVráceno bylo:\r\n{\r\n        \"iserror\": false,\r\n        \"isrepeatable\": false,\r\n        \"errorchangeindex\": -1,\r\n        \"tranid\": \"a06f5sb4000tmc\",\r\n        \"results\": [\r\n               {\r\n                       \"type\": \"Modified\",\r\n                       \"eid\": \"287\"\r\n               },\r\n               {\r\n                       \"type\": \"LinkedUnique\",\r\n                       \"eid\": \"306\",\r\n                       \"linkedid\": \"a06f5sb3ig0tmc\"\r\n               }\r\n        ]\r\n}\r\n\r\n\r\nAle v ALTIEO není vyplněno eid 306, tedy inital data jej posílá. Jakoto? Kolik takového je?\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Vyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 3,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "zde obrázek z Data , já potřebuju pokračovat, tedy asi budu muset to zkusit nějak vyřešit, nemůžu čekat, až se Allan vrátí"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "musel jsem si zatím zavolat  SyncSetExternals {\"company\":\"a069077mrg06rn\",\"externals\":[{\"id\":\"a06f5sb3ig0tmc\",\"eid\":306}]} {\"company\":\"a069077mrg06rn\",\"externals\":[{\"id\":\"a06f5tft400tmc\",\"eid\":321}]}"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Takže ověřeno, je tam chyba, za mě se musí opravit do přechodu KARAT Software a.s. na standardní API, tedy kritická!!!! pokud pošlu změnu vlastníka úkolu a samozřejmě odesílám i přidání membera, pokud tam není, tak ALITEO nenaplní eid i když píše, že jo§ Odesláno: { \"company\": \"a069077mrg06rn\", \"usercompany\": \"a06d063c900m9u\", \"ts\": \"2024-10-24T06:45:04.883Z\", \"changes\": [ { \"type\": \"Modify\", \"simple\": true, \"def\": \"Task\", \"id\": \"a06hglgog001uh\", \"eid\": \"401\", \"fields\": [ { \"name\": \"Owner\", \"type\": \"UserCompany\", \"value\": \"a06908gm1006rn\" } ] }, { \"type\": \"Create\", \"simple\": true, \"def\": \"MemberTask\", \"eid\": \"470\", \"parent\": { \"id\": \"a06hglgog001uh\", \"field\": \"Members\", \"def\": \"Task\" }, \"fields\": [ { \"name\": \"Notifications\", \"type\": \"Logical\", \"value\": \"0\" }, { \"name\": \"UserCompany\", \"type\": \"UserCompany\", \"value\": \"a06908gm1006rn\" } ] } ] } přijato: { \"iserror\": false, \"isrepeatable\": false, \"errorchangeindex\": -1, \"tranid\": \"a06ipcgm9g0phd\", \"results\": [ { \"type\": \"Modified\", \"eid\": \"401\" }, { \"type\": \"LinkedUnique\", \"eid\": \"470\", \"linkedid\": \"a06ipcglm00phd\" } ] } realita"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predane na vyvoj.."
+    }
+  ]
+}

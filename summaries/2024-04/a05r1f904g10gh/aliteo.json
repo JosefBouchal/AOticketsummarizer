@@ -1,0 +1,43 @@
+{
+  "id": "a05r1f904g10gh",
+  "created": "2024-04-22T19:56:02.018Z",
+  "closed": "2024-04-25T08:40:17.933Z",
+  "duration_minutes": 3644,
+  "first_response_minutes": 636,
+  "name": "vytvoření šablony s opakováním padlo",
+  "description": "dělal jsem šablonu kde jsem nastavil opakování od 23 do 30.4. a jen v pracovní dny. Zatrhl jsem vše. po vytvoření to spadlo na chybu: pod F12 Application ERROR: System.InvalidOperationException: Sequence contains no matching element at System.Linq.ThrowHelper.ThrowNoMatchException() at System.Linq.Enumerable.Last[TSource](IEnumerable`1 source, Func`2 predicate) at Aliteo.CompTask.slaCalc(IContext context, SLATask sla, SLATaskPart partResponse, SLATaskPart partRepair, CompSchedule schedule, CompContractItem contractItemRepair, List`1 activities, String fieldidResponse, String validResponse, String fieldidRepair, String validRepair, Boolean filldata) at Aliteo.CompTask.getTaskSLA(IContext context, CacheTransaction transaction, Boolean response, Boolean repair, Boolean filldata) at Aliteo.CompTask.getTaskSLASimple(IContext context, Boolean response, Boolean repair, ScheduleCalculation calcResponse, ScheduleCalculation calcRepair) at Aliteo.QueryTask.GetTaskDefault(QueryInfo qi, QueryParamsComponents xparams) at Aliteo.QueryTask.GetTaskDefault(QueryInfo qi, String xparams) at Aliteo.Queries.Execute(Cache cache, CompUser compUser, String applicationId, String querybase, String querydata, String timeZone, String userAgent, Stream inputStream, String requestData, String addactivity, Int32 cacheId, Int32 requestId, Boolean behalf, String authEmail, QueryParamsCache clientSocketCache, String requestQuery, String requestPath) Client_0cde608c-2ba0-f51b-88f5-0ebfbbf4110c.js:1839:33",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ked to vytvaras deje sa ti to opakovane? Lebo ja to nasimulovat neviem. takisto som si dal opakovanu ulohu a nepadlo mi to. Prosim posli printscreen ulohy, plus okno nastavenia alebo rovno GIFko. dik"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "jedná se o tuto: #289422 požadavek pro šablonu opakovanou a nyní když jsem v nastavení: a proklikávám se na úkol, tak to padá taky: tak jsem z té samé úlohy, kde se dostanu dal novou šablonu (teď jsem to udělal) a dopadá to takto: do nastavení se mi to zapisuje: zkouším to na ostré."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem, je teda nejaky neosetreny stav asi, predavam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by to byt opravene.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "vypadá to ok."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "a0672hjj2g0023",
+  "created": "2024-07-25T07:08:44.855Z",
+  "closed": "2024-08-27T10:22:16.237Z",
+  "duration_minutes": 47713,
+  "first_response_minutes": 9,
+  "name": "Při promazávání se nezobrazují všechna upozornění",
+  "description": "Pro informace ohledně změn v úkolech používám výhradně upozornění (emaily mám vypnuté). Takže si jednou za čas upozornění otevřu, projdu, úkoly pročtu a upozornění smažu. Často se ale stává, že jak postupně procházím upozornění a mažu je, tak se dostanu do tohoto stavu , kdy reálný počet upozornění neodpovídá počtu zobrazených upozornění. Takže musím panel s upozorněními zavřít a znovu otevřít, pak už se upozornění zobrazí správně . Šlo by to opravit?",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano, vieme o tomto probleme, avsak dalsia verzia obsahuje prepracovanie celeho fungovania notifikacii. Z tohto dovodu si myslim, ze opravovat toto bude trochu zbytocne. Naviac nasimulovat tento problem je takisto obtiazne. Ak vydrzis par tyzdnov, bude to opravene s prichodom novej verzie.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Vydržím, můžeš tento úkol pozastavit zhruba do doby, kdy se očekává vydání, ať si to můžu potom otestovat a nezapomenu na to?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Jasne, ja si to priradim k ulohe kde ten vyvoj riesime. Pre ilustraciu:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) vydali sme novu verziu.. ako to vyzera teraz s touto ulohou? je to stale problem?"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Vypadá to OK, pokud bych někdy v budoucnu na to opět narazil, založím nový úkol. Můžeme uzavřít, díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, dakujem za info."
+    }
+  ]
+}

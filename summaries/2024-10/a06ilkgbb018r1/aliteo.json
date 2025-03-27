@@ -1,0 +1,27 @@
+{
+  "id": "a06ilkgbb018r1",
+  "created": "2024-10-23T08:54:18.461Z",
+  "closed": "2024-10-23T10:54:47.041Z",
+  "duration_minutes": 120,
+  "first_response_minutes": 117,
+  "name": "API - v AO změna úkol čeká na reakci kooperující skupiny pád",
+  "description": "Následně při dotazování změn spadne synchornizace na:\r\n\r\nALITEO API ERROR: /SyncGetChanges\r\nSystem.ArgumentException: Requested value 'TeamGroup' was not found.\r\n   at System.Enum.TryParseByName(RuntimeType enumType, ReadOnlySpan`1 value, Boolean ignoreCase, Boolean throwOnFailure, UInt64& result)\r\n   at System.Enum.TryParseInt32Enum(RuntimeType enumType, ReadOnlySpan`1 value, Int32 minInclusive, Int32 maxInclusive, Boolean ignoreCase, Boolean throwOnFailure, TypeCode type, Int32& result)\r\n   at System.Enum.TryParse[TEnum](ReadOnlySpan`1 value, Boolean ignoreCase, Boolean throwOnFailure, TEnum& result)\r\n   at System.Enum.Parse[TEnum](String value)\r\n   at Aliteo.FunctionApi.FunctionApi.fillParents(Cache cache, IEnumerable`1 changes) in d:\\_aliteoPublish\\beta\\Aliteo.FunctionApi\\FunctionApi.cs:line 7186\r\n   at Aliteo.FunctionApi.FunctionApi.syncGetChanges(String body, String apikey, ILogger logger) in d:\\_aliteoPublish\\beta\\Aliteo.FunctionApi\\FunctionApi.cs:line 2645\r\n\r\n\r\nProsím, někdo to už opravte, někde Allan nezvládl přejmenování, má to být nově WorkingGroup tak stejně nejspíše někde nezvládl přejmenovat TeamGroupItem na WorkingGroupItem. Super, hlavně že to je nově krásné, ale mě to dělá problémy, nemůžu testovat, zkoušet. Furt to musím nějak servisně obcházet, to že už mě nesedí data AO na můj KARAT ani nemluvě.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Synchronizace",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predane na vyvoj..."
+    }
+  ]
+}

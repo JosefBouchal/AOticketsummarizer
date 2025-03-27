@@ -1,0 +1,27 @@
+{
+  "id": "a063tt05k00cqn",
+  "created": "2024-06-30T20:51:07.928Z",
+  "closed": "2024-07-09T07:56:00.982Z",
+  "duration_minutes": 12184,
+  "first_response_minutes": 2104,
+  "name": "dotaz porada alert",
+  "description": "Dobrý den, je možné nastavit, aby v případě přidání bodu na poradu. Přišlo účastníkům porady emailové oznámení ? V tuto chvíli chodí jen do \"notifiakcí \" v rámci alitea. díky za prověření a případné info, kde se to dá nastavit.  Měli jsme pocit, že jsme nám v minulosti říkali, že to jde. děkuji Michal BTW:Porady u nsá mají celkem úspěch a rozjíždějí se :)",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravim vas Michal, ospravedlňujem sa za neskoršiu reakciu. Stačí, ak má užívateľ zapnuté v nastaveniach užívateľa toto nastavenie . Je potom dôležité, aby mal rovnako aj nad radou porád zapnuté upozornenia Potom sa automaticky podrobné upozornenia zapnú aj nad každou ďalšou vytvorenou poradou v danej rade. Je to takto v poriadku?"
+    }
+  ]
+}

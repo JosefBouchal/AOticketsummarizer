@@ -1,0 +1,55 @@
+{
+  "id": "a06dtamda00tcs",
+  "created": "2024-09-16T09:39:17.962Z",
+  "closed": "2024-10-01T16:24:07.589Z",
+  "duration_minutes": 22004,
+  "first_response_minutes": 10,
+  "name": "Nová funkcionalita - Export do Excelu",
+  "description": "Dobrý den,\r\n\r\nBavili jsme se o tom historicky s panem Ďurčákem dvou o vylepšeních:\r\n\r\n\r\n  1.  Export seznamů úkolů do Excelu - to co mám vyfiltrované chci vyexportovat do Excelu - jeden požadavek, jedna řádka. Seznam sloupců by se měl generovat dle dostupného filtru na pravé straně = včetně parametrů úkolů.\r\n\r\n\r\n\r\n  1.  (super)Kompaktní režim - seznam požadavků v \"tabulkovém zobrazení\" - jedna řádka, bez mezer mezi požadavky.\r\n\r\nPro nás by byl zejména export do Excelu ohromná pomoc.\r\n\r\nS pozdravem / Best regards\r\nMartin Urban\r\nIT Manager\r\n\r\nUnionOcel, s.r.o.  |  Bavorská 2780/2, Praha 5  |  Mobil: +420 720 968 224  |  Klapka: 132",
+  "owner": "Martin Urban",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 0,
+    "from_others": 8,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) nejak si to s nim rozjednal a mal to sem zadat? alebo to je nieco starsie a teraz to sam od seba napisal.. pripadne dame na poradu, ako narocne by to bolo a na kedy to chceme?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za podnet, prejdem to s kolegami a budem Vas informovat."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Preberme na produktovke, som mu povedal, ze ak nieco ma nech to rovno zadava na support a my to preberieme."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Oba požadavky by měly existovat."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "#2238 Export ulohy a inych objektov a #1818 Uvodna obrazovka redizajn kde riesime aj grid a vybez zobrazenych dat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) mozem teda komunikovat k p. Urbanovi: 1. v dalsej verzii - export evidencie do xls - 24.2 - najblizsia verzia (vydanie zaciatok roka 2025) 2. zobrazenie formou tabulky - verzia 24.3 - verzie nasledne (vydanie koniec prelom Q1-Q2 2025) Alebo budes menit nejako plan?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ja by som to najradsej splachol naraz ale kludne to takto nejako posun dalej. Najneskor Q1 to budu mat online."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Martin Urban (urban@unionocel.cz) Vami navrhovane vylepsenia uz mame zaradene do sprintov nasledovne: 1. export  uloha do excelu (jak detaily tak zoznam) - v dalsej verzii - 24.2 - odhadovany termin vydania zaciatok roka 2025 2. zobrazenie formou tabulky - verzia 24.3 - odhadovany termin vydania prelom Q1-Q2 2025"
+    }
+  ]
+}

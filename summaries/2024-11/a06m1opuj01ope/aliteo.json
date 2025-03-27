@@ -1,0 +1,27 @@
+{
+  "id": "a06m1opuj01ope",
+  "created": "2024-11-18T14:50:00.709Z",
+  "closed": "2024-11-18T16:05:54.066Z",
+  "duration_minutes": 75,
+  "first_response_minutes": 8,
+  "name": "Re: Nejde založit projekt",
+  "description": "Dobry den Maxime,\r\n\r\nMyslim, ze na support je prilis brzy. Napiste panu Danielovi primo v Aliteu, odpovida vice mene obratem a bud to vyreste online nebo si zavolejte.\r\n\r\nDekuji.\r\nSilvie\r\nSent from my iPhone\r\n\r\nOn 18. 11. 2024, at 14:05, Maxim Sablik wrote:\r\n\r\n﻿\r\nDobrý den,\r\n\r\nzaložil jsem nový workspace pro společnost WEPGRA s.r.o., do kterého chceme přidat nové projekty. Každopádně když kliknu na +new project, tak se mi nechce objevit v nabídce pro jakou společnost a do jakého workspace se má projekt založit. V nabídce pro company a workspace se objevuje pouze \"Does not contain any items\". Zasílám v příloze dva screenshoty pro lepší porozumění situace. Předem děkuji za vyřešení.\r\n\r\nS přáním hezkého dne\r\nIng. Maxim Sáblík\r\nWEPGRA s.r.o.",
+  "owner": "Silvie Skyvova",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, to je v poriadku, tak sme sa s panom Maximom dohodli. Vsetko je zaroven aj vyriesene. Mimochodom, tym ze ste nechali v kopii adresu support@aliteo.com, tak sa zalozil tento ticket, ale to je v poriadku, to uvadzam len pre informaciu."
+    }
+  ]
+}

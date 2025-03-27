@@ -1,0 +1,43 @@
+{
+  "id": "a05ek22sq014l2",
+  "created": "2024-01-17T08:50:23.889Z",
+  "closed": "2024-01-18T10:16:20.491Z",
+  "duration_minutes": 1525,
+  "first_response_minutes": 223,
+  "name": "Dielčia úloha do inej spoločnosti",
+  "description": "Dobrý deň, keď vytváram Dielčiu úlohu, nie je možné založiť dielčiu úlohu do inej spoločnosti. Keď vytváram väzbu, tak sa to dá. Dôvodom je, že nám začali partneri na KARAT Assistance zakladať dielčie úlohy do spoločnosti KARAT a nie do našej spoločnosti. Príklad: Príde úloha do projektu KARAT - Assistance - EGE. Partner chce vytvoriť úlohu na nás, tak klikne na dielčia úloha a ponúka mu priestor Assistance - vyberie projekt STEP. My však potrebujeme, aby vybral spoločnosť STEP a to mu nie je umožnené.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, rozumiem podnetu, myslim ze bol nejaky dovod na to, preco to nie je umoznene. Poradim sa s kolegami a budem Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Allan mozes nam prosim napisat dosledky preco aktualne nevieme dat dielciu ulohu do inej spolocnosti? Alebo je to len o tom ze sme to tam nedali a mohli? Dakujem"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Celá společnost a její data jsou datově uzavřeny jako v podstatě nezávislá datová základna. Výjimku tvoří: - uživatel (oblíbené, má pohledy apod.) z různých společností - vazby mezi úlohami, které byly doplněny ex post, ale alespoň funkčně nikam neváží Dílčí úkoly mají robustnější funkčnost a analyticky se nedokáži představit, že budou patřit do jiné společnosti, to bychom už postavili na hlavu celou logiku společností jako datově uzavřených celků."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Konzultoval som s vyvojom kedysi nebola ziadna moznost ako prepojit 2 spolocnosti. Ako kompromis, kde to bolo najmenej problematicke sme umoznili vazbu (ktora je v principe len odkazom). Dielcie ulohy sa nemozu viazat na inu spolocnost pretoze maju robustnejsiu funkcnost a aj z dovodu bezpecnosti a uzatvorenia dat ako celku v ramci spolocnosti to takto musime aj nechat."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Ok, ďakujem."
+    }
+  ]
+}

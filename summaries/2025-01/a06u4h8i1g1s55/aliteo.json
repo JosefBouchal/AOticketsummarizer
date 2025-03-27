@@ -1,0 +1,35 @@
+{
+  "id": "a06u4h8i1g1s55",
+  "created": "2025-01-20T10:14:40.67Z",
+  "closed": "2025-01-27T12:38:57.206Z",
+  "duration_minutes": 10224,
+  "first_response_minutes": 62,
+  "name": "FW: AO - zkopírování programu porady do následující porady",
+  "description": "Dobrý den, kolega má problém s poradou. Můžete, prosím, pomoct? Jirka Dvořák From: Sobotka Bohumil Sent: Monday, January 20, 2025 11:10 AM To: 'Dvořák Jiří' Subject: AO - zkopírování programu porady do následující porady Viz telefon, abych si ušetřil práci při tvorbě programu nové porady, chtěl bych si zkopírovat program právě proběhlé porady do nového data a pak jen aktualizovat. Doposud musím vše otrocky kopírovat klasicky bod po bodu. Jdu na původní poradu 13.1.: Kliknu na „Hromadný výběr a nabídne mi to * přesunout, * duplikovat, * smazat…. Přesunout nechci , chci aby původní porada program zůstal zachován, ale aby se zkopíroval (překlopil 1:1) do nové porady v datu, které chci, tentokrát 27.1. Proto si označím fajfkou všechny body porady z 13.1. a kliknu na „duplikovat“ a objeví se dialogové okno „Duplikovat bod do…“, kde zatrhnu 27.1.2025 a potvrdím vpravo dole „Duplikovat“ Nicméně když to udělám, v poradě 27.1.zůstuvá původní , dříve zkopírovaný program. Já už ani nemůžu přijít na to, jak jsem před rokem, či kdy jsme AO začali používat, zkopíroval tehdejší poradu do bodů budoucích porad na rok dopředu. Ideálně to chci tak, že když skončí jedna porada, zkopíruji si ji do termínu další porady za 14 dnů a pak už jenom program postupně upravuji podle toho, co přináší aktuálně život. Díky. B",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, co sa tyka bodov porad je niekolko moznosti: 1.  definujeme body porady do \"rady porad\" : - tieto body sa potom pri aktivacii kazdej porady (vyskytu) nakopiruju. Nevyhoda je ze je to ten isty text 2. duplikovanie bodov - postup ako ste napisali: - do porady 1 vytvorim body porady - v porade 1 tieto body prejdem a dopisem zapis - oznacim tieto body porady, dam duplikovat na poradu 2 - v porade 2 si tieto body prejdem atd Ak ste si teda nadefinovanli body porady podla bodu 1 a zaroven kopirujete tak, tak v kazdej porade mate tie body z rady a zaroven tie nakopirovane. Zaroven by som si dovolil na Vasom mieste zvazit ci body porady su spravnou cestou kde zhromazdovat data, ktore narastaju. Ci by nebolo rozumnejsie mat na namiesto nich ulohy (ktore ostanu v stave \"caka na reakciu projektu v ktorom je ta porada) , ktore by ste rovnako prechadzali kazdu poradu, ale zaroven by ste pridavali komentare. jednak Vam nenarasta zobrazovana cast a myslim ze je tam aj vacsi prehlad/datumy atd.. Ak to nie je jasne, kludne si mozeme dat kratky call k tomuto."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Moc děkuji za informaci. Předám to na kolegu a pokud to bude potřeba, rádi využijeme vaši nabídku na call."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V poriadku, budem cakat na Vasu reakciu.."
+    }
+  ]
+}

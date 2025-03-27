@@ -1,0 +1,27 @@
+{
+  "id": "a069gni4900006",
+  "created": "2024-08-13T06:36:45.623Z",
+  "closed": "2024-08-13T10:28:32.103Z",
+  "duration_minutes": 231,
+  "first_response_minutes": 43,
+  "name": "jen překlep",
+  "description": "Správně česky je „Tato upozornění…“ a ne „Tyto upozornění…“. Viz obrázek.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj @ Pavel Drtil (pavel.drtil@karatsoftware.cz) , dik za report - v tomto sa spolieham na CZ kolegov, neviem ako to ma byt spravne.. posunul som na report.."
+    }
+  ]
+}

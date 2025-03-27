@@ -1,0 +1,39 @@
+{
+  "id": "a06jmgtmv01vf8",
+  "created": "2024-10-31T08:29:30.869Z",
+  "closed": "2024-11-05T13:04:23.621Z",
+  "duration_minutes": 7474,
+  "first_response_minutes": 87,
+  "name": "Co záložka, to jiná informace o počtu upozornění a zmínek",
+  "description": "V jedné záložce:\r\n[Image001]\r\n\r\nV druhé záložce:\r\n[Image002]\r\n\r\nČemu tedy věřit? Mám pokaždé provést F5 jak vlezu na záložku? (což samozřejmě nechci, jelikož to sebou nese svá negativa)\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Můj panel",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Support pomocník",
+      "comment": "Zmienky a upozornenia po aktualizácii fungujú nasledovne: Nové upozornenia a zmienky (tie, ktoré ešte neboli zobrazené; zobrazené znamená otvorená a zatvorená záložka) prekryjú počet už zobrazených upozornení a zmienok. Po otvorení a následnom zatvorení záložiek, ktoré obsahujú príslušné upozornenia označené červenou farbou, sa tieto upozornenia zmenia na šedé a zaradia sa medzi zobrazené, no neodstránené notifikácie a zmienky. Dalsim problem moze byt prenasanie zmien do vsetkych otvorenych kariet. Posuniem na vyvoj a dam info ako to vieme osetrit."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dobrý den, děkuji za info, dodám ještě, že já nechci ani šibovat s prvou částí, aby se mě pak označilo, že mám vše přečteno (to není žádaný stav), já chci, abych překlikem na jakoukoliv záložku, kde mám otevřené ALITEO se ukazovalo správné číslo, tedy ať dojde napozadí k aktualizaci správných čísel. Děkuji Luboš"
+    },
+    {
+      "creator": "Support pomocník",
+      "comment": "Zdravím, chyba je opravená a otestovaná. Všetko by malo teraz fungovať podľa očakávaní - počet notifikácií sa udržiava aktuálny na všetkých kartách. Ak by sa vyskytol akýkoľvek problém sme tu. Dakujem"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dobrý den, děkuji."
+    }
+  ]
+}

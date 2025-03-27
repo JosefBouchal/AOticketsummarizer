@@ -1,0 +1,59 @@
+{
+  "id": "a05d2i4lsg10j1",
+  "created": "2024-01-05T08:29:30.175Z",
+  "closed": "2024-01-19T09:39:30.374Z",
+  "duration_minutes": 20230,
+  "first_response_minutes": 16,
+  "name": "nemožnost smazat VP ze seznamu VP, z detailu to jde",
+  "description": "Ahoj, Nejde mi smazat VP ze seznamu VP, ale z detailu VP mi to jde. Viz obrázky. Konzultováno s DanemD Dík, filipp Filip Pražák consultant",
+  "owner": "Filip Pražák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ano pochopene, prebrane, predam na vyvoj"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "ahoj, na videu patrné, nicméně doplním, že při hromadné akci smazání výkazů (více, jak jeden záznam) se vlastně ani nic nestane - ani me nic neupozorní. filipp"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Filip Pražák (filip.prazak@karatsoftware.cz) ano popisal som to takto - jednak tie 2 veci plus nazvoslovie"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Filip Pražák (filip.prazak@karatsoftware.cz) mohol by si prosim otestovat, malo by byt opravene.."
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "ahoj, stále končím na právech, viz obr"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, riesim dalej (predpokladam ze v detaile vykazu mozes)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Filip Pražák (filip.prazak@karatsoftware.cz) mame nasadenu dalsiu opravu, mozes prosim skontrolovat.."
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "hojas, nyní mi to prošlo. dik, filipp"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dik"
+    }
+  ]
+}

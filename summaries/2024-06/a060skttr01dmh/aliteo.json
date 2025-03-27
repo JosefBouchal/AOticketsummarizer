@@ -1,0 +1,43 @@
+{
+  "id": "a060skttr01dmh",
+  "created": "2024-06-07T06:19:01.669Z",
+  "closed": "2024-06-07T10:48:13.414Z",
+  "duration_minutes": 269,
+  "first_response_minutes": 9,
+  "name": "Překlepy viz obr.",
+  "description": "Překlepy viz obr.:\r\nBude *možní uzavřít pouze úkoly, které jsou ve stavu Žádost o *uzavřenít\r\n*Externámu uživateli bude po uzavření úkolu umožněno znovu otevření úkolu",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 0,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report, predam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Dušan Kovář (dusan.kovar@karatsoftware.cz) Mozete to spravit bez zalozenia vyvojoveho? staci ze napisete tu kde je to opravene.."
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Jasně, udělám to hned 🙃"
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Opravil jsem do ostré"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "super, tak pri patchi to bude online - dakujem asi mozeme zatvorit"
+    }
+  ]
+}

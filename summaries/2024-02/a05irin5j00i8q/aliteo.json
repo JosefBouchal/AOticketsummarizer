@@ -1,0 +1,47 @@
+{
+  "id": "a05irin5j00i8q",
+  "created": "2024-02-19T06:18:00.065Z",
+  "closed": "2024-02-28T09:30:45.438Z",
+  "duration_minutes": 13152,
+  "first_response_minutes": 5,
+  "name": "Aliteo - pripojenie API",
+  "description": "Dobry den, prosim o informaciu ci v ramci nasej licencie mame k dispozicii API? Chceli by sme prenasat informacie z Alitea do Karatu. Mozete nam poskytnut dokumentaciu na pripojenie? Dakujem",
+  "owner": "Tomas Vrbican",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) ako s tymto? uz sa nejako dohodlo so stepom ci to budu robit ci nie? resp ci to bude API (cez modul Kazas) alebo modul AOC? Pride mi to tak, ze Rudos vie ze to Step robi cez API a mozno si to chcu urobit sami nejako."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahoj, oni maju zaplatenu liceniu Advance za 4 erua, ktora neobsahuje API. Teda budu musiet prejst na vyssiu licenciu. Prebehlo stretnutie, na ktorom sme si povedali stav a Step by im mal dat cenovu ponuku na prepojenie cez API. Najprv to mali skonzultovat s nami, zatial nic neposlali, takze moze byt, ze Rudos nieco spekuluje, co je ok..mame nejaku \"dokumentaciu k API?\""
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, informacie k API a jeho dotazom su uvedene tu: https://api.aliteo.com/swagger/ui API ako funkcionalita je podla cennika https://aliteo.com/sk/cennik/ dostupna od Tarifu Premium."
+    },
+    {
+      "creator": "Tomas Vrbican",
+      "comment": "Dobry den, dakujem za info. Bola by mozna vynimka pre nas aby sme mohli dostat pristup pre API aj ked zostaneme v baliku Advance."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, bohuzial to nie je mozne. Veci tykajuce sa tarifov su natvrdo v kode a v jednotlivych tarifoch neexistuju ziadne vynimky"
+    },
+    {
+      "creator": "Tomas Vrbican",
+      "comment": "OK dakujem"
+    }
+  ]
+}

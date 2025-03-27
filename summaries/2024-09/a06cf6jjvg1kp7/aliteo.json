@@ -1,0 +1,35 @@
+{
+  "id": "a06cf6jjvg1kp7",
+  "created": "2024-09-05T04:56:29.439Z",
+  "closed": "2024-09-06T12:17:45.141Z",
+  "duration_minutes": 1881,
+  "first_response_minutes": 68,
+  "name": "Nejede ALITEO?",
+  "description": "[Image001]\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "jen pro info, v adresním řádku šlo vidět, že to jde do autentifikace, tam to dlouho trvalo a pak tento výsledek, nyní už se do AO dostanu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dik za report, predal som na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Allan bohuzial v logu nevidi ziadne reporty spojene s problemom s notifikaciou. Nevie teda co ma riesit. Kazdopadne dik a budeme to sledovat."
+    }
+  ]
+}

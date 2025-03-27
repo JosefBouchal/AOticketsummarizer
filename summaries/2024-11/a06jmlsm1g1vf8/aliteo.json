@@ -1,0 +1,27 @@
+{
+  "id": "a06jmlsm1g1vf8",
+  "created": "2024-10-31T09:23:46.59Z",
+  "closed": "2024-11-04T10:05:17.601Z",
+  "duration_minutes": 5801,
+  "first_response_minutes": 8,
+  "name": "Viditelnost výčtu atributu pád",
+  "description": "[Image001]\r\n\r\nUncaught (in promise) Error: GlobalCache.GetxComponent: component id a02fb6dnjg1nqp not found in client cache\r\n    at GlobalCache.GetxComponent (ClientCache_84e1a718-5624-b798-40dd-12706d95d507.js:316:19)\r\n    at GlobalCache.GetFromId (ClientCache_84e1a718-5624-b798-40dd-12706d95d507.js:305:21)\r\n    at ClientCache.GetxComponent (ClientCache_84e1a718-5624-b798-40dd-12706d95d507.js:45:34)\r\n    at ClientCache.GetFromId (ClientCache_84e1a718-5624-b798-40dd-12706d95d507.js:42:21)\r\n    at Settings.GetFromId (Utils_c4fab497-504d-fefc-4f92-900ff6054813.js:1041:27)\r\n    at Visual_bb5bbd04-3454-13c8-b845-f59858a41efa.js:3351:45\r\n    at Array.forEach ( )\r\n    at VisualConditionItem.getText (Visual_bb5bbd04-3454-13c8-b845-f59858a41efa.js:3350:34)\r\n    at VisualConditionItem.getTextFromItem (Visual_bb5bbd04-3454-13c8-b845-f59858a41efa.js:3405:41)\r\n    at Object.getName (Settings_fb4bf286-ae52-340c-f897-5aba059a6630.js:9669:73)\r\n\r\n Zajímavé, jelikož componenta a02fb6dnjg1nqp je WorskSpace Interní projekty, normálně používaný.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": "Synchronizace",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Support pomocník",
+      "comment": "Ahoj Lubo, diky za info posuvam dalej na vyvoj."
+    }
+  ]
+}

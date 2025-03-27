@@ -1,0 +1,27 @@
+{
+  "id": "a068knerk00g89",
+  "created": "2024-08-06T11:28:56.086Z",
+  "closed": "2024-08-16T10:40:15.556Z",
+  "duration_minutes": 14351,
+  "first_response_minutes": 4270,
+  "name": "Interní štítky - práva",
+  "description": "Dobrý den, v jednom z projektů chceme využit interní štítky, ale interní uživatel nemá práva na jejich vytvoření v projektu, má pouze možnost vytvořit soukromé. Zkusil jsem jej dát i jako admina projektu, ale práva na vytvoření štítků i tak nemá. Kde mohu nastavit práva, aby interní uživatel mohl vytvářet interní štítky v projektu? Děkuji.",
+  "owner": "Jakub Trhlík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dobrý deň, pán Trhlík, ospravedlňujem sa za oneskorenú reakciu. Kolega má dovolenku a v zápale práce som sa mylne domnieval, že som už na Váš podnet odpovedal. Mrzí ma to a ďakujem za pochopenie. Čo sa týka Vášho problému, interné štítky v rámci pracovného priestoru môžu vytvárať len používatelia s právom administrátora. Tento prístup je nastavený z dôvodu, že interné štítky môžu byť súčasťou procesov, ktoré je potrebné v súlade s firemnými smernicami dodržiavať aj v ALITEO. Avšak, už teraz pracujeme na kompletnom prepracovaní systému štítkov, ktorý umožní ich vytváranie všetkým používateľom. Nový systém bude flexibilnejší, umožní zdieľanie štítkov v rámci projektov/tímov alebo s konkrétnymi osobami, čo by malo vyhovovať rôznym pracovným potrebám. Ďakujem za Vašu trpezlivosť a som Vám k dispozícii pre ďalšie otázky."
+    }
+  ]
+}

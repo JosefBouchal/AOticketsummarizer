@@ -1,0 +1,63 @@
+{
+  "id": "a05ligafog0in1",
+  "created": "2024-03-11T08:40:31.856Z",
+  "closed": "2024-03-13T07:26:06.275Z",
+  "duration_minutes": 2805,
+  "first_response_minutes": 4,
+  "name": "FW: ALITEO - platba za licenci je v prodlení",
+  "description": "Dobrý den,\r\nMůžete nám s tímto pomoct, prosím. Vůbec nechápeme, proč by platba měla být v prodlení. Na naší straně je vše stejné jako minulý měsíc.\r\nDík moc\r\nJirka Dvořák\r\n\r\n\r\nFrom: notifications@aliteo.com Sent: Monday, March 11, 2024 12:02 AM\r\nTo: dvorak@ncline.cz\r\nSubject: ALITEO - platba za licenci je v prodlení\r\n\r\n\r\n\r\n[Logo Aliteo]\r\n\r\n\r\n\r\n\r\nPlatba za licenci pro společnost NC Line a.s. je v prodlení. Pokud nebude licence zaplacena, bude změměna na tarif Basic. Počet dnů pro zaplacení: 2.\r\n\r\n\r\n\r\n\r\nTato zpráva je poslána pouze správcům společnosti.\r\n\r\n\r\n\r\n\r\n[Logo Aliteo]\r\n\r\n\r\n\r\n\r\nCopyright 2022 ALITEO • Powered by KARAT Software",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 2,
+    "from_others": 8,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ospravedlnujeme sa za problem ktory vznikol. Uz o nom vieme od p. Nemca, zistujem aktualny stav a budem Vas informovat."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Díky moc. Kdyby cokoliv bylo problémem na naší straně, budu na telefonu, ať to můžeme rychle vyřešit.\r\nJirka Dvořák\r\n608242700"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Kolegovia prisli na chybu, ktoru opravuju. V noci by mala byt oprava nasadena, bude treba zajtra opat zrealizovat platbu aby sa nastavila opakovana platba (ktora bola touto opravou zrusena). Pri tejto chybe neboli strhnute ziadne prostriedky. Zatial to berte ako informaciu. Po nasadeni verzie, ked to budem mat potvrdenie od kolegov, Vam to znova napisem, aby  ste zrealizovali platbu. Cakajte teda na informaciu od nas. Este raz sa ospravedlnujem za komplikacie a prajem pekny den. Daniel Dzuro"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "OK. Domluveno. Budu s tím tak počítat, že čekáme na signál.\r\nJirka Dvořák"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, oprava bola nasadena. Je mozne zopakovat platbu, kludne sa mozeme na par minut spojit a urobit to spolu, nech vidim aj ja co sa deje v pripade platby. Ak suhlasite. Daj mi prosim vediet kedy by ste mali dnes cas."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) je tam nieco specialne pri tej platbe? lebo ja som ich so zakaznikmi nikdy nerobil, viem ze ty, tak preto sa pytam..ak treba ci by si mal par minut a pripojil sa tiez.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Nn, neviem o tom, len prejst formularom, nic specificke, ak bude treba pripoj aj mna."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Allan, vraj bolo pripisane.. prosim o finalnu kontrolu"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Zdá se to být ok. Můžeš uzavřít, díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, ešte raz sme to kontrolovali a zdá sa byť všetko v poriadku. Ďakujem a Ospravedlňujeme sa za nepríjemnosti."
+    }
+  ]
+}

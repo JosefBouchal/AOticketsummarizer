@@ -1,0 +1,59 @@
+{
+  "id": "a05ps5hjs00q4d",
+  "created": "2024-04-13T18:37:18.649Z",
+  "closed": "2024-04-23T05:52:15.395Z",
+  "duration_minutes": 13634,
+  "first_response_minutes": 2124,
+  "name": "Porady notifikace",
+  "description": "Dobrý den, jak prosím fungují notifikace na porady. Vůbec mi nechodí notifikace do mailu ve chíli kdy někdo udělá poradu a pozve mě tam jako účastníka. Přijde mi pak ve chvíli, kdy mě někdo nastaví jak oprezentují. Ale absence prvního mailu mi přijde divná. díky za info Michal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 4,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, rozumiem tomu spravne, ze sa pytate na to, ze preco nechodi email s upozornenim pri pozvanke do porady? Predpokladam, ze do emailu Vam pride pozvanka na udalost tak ci tak, je tak? A do ALITEO pride pozvanka na praveho panela. Dakujem za upresnenie.."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Ano chápete to správně. udělal jsem poradu TEST Ani mě ani kolegovy nepřišel email o tom, že daná porada je. V kalendářiv aliteo ho vidím, ale moje očekávání je, že mi to přijde i do mailu. Nebo se pletu ? Ale neádáv mi to pak moc smysl Michal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ale predpokladam ze pozvanka na udalost Vam prisla - standardne ako chodi ak Vas niekto pozve na schodzku v Outlooku. Chcete mat teda 2 emaily o tom istom. Je tak? Pozn. Vam ako organizatorovi ani nema prist informacia o tom, co ste sami urobili, alebo to chapem nespravne? Ked pozvete kolegu na schodzku v Outlooku, Vam uz pozvanka nepride - vy ste organizator."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Dobrý den, Já udělám schůzku v Aliteu. A moje očekávání je, že: se schůzka objeví v mém kalendáři v otlocku, před UPG toto podle mě fungovalo. že se všem účastníkům přijde do mailu pozvánka. Tady žádná nedorazila. Mail k tomu, nepotřebuji ( to jsem se jen špatně vyjádřil v předchozím komentáři.) snad už je to pochopitelné, ale matně si vybavuji, že toto dříve fungovalo. Michal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Uz rozumiem, je teda problem v principe so synchronizaciou. Ze urobite poradu/udalost v ALITEO a Vam sa to nesynchronizuje. Ok idem to riesit a budem Vas informovat.."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "ano chápete správně,. sorry za špatné úvodní popsání🙂 Michal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, deje sa Vam to opakovane? Prave som si to vyskusal a mne to ide v poriadku. Skusil som zalozit poradu projektu, prizval som ucastnikov a skusil rozne posuny a vsetko sa zda byt v poriadku. Sice zmeny, ktore urobim mimo ALITEO maju trochu delay, ale inak to funguje ok. Skuste preverit stav synchronizacie uzivatela s exchange - v nastaveniach uzivatela - ci tam nahodou nemate nejaku chybu synchronizacie. Ak je chyba tam, potom vlastne nema ALITEO spojenie s exchange, teda neexistuje organizator a to by bolo vysvetlenie."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Díky, za  info. kolegové to tedy prověří na naši straně a dám vědět. Michal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No podstatne je aby organizator synchronizoval s exchange.."
+    }
+  ]
+}

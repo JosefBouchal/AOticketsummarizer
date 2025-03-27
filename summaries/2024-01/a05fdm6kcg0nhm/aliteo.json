@@ -1,0 +1,35 @@
+{
+  "id": "a05fdm6kcg0nhm",
+  "created": "2024-01-23T14:08:15.618Z",
+  "closed": "2024-01-24T12:40:05.037Z",
+  "duration_minutes": 1351,
+  "first_response_minutes": 44,
+  "name": "Server Error",
+  "description": "Dobrý deň, chcela som sa opýtať na túto chybu, či je to chyba na strane Alitea alebo u nás. Kolegyne mi už viackrát reklamovali tento stav.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano o tomto vieme, ide o chybu na strane Azure v kombinacii s nasou aplikaciou. Deje sa to nepredvidatelne, urobili sme uz nejake strukturalne kroky, u ktorych verime ze by mali pomoct avsak bude to jasne az po nasadeni novej verzie. Tato hlaska znamena ze kvoli nejakym problemom sa aplikacia restartovalo a o par minut bude znova ok."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "OK, dakujem za vysvetlenie, naštastie, rozpísané komentáre väčšinou ostanú zachované 🙂"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ospravedlnujeme sa za tymto sposobene neprijemnosti a sledujeme tento problem nadalej."
+    }
+  ]
+}

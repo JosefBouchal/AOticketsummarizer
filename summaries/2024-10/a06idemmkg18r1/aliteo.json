@@ -1,0 +1,27 @@
+{
+  "id": "a06idemmkg18r1",
+  "created": "2024-10-21T09:14:44.254Z",
+  "closed": "2024-10-21T10:23:07.871Z",
+  "duration_minutes": 68,
+  "first_response_minutes": 27,
+  "name": "Nefunguje Swagger pro API ALITEO Beta",
+  "description": "Nefunguje swagger pro API ALITEO beta https://aliteobetaapi.azurewebsites.net/swagger/ui#/ Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, predal som na vyvoj.."
+    }
+  ]
+}

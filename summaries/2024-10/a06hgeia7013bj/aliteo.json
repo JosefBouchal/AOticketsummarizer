@@ -1,0 +1,31 @@
+{
+  "id": "a06hgeia7013bj",
+  "created": "2024-10-14T08:17:00.309Z",
+  "closed": "2024-10-14T09:05:18.892Z",
+  "duration_minutes": 48,
+  "first_response_minutes": 47,
+  "name": "API žádost o uzavření zasláno do ALITEO, pak v ALITEO se nezobrazí, kdo to provedl",
+  "description": "Přes API odesláno: { \"company\": \"a069077mrg06rn\", \"usercompany\": \"a06d063c900m9u\", \"ts\": \"2024-10-14T08:51:56.320Z\", \"changes\": [ { \"type\": \"Modify\", \"simple\": true, \"def\": \"Task\", \"id\": \"a06dtahcjg18t1\", \"eid\": \"304\", \"fields\": [ { \"name\": \"CloseRequestDate\", \"type\": \"DateTime\", \"value\": \"2024-10-14T08:51:56.313Z\" }, { \"name\": \"CloseRequestUser\", \"type\": \"UserCompany\", \"value\": \"a069077msg06rn\" }, { \"name\": \"Done\", \"type\": \"Enum\", \"value\": \"CloseRequest\" }, { \"name\": \"Phase\", \"type\": \"ComponentPointer\", \"value\": \"\" } ] } ] } Pak v ALITEO není uvedeno, kdo a kdy to navrhl k uzavření, ale přitom je to odesláno Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "zjištěno, že v ALITEO pole CloseRequestDate a CloseRequestUser není naplněno"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predane na vyvoj.."
+    }
+  ]
+}

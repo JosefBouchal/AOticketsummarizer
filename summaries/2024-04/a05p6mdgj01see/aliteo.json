@@ -1,0 +1,75 @@
+{
+  "id": "a05p6mdgj01see",
+  "created": "2024-04-08T13:32:02.302Z",
+  "closed": "2024-04-16T10:15:05.636Z",
+  "duration_minutes": 11323,
+  "first_response_minutes": 90,
+  "name": "Potíže s přihlášením",
+  "description": "Dobrý den,\r\n\r\npotřebovali bychom, prosím, pomoci s přihlášením mého kolegy m.bezdek@eson.cz< mailto:m.bezdek@eson.cz > do Aliteo. Pod jeho přihlašovacím jménem, resp. mailovou adresou se mu nedaří přihlásit, ani obnovit heslo.\r\nV příloze posílám screen chybové hlášky, která se mu při loginu zobrazuje. Zkoušel i různé prohlížeče, nicméně problém byl totožný.\r\nJá jsem byl, stejně jako on, přizván do projektu firmy KARAT a s přihlášením o.tomes@eson.cz< mailto:o.tomes@eson.cz >, ani obnovou hesla jsem potíže neměl.\r\n\r\nPředem velice děkuji za pomoc.\r\n\r\n\r\nS pozdravem\r\nOndřej Tomeš\r\nQuality and project manager\r\n\r\ntel.:         +420 773 699 977\r\ne-mail:    o.tomes@eson.cz< mailto:o.tomes@eson.cz >\r\nweb:        www.eson.cz< http://www.eson.cz >\r\n\r\n[Image001]  CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 13,
+    "from_owner": 3,
+    "from_others": 10,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pozrieme sa na to a budem Vas informovat. Ospravedlnujeme sa za neprijemnosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) prosim Ta, problem s prihlasenim. Uzivatelovi to vrati tuto hlasku: Ak je treba zalozit pripad do vyvoja, daj vediet prosim"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Podle mne je to to stejné co jsem řešil s Lubošem a předpokládám, že mám opraveno. V noci se nasadí."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Neviem co si riesil s Lubosom tak sa k tomu nemozem vyjadrit.. ale uvidime teda zajtra"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dnes sme publikovali opravny patch, mohli by ste prosim skontolovat ci u Vas problem pretrvava?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, tak kolega se bohužel stále nemůže přihlásit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vid komentar ##6"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Já nevím Dane chybu jsem opravil, je to nasazené (teď jsem zkoušel)... můžeš to zkusit s ním případně nasimulovat?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, konzultoval som s kolegom a on hovori ze presne tu chybu opravoval. Mohli by ste mi poslat video s prihlasovanim (idealne vypnut prehliadac alebo aspon refresh), pripadne to mozeme skusit spolu ak je treba.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, vsimol som si ze ste odmietli zatvorit ulohu (system sam po neaktivite vlastnika pripadu sam uzatvara pripady) po tom co ste mi neodpovedali na nasledujucu otazku: \" Mohli by ste mi poslat video s prihlasovanim (idealne vypnut prehliadac alebo aspon refresh), pripadne to mozeme skusit spolu ak je treba..\" prosim teda o odpoved.. dakujem vopred"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, jasně, rozumím. Připomenul jsem kolegovi, aby udělal, co je potřeba. Ozvu se co nejdříve."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, tak kolega Bezděk už se úspěšně přihlásil. Děkuji za podporu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za info a prajem pekny den."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a06d4a376g1gki",
+  "created": "2024-09-10T07:54:36.933Z",
+  "closed": "2024-09-10T08:23:46.062Z",
+  "duration_minutes": 29,
+  "first_response_minutes": 23,
+  "name": "API - Dodat výčet field parentů pro regiony",
+  "description": "Prosím  neljépe někam do swaggeru uvést pro parent výčet field, jelikož takto nevíme jaké jsou všechny možnosti. Například pro UserGroup je UserGroups, SolverGroups a možná ještě něco jiného. Hodilo by se to v brzké době. Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, predal som na vyvoj.. chces nechat otvorene?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "zapl jsem si tam podrobné notifikace, můžeme zavřít"
+    }
+  ]
+}

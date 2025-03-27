@@ -1,0 +1,43 @@
+{
+  "id": "a05qvvddrg0kmu",
+  "created": "2024-04-22T11:13:15.436Z",
+  "closed": "2024-04-30T14:55:36.394Z",
+  "duration_minutes": 11742,
+  "first_response_minutes": 1161,
+  "name": "Dotaz na změnu email adresy k účtu Alitea",
+  "description": "Dobrý den,\r\n\r\nmožná se již s vývojem verzí řešilo, možnost změny adresy email k účtu Aliteo.\r\nHistoricky nešlo, řešili jsme cca v 10/2023 s KSW postupem zneaktivnit, odpojit od AO, zaktivnit a zaslat novou pozvánku.\r\n\r\nProto můj dotaz, zda již lze nebo zatím není tato možnost?\r\nVím, že upozornění může být změněno na jiný email.\r\n\r\nDěkuji\r\n\r\nS pozdravem\r\nPetr Martinec\r\n\r\ntel.: +420 565 659 259 | mobil: +420 725 660 807 | petr.martinec@karatsolution.cz< mailto:petr.martinec@karatsolution.cz >\r\nKARAT Solution s.r.o. | Hruškové Dvory 49, Budova C | 586 01 Jihlava | www.karatsolution.cz< http://www.karatsolution.cz/ >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, bavime sa o tom ze uzivate sa registruje pod email uzivatelA@email.com do ALITEO. A nasledne chcete aby sa tento ucet zmenil na uzivatelB@email.com ??"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, Jde o požadavek: prosím o změnu emailové adresy u účtu jan.skocdopole@ippolna.cz na jan.skocdopole@intevia.cz."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) toto asi plati stale nie?  len odpojenim a poslanim pozvanky na iny email mozem priradit existujuci ucet inemu emailu? chapem to spravne?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Ano. Tímto postupem přiřadíš uživatele společnosti jinému registrovanému uživateli."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, konzultoval som kolegami a stale plati, ze sposob ako priradit uzivatela spolocnosti inemu registrovanemu uzivatelovi, je odpojenie povodneho uzivatela a odoslanim pozvanky na iny email."
+    }
+  ]
+}

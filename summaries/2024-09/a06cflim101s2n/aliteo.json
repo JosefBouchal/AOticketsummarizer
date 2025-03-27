@@ -1,0 +1,55 @@
+{
+  "id": "a06cflim101s2n",
+  "created": "2024-09-05T07:40:00.663Z",
+  "closed": "2024-09-06T07:39:14.384Z",
+  "duration_minutes": 1439,
+  "first_response_minutes": 4,
+  "name": "neohlášení chyby při nekompatibilním chrome",
+  "description": "Měl jsem na serveru nějaký starý Chrome (verze 83 viz foto). Přihlášení do AO proběhlo v pořádku, ale pak se zobrazilo „nic“ (viz foto). Pátral jsem a zkusil jsem aktualizaci chrome, pak už AO naběhlo.\r\nPodle mě mělo AO ohlásit nějak chybu a nenechat jen bílou obrazovku. Problém se jistě bude opakovat, tak jej zadávám. Pokud to nevyřešíte technicky (hláškou), tak to alespoň doplní knowledgebase.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 1,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "David Kočíř",
+      "comment": "Prohlížeč nepodporuje importmapy - v Chrome jsou podporovány od verze 89 (tj. někdy od března 2021)."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Pavel, dik za report - podla Davida je problem vtom ze stara verzia chromu nepodporovala importmapy - to je mozne od verzie 89. Ale suhlasim, ze ak vieme skontrolovat ze sa nieco nezobrazilo, tak je to treba osetrit. Problem je ten, ze asi asi mozu byt aj ine veci, nez len stary prehliadac,.. uvidime"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Kočíř (david.kocir@karatsoftware.cz) je mozne to nejako odchytit? ak ano, zalozim pripad do vyvoja.."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Ano, takový případ odchytit lze. Řešení jsou dvě: implementovat fallback, pokud bychom moc moc chtěli podporovat takto staré prohlížeče a nebo jednoduše zobrazit informaci, že takto starý prohlížeč není podporován."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Kočíř (david.kocir@karatsoftware.cz) super dik za info, vytvorim vazbu s tymto popisom, inak potom ked odpises odpoved, tak hod mna za riesitela.. nemame totiz poradu projektzu Support, takze by sa to tam nejako stratilo.. Len neviem kto to bude udrziavat aktualne, ktore mame podporovane prehliadace.. a ktore verzie.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) posuvam to na vyvoj, uvidime ako sa vyjadria.. mozno by sme mohli odchytit stare prehliadace.."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Možná bude jednodušší odchytit chybějící funkčnosti než verze prohlížeče. Jakože zkusit (zde import mapy), když selže, tak ohlásit srozumitelně uživateli. Případ klidně uzavři, pokud na to máte interní."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, dal som tvoju pripomienku do pripadu vo vyvoji, asi sa o tom pobavime..  dik"
+    }
+  ]
+}

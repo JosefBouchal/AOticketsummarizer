@@ -1,0 +1,27 @@
+{
+  "id": "a064ckdg900hkp",
+  "created": "2024-07-04T10:40:15.54Z",
+  "closed": "2024-07-11T11:28:15.591Z",
+  "duration_minutes": 10128,
+  "first_response_minutes": 46,
+  "name": "Pomalé načítání",
+  "description": "Dobrý den,\r\n\r\nevidujeme velké prodlevy v načítání.\r\n\r\nJe možné prověřit?\r\n\r\nDíky\r\n\r\nS pozdravem | Best regards\r\n\r\nTomáš Novák\r\nVedoucí výdeje | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nT:   +420 541 426 845\r\nM: +420 777 982 504\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n[Image001]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravím Vás, poprosím Vás o bližšie informácie, v rámci ktorých evidencií sa vyskytujú dlhšie načítavacie doby?"
+    }
+  ]
+}

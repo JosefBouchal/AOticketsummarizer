@@ -1,0 +1,71 @@
+{
+  "id": "a06d3vu30g1h0g",
+  "created": "2024-09-10T06:03:38.251Z",
+  "closed": "2024-10-08T11:32:45.762Z",
+  "duration_minutes": 40649,
+  "first_response_minutes": 1,
+  "name": "\"CHvilkové\" zdvojení položek v kalendáři",
+  "description": "Stává se mi viz. níže - pustím kalendář a mám tam vše 2x. po cca 5-20 sec se to strovná Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 6,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, deje sa mi to iste, avsak nie stale... nepodarilo sa mi to nasimulovat.. Mas prosim konkretny postup ako by som to vedel nasimulovat a poslat na vyvoj? dakujem"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Dane nemám.. a než stihnu doběhnout k Allanovi, tak se to srovná.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ved, to, uz som to vela krat skusal aj odhlasit aj prihlasit aj vyprazdnit cache ale  nedokazal som nasimulovat.. vyvoj ma s tym posle akde lahsie..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "teraz sa mi to stalo znova: po refreshi ok.."
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Mě se občas děje i to, že všechny položky v kalendáři mají stejné trvání  a pak se to \"srovná\""
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "moze byt.. a takisto sa to zrovna po niekolkych sekundach?"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Ano"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Martin, neviem ci som na to prisiel, ale pride mi ze sa to deje pri nejakom odpojeni.. skus si vsimnut ze ked sa ti to stane ci mas hore zltu hlasku o problemoch s pripojenim.."
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "ok, jak to nastane, zkontroluji.."
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Nic nahoře nemám - viz. obrázek"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, bola nasadena nejaka oprava, ale kazdopadne to nemusi byt ono. Prosim posleduj a skus ci sa ti to stale deje.."
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "ok, beru na vědomí, když tak se zase ozvu. Děkuji."
+    }
+  ]
+}

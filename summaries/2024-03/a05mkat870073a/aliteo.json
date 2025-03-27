@@ -1,0 +1,27 @@
+{
+  "id": "a05mkat870073a",
+  "created": "2024-03-19T13:45:15.66Z",
+  "closed": "2024-03-25T10:02:20.388Z",
+  "duration_minutes": 8417,
+  "first_response_minutes": 333,
+  "name": "Tisk úkolů s atributy",
+  "description": "Dobrý den,\r\nUž jednou jsem se dotazoval na tisk například Atributů u úkolu\r\nJde mě o to, pokud máme více záznamů pod atributech a někdy se jedná o více položek je pro nás pohodlnější to vytisknout a hledat s papírem 😊\r\nNáhled atributů obrázek\r\nPři tisku nejsme schopní vytisknout celé atributy nebo možnost třeba export do Wordu ☹\r\n[Image001]\r\n\r\n\r\nS přátelským pozdravem\r\nDavid Skoták\r\nAdministrator ERP\r\n\r\nmobil:      +420 605 062 625\r\ne-mail:     d.skotak@agrikomp.cz< mailto:d.skotak@agrikomp.cz >\r\n\r\n\r\nagriKomp Bohemia s.r.o., Ostopovická 756/10, 664 47 Střelice\r\n[agriKomp Bohemia] < https://www.agrikomp.cz >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, o tejto potrebe vieme, tuto funkciu exportu uz mame analyzovanu a graficky navrhnutu. Je zaradena do vyvoja v niektorom s najblizsich sprintov by mala byt implementovana."
+    }
+  ]
+}

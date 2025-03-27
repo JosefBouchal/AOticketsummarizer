@@ -1,0 +1,31 @@
+{
+  "id": "a06dh76tvg1es4",
+  "created": "2024-09-13T11:06:56.63Z",
+  "closed": "2024-09-16T09:22:28.78Z",
+  "duration_minutes": 4215,
+  "first_response_minutes": 4015,
+  "name": "co záložka to jiné informace u stejného úkolu?",
+  "description": "Komentáře jsem psal v této záložce, ale v předchozí se mě ukazuje jen druhý komentář? (ps: ano obnov by nejspíše pomohlo, v consoli byla chyba tuším 414, chtěl jsem zkopírovat text ala KARAT tedy CTRL+W a to žel zavřelo záložku) Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, dik, posielam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "od AKO mam odpoved: Chyba 414 je \"Request too long\" což mi na tyto malé komentáře vůbec nesedí, navíc změny chodí přes web socktes, s nimiž tato chyba nemůže souviset. Nemyslím si že s tím chyba 414 souvisí. Současně chápu že z nějakého důvodu na druhé záložce nedošlo k aktualizaci přidaného komentáře. Žádná chyba od LBE v té době zapsaná není. Pokud nedokážeme nasimulovat, nedokáži řešit."
+    }
+  ]
+}

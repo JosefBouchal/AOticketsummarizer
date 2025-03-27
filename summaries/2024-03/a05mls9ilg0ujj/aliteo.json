@@ -1,0 +1,35 @@
+{
+  "id": "a05mls9ilg0ujj",
+  "created": "2024-03-19T22:44:40.75Z",
+  "closed": "2024-03-22T12:39:21.205Z",
+  "duration_minutes": 3714,
+  "first_response_minutes": 501,
+  "name": "Poptávka call",
+  "description": "Dobrý den, jak jsme avizovali na Karat konferenci u nás ve firmě je nový PM a chceme začít používat Aliteo napříč projekty i mimo IT oddělení. To mimo jiné znamená i rozšíření počtu licencí u nás. Nicméně chtěli bych vás poprosit o call  max hodinka, kde bychom si chtěli pobavit o use casech na použití sekcí a kambanu, jelikož bychom rádi tyto funkcionality uvedly u nás v život. Případně budem mít nějaké další dotazy, jelikož si chceme trošku to používání zefektivnit. Za nsá se účastní pan Blažek, já a nový PM. Nemohli byste tedy nám prosím věnovat hodinku konzultace? hodilo by se nám: úterý 26.3 mezi 10-12 hodinou středa 27.3 10-11 a nebo 13-15 děkuji Michal Přibyl 721238044 Témata: 1.)Sekce 2.) Podívat se na možnosti Kambanu 3.) Obecné otázky k nastavení a možnostem , vaše roadmapa,.etc",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) chces im to nejako nacenovat? alebo to bude free? Potom sa s nimi dohodnem na termine. Mozno bude hodka malo, ale dobra prilezitost.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, preberiem s kolegom a budeme Vas informovat.. dakujem za trpezlivost.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravím Vás, ospravedlňujem sa za oneskorenú odpoveď. Zo môjho pohľadu je streda po 13:00 v poriadku. Poslal som Vám pozvánku na online stretnutie. V prípade akýchkoľvek otázok sme k dispozícii."
+    }
+  ]
+}

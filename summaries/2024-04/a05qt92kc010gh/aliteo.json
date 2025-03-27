@@ -1,0 +1,47 @@
+{
+  "id": "a05qt92kc010gh",
+  "created": "2024-04-21T19:30:13.36Z",
+  "closed": "2024-04-22T11:36:33.352Z",
+  "duration_minutes": 966,
+  "first_response_minutes": 637,
+  "name": "úkoly - vybrat vše - vybere i ty, co by neměl",
+  "description": "viz obrázek: mám na seznamu úkolů  úkoly které mohu zakliknout a které ne (ten první nemohu - je to vývoj) ale když zakliknu druhý z vrchu tak se mi objeví \"Vyber vše\" a toto mi ten první zaškrtne. Podle mě by zmáčknutí \"Vyber vše\"\" mělo respektovat pravidla pro výběr jako když je to ručně.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ako si sa dostal k tomu ze mas checkbox dissabled? 🙂 Nejako pomocou filtra?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "vybral jsem úlohy kde je někdo řešitel a někdo jiný vlastník. Úloha je na našem vývoji a tam nemám právo zápisu pokud nejsem řešitel/vlastník - podle mě jsem tam Supervisor. předpokládám, jako DDZ ten případ budeš mít taky disable checkbox ne? - když si dáš filtr jen na ten případ."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Aha, takze ulohy, kde mas pravo ako supervizor by ti nemali ponuknut check box pre hromadne zmeny je tak? A tebe ho manualne neponukne ale pokial das hromadne \"vsetko\" tak ti ho zaskrtne?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano přesně."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, zadal som do vyvoja.. zatvorimne ci chces pockat?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by byt opravene.."
+    }
+  ]
+}

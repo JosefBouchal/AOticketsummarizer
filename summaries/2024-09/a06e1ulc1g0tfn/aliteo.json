@@ -1,0 +1,39 @@
+{
+  "id": "a06e1ulc1g0tfn",
+  "created": "2024-09-17T12:35:29.951Z",
+  "closed": "2024-09-18T03:58:29.293Z",
+  "duration_minutes": 922,
+  "first_response_minutes": 392,
+  "name": "SetChanges - attrs a value hodnota, která je vytvořená ve stejné transakci v předchozí changes",
+  "description": "Příklad: v jedné transakci vytvořím uživatele a rovnou jej pak nastavím u x úkolů do firemního atributu. Nebo v jedné transakci vytvořím výčet modulu a updatnu jej do 10 úkolů a nepoužívám API code Ale attrs nemá něco jako eid pro value, tedy co se tam má poslat? Podpoří API ALITEO definice value i přes eid? Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 3,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Pls a to samo u cerator nebo Tas.Owner, to je obdoba. Tedy jestli dobře chápu, tak nyní je toto řešeno pouze jen pro parenta"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "nevím jaké budete mít když tak řešení, jako každý ComponentPointer či UserCompany bude ala parent, tedy syncOwner, syncCreator, .........  a nebo rozšířit to pole  podpořit tam i:nnn a pro nás hlavně i e:abcdef  (tedy e:eid)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predal som na vyvoj.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Díky"
+    }
+  ]
+}

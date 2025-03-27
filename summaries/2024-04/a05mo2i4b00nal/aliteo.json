@@ -1,0 +1,59 @@
+{
+  "id": "a05mo2i4b00nal",
+  "created": "2024-03-20T11:32:11.103Z",
+  "closed": "2024-04-24T12:57:53.842Z",
+  "duration_minutes": 50485,
+  "first_response_minutes": 25,
+  "name": "Synchronizace outlook",
+  "description": "Nefunguje správně synchronizace schůzek  Outlook <>Aliteo, mám řadu a opakování 14 dní - potřebuji posunout datum jedné schůzky a doplnit odkaz na teams - takže úpravu dělám v Outlooku. Nyní se mi povedlo schůzku přeplánovat, ale porada v Aliteo je pořád na staré datum. Produktová porada IS KARAT nové datum v Outlooku má být 8.4 Prosím o info, co dělám špatně, opravu, nebo info jestli takto lze používat, nebo mám práci se řadou vzdát a zakládat samostatné porady.  Allan říkal, že to čeká na přepracování...",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report. Chcem sa spytat, co ostatne sychronizacie? Ak pridas poradu/udalost a posuvas v outlooku tak sa to sycnhronizuje dobre?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Synchronizace mi obecně funguje, ale jsou případy, kdy dojde k takovému stavu.  Asi bych založil testovací team, protože pracuji s ostrými daty, nechci ať 20+ lidem odchází notifikace jen proto, že něco zkouším."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Ještě doplňuji - některé  položky kalendáře vidím vícekrát (jen v Aliteo) vznik v outlooku, bez vazby na poradu.  Tento záznam jsem upravil v kalendáři Aliteo (změna času) - v outlooku se mi to posunulo a v Aliteo se mi 2 posunuly a třetí (stejná) událost se nezměnila viz printscreen."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "OK, preberiem s kolegami.. a dam vediet.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) neviem ako tieto veci riesit s ohladom na ulohu #4280 Synchronizace, vytváření a zobrazení porad/událostí zmena struktury kalendara je az v sprint 24.2 ked som dobre videl. Co s tym prosim ta?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Sprioritizovali sme komunikaciu do aktualne sprintu, teda neriesime."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Juraj, pre info. Vzhladom na to ake su problemy so sychronizaciou, sprioritizovali sme komplet prerabku synchronizacie do tohto sprintu. Pozri sa prosim ci je stale problem ktory opisujes, ale najradsej by sme sa opravam uz nevenovali - resp len tym najproblemovejsim.."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "díky za informaci, aktuálně mám postup, jak problémy řešit, týká se to hlavně porad s nastavenou řadou, chybné záznamy již jsou v minulosti, tak je neřeším a snad nevzniknou nové - budu si dávat na nové záznamy pozor. Tím pádem možno uzavřít a budu e těšit na novou funkčnost"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik za pristup, budeme sa snazit co najskor nasadit.. uzatvaram teda.."
+    }
+  ]
+}

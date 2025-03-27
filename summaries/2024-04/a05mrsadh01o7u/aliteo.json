@@ -1,0 +1,35 @@
+{
+  "id": "a05mrsadh01o7u",
+  "created": "2024-03-21T09:42:07.061Z",
+  "closed": "2024-04-04T12:29:50.614Z",
+  "duration_minutes": 20327,
+  "first_response_minutes": 246,
+  "name": "Blok kódu smaže celý text komentáře",
+  "description": "Začnu psát komentář , stisknu enter, zapnu panel formátování , vložím kód . Celý dosavadní text se mi smazal.",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano, jasna chyba, preposielam na vyvoj.. dakujem za report.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, malo byt opravene.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Funguje, díky."
+    }
+  ]
+}

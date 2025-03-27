@@ -1,0 +1,39 @@
+{
+  "id": "a06mebijig1h42",
+  "created": "2024-11-21T16:09:20.377Z",
+  "closed": "2024-11-29T10:42:09.131Z",
+  "duration_minutes": 11192,
+  "first_response_minutes": 141,
+  "name": "chyba registrace AO uživatele",
+  "description": "Ahoj,\r\n\r\npotřeboval bych dořešit registraci AO uživatele viz ID #303907 https://app.aliteo.com/task/a06kc47a701953/?view=comments Nevím, na koho předat.\r\n\r\nUživatel Miluše Štětinová pod RABBIT Trhový Štěpánov a.s. = byla zneaktivněna po převodu z původního KA do AO s e-mailem miluse.stetinova@rabbit.cz< mailto:miluse.stetinova@rabbit.cz >\r\nNásledně zaktivněna a přes zaslanou pozvánku se registrovala pod e-mailem miluse.stetinova@rabbitchotysany.cz< mailto:miluse.stetinova@rabbitchotysany.cz >\r\nU osoby v CRM ji stále vidím ve stavu Pozvánka, při výběru v AO je také zobrazena ve stavu pozvánka, nefunguje zadání případu z IS KARAT, někde se to nepotkává.\r\n\r\nDíky.\r\n\r\nJeště poprosím zkontrolovat uživatele MEDICA FILTER spol. s r. o. - Miroslava Horáčková mhorackova@medicafilter.cz< mailto:mhorackova@medicafilter.cz >\r\nTo je nějaký úplný paskvil. Řešili jsme už v ID #297558 https://app.aliteo.com/task/a065tq2kng1u9d/?view=comments Ale zůstalo to nedořešené. Paní Horáčková se do AO hlásila pod účtem paní Polívkové, která v MEDICA FILTER skončila.\r\nNásledně jsme paní Horáčkové zasílali pozvánku, aby si vytvořila vlastní účet, ale nějak se to nepotkalo, v CRM je stále ve stavu pozvánka, v AO ji nedokážu vůbec vybrat, ale vypadá to, že zadání případu z IS KARAT prošlo viz ID výše.\r\n\r\nDíky\r\nRadek",
+  "owner": "Radek Zatloukal",
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Radek, ani do jedneho pripadu nemam pravo pozerat, takze som sa tam nedostal, ale: ad Miluse Stetitnova - v spolocnosti KARAT ma prioritny email miluse.stetinova@rabbit.cz a preto je pozvanka chodi stale na tento email. ad Miroslava Horackova - tento ucet existuje a a je pozvana do spolocnosti a pozvanku neprijala. Ale pri zalozeni pripadu sa tento uzivatel identifikuje, preto to slo. Ako myslis ze ju nedokazes vybrat? Resp kde?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "odpoved od @ radek.zatloukal@karatsoftware.cz (radek.zatloukal@karatsoftware.cz) : ad Miluse Stetitnova - v CRM jsem e-mail opravil, ale pozvánku neřeším, ona evidentně registrovaná je, dle zaslaného obrázku (dávám i do přílohy)  v ID #303907, přidal jsem na úkol práva, tak vyzkoušej, jestli uvidíš. Ale zobrazuje se stále ve stavu pozvánka (v AO i IS KARAT) a nemůže zadat případ z IS KARAT = skončí chybou. Řeší to za ni správce IT, což také asi není úplně ideální. Řešil jsem to s ním v tom výše uvedeném ID. Ale za mě tam někde koliduje nějaký historický uživatel miluse.stetinova@rabbit.cz< mailto:miluse.stetinova@rabbit.cz > vs nově založený miluse.stetinova@rabbitchotysany.cz< mailto:miluse.stetinova@rabbitchotysany.cz > a proto se to nepotkává, takže je nějak propojit pod ten nový login ? nevím. ad Miroslava Horackova - v ID #297558 je k tomu nějaká komunikace, opět jsem přidal práva. Nemůžu vybrat = moje chyba. Myslel jsem vybrat v AO jako vlastníka nebo sledujícího případu. Ale zkoušel jsem znovu a lze ji vybrat, jen se nezobrazuje v horní části společně s ostatními účastníky projektu, ale až mezi lidmi z IS KARAT, když zaroluji níže. Jinak v AO i IS KARAT ji opět vidím ve stavu pozvánka. Ale jak to, že jde vybrat jako sledující, když tedy nikdy nepřijala pozvánku ? Nebo může založit případ z IS KARAT a uživatel se identifikuje, když třeba výše uvedená miluse.stetinova případ z IS KARAT nezaloží, alespoň dle toho, co mi píše jejich správce. Ona údajně nějakou dobu používala účet Lucie Polívkové, která ve společnosti již nepracuje, tak jestli si třeba systém nepamatuje tuhle uživatelku a jako Miroslava Horáčková registraci nedokončila, proto je stále ve stavu pozvánka ? Prostě nějaký paskvil. Ale zase jen vařím z vody 😊 Díky, Radek"
+    },
+    {
+      "creator": "Radek Zatloukal",
+      "comment": "aliteo.jpg viz Miluse Stetitnova"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ad Miluse - skus to u LBE, pretoze v ALITEO v nastaveniach spolocnosti KARAT ma stale email miluse.stetinova@rabbit.cz . Malo by sa jej to zmenit na miluse.stetinova@rabbitchotysany.cz a nasledne poslat pozvanku, ktoru by mala prijat a prihlasit sa pod tymto emailom. Potom bude sucastou spolocnosti KARAT a nemal by byt problem zalozit novy pripad.  Co sa tyka fotky - ten KARAT co tam vidis nie je nas KARAT, podla mna si pridala sama spolocnost. To nie je original KARAT, kde bola pozvana. Mozno si mysli ze pridat sa do spolocnosti staci, ak si pridas novu spolocnost v hornom menu ale to tak nefunguje, tym si len vytvoris novu, svoju vlastnu. ad Horackova - ano to je v poriadku,  ona je pozvana do spolocnosti na spravny email a ked uz v spolocnosti je, tak s nou mozes pracovat aj ked pozvanku neprijala este. Je to prave preto, aby si ty nemusel cakat na kedy sa registruje a mohol s nou ako uzivatelom pracovat vopred."
+    }
+  ]
+}

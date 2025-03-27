@@ -1,0 +1,31 @@
+{
+  "id": "a05h6oovu01sn4",
+  "created": "2024-02-06T10:39:19.003Z",
+  "closed": "2024-02-06T12:00:22.797Z",
+  "duration_minutes": 81,
+  "first_response_minutes": 1,
+  "name": "Altivace licencí",
+  "description": "Dobrý den, chtěl bych požádat o prověření počtu licencí které máme k dispozici. Chtěli jsme přidat uživatele ale hlásí nám to, že už máme 6 uživatelů (předpokládám že to počítá i Vás) Ale myslím že už jsme platily i další uživatele, tak jestli by jste nám to mohli aktivovat, aby jsme mohli začít používat Aliteo v ostrém provozu. Děkuji",
+  "owner": "Miloš Dražan",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nebola nastavena licencia, ktoru ste si zaplatili. Skuste sa na to prosim pozriet, malo by to fungovat."
+    },
+    {
+      "creator": "Miloš Dražan",
+      "comment": "Díky, je to tam už jak má být. Za mě OK, můžeme zavřít 🙂"
+    }
+  ]
+}

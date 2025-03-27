@@ -1,0 +1,75 @@
+{
+  "id": "a05sdg8vpg1bpn",
+  "created": "2024-05-03T12:26:04.03Z",
+  "closed": "2024-05-14T06:35:21.626Z",
+  "duration_minutes": 15489,
+  "first_response_minutes": 350,
+  "name": "rozšířění licence",
+  "description": "Dobrý den,\r\nRád bych požádal o rozšíření licence o 1ks\r\nRádi bychom o tuto licenci rozšířili fakturaci, bohužel v nastavení licencí lze pouze platba kartou.\r\n\r\nS pozdravem\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 13,
+    "from_owner": 5,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím Vás, nie som si isty v com je problem. V nastaveni licencie kliknete na zvysit k dnednemu dnu, pridate jedneho uzivatela a potvrdit? Platba kartou, ktora tam uz je sa upravi a vy teoreticky nemusite nic riesit. Takto je to najidealnejsi postup nakolko pri platbach prevodom sa caka na pripisanie sumy a nie vzdy to byva obratom. Dakujem vopred za vysvetlenie.."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den,\r\nDěkuji za vaše vyjádření, bohužel jsme se nejspíše nepochopili.\r\nO možnosti objednat přímo ze systému a zaplatit kartou samozřejmě vím.\r\nPři tomto postupu (jiná možnost se nám v systému ani nenabízí) však musím potvrdit, že souhlasím s ročním strháváním částky z karty.\r\nTo bohužel neakceptuje naše finanční oddělení.\r\nProto bychom rádi objednali licenci a uhradili jiným způsobem.\r\nAktuálních 20 licencí jsem neobjednával já, ale předpokládám, že platby také nejsou strhávány pravidelně z karty.\r\n\r\nPro případné upřesnění jsem k dispozici\r\n\r\nS pozdravem\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Problem teda nie je rocna platba kartou ale automaticke strhavanie?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Problem teda nie je rocna platba kartou ale automaticke strhavanie?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "ano\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) Aky by bol spravny postup? zakaznik by chcel rucne zaplatit zakazdym"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Nevím probereme na poradě."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Jedinym postup aktualne teraz, je pridat uzivatela a zaplatit kartou, kedze aktualne uz na iste obdobie to zaplatene mate. Nasledne potom pouzijete moznost \"znizenie licencie\" (ked sa bude chylit ku koncu zaplateneho obdobia), nezmenite nic, len si vyberiete platbu prevodom (nie je mozne platit kartou bez periodicity)."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den,\r\nLicenci jsme tedy navýšili pomocí platby kartou když to nelze jinak.\r\n\r\nBohužel v menu licencí nikde nevidím možnost ponížit licenci, dle vašeho předchozího vyjádření.\r\nProsím tedy abyste opakovanou platbu kartou zrušili vy\r\nObnova licencí bude k datumu výročí probíhat stejně jako letos pro navýšený počet licencí.\r\nNásledně můžeme tiket uzavřít\r\n\r\nS pozdravem\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, ja bohuzial nemam taku moznost. Mohli by ste mi poslat printscreen vasej obrazovky z miesta licencii? Mali by ste tam mat tlacidlo \"sprava licencie\", ktore obsahuje 2 moznosti: zvysit k dnesnemu dnu a zmenit k datumu obnovenia. Vyberiete \"zmenit k datumu obnovenia\". Ospravedlnujem sa, nevola sa to znizenie licencie."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Tam jsem to našel a nastavil na převod snad tedy bude nyní v pořádku\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vyborne, to ma tesi. Mozeme teda pripad uzatvorit? v pripade ze by nieco bolo, pokojne napiste znova."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Ano můžeme uzavřít\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "a05spgfvj01vb4",
+  "created": "2024-05-06T10:22:45.506Z",
+  "closed": "2024-05-07T06:33:00.876Z",
+  "duration_minutes": 1210,
+  "first_response_minutes": 65,
+  "name": "výkaz práce k pravděpodobně nesesynchronizovaném komentáři",
+  "description": "Ahoj,\r\n\r\nNarazil jsem asi na \"chybu\", kdy se snažím vykázat na čerstvě pořízený komentář případu, který je z minulého období. Uvedu příklad, vytestujte to, já to na ostrých KA testovat nebudu:\r\n\r\n\r\n  1.  Mám KA, které je např. 3/2024\r\n  2.  Toto KA má několik komentů v průběhu 3/2024\r\n  3.  Dnes napíšu vyjádření\r\n  4.  Hned po odeslání klikám nad komentářem na pořiď nový výkaz\r\n  5.  V datu výkazu je datum ze 3/2024 - dnes se mi stalo nad případem https://app.aliteo.com/task/a05fq3auhg0jb5/?view=comments , že mi tam spadl datum výkazu 11.3.\r\n  6.  Jak říkám, opakovat to na ostré nebudu, ale přijde mi, že to potom zbytečně generuje práci...\r\n\r\nfilipp\r\n\r\n\r\n\r\nFilip Pražák\r\nconsultant\r\n\r\ntel.: +420 581 737 184 | mobil: +420 607 082 393 | filip.prazak@karatsoftware.cz< mailto:filip.prazak@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Filip Pražák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report a nie som si isty ci to simulujem spravne. Nasiel som si ulohu, ktora bola vytvorena 17.3.2024: pridal som tam komentar dnes a ked na neho kliknem a idem dat vykaz prace, da mi to dnesny datum Ak vykaz prace dam nad starsim komentarom tak sa prevezme asi datum toho komentara podla tej logiky by to malo zobrat dnesny datum, otazka, ze ci by to VZDY nemalo zobrat dnesny datum, aj ked vykazujes na komentar ktory bol v minulosti kazdopadne neviem ako nasimulovat"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "ahoj data máš správná, já jsem odeslal komentář a ihned jsem nad komentářem provedl výkaz. A už když jsem ho měl v náhledu, tak jsem tam měl 11.3. ale mám zánět spojivek a želé misto mozku a řekl jsem si, že to je OK, jinak bych to zahlásil s obrázkem.. zkus ještě tak, v opačném případě možná vyrobím nějakej výkaz.. nejde asi o velkou věc, ale rád hlásim chyby"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Neviem ci som pochoopil tvoj komentar ##2 Mozno ze by bolo riesenim, ak by si poslal odkaz na komentar, ktory toto robi.. Skus este raz nad tym istym komentarom urobit vykaz ci ti to stale hadze datum v 03/2024 alebo nie.."
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "hele udelal jsem do ostrrych KA tento test a nepovedlo se mi to zopakovat... nevim, cim to bylo.. asi to tu zavreme"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, ved keby sa ti to zopakovalo tak kludne zaloz znova.. dakujem"
+    }
+  ]
+}

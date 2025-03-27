@@ -1,0 +1,39 @@
+{
+  "id": "a05oldu50g0f47",
+  "created": "2024-04-04T08:57:28.976Z",
+  "closed": "2024-04-08T13:07:16.319Z",
+  "duration_minutes": 6009,
+  "first_response_minutes": 12,
+  "name": "na seznamu VP není filtr za Projek",
+  "description": "prosím o doplnění na seznamu VP filtru za \"Projekt\" - obdobně jako je na úkolech. nyní vidím, že mám 3 projekty, ale už nevím jaké, když si chci udělat přehled za měsíc za daný projekt, tak to nejde jednoduše.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Výkazy práce",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, ano, myslim zue to tam povodne aj bolo, ale nieco sa muselo zmenit, ja tam napriklad mam dve ciary.. takze mam za to ze to tam bolo ale nieco sa stalo preco to tam nie je.. nahlasim na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dostal som info od AKO, ze na VP nikdy neboli projekty, takze to zoberiem ako podnet do planu vyvoja cez produktovu poradu. Ok @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) ?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, mě by to určitě pomohlo když mám pod sebou desítky projektů na které vykazuji."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, chces to nechat otvorene alebo to mozem zatvorit?"
+    }
+  ]
+}

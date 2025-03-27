@@ -1,0 +1,67 @@
+{
+  "id": "a070edmg8002i7",
+  "created": "2025-02-07T08:40:37.284Z",
+  "closed": "2025-02-26T14:46:17.876Z",
+  "duration_minutes": 27725,
+  "first_response_minutes": 4297,
+  "name": "Úkol - plánování schůzky",
+  "description": "v rámci úkolu je možné zaplánovat si schůzku, která se mi propíše do kalendáře. Prosím o zvážení těchto úprav, které by to zpříjemnili a bylo by to lépe použitelné: 1. chybí mi tam pole, do kterého napíši, co chci na té schůzce dělat (například vím že se mám věnovat vyjádření XX nebo se mám s někým spojit atd) - nyní to vytvořím a nic nemohu dělat. Možná když název úkolu jde do předmětu, tak by stačilo umožnit editovat předmět nebo mít pole předmět a když tam nic nevyplním, tak tam dát název (kompatibilní) a když vyplním, tak tam dát to, co napíši. nebo to umožnit psát do toho textu 2. když plánuji, tak nevidím co na ten daný den mám - můžu si zobrazit kalendář, ale jak dám vytvořit schůzku z úkolu, tak už s ním nemohu hýbat. -- Hodilo by se nějaké pole kde bude seznam těch schůzek v daný den kdy plánuji. -- Nebo aspoň aby mi zahlásil, že mám konflikt s nějakou událostí atd. 3. nijak vizuálně neodlišuje ty události, které mají být a které již byly - nejsou schované, není tam jiný text - je tam Naplánovat úkoly (tento text ale není to co je ve schůzce a taky se mohl třeba měnit atd.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 3,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za podnet, sumar co by si chcel: 1. pri vytvarani terminu kalendara zobrazit polia \"Predmet\" (predvyplnit nazvom ulohy) a pole Popis (prazdne) a na koniec by sa defaultne pridalo to co je tam teraz (bez moznosti upravy). 2. zobrazit v danom okne denne zobrazenie (podobne ako v pravom panely) aby si videl kde mas volny slot (toto bude za mna lepsie ako vypisovat konflikty) 3. hovoris o zalozke \"Kalendar\" kde by si chcel odlisit veci ktore boli a ktore su v buducnosti? (pisem naschval veci, lebo to mozu byt aj body porady) pozn. sucastou jednej vyvojovej ulohy #3161 Zaplanovanie uloh do kalendara + zaplanovanie bodu porady je bod kde by sa malo dat prekliknut do kalendara velkeho kde by bol velky plan.. toto by som mozno upravil o to co piseme hore.. teda moznost editovat text a nazov udalosti, ktory bude prebraty z nazvu ulohy"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano. ad3 - jde o to že pod úkolem v záložce kalendáře: asi nemůže být porada ne? a nyní se mi tam motají ty staré události (mohly by být třeba šedé atd.) a ty budoucí."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ad 3 - ak je dana uloha sucastou bodu porady (pod porady s vazbou na ulohu) tak je tu zobrazeny aj ten body porady - klikom na to sa premiestnis do danej porady. Rozumieme si?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "aha, ono to musí být až úkolem, nestačí k vyjádření, rozumím. Takže ano i pro porady by to mělo podle mě fungovat stejně, vidět bych to měl, ale mělo by být odděleno, že ta porada (tedy ta událost) už je v minulosti..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu produktu: - vid prvy komentar"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "z porady: 1 + 2 - na diskusiu dalej - plain text nie je problem, dovolit zmenit nazov takisto - otazka ci to robit hned - doplnit do okna to je vec chvilky alebo to doplnit v ramci planovania #3161 Zaplanovanie uloh do kalendara + zaplanovanie bodu porady - problem je stale to ze kalendarova sluzba tam body preorganizuje podla seba (bohatsi format) a potom by to bol problem do ALITEO 3 - na UI aby sme odlisovali stare udalosti"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) presli sme na porade: 1 - rozumieme potrebe, avsak kalendarova sluzba robi okolo tela udalosti bohatsi format a je potom problem sa s tym vysporiadat pri natahovani do ALITEO, ale budeme to nejakym sposobom riesit (problem je edit) - vo vseobecnosti to posuvame dalej 2 - ostava v ulohe #3161 Zaplanovanie uloh do kalendara + zaplanovanie bodu porady - ak toto bude implementovane tak sa v tomto okne bude musiet prejavait takisto bod 1 (ak sa nieco z toho do ALITEO prenesie) 3 - posunieme na UI - dava to zmysel"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na dalsiu porady: 1 + 2 - na diskusiu dalej - plain text nie je problem, dovolit zmenit nazov takisto - otazka ci to robit hned - doplnit do okna to je vec chvilky alebo to doplnit v ramci planovania #3161 Zaplanovanie uloh do kalendara + zaplanovanie bodu porady - problem je stale to ze kalendarova sluzba tam body preorganizuje podla seba (bohatsi format) a potom by to bol problem do ALITEO 3 - na UI aby sme odlisovali stare udalosti"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Pri prvom vytvoreni kalendarovej udalosti napr. z ukolu bude mozne menit nazov, ktory je v sucasnej dobe nazov daneho ukolu a doplnime aj pole pre popis. - Ak dojde k editacii z kalendarovej sluzby, zmena sa zobrazi aj v ALITEO ako neformatovany text. (zobrazujeme len to, co je v udalosti v zdrojovom kalendare) Cele budeme riesit v ramci ulohy #3161 Zaplanovanie uloh do kalendara + zaplanovanie bodu porady Vizualizacia preslych uloh bude riesena s Kyzlinkom."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) vid predchadzajuce komentare , budeme tvoje poziadavky riesit nejakym sposobom. Mozeme teda uzatvorit?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok"
+    }
+  ]
+}

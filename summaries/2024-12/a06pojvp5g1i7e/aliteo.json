@@ -1,0 +1,35 @@
+{
+  "id": "a06pojvp5g1i7e",
+  "created": "2024-12-17T11:10:54.193Z",
+  "closed": "2024-12-22T13:53:44.728Z",
+  "duration_minutes": 7362,
+  "first_response_minutes": 11,
+  "name": "výpadky systému Aliteo",
+  "description": "Dobrý den,\r\nObracím se na vás s prosbou během dnešního dne dochází k častým a poměrně dlouhým výpadkům systému Aliteo.\r\nU některých uživatelů pomůže opětovné spuštění prohlížeče, někdy nepomůže ani to a trvá nějakou dobu než systém odpoví,\r\nNebo načte další obrazovku.\r\nRegistrujete prosím na systému nějaké výpadky.\r\nProsím o prověření a zpětnou vazbu.\r\n\r\nS pozdravem\r\n\r\nJan Šefčák\r\nZastupce reditele pro podporu a infrastrukturu\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, preposlem Vas dotaz na vyvoj a zistim ci nieco podobne registruju a budem Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) zaznamenavate nejake problemy? podla statistics tam mame vykyvy:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zatial neregistrujeme vypadky, ani od inych zakaznikov, ale kazdopadne to budeme sledovat. V pripade ze sa to opat stane, prosim o info aj na daniel.dzuro@karatsoftware.sk, nakolko ak nebude dostupna sluzba, nepodari sa vam dat info prostrednictvom aplikacie ALITEO. Takisto Vas poprosim, odoslite v ten moment aj zaznam z konzole (F12). Dakujem vopred za pomoc."
+    }
+  ]
+}

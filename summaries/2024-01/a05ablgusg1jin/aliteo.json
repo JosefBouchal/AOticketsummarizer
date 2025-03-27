@@ -1,0 +1,55 @@
+{
+  "id": "a05ablgusg1jin",
+  "created": "2023-12-15T06:17:45.532Z",
+  "closed": "2024-01-25T08:45:01.633Z",
+  "duration_minutes": 59187,
+  "first_response_minutes": 60,
+  "name": "Komentářová vyšší logika mě neumožňuje napsat co potřebuji",
+  "description": "Potřebuji napsat text do komenátře:\r\n\r\nMíši,\r\nk včerejší debatě, takže jestli tomu dobře rozumím, tak ty dostaneš čárkou oddělený seznam ze všech řádků, co vrátí i vícenásobný sql dotaz, že?\r\n\r\n\r\ntakže pokud vrátí:\r\n#TO=​aa@aa.cz​,​bb@bb.cz​;#BCC=​cc@cc.cz​;#TO=​dd@dd.cz​; (to #TO=​dd@dd.cz​ je druhý řádek výsledku) tak pak dáš #TO1 a #BCC1 k sebe a pošleš, ale kdyby někdo měl (nyní chci dát Enter a dělá to psí kusy, ale to já nechci, #TO rozhodně není #číslo úkolu ani nic jiného)\r\n\r\nLubomír Bednář",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Lowest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 5,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) chapem teda spravne ze potrebujes pisat nejake vyrazy a mi za niektorymi znakmi mame funkcionality napriklad zmienka za zavinacom. jedina co ma napada je to, ze by sme napriklad pre format Code odstranili vsetky funkcnosti (neviem este ake to ma dalsie dosledky ale toto ma napadlo ako prve). Riesilo by to tvoj problem? Dakujm"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "možná to i v code je tak napsáno mě šlo o to, aby se to pak tak blbě nechovalo, dám enter na konci a entruje to někde nesmyslně za mailovým účtem, zkusil sis třeba napsat bla bla aa@aa.cz , bb@bb.cz a bla bla bla cc@cc.cz  blh blh blh a pak Enter? zkus to pls a řekni mám použít code, přijde ti logické, že když dám enter za blh blh blh že se to odentruje za aa@aa.cz ? myslíš, že zákazníci při takovém textu budou chtít používat code?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "nemohl jsem tam už nic napsat za to, jelikož kdekoliv v druhém odstavci jsem dal enter, tak ups"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "jako nemůžu napsat ani, Poslal jsme mail na reklamaci@fima.cz a doposud nereagovali Jirko pořeš to? přitom mě to přijde jako normální vyjádření, jen pak musím mazat entery, kde jsem nechtěl a nevím co"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "jen pro zajímavost, opravy se chovají taky divně, chtěl jsem opravit text a místo toho na blh blh blh jsem chtěl backspace smazat n a napsat z jelikož mělo být za blh blh blh a to udělá to, že sice n maže, ale kurzor dá za bb@bb.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Aha uz rozumiem, problem je inde.. ze to odentruje nezmyselne.. taketo gifko je velka pomoc inak: myslel som ze sa tie zavinace tam zapletu nejak zmienky chapem, predama na vyvoj (nema to s CODE nic spolocne)"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "super, díky moc"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubo, nahlasena chyba by uz mala byt opravena. U mna teda aspon to funguje - text neodstakuje.."
+    }
+  ]
+}

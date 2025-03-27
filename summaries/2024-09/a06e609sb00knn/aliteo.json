@@ -1,0 +1,59 @@
+{
+  "id": "a06e609sb00knn",
+  "created": "2024-09-18T12:11:31.426Z",
+  "closed": "2024-09-22T08:22:11.647Z",
+  "duration_minutes": 5530,
+  "first_response_minutes": 23,
+  "name": "prosím o zařazení testovací společnosti do programu PREMIUM",
+  "description": "Ahoj,\r\nProsím o přidělení licence PREMIUM pro společnost : #300985 Nastavení testovaní synchronizace Aliteo <> Karat ##2< https://app.aliteo.com/comment/a06e5veu2g14dj/ > ID: a06cbllogg0f77 založena zde (beta) https://aliteobetaapp.azurewebsites.net/main/ s názvem test_new\r\nTuto budeme synchronizovat na test_new (testovací db karatu).\r\n\r\nDěkuji\r\nP.\r\n\r\n\r\nIng. Pavla Malá\r\nconsultant\r\n\r\ntel.: +420 581 737 180 | pavla.mala@karatsoftware.cz< mailto:pavla.mala@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Pavla Malá",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 1,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, nastavime to ako je potrebne - bude to ale tarif Custom..  Dam vediet ked tak spravime."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Skontroluj prosim licencie, povolil som Custom licenciu - je to \"zaplatene\" do 31.12.2025. Pozri ci limity stacia a poznac si to potom na 12/2025 aby sme predlzili. Takisto navrhujem premenovat spolocnost na nieco co bude viac avizovat ze to je testovacka KARATu"
+    },
+    {
+      "creator": "Pavla Malá",
+      "comment": "Dane, překontrolujeme. děkuji i za návrh. Zvážíme vše včetně jména. nyní byl zvolen tento název, protože je stejný, jako je db, do které budeme synchronizovat. Otázka dalšího vývoje ale může ukázat, že budeme muset nějak upravit. Pokud by ještě něco bylo za problém, tak se ozvu. P."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) este chcel odkaz na swagger na betu: https://aliteobetaapi.azurewebsites.net/swagger/ui"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) na té společnosti test_new nejde zapnout API: je to na tarifu Basic: jedná se o ID společnosti: a06cbllogg0f77 pro jistotu jsem tě tam i pozval."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) skus teraz.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, nyní to vypadá ok, jen mě tam mate viz obrázek možnost něco aktivovat. nemačkal jsem, API jde zapnout. nyín to tedy bude už na někom, kdo napíše synchronoizaci do KAZASu. A to si zajistí @ Pavla Malá (pavla.mala@karatsoftware.cz) (BTW. RKR a Martin Petrovský se nyní zaučují na API z KAZASu - tak by to pro ně mohl být studijní materiál :-)"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) tak ještě píšu, že i přišlo řadu e-mailů, že jsme na 90% no ale nejsem - tak to je nějaké divné: e-maily přikládám do přílohy. Sem to asi už nepatří. Další problém pak je po prokliku, kdy je tam pod F12 chyba. Zkus sám jestli ti to taky dělá."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) nie som si isty aky preklik, ale pokial je licencia ok, potom ok.. uprimne, chyby na bete neriesim - vela krat ak je nejaka urgentna oprava na ostru, tak sa to nasadi na betu, otestujeme a potom davame na ostru... - takze neviem ako je to vhodne na testovanie.. ale ked tak novy pripad zadaj, ak tam mas nejaku chybu... ale je to beta neviem, co na to vyvoj"
+    }
+  ]
+}

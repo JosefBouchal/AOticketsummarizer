@@ -1,0 +1,39 @@
+{
+  "id": "a05nl4cepg0gjk",
+  "created": "2024-03-27T12:48:19.712Z",
+  "closed": "2024-03-28T09:51:15.968Z",
+  "duration_minutes": 1262,
+  "first_response_minutes": 110,
+  "name": "Filtrace úkolů propojených vazbou",
+  "description": "Úkoly s vazbou na hlavní úkol lze filtrovat (což je super) ale mezi otevřené úkoly se dostávají i všechny zrušené. Zrušené nepovažuji za \"otevřené\".",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Rozumiem, toto sme tusim uz riesili . idem pohladat ako to dopadlo.. ale toto mi pride ako chyba. Medzi otvorene ulohy patria len otvorene, teda nie zrusene ani uzatvorene.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chces to nechat otvorene alebo to uzatvorime?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zda sa ze je to opravene.. mozes potvrdit ci je to u teba ok?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Děkuji za úpravu, zdá se to v pořádku"
+    }
+  ]
+}

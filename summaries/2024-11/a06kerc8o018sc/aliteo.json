@@ -1,0 +1,55 @@
+{
+  "id": "a06kerc8o018sc",
+  "created": "2024-11-06T06:12:19.048Z",
+  "closed": "2024-11-08T08:02:09.056Z",
+  "duration_minutes": 2989,
+  "first_response_minutes": 47,
+  "name": "Přechod na standardní API rozhraní ALITEO",
+  "description": "Zdravím, Pro jistotu zakládám případ, kdyby z informace, že dneska tj. 6.11.2024 v 20:00 dojde k vypnutí staré komunikace a přechod na standardní API rozhraní ALITEO nebylo patrné, že se musí něco provést i ve společnosti ALITEO. Do naší DB synchronizujeme i společnost ALITEO (a02680eeqg1n4b). Na této společnosti někdo (admin společnosti (to já nejsem, nemohu udělat)) bude muset do té doby přepnout co se má synchronizovat (nejspíše Uživatelé společnosti, Uživatelské skupiny, Řešitelské skupiny a Výkazy práce). Pokud bude zapnuto jen to je výše uvedeno, tak snad nedojde nic nového a nebude problém s přechodem. Pokud bude vráceno i něco více, než co je nyní, stane se, že se například nenastaví firemní atributy, tedy pak nepřenesou do DB, atd, atd, atd. Pokud to nebude nastaveno, tak pak někdo to bude muset řešit nějak zpětně. Já na společnosti ALITEO provedu prvotní inicializaci, ale pokud dojde k větší komplikaci, tak bude zapotřebí ať si někdo u firemního programátora zajistí zprovoznění (já ještě dořeším v rámci této změny společnost KARAT). S pozdravem Lubomír Bednář",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 1,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Jinak tipuji, že společnost Aliteo vývoj\ta0109183mg1mut se již synchronizovat nemá"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubos, dakujem za upozornenie."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vies prosim podla podla toho co pise Lubos, co treba nastavit?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Nastavil jsem co Luboš píše ."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "xxx"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": ""
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": ""
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Toto asi zavřeme, další řešíme novými případy."
+    }
+  ]
+}

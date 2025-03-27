@@ -1,0 +1,39 @@
+{
+  "id": "a06gvploo01cr3",
+  "created": "2024-10-10T07:16:24.165Z",
+  "closed": "2024-10-13T06:14:35.799Z",
+  "duration_minutes": 4258,
+  "first_response_minutes": 1361,
+  "name": "API synchronizace nevytváří aktivity komponenty, tedy ani upozornění",
+  "description": "Například jsem naplnil atribut Datumočas v 9:11 Aktivity na úkole mlčí o tom, že se provedla změna, pro jistotu aby jste věřili jsem změnil pak DatumoČas na 9:20 a aktivity úkolu stále mlčí. Pak samozřejmě nechodí ani notifikace a to i když je zapnuto, aby se vytvářely. Toto je potřeba opravit. Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 0,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubo, dik za report, preposielam na vyvoj.. Ospravedlnujem sa ze som to nespravil uz vcera.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tyka sa to len tohto dat. typu atributu? alebo azda vsetkeho..?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Já už to Dane řeším...vím o co jde"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, je zalozeny navazny.."
+    }
+  ]
+}

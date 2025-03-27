@@ -1,0 +1,55 @@
+{
+  "id": "a06aocibg00npp",
+  "created": "2024-08-22T21:37:42.081Z",
+  "closed": "2024-08-26T10:06:28.056Z",
+  "duration_minutes": 5068,
+  "first_response_minutes": 503,
+  "name": "Spouštění KRA z Aliteo ve Firefoxu",
+  "description": "@ Novák Vojtěch (vojtech.novak@karatsoftware.cz) se mě dotazoval, proč se KRA přestala spouštět při kliknutí na odkaz Připojení v Aliteo. Používá prohlížeč Firefox a co tak testuju v sandboxu, tak je pravda, že Firefox má nějaký problém KRA spustit. Při kliku levým tlačítkem na Připojit se prostě jen otevře záložka s odkazem a nic se neděje . Přitom když v otevřeném okně vejdu do adresního řádku a enterem jej potvrdím, tak se KRA spustí . Taky když na stejný odkaz kliknu prostředním tlačítkem, tak se KRA normálně spustí. Prý mu to dříve fungovalo.",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 2,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik, preverim a dam vediet.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) moze to sposobit ALITEO? mam ti zalozit na to vyvojovy pripad?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Mohou kluci zjistit, jestli to stejné v chrome funguje? Mohou kluci zkopírovat adresu z Připojení a vyzkoušet přes Spustit, jestli to KRA spustí mimo prohlížeč? V chrome - po kliku na Připojení se zobrazí a pak se teprve spouští... např. mně spadne na chybu . V firefoxu podruhé už se neptá a skončí jak popisují, ale podle mne může být problém v aplikaci KRA. Mohlo by stačit ji přeinstalovat nebo jinak zprovoznit - to už jde mimo mne."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) odpoved od Allana: Mohou kluci zjistit, jestli to stejné v chrome funguje? Mohou kluci zkopírovat adresu z Připojení a vyzkoušet přes Spustit, jestli to KRA spustí mimo prohlížeč? V chrome - po kliku na Připojení se zobrazí a pak se teprve spouští... např. mně spadne na chybu . V firefoxu podruhé už se neptá a skončí jak popisují, ale podle mne může být problém v aplikaci KRA. Mohlo by stačit ji přeinstalovat nebo jinak zprovoznit - to už jde mimo mne."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Ano, ve Chrome to funguje. Ano, KRA se přes spustit spustí. To bude nějaký problém u tebe, máš správně nainstalovanou KRA? Co máš za verzi? Autor KRA tvrdí, že to bude Aliteem, ty tvrdíš, že to bude KRou 😀. Osobně si začínám myslet, že to bude nějaký problém ve Firefoxu, protože nedokážu ničím jiným vysvětlit to, že když kliknu na odkaz levým tlačítkem, tak to nefunguje, ale když prostředním, tak ano.  Jste příp. schopni to nějak \"zdebugovat\", co se tam řeší jinak nebo to už je úplně mimo naše možnosti? BTW našel jsem třeba https://support.mozilla.org/ha/questions/1280803 ."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Viz přidaný odkaz... mně to také připadá jako problém firefoxu a mám obavu že na straně Aliteo nedokáži řešit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "od Allana: Viz přidaný odkaz... mně to také připadá jako problém firefoxu a mám obavu že na straně Aliteo nedokáži řešit."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "OK, rozumím, škoda, ale asi to opravdu není chyba ani v Aliteo ani v KRA, takže mimo naše možnosti. Každopádně díky, můžeme uzavřít."
+    }
+  ]
+}

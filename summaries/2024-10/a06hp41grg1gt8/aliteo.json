@@ -1,0 +1,27 @@
+{
+  "id": "a06hp41grg1gt8",
+  "created": "2024-10-16T10:47:46.477Z",
+  "closed": "2024-10-16T11:07:15.193Z",
+  "duration_minutes": 19,
+  "first_response_minutes": 18,
+  "name": "API změny z ALIEO -> KARAT pád, ale na straně ALITEO?",
+  "description": "Odeslaný dotaz:\r\n{\"company\":\"a069077mrg06rn\",\"lasttranId\":\"a06hortt00crkn\",\"limit\":20,\"simpleResult\":\"true \"}\r\n\r\nVráceno:\r\n{\"iserror\":true,\"error\":\"System.ArgumentException: Requested value 'TeamGroup' was not found.\\r\\n   at System.Enum.TryParseByName(RuntimeType enumType, ReadOnlySpan`1 value, Boolean ignoreCase, Boolean throwOnFailure, UInt64& result)\\r\\n   at System.Enum.TryParseInt32Enum(RuntimeType enumType, ReadOnlySpan`1 value, Int32 minInclusive, Int32 maxInclusive, Boolean ignoreCase, Boolean throwOnFailure, TypeCode type, Int32& result)\\r\\n   at System.Enum.TryParse[TEnum](ReadOnlySpan`1 value, Boolean ignoreCase, Boolean throwOnFailure, TEnum& result)\\r\\n   at System.Enum.Parse[TEnum](String value)\\r\\n   at Aliteo.FunctionApi.FunctionApi.fillParents(Cache cache, IEnumerable`1 changes) in d:\\\\_aliteoPublish\\\\beta\\\\Aliteo.FunctionApi\\\\FunctionApi.cs:line 7186\\r\\n   at Aliteo.FunctionApi.FunctionApi.syncGetChanges(String body, String apikey, ILogger logger) in d:\\\\_aliteoPublish\\\\beta\\\\Aliteo.FunctionApi\\\\FunctionApi.cs:line 2645\",\"isrepeatable\":false}\r\n\r\n\r\nTedy:\r\nALITEO API ERROR: /SyncGetChanges\r\nSystem.ArgumentException: Requested value 'TeamGroup' was not found.\r\n   at System.Enum.TryParseByName(RuntimeType enumType, ReadOnlySpan`1 value, Boolean ignoreCase, Boolean throwOnFailure, UInt64& result)\r\n   at System.Enum.TryParseInt32Enum(RuntimeType enumType, ReadOnlySpan`1 value, Int32 minInclusive, Int32 maxInclusive, Boolean ignoreCase, Boolean throwOnFailure, TypeCode type, Int32& result)\r\n   at System.Enum.TryParse[TEnum](ReadOnlySpan`1 value, Boolean ignoreCase, Boolean throwOnFailure, TEnum& result)\r\n   at System.Enum.Parse[TEnum](String value)\r\n   at Aliteo.FunctionApi.FunctionApi.fillParents(Cache cache, IEnumerable`1 changes) in d:\\_aliteoPublish\\beta\\Aliteo.FunctionApi\\FunctionApi.cs:line 7186\r\n   at Aliteo.FunctionApi.FunctionApi.syncGetChanges(String body, String apikey, ILogger logger) in d:\\_aliteoPublish\\beta\\Aliteo.FunctionApi\\FunctionApi.cs:line 2645\r\n\r\n\r\nMožná to má souvislost s tím, že jsem zkoušel řídící úkol týmu dát jako dílčí řídícího úkolu projektu. V ALITEO to prošlo, ale možná že toto zde způsobilo problém.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predane na vyvoj"
+    }
+  ]
+}

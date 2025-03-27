@@ -1,0 +1,35 @@
+{
+  "id": "a05k5u30n007n3",
+  "created": "2024-02-29T13:02:15.501Z",
+  "closed": "2024-03-01T22:22:26.247Z",
+  "duration_minutes": 2000,
+  "first_response_minutes": 1618,
+  "name": "FW: Aliteo - opakovatelnost a upozornění",
+  "description": "Dobrý den,\r\nZačínají se nám množit dotazy, tak se omlouvám, že píšu tak často.\r\nPrvní, co jsme řešili - je úkol, který považujeme pro teď za vyřešený, takže bychom ho rádi ukončili ale zároveň třeba za měsíc bychom se na něj znovu podívali, co se stalo. Lze to nějak zařídit?\r\nV podstatě z podobného soudku je dotaz kolegy níže. Mám opakovaný úkol. Je to tam nějak řešené?\r\nMoc děkuji za odpověď.\r\nJirka Dvořák\r\n\r\n\r\nFrom: Daněček Radim Sent: Thursday, February 29, 2024 12:30 PM\r\nTo: Jiří Dvořák Subject: Aliteo - opakovatelnost a upozornění\r\n\r\nAhoj Jirko,\r\n\r\nPotřebovali bychom v Aliteu, jak nastavím notifikaci na požadavek a jeho opakovatelnost.\r\nPříklad, mám založený úkol a chci aby každý pátek přišla ve 14:00 notifikace, např. mailem.\r\nPopř. jaké jsou možnosti celkově na upozorněí.\r\n\r\nS pozdravem,\r\n\r\nIng. Radim Daněček, MBA\r\nVedoucí ICT\r\n[Image001]\r\nNC Line a.s.\r\n742 01 Suchdol nad Odrou 233\r\nMobil:  + 420 737 279 699\r\nE-mail:  rdanecek@ncline.cz< mailto:rdanecek@ncline.cz >\r\nInternet: www.ncline.cz< http://www.ncline.cz/ >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravím vás, pán Dvořák, je to v poriadku, sme tu pre vás. Podstatné je, aby vám systém slúžil, teda sme pripravení si kľudne aj zavolať, keď to bude potrebné, a vysvetliť veci aj osobnejšie. Stačí, ak dáte info, kedy, a môžeme. Ak prejdem k vašej otázke: 1.) Ak je potreba úlohu \"odložiť\", ale chceme sa k nej vracať, možno by vám poslúžila funkcia pozastavenia úlohy, ktorá úlohu o nejaký čas automaticky vráti riešiteľovi podľa času, do kedy bude odložená. - Druhou variantou je použiť štítok na úlohe, na základe ktorého si danú úlohu následne vyfiltrujete. - Ďalšou možnosťou je vytvoriť špeciálnu Custom Etapu s riešiteľskou skupinou, ktorá je prázdna, a daná úloha by nikomu nezavadzala, a vy by ste sa tak k nej mohli kedykoľvek vrátiť. - Sú aj ďalšie možnosti, kľudne si môžeme zavolať a ukázať vám, ako to je možné nastaviť. 2.) Opakovaná úloha ako funkcionalita je vo vývoji, kedy sa vám vždy v určitom čase vytvorí daná úloha. (napr. potreba fakturácie) Tu však chápem, že sa skôr jedná o notifikáciu, aj to máme vo vývoji, a verím, že do leta by táto funkcionalita upozornenia na úlohu mohla byť k dispozícii. Ak by som na niečo zabudol, alebo by bolo čokoľvek nejasné, neváhajte nás kontaktovať."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den,\r\nMoc díky za rychlou odpověď. Popravdě jsem s tím asi komfortní. To pozastavení mi přijde přesně to, co jsem potřeboval.\r\nParáda, už mám pár těch funkcionalit slíbených, tak se těším, až je nasadíte. Ale chápu, že další věci mají přednost 😊\r\nMůžete to uzavřít.\r\nDěkuji\r\nJirka Dvořák"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dík, pekný večer prajem."
+    }
+  ]
+}

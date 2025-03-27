@@ -1,0 +1,47 @@
+{
+  "id": "a06c492t1g04ur",
+  "created": "2024-09-02T13:18:46.437Z",
+  "closed": "2024-09-05T05:54:27.763Z",
+  "duration_minutes": 3875,
+  "first_response_minutes": 7,
+  "name": "Problematika - ZDROJE",
+  "description": "Obecně firmy rezervaci zdrojů používají (jednačky, auta..) Musíme nějak dořešit. Nedostanu se na poradu ALITEO, proto dávám touto formou",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 1,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Martin, hovorime o tom ze je problem ich tam pridat - je to jednoznacne chyba. Alebo o tom vyhladavani ze je problematicke?"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "No Petr říkal, že podle Allana tam něco jako zdroje vůbec nebude/nemá být.. chci si k tomu něco říct - minimálně vyjasnit, jak to bude. Prosím dejte na zítřejší poradu - připojím se na ni a tam to probereme. chtěl jsem dát jako bod té porady, ale tam taky něco nefunguje a nemůžu se na ni připojit..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "presuvam teda na poradu.. uz by si tam mal byt pridany na zajtra"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) prosim ta ako to nakoniec dopadlo? nie je tu zapis a je to stale v reakcii.. ale myslim ze sme k nejakemu zaveru dosli ci?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "AKO a David sa v tom maju posparat co bude realne budeme si davat update. Zatial je dohoda, ze tam vybalime vsetky zdroje a nasledne si uzivatel vyhlada podla nazvu ten svoj. Vo vazbach uz je uloha v ktorej sa to riesi. Ak Martin suhlasi, uzatvorme support pripad a riesime vo vyvoji."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, dik nevedel som najst.. @ Martin Válek (martin.valek@karatsoftware.cz) mozeme uzatvorit?"
+    }
+  ]
+}

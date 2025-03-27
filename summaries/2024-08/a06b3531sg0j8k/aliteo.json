@@ -1,0 +1,27 @@
+{
+  "id": "a06b3531sg0j8k",
+  "created": "2024-08-25T12:20:47.936Z",
+  "closed": "2024-08-25T14:02:17.935Z",
+  "duration_minutes": 101,
+  "first_response_minutes": 26,
+  "name": "smazání upozornění nevymaže zmínky",
+  "description": "Na případu vpravo nahoře dám Upozornění / Smazat a smaže se pouze normální notifikace a nevymaže se zmínka. Musím tedy mazat to a pak to druhé. Dříve se mazalo obojí současně. Pokud to není chyba, tak by se hodilo doplnit nějaké „Smazat všechny notifikace“, jako druhou volbu k tomu Smazat. Nebo třeba konfigurační parametr „Smazat upozornění vymaže i zmínky“. Osobně nikdy nepotřebuji mazat jen jedno z toho – případ jsem viděl/řešil, mažu notifikace i zmínky (pokud se v budoucnu notifikace rozpadnou ještě na více druhů, tak všechny druhy notifikací). Dík.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj @ Pavel Drtil (pavel.drtil@karatsoftware.cz) , ano vieme o tejto chybe, podla mna tam bude jedno zmazat a zmaze to upozornenia aj zmienky - uz je to nahlasene.."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "a05rti5bjg1q6g",
+  "created": "2024-04-29T15:34:16.073Z",
+  "closed": "2024-05-09T08:31:07.211Z",
+  "duration_minutes": 13976,
+  "first_response_minutes": 56,
+  "name": "Řazení dle komentáře",
+  "description": "S přechodem na ALITEO jsem přešel na řešení případů stylem LIFO, kde to poslední, co přijde, to řeším. Pokud ve Stacku případů něco zapadne, tak se vlastník ozve a tím to skočí na vrchol.\r\nPotřebuji tedy řadit za poslední komentář, ale v poslední době se mi stalo to, že někdo poslal případ zcela bez komentáře. Byl to důležitý případ a počítal jsem s tím, že bude na vrcholu.\r\nALITEO se rozhodlo zařadit jej na konec. Technicky mi není jasné, proč se vybral konec, ale bez komentáře na začátek (nejnovější) je rozhodně lepší řazení takových případů.\r\nJeště ať je to jasné, tak nějaký coalesce s rokem 1901 nebo 9999 bude technicky úplně shodné, nemá to vliv na práva, rychlost, nebo cokoliv. Chtěl bych rok 9999 – komentář je v budoucnu.\r\nJak se budou řadit ty bez komentáře? Třeba jako dnes, ale podle ID desc je za tím datem vyjádření správné sekundární řazení.\r\nA ještě možná než se začne mluvit o složitém pomalém řazení, tak mluvím o reakčních případech, kde je to úplně šumák, protože počet je malý.\r\n(Sorry, že hned píšu odpovědi na nepoložené dotazy, ale nechci dojít k zamítnutí bez jejich položení, nebo odpovídat na mnohokrát.)",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Low",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 15,
+    "from_owner": 6,
+    "from_others": 9,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Pavle, prosim Ta, len nech pochopim problem. Ak mam ulohu, kde neexistuje komentar, tak je za mna logicke ak je na konci. Podobne to mame s terminom, ak mam radenie podla terminu splnenia a nieco nema termin splnenia tak je to na konci. Podobne aj SLA, ak radim ulohy podla SLA a niekde SLA nemam tak ich radim nakoniec. Tebe toto radenie nepride logicke? Ak som to teda spravne pochopil?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Čau, ano, ale to právě není logické. Pokud řadím podle posledního komentáře, tak nahoře mám ty nejaktuálnější a tam chci i případy bez komentáře, protože ty případy jsou vůbec nejčerstvější. Řazení podle SLA nepoužívám, ale pokud to je termín požadovaného splnění, tak tam to mám seřazeno opačně - ty, které již hoří mám na začátku, tedy řadím od nejnižšího data (nejstaršího, který již měl být řešený). Ty bez termínu jsou s termínem v nekonečnu a jsou na konci. U toho SLA je to řazení na konec tedy logické, ale je to úplně opačné řazení, protože podle posledního komentáře jdu od nejnovějšího nejvyššího data (komentář je v budoucnu)."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Takze tebe pride logicke, ze ti pride uloha, u ktorej vies ze sa jej staci venovat o tyzden. Medzi tym reagujes a zakaznici reaguju na komentare, ktore su cerstvejsie ako ta uloha bez komentara a ty si chces uplne hore ponechat ulohu, kym tam nedoplni niekto komentar? A od toho momentu uz sa bude sprava standardne? mne to nepride logicke.."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Ony mi chodí komentáře do případů, kterým se budu věnovat za týden naprosto běžně, takže nad pořadím nemám stejně úplnou kontrolu. Kdyby mi vadilo, že budou na vrcholu, tak si tam komentář napíšu. Ano, správnější by bylo, kdyby se v tomto případě bral datum pořízení případu jako datum posledního vyjádření, pak bych tam nic psát ani nemusel. Chtěl jsem jednodušší zadání, které určitě postačuje, pokud to chceš rozšířit na složitější, tak klidně, pokud tím nesleduješ to, že se to zesložití proto, aby se to zamítlo. Ty bez komentáře, když jsou na konci, tak se jim budu věnovat za sto let. Jsou úplně mimo. Prostě mi zmizí z očí a už je nikdy neuvidím, protože bych musel jet dolů a koukat se pod nánosy hnijících případů. Přitom jsou to nové případy, jen ty jsou bez komentářů. Stávající stav řazení je nepoužitelný a už mi to způsobilo opakovaně to, že jsem dost zásadní problém z řešení vynechal."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Takze sumar: - za mna sa flow da riesit aj inak ako zasahom do funkcionalit v ALITEO - treba poznat proces - napriklad ja mam na supporte sekcie, tym ktorym som sa este nevenoval mam v \"nove\" a sotatne v inych sekciach. Ked radim podla komentara tak sa mi nepletu. Bohuzial mam pocit, ze nevyuzivate cely potencial ALITEO a potom sa tie nedostatky snazite dohnat upravou veci ktore pouzivate, aby ste dosiahli co potrebujete. Neviem ci mi rozumies :) - za teba - na produktovu poradu - ci nezvazime funkcnost aby ulohy bez komentara boli na zaciatku - je tak?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Ano, chtěl bych při řazení podle komentáře ty případy bez komentáře na začátku. (Jen se vymění konstanta pro datum posledního komentáře, místo 1901 se tam dá 9999, nemělo by to bolet, logické mi to přijde také, tak věřím a držím palce. Dík.)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu : vid komentar ##6 za mna nezmysel - nemaju dobre nastaveny proces (ak vobec nejaky maju)  - napriklad sekcie alebo pohlady a my preto mame menit funkcionalitu? za mna blbost"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Neriesime, nakolko to rozbija fungovanie ostatneho radenia. Dajme Pavlovi moznost ako to obist. Ak to pride rovnako od zakaznika, budeme dalej analyzovat. Rovnako by funkcnost musela podliehat vysvetleniu, inac by nebola pochopitelna."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) z porady vyplynulo, ze nebudeme menit aktualne fungovanie radenia. Kludne sa ale mozme spolu pozriet na tvoj problem, na flow ktorym prechadzas a navrhnut pomocou inych dostupnych funkcionalit vyriesenie problemu ktory mas."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Rozumím, že si necháte nelogické řazení. Změna by stála změnu roku v tom coalesce, který tam stejně je (nebo je to možná výchozí hodnota). Co mi chceš tedy poradit. Funguju podle posledního komentáře, co lepšího mi nabídneš - Datum vytvoření, splnění a SLA je k ničemu, zcela nesmyslná data. Prioritu neřeším, protože ji také nikdo neumí nastavit a stejně, co je sekundárním řazením, když je vše stejné priority. Řazení dle komentáře, kde ty podstatné mám nahoře a zbytek podstatných bez komentáře někde dole, je k ničemu. Naštěstí jich bez komentáře není moc, tak je to nejlépe použitelné řazení, až na to, že mi tak v poslední době vyhnilo několik kritických, proto jsem zakládal tento případ. Notifikace používám, ale tím jak jsou neseskupené za případ, tak je to také bolest. Kanban tam ani nemáme a v kooperaci s dalšími lidmi si ho ani nedovedu představit. Označovat si případy nějak atributy, nebo se jinak uklikat k smrti asi jde, ale stejně tím nereaguji na to, co je potřeba řešit. Takže pak můžu jít a napsat trigger, který vygeneruje první komentář ze strany synchronizace. Nebo můžu nepoužívat ALITEO a koukat na případy v KARAT. Už jsem o tom uvažoval, protože tam mám grid, který si uživatelsky nastavím přesně tak, jak potřebuji. Nechtěl jsem to, protože pak zřejmě přestanu sledovat zmínky a vůbec chodit do ALITEO. Máš ještě nějaký jiný dostupný prostředek, který jste na té poradě našli?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nelogicke to pride Tebe a nerozumiem ako je to mozne. Komentarova aktivita ma udavat radenie uloh a ty tu predkladas svoju pravdu, ze uloha, ktora nema ziaden komentar = tj. ziadnu aktivitu ma byt v tomto zozname vzdy na vrchu. A to len preto ze v tvojom individualnom pripade si spajas sposob radenia s nejakym pracovnym flowom, v ktorom ti vyhovuje mat ulohy bez komentara na zaciatku. Povodne som si chcel vypocut flow aky mate a vyriesit ho nejakym sposobom, aby si mohol pohodlne pracovat. Ale po precitani tvojho komentara, ktorym hovoris ze necakas ze s niecim pridem som stratil chut. Zaver: Zatial to teda neriesime, uvidime co na to ostatni zakaznici - zatial takyto podnet neevidujeme."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Aby som bol spravodlivy, doplnam, ze je takisto nezmysel, ktory ze sa tie komentare zobrazuju v opacnom radeni. Podla mna ak tam nie je vyplneny udaj - nemal by byt ani 1901 ani 9999. Ma byt na konci v akomkolvek radeni."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Úplně správně a logicky by tam byl vždy nultý komentář. Tedy zadání případu by se chápalo jako první komentář. To by mi vyhovovalo nejvíce a bylo by to absolutně nejlogičtější. A z hlediska funkce přesně to, co potřebuji. Tam si dovedu představit, že mohl být nějaký technický blok, že by se to hůř hledalo. Ačkoliv nad reakčními, kterých je málo, by to bylo úplně jedno i technicky, rychlost nad stovkou případů je nepodstatná (třeba +3 milisekundy, kterých si nikdo nemá šanci všimnout). Abych se nemusel hádat o složitějším návrhu, tak jsem založil jednodušší. Jak říkáš, tak 1901 je stejně špatně, jak 9999, takže jsem si myslel, že by nemusel být problém tuto konstantu změnit. Ona ta 9999 je blíže k realitě, protože případy bez komentáře jsou ty nové. Staré případy už mají komentáře. Není to nelogické. A je smutné, že to bude muset ještě říct nějaký klient. Promiň, že jsem z toho otrávený, ale požadavek na úplnou nicku vyřešenou za 5 minut (a ještě logickým směrem, neříkej, že ne) se diskutuje obrovskou dobu a výsledek je, že se někdo nějak domluvil, že si mám trhnout. Kolik upřesnění jsem k tomu musel dát. Opravdu pak už není moc chuti si volat o tom, že mám pracovat nějak jinak. Už tak jsem hledal způsob práce dost dlouho a byl jsem hluboko v údolí smrti. Po přechodu na ALITEO jsem už musel zásadně změnit své fungování. Pokud máš nějaké kouzlo, tak zkus napsat. Můžeme si klidně i zavolat. Prostě jsem nevěřil, že nějaké kouzlo je, proto ta skepse. Samozřejmě zkouším i dál hledat řešení, třeba jsem řešil přes otevřené záložky, ale ty mi zase ALITEO různými chybami zavírá. A pokud se budeme bavit, co přesně potřebuji, tak dokonce ani řazení podle komentáře, ale podle poslední aktivity. Potřebuji, abych nahoře viděl případ, kde se cokoliv změnilo. Zajímají mě živé případy. Mrtvoly leží na dně. Ale to už jsem se úplně bál vyslovit. No nic, ještě to otevřu, ať si to přečteš a pak třeba děj se vůle Porady."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "- pre teba logicke ze popis je prvy komentar, pre mne nezmysel - komentar skratka je komentar a popis je popis - zasa znasilnovat funkcnost aby si dosiahol svoje - jasne ze to je robota na par minut asi - o tom sa ale nebavime, bavime sa o tom sa nezhodneme na tom, ze to co tym chces dosiahnut je spravne - radenie podla aktivity som chcel - mame to v backlogu, avsak je tam nejaky technicky problem - treba vyhodnocovat pomerne vela prav na data, ktore aktualne nezbierame (museli by sme vsetky) a je to narocne - btw zadal som do vyvoja pripad na doplnenie moznost \"neexistuje komentar\" do podmienok v pohlade - ak budes vychadzat z reakcnych, tak nech sa paci mas jeden pohlad na vsetky reakcne a druhy len na tie ktore su nove a bez komentar (jeden klik na domovskej obrazovke) - ak aj jeden klik je vela - nepomozem viac.. mozeme teda uzatvorit?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Myslím, že vše bylo řečeno a točili bychom se v kruhu. Případ je k uzavření. Čekáme, až to bude poptávat nějaký další klient. Ten námět na vyhledání těch bez komentářů je fajn, protože mi to umožní do nich dopsat komentář a mít nějaké použitelné chování toho řazení. Budu držet palce, aby se to podařilo brzy doplnit."
+    }
+  ]
+}

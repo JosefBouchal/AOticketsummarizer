@@ -1,0 +1,35 @@
+{
+  "id": "a05h6rq2700b69",
+  "created": "2024-02-06T11:12:27.023Z",
+  "closed": "2024-02-07T15:38:00.305Z",
+  "duration_minutes": 1705,
+  "first_response_minutes": 23,
+  "name": "Podmienenie Žiadosti o ukončenie",
+  "description": "Dobrý deň, chcela by som sa opýtať, akým spôsobom viem nastaviť podmienku pre zmenu etapy na \"žiadosť o ukončenie\". Chcela by som funkčnosť, ktorá nedovolí kliknúť na \"Žiadosť o ukončenie\", ak nebude k úlohe vytvorený výkaz práce. Napadlo mi urobiť atribút \"Vykázané hodiny\" ako to majú na Karat Asistance a cez API by sme tam vedeli poslať hodnotu, ale nepomôže mi to, lebo neviem podmieniť zmenu etapy na Žiadosť o ukončenie vzhľadom na atribút.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, v nastaveniach atributu je zalozka \"Specificke spravanie\": Pridate specificke spravanie s hodnotou \"Povinny\" . Z dropdownu vyberiete \"Ziadost o uzatvorenie\" Bude to znamenat ze tato hodnota musi byt vyplnena, inak nepoziadate o uzatvorenie. Atribut naplnite cez API. Je to to co potrebujete?"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "aha, jasne, presne to som potrebovala, len som sa na to pozerala z opacnej strany 🙂 ok vdaka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Som rad, ze vyriesene.. 🙂"
+    }
+  ]
+}

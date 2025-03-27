@@ -1,0 +1,31 @@
+{
+  "id": "a05k24jbug0frn",
+  "created": "2024-02-28T14:55:16.456Z",
+  "closed": "2024-03-02T10:40:47.507Z",
+  "duration_minutes": 4065,
+  "first_response_minutes": 2,
+  "name": "Rozšírenie Licencií",
+  "description": "Dobrý deň, vedeli by ste nám rozšíriť licencie na počet 55? Ďakujem.",
+  "owner": "Lukáš Zadžora",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) prosim Ta, mohol by si sa prosim o toto postarat? nerad supam do licencii :) este duplom ked v tom ide aj partner nejako."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravim vas,  licencia rozsirena. Ak nieco, sme k dispozicii."
+    }
+  ]
+}

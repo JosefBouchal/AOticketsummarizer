@@ -1,0 +1,103 @@
+{
+  "id": "a068odr6701k3m",
+  "created": "2024-08-07T09:02:01.11Z",
+  "closed": "2024-09-01T09:34:18.402Z",
+  "duration_minutes": 36032,
+  "first_response_minutes": 1434,
+  "name": "velikost sekce STD patche:",
+  "description": "Ahoj,\r\n\r\nProsím o možnost zobrazit větší prostor pro připojené STD patche v levé části úkolu. Nebo nějakou variantu ...více...\r\n\r\nU některých provázaných složitějších funkčností a přes všechny verze může dojít k tomu, že nejsou vidět všechny vazební patche.\r\nDěkuji\r\nPM\r\n\r\n\r\n\r\nIng. Pavla Malá\r\nconsultant\r\n\r\ntel.: +420 581 737 180 | pavla.mala@karatsoftware.cz< mailto:pavla.mala@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Pavla Malá",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 20,
+    "from_owner": 0,
+    "from_others": 20,
+    "unique_authors": 4
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Pavli, aky je teda problem? Ze tam nejde dat viac textu, alebo ze ten text tam je a nie je zobrazeny? Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ak je tento atribut nastaveny na typ retazec potom ma dovolenych max 255 znakov. Takze bude sa to asi musiet vyriesit zmenou/pridanim atributu, ktory bude ineho typu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) mam pravdu?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano je to tak, text jsem dával nechtěl, z důvodu jak se zobrazovalo a ano věděl jsem, že 255 znaků může být někdy málo, ale jen minimálně a tak jsem se tak rozhodl. Jinak tato změna by zanamenala: 1. ALITEO podpoří změnu formátu z sdíleného atributu a pak i návazných firemních atributů 2. vytvoří se nový sdílený atribut, pak firemní atributy v pracovních prostorech s formátem text (nebo to má být formátový text?). V IS KARAT buď nové pole a pak naplnit z dosavadního pole, nastavit provázání na nový atribut a zavolat nad těma úkolama synchronizuj a to by synchronizovalo celý úkol. Nový atribut = pokud má někdo uložen filtr na něj, tak pak to bude jiný atribut, tedy nebude fungovat. Tedy otázka co s tím chceme dělat. Luboš"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Další omezení pokud bude STD patche text, tak to nepůjde dát do zobrazovaných atributů v seznamu úkolů, tedy uvidí se to až v detailu úkolu. Jinak nyní testováno a už je i text či formátovaný text je na jeden řádek, pokud to nepřekročí délku. V dialogovém okně vyplnění atributů to je needitovalené, tak tam by snad případně nevadilo, že to bude mít větší výšku než řetězec - jen pro info, nyní atribut STD patche nemá zapnuto, že se má zobrazovat v seznamu úkolů, tedy toto by asi nebylo takové omezení"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) nie som si isty ako mam odpovedat.. poznas moznosti ALITEO a vies v com obmedzuje.. zaroven vieme ze maju s tym problem.. skus napisat v navrhy 1 az 4, ku kazdemu vyhodu nevyhodu a potom sa musite rozhodnut. Mne uprimne pride ze si to musite rozhodnut vy a ak je treba nieco od ALITEO potom som tu ja.. ale vies ze zmena systemoveho charakteru neviem zabezpecit na pockanie.. takze rad by som pomohol ale neviem ako.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tak na AO je jestli neumožníte rozšířit strukturu z řetězce na text, pokud jo, nebylo by to tak komplikované, pokud řeknete že ne, tak odpovědět, ať si řeknou, celé předělat"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "jen co bych já tipl, toto asi nebude jediný požadavek, kde jim pak 255 znaků nebude stačit a rozšíření struktury by nemělo dle mě nikde dělat prolbém, změna datového typu z textu na číslo jasně může být problém, na datum taky, ale z 255 na text? nebo z textu na rozšířený text taky ne"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) co na to hovoris? bol by problem zmenit konkretny dat. typ atributu na iny? v tomto pripade retazes na text? alebo rozsireny text. Lubos ma pravdu ze je to podmnozina ale radsej sa pytam.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Pokud si vzpomínám, někde v plánu je, že se má datový typ string přejmenovat ne jednořádkový text, datový typ text na víceřádkový text. V kontextu tohoto by možná stačilo zrušit limit 255znaků a dát tam např. 8000... tím by bylo vyřešeno s minimální bolestí. Dáme na poradu? #114 Zjednodusenie datovych atributov"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "mno tak toto řešení mě vůbec nenapadlo, ale ano, pak bych já u sebe jen rozšířil datový typ na user sloupci v AO úkoly a bylo by to"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, beriem na poradu na odsuhlasenie..."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Dohoda, rozsirenie na 512 znakov. Vydanie na konci augusta."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavla Malá (pavla.mala@karatsoftware.cz) a @ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) budeme rozsirovat maximalnu velost retazca - je to najjednoduchsie asi aj pre vas.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "OK a jak poznáme že to je, abych mohl rozšířit datový typ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) podla toho co pise Peto, bude to sucastou najblizsej verzie, co by amal vyjst cca do konca 08/2024. Kludne mozeme nechat este otvorene a ked budem revidovat ulohy zo supportu po vydani novej verzie tak ti napisem.. ako chces.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano, to by bylo super, díky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) verzia je vonku, takze je dostupny vyssia kapacita retazca.. je tym padom tento problem vyrieseny?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano pomohlo"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavla Malá (pavla.mala@karatsoftware.cz) zda sa ze je problem vyrieseny.. mozeme uzatvorit?"
+    }
+  ]
+}

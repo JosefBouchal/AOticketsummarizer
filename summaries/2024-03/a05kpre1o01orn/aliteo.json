@@ -1,0 +1,47 @@
+{
+  "id": "a05kpre1o01orn",
+  "created": "2024-03-05T09:03:45.764Z",
+  "closed": "2024-03-07T12:15:00.687Z",
+  "duration_minutes": 3071,
+  "first_response_minutes": 334,
+  "name": "Prověření platby - 2/2024",
+  "description": "Dobrý den,\r\n\r\nprosím o prověření poslední platby, že skutečně neproběhla?  Mám informaci, že by mělo být zadáno formou kreditní karty s automatickým stržením.\r\n\r\nPřípadně prosím o vystavení faktury, expresně bych zadal k proplacení.\r\n\r\n[Image001]\r\n\r\nPředem děkuji.\r\n\r\n\r\nHezký den\r\n\r\nS pozdravem | Best regards\r\n\r\nTomáš Novák\r\nVedoucí výdeje | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nT:   +420 541 426 845\r\nM: +420 777 982 504\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n[Image002]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 1,
+    "from_others": 5,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, skusim preverit a budem Vas informovat. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) prosim Ta, pokial viem, tak automaticke strhavanie nemame dostupne nie?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Podla licencie platba neprebehla bola zrusena. Ale divne je, ze im svieti Advance aj ked by uz nemali mat licenciu platnu. Odporucil by som im zaplatit na rok, lebo ak cez to uz funguju a vypadne bude nejaky problem s kartou, lebo platia mesacne tak bude zla krv..."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Chybně jsem při úhradě první opakované platby stopnul opakování mateřské platby. Úhrada nebyla sražena - spadla na chybu \"Recurring payment was stopped\". Provedl jsem opravu na ostré, nasadí se přes noc. Bude nutno znovu uhradit ze strany zákazníka, původní opakování je zrušeno a platbu za něj nemám šanci vytvořit. Zjistil jsem, že s vysokou pravděpodobností se bude stejný problém týkat NC Line - opakovaná platba 9.3.2024 spadne stejným způsobem."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den,\r\n\r\nakorát již nyní máme změněný tarif ještě předtím, než jsme dořešili. Trochu nám to komplikuje provoz.\r\n\r\nPůjde prosím tedy přes fa?\r\n\r\nDíky\r\n\r\nS pozdravem | Best regards\r\n\r\nTomáš Novák\r\nVedoucí výdeje | Head of outgoing\r\n\r\nNOVIKO s.r.o. – Letiště Brno – Tuřany  964/13 - 62700\r\nT:   +420 541 426 845\r\nM: +420 777 982 504\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n[Image001]"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravím Vás, dovoľte mi ospravedlniť sa za nedávne komplikácie s platbou, ktoré vznikli na strane dodávateľa platobnej brány v procese komunikácie s bankami. Uvedomujeme si, aké dôležité je pre Vás bezproblémové používanie našich služieb, a preto nás mrzí akákoľvek nepríjemnosť, ktorá bola týmto spôsobená. Chcem Vás ubezpečiť, že podobná situácia by sa už nemala opakovať. Podľa našich záznamov a kontroly, platba už bola úspešne spracovaná a mala by prebehnúť automaticky na pozadí. Ďalej by som Vás chcel informovať, že máme zavedený špecifický mechanizmus pre zachovanie kontinuity Vašej licencie na niekoľko dní aj v prípade dočasného oneskorenia platby, čím zabezpečujeme, aby nedošlo k žiadnym obmedzeniam v poskytovaní našich služieb. Veríme, že tento systém Vám poskytol potrebnú flexibilitu a Vaše služby neboli nijako ovplyvnené. Ak máte akékoľvek otázky, alebo potrebujete ďalšiu asistenciu, neváhajte nás kontaktovať. Sme tu, aby sme Vám pomohli a zaistili, že Vaša skúsenosť s našimi službami bude čo najpozitívnejšia. Ešte raz sa ospravedlňujeme za akékoľvek nepohodlie a ďakujeme za Vašu trpezlivosť a pochopenie. S pozdravom, Peter Ďurčák."
+    }
+  ]
+}

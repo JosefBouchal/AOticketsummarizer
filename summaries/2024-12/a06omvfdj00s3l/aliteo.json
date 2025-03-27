@@ -1,0 +1,39 @@
+{
+  "id": "a06omvfdj00s3l",
+  "created": "2024-12-09T07:12:31.748Z",
+  "closed": "2024-12-09T13:06:08.571Z",
+  "duration_minutes": 353,
+  "first_response_minutes": 46,
+  "name": "Proč mám na úkole žádost o zrušení, když to tak nemám nastaveno?",
+  "description": "Nastavení pracovní plochy: Úkol: Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubos, netusim ide o betu.. nahlasim ako chybu.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "preposielam odpoved: Protože nemáš zapnuto [x] interní uživatel může zrušit úkol (nebo externí podle toho kdo je přihlášen). Pak nemohu nabídnout Zruš přímo a jediná možnost je přes žádost vlastníkovi."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "aha, takže pokud nejsem i vlastník, tak pak nemůžu napřímo zrušit, tak to mě nenapadlo, ok, můžeme uzavřít, už to snad po vyzkoušení chápu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, budeme musiet dopisat texty, aby bolo spravanie zrejme."
+    }
+  ]
+}

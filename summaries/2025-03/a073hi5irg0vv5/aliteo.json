@@ -1,0 +1,31 @@
+{
+  "id": "a073hi5irg0vv5",
+  "created": "2025-03-03T10:12:28.079Z",
+  "closed": "2025-03-05T09:17:07.775Z",
+  "duration_minutes": 2824,
+  "first_response_minutes": 0,
+  "name": "Umožnit řadit Sekce v projektu přes API",
+  "description": "Na projektu je možné ručně řadit sekce. prosím o přidělání této funkčnosti i do API, abych si mohl seřadit sekce prostřednictvím API. Cíl je, abych pak pod projektem v seznamu sekcí viděl Sekce seřazené jak potřebuji.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Normal",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Projekty",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, dik, beriem na vyvoj"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Technicke riesenie, ktore vieme ponuknut je komplikovane a podla AKO ani nebude zodpovedat poziadavke a ucelu na ktory bola funkcnost pozadovana. Bohuzial nevieme realizovat."
+    }
+  ]
+}

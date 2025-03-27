@@ -1,0 +1,27 @@
+{
+  "id": "a06ilm5fo018r1",
+  "created": "2024-10-23T09:12:26.722Z",
+  "closed": "2024-10-23T10:55:05.242Z",
+  "duration_minutes": 102,
+  "first_response_minutes": 102,
+  "name": "ve swaggeru chybí apiData přejmenovaných komponent",
+  "description": "https://aliteobetaapi.azurewebsites.net/swagger/ui#/ není třeba apiDataPfLink, dále třeba apiDataProjectLink, prostě kde došlo k přejmenování tam není a já nemám jak ověřit, zda daná komponenta má například pole cerator či created, když jsou tato pole nesmyslně uvedena u všech komponent, viz Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "takisto predane na vyvoj"
+    }
+  ]
+}

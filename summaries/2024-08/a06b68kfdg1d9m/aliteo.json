@@ -1,0 +1,43 @@
+{
+  "id": "a06b68kfdg1d9m",
+  "created": "2024-08-26T06:28:05.399Z",
+  "closed": "2024-08-27T09:43:26.523Z",
+  "duration_minutes": 1635,
+  "first_response_minutes": 2,
+  "name": "nejde zobrazit požadavek",
+  "description": "některé požadavky mi zobrazit jdou, ale tento: #299299 Prevent servis jako součást DC - hlavní požadavek - rozdíl byl, že na tento jsem se dostal před odkaz z e-mailu, ale to doufám problém není, ta url vypadá v pořádku. nejde a končí chybou:",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report, predal som na Vyvoj.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "tak doplňuji, problém je jen ve Firefoxu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Predal som info dalej"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) skus pozriet, malo by to byt opravene.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, funguje"
+    }
+  ]
+}

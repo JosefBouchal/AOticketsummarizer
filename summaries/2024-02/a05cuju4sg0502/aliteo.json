@@ -1,0 +1,103 @@
+{
+  "id": "a05cuju4sg0502",
+  "created": "2024-01-04T09:31:01.05Z",
+  "closed": "2024-02-21T08:28:00.403Z",
+  "duration_minutes": 69056,
+  "first_response_minutes": 52,
+  "name": "Duplicitní komentáře / požadavky",
+  "description": "Stalo se mi teď dvakrát za sebou, že se mi vytvořili duplicitní komentáře / nebo celé požadavky. viz komentář: #907 Filtrování v uMobile (/task/a05ao7fsf00hdt/?view=comments) Nebo u duplicitně založeného dílčího úkolu: - v moment uložení se vytvořili 913 / 914",
+  "owner": "Martin Urban",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 20,
+    "from_owner": 8,
+    "from_others": 12,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, chapem spravne, ze mate konkretnu ulohu u Vas, kde ked vytvorite komentar tak sa vytvori dva krat? Aby sme sa pochopili, potreboval by som si to nasimulovat aby bol ten problem replikovatelny, inak je takmer nemozne zistit pricinu. Vela krat to byva vypadkom siete (tie sa daju zachytit spustenim konzoly a sledovanim stavu siete a stiahnutim HAR suboru), kedy si pri znovunacitani stranky (po vypadku) alebo refreshi, pamatame obsah rozpracovanej \"novej ulohy\" aj \"komentara\"."
+    },
+    {
+      "creator": "Martin Urban",
+      "comment": "Dobrý den, obávám se, že to nedokážu nasimulovat... Mě se to stalo v průběhu dvou posledních dnů poprvé.. Kolegyně si stěžovala, že se jí opakovaně stalo, že přiřadí ke komentáři obrázky a když komentář uloží, tak obrázky zmizí..."
+    },
+    {
+      "creator": "Martin Urban",
+      "comment": "A ještě mám komentář k podřízeným úkolům - jak se mi vytvořil duplicitně úkol (třetí v pořadí), tak jsem ho zrušil a archivoval a stejně se mi počítá do celkového počtu, to je matoucí. Pochopím to uzavřených požadavků, ale ne u zrušených + archivovaných (větší možnost smazání neznám...)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "otvorili sme teda viac problemov, podme postupne: 1. zdvojeny komentar 2. zdvojena uloha 3. prilozene obrazky sa stratia pri uploade komentara 4. pocet dielcich uloh 1.-3. - stale mi to pride ako problem siete, vyskusame to otestovat 4. pocet je tam preto 3, pretoze vo filtri je  implicitne zapnute ze chceme zobrazovat aj archivovane ulohy, aby bolo jasne ktore konkretne su dokoncene a ktore nie (je mozne vo filtri archivovane vypnut a vidiet iba aktivne). Bola to poziadavka zakaznika, lebo inak by to percento splnenia nedavalo zmysel, ak by sme nezobrazili archivovane ulohy (mozu sa archivovat aj automaticky po riadnom uzatvoreni). Vo vasom pripade by Vam tam svietilo 33% ale videli by ste iba 2 aktivne. Druha otazka je ci by sme nemali vylucit \"zrusene\" ulohy zo vsetkych poctov a brat ich ako nejaky omyl."
+    },
+    {
+      "creator": "Martin Urban",
+      "comment": "4. \"zrusene\" - souhlas, pokud není možnost zcela smazat..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "pozastavujem do produktovej porady a otestovania testermi.."
+    },
+    {
+      "creator": "Josef Bouchal",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) Vytvořil jsem report viz úkol #3776 Duplikování komentáře/tvorby dílčího úkolu pomocí \"Ctrl+enter\" . Měly by tam být nasimulované všechny problémy co v rámci tohoto úkolu vznikly. Nicméně si myslím, že to i tak nebude řešit vše, protože jsem to nasimuloval pouze v případě \"Ctrl+Enter\", ale jinak si myslím, že se to určitě děje i v případech, kdy se to odklikne pouze myší (Něco mám nasimulované v automatizovaném testování, ale osobně bych počkal jak se opraví toto jestli se to tím nevyřeší. Pokud ne tak bych to řešil dál) @ David Skřeček (davidskrecek@gmail.com) Tu tvojí pravděpodobně chybu co jsi zmiňoval v chatu testerů jsem tam nezahrnul tak ji kdyžtak reportuj zvlášť, díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, chcel by som si u Vas overit jednu vec. Testovali to nasi testeri a prisli sme na to ze pri pouzivani ctrl+enter sa mohlo pri dlhsom podrzani \"enter\" a istom obmedzeni pripojenia, stat ze sa komentar a ulohy (dielcie) vytvorili viac krat. Moze to byt Vas pripad?"
+    },
+    {
+      "creator": "Martin Urban",
+      "comment": "Dobrý den, většinou mačkám tlačítko myší. Dnes se mi to stalo opět - viz zásadní věc co se většinou děje, komentáře nejsou většinou 1:1, v tom první chybí nějaká část..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, zaujimave, napiste mi prosim aj aky prehliadac pouzivate. Takisto, deje sa pri publikovani komentara nieco zvlastne: - trva to dlhsi cas - alebo nereaguje a treba stlacit viac krat? Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Josef Bouchal (josef-bouchal@seznam.cz) prosim ta mas nejake info aj k tomu stlacaniu tlacidla? Podla komentara ##9 to zakaznik robil nerobil cez ctrl+enter. Podla ulohy #3776 Duplikování komentáře/tvorby dílčího úkolu pomocí \"Ctrl+enter\" by malo byt opravene, skus teda este potestovat, lebo niekde problem byt musi. Asi to nebude len pripojenim"
+    },
+    {
+      "creator": "Martin Urban",
+      "comment": "neuvědomuji si, že bych dělal cokoliv nestandardně"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ospravedlnujem sa ze sa v tom tolko patlam, ale snazim sa prist na pricinu. Este ma napadlo, ci sa Vam toto deje aj na inom zariadeni ci inej sieti. Vsetko to smeruje k pripojeniu, ale predpokladam ze ho mate v ramci spolocnosti kvalitne. Ci nahodou nejake nastavenia siete ci VPN nemozu obmedzovat nejako traffic, ktory by toto mohol sposobovat. Nenapada Vas nic v tomto smere? Dakujem"
+    },
+    {
+      "creator": "Josef Bouchal",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) Doufal jsem, že to bude třeba souviset s \"Ctrl+Enter\", ale bohužel to vypadá, že ne. . Zkoušel jsem i přes vpn se připojit na různé státy, snižovat rychlost, ale bohužel. V rámci manuálního testování se mi to teda nedaří replikovat. V rámci automatizovaného testu se mi to daří nasimulovat, nicméně moc nedokážu říct, co to způsobuje a jak to replikovat manuálně. V případě, že z automatizovaného testu oddělám, aby to na odeslání komentáře kliklo samo, ale místo toho kliknu já tak to problém už nedělá. V konzoli je vidět, že se commentadd zavolá 2x, ale netuším proč Jediné co dokážu s jistotou říct tak je, že se to děje jen u komentářů, které obsahují nějaké soubory. A zdá se mi, že se to děje v případě, kdy je právě nějaký soubor jako poslední prvek v komentáři.. Nebo to tak alespoň vypadá."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Josef Bouchal (josef-bouchal@seznam.cz) prehodil som este ten dvojity commentadd na Dusana, tak uvidime, mozno sa s Tebou spoji.. Uvidime co odpise zakaznik.. neviem ako vyriesit"
+    },
+    {
+      "creator": "Martin Urban",
+      "comment": "Nenapadá mě nic, máme privátní síť od T*Mobile přes páteřní linku v jejich datovém centru. Lepší už to snad být nemůže..."
+    },
+    {
+      "creator": "Martin Urban",
+      "comment": "Opět podobná chyba, jen se to neuložilo - dopsal jsem komentář, dal CTRL+ENTER, uložilo se, ale text mi zůstal viset v editačním poli Přijde mi, že když se do komentáře nepastují obrázky, tak se to neděje"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, vieme ze to suvisi aj s obrazkami... len sa nam to nedari replikovat, resp najst ten postup, ktory by opakovane tento problem sposobil. Chcem sa spytat, ako ste do komentara doplnili tu cervenu bodku: Ohybate nejako styly v aplikacii? Dakujem"
+    },
+    {
+      "creator": "Martin Urban",
+      "comment": "Pod W11 -> tlačítka WIN+\".\" a doplním emotikonu naštěstí v Aliteu super funguje ;-) došel jsem si k tomu že je to jediná možnost, jak se neztratit v řešení jednotlivých komentářů. Rychle si projdu všechny komentáře, tam kde září na začátku červená vím, že musím zkontrolovat. Pokud už je OK, upravím komentář a změním na zelenou."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nasadzovali sme nejake dalsie opravy. Prosim Vas, pozorujete stale dvojnasobne vytvaranie uloh? Komentare by uz mali byt vyriesene."
+    }
+  ]
+}

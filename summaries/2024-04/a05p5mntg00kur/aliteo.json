@@ -1,0 +1,27 @@
+{
+  "id": "a05p5mntg00kur",
+  "created": "2024-04-08T07:46:03.848Z",
+  "closed": "2024-04-14T09:13:33.289Z",
+  "duration_minutes": 8727,
+  "first_response_minutes": 87,
+  "name": "Porady",
+  "description": "Dobrý deň, 1. chcem sa opýtať, ako zmením čas v už poradách, ktoré sú naplánované na týždennej báze na celý rok dopredu? Niečo divné sa udialo, lebo tieto naplánované porady mali stále čas na 09:00 ale zrazu sa to zmenilo na 11:30 a potrebovali by sme to zmeniť. 2. zároveň sa chcem opýtať, ako vytiahnem z archíva už archivovanú poradu. Potrebujeme ju totiž znova aktivovať",
+  "owner": "Lukáš Zadžora",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, 1. Preplanovanie rady sa deje tak, ze si otvorite klasicku poradu a v jej zahlavi kliknete na cast \"rad porad\" - tym sa dostanete do nastavenia rady a tam v lavom paneli by to malo ist zmenit  nezabudnite dat odoslat zmeny: Na to preplanovanie - hovorite ze sa to udialo samo? Je to tak aj vo vasom office365? posli mi prosim prinscreeny z kalednara kde to mate na 11:30. 2. skuste mi poslat prinscreen tej archivovanej porady - deje sa to vacsinou vtedy, ak sa strati udalost k tejto porade. To znamena ze \"datova\" porada v ALITEO nema k sebe udalost.. ked to  zmazene v outlooku a podobne"
+    }
+  ]
+}

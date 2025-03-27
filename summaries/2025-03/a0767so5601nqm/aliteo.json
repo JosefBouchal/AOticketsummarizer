@@ -1,0 +1,31 @@
+{
+  "id": "a0767so5601nqm",
+  "created": "2025-03-24T09:07:12.765Z",
+  "closed": "2025-03-24T10:35:03.989Z",
+  "duration_minutes": 87,
+  "first_response_minutes": 37,
+  "name": "Mobilní aplikace a nastavení emailu",
+  "description": "Dobrý den,\r\nMám jen rychlý dotaz – minulý rok jsme se bavili o mobilní aplikaci pro Aliteo. Je v tom něco nového? Docela by se nám to hodilo pro service desk.\r\nDruhá věc – je možné bez Exchange serveru nastavit, aby se email zaslaný na určitou adresu objevil v Aliteo jako požadavek?\r\nDěkuji za informace\r\nJirka Dvořák",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim Vas, - v nastavenie projektu mate emailovu adresu.. ak na tuto adresu poslete emial, tak sa pripad zalozi.. len ta adresa je skareda lebo ma v sebe unikatne ID projektu (ktore nejde zmenit) - preto to je v niektorych firmach tak, ze sa to na tuto adresu preposiela z napriklad exchange.. napriklad: - email -> podpora@ncline.cz (server) -> task.ID_projektu@aliteo.com a tak sa zalozi pripad do projektu - co sa tyka mobilnej aplikacie, mame ju aktualne v sprinte - plan je aby bola dostupnav najblizej verzii, ktora by mala byt vydana do 1-2 mesiacov"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Paráda, moc díky, zkusíme nastavit. Kdyby něco, tak bych se ještě ozval. Na tu mobilní aplikace se moc těšíme. Tím pádem můžete požadavek uzavřít a děkuji za rychlou odezvu."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a05mnhbhlg1fh1",
+  "created": "2024-03-20T08:24:15.156Z",
+  "closed": "2024-03-26T21:54:02.997Z",
+  "duration_minutes": 9449,
+  "first_response_minutes": 45,
+  "name": "Synchronizácia Kalendár",
+  "description": "Dobrý deň, kolegovi nejde synchronizovať kalendár. Vypisuje mu túto chybu.",
+  "owner": "Lukáš Zadžora",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, predam kolegom na vyvoj.. a budem Vas infomovat.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, problem by mal byt opraveny, prosim o kontrolu a informaciu ci je to uz v poriadku.. dakujem"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a05dgcdah00b4b",
+  "created": "2024-01-08T17:00:16.343Z",
+  "closed": "2024-02-27T08:16:21.463Z",
+  "duration_minutes": 71476,
+  "first_response_minutes": 1131,
+  "name": "Editor textu komentáře v ALITEO a BackSpace ve FF",
+  "description": "-jsem v mozilla firefox\r\n-mám otevřené ALITEO a edituji komentář libovolného úkolu\r\n-napíšu   aa ENTER bb ENTER cc\r\n-mám tedy 3 řádky textu\r\n-vyberu bb (ty dva znaky)\r\n-dám Ctrl+X\r\n-zmizí celý řádek (jeden by očekával, že řádek zůstane prázdný)\r\n-dám Ctrl+End, abych byl na konci textu\r\n-dám HOME a stojím před cc\r\n-dám BackSpace (i opakovaně) a nic se neděje\r\n-místo toho bb tam zůstal nějaký prázdný div, který tomu mazání brání\r\n\r\nPokud by byl problém s nasimulováním, tak natočím video nebo ukážu.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Pavle, pojdeme po poriadku, najprv teda: 1. vec s tym ze oznacis text v prvom riadku a pri ctrl+x zmizne - tu asi ide o to ako to oznacis - ak oznacis prvy riadok tak ze urobis dvojklik na slovo (ktore je prave jedno) oznaci sa ako keby cely riadok. Funguje to tak aj vo worde vid: pre doplnenie, ak by som si dal zalezat a vyznacil vyslovene iba tri pismena potom pri ctrl+X riadok cely nezmizne) co myslis? potom pojdeme dalej..."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Čau. Ok, postupně. Když ve Wordu vybereš jen to BB a ne BB┘, tak to vyjme BB a ne BB i s koncem řádku: Asi jednodušeji bychom se měli srovnávat s poznámkovým blokem: Ale je to v podstatě jedno. Prostě v ten okamžik by normálně bylo očekávané to, že tam řádek zůstane, ale on zmizí a popisuji to řekněme jen jako symptom. On si tam totiž FF nechá div, který by normálně řádek dělal, ale styl ALITEO jej mění na nic, takže to mizí. Klidně zapomeň, že jsem řekl, že zmizelo něco víc, než by jeden čekal. Takže dál pokračujme v tom postupu: kde se snad dopracujeme k tomu, že nejde pomocí BackSpace mazat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, predal som na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) problem je opraveny v dalsej verzii, ktora bude dostupna coskoro"
+    }
+  ]
+}

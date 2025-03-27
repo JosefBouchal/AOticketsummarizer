@@ -1,0 +1,55 @@
+{
+  "id": "a06gs1j4f01cr3",
+  "created": "2024-10-09T09:24:47.024Z",
+  "closed": "2024-10-15T06:27:05.229Z",
+  "duration_minutes": 8462,
+  "first_response_minutes": 17,
+  "name": "Změna úkolu na dílčí, pokud je například v žádosti o uzavření",
+  "description": "Pokud se to pokusím udělat přes API padne to na\r\n\r\nALITEO API ERROR: /SyncSetChanges\r\nSystem.ApplicationException: CompTask.fieldChangeTrigger: cannot do as subtask task (a06grk5kgg0g2n to a06dtahcjg18t1 - closing is requested\r\n   at Aliteo.CompTask.fieldChangeTrigger(CacheTransaction transaction, Field original, Field field) in d:\\_aliteoPublish\\beta\\Aliteo.Data\\Metadata\\CompTask.cs:line 1086\r\n   at Aliteo.Component.fieldChangeWrite(CacheTransaction transaction, Field original, Field field, CacheTransactionItem item, Field original_) in d:\\_aliteoPublish\\beta\\Aliteo.Cache\\Component.cs:line 705\r\n   at Aliteo.CacheTransactionFieldAdd.created() in d:\\_aliteoPublish\\beta\\Aliteo.Cache\\CacheTransaction\\CacheTransactionFieldAdd.cs:line 45\r\n   at Aliteo.Component.setField(CacheTransaction transaction, FieldDefinition defField, String xstring, Nullable`1 xint, Nullable`1 xdec, Nullable`1 xdate) in d:\\_aliteoPublish\\beta\\Aliteo.Cache\\Component.cs:line 954\r\n   at Aliteo.Component.SetFieldComponentPointer(CacheTransaction transaction, FieldDefinition defField, String pointerKey) in d:\\_aliteoPublish\\beta\\Aliteo.Cache\\Component.cs:line 1213\r\n   at Aliteo.CompSubtask.added(CacheTransaction transaction) in d:\\_aliteoPublish\\beta\\Aliteo.Data\\Metadata\\CompSubTask.cs:line 67\r\n   at Aliteo.CompSubtask.doAfterAction(CacheTransaction transaction, String action, Component xparam) in d:\\_aliteoPublish\\beta\\Aliteo.Data\\Metadata\\CompSubTask.cs:line 31\r\n   at Aliteo.CacheTransaction.processAfterActions() in d:\\_aliteoPublish\\beta\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 440\r\n   at Aliteo.CacheTransaction.DisposeAsync() in d:\\_aliteoPublish\\beta\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 469\r\n   at Aliteo.CacheTransaction.Run(IContext context, Func`2 action) in d:\\_aliteoPublish\\beta\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 424\r\n   at Aliteo.FunctionApi.FunctionApi.syncSetChanges(String body, String apikey, ILogger logger) in d:\\_aliteoPublish\\beta\\Aliteo.FunctionApi\\FunctionApi.cs:line 3858\r\n\r\nV uživatelském rozhraní ALITEO mám možnost říct, změn na dílčí úkol, ale to pak padne na na to stejné [Image001]\r\nApplication ERROR: System.ApplicationException: CompTask.fieldChangeTrigger: cannot do as subtask task (a06grk5kgg0g2n to a06dtahcjg18t1 - closing is requested\r\n   at Aliteo.CompTask.fieldChangeTrigger(CacheTransaction transaction, Field original, Field field) in d:\\_aliteoPublish\\beta\\Aliteo.Data\\Metadata\\CompTask.cs:line 1086\r\n   at Aliteo.Component.fieldChangeWrite(CacheTransaction transaction, Field original, Field field, CacheTransactionItem item, Field original_) in d:\\_aliteoPublish\\beta\\Aliteo.Cache\\Component.cs:line 705\r\n   at Aliteo.CacheTransactionFieldChange.created() in d:\\_aliteoPublish\\beta\\Aliteo.Cache\\CacheTransaction\\CacheTransactionFieldChange.cs:line 50\r\n   at Aliteo.Component.setField(CacheTransaction transaction, FieldDefinition defField, String xstring, Nullable`1 xint, Nullable`1 xdec, Nullable`1 xdate) in d:\\_aliteoPublish\\beta\\Aliteo.Cache\\Component.cs:line 946\r\n   at Aliteo.Component.SetFieldComponentPointer(CacheTransaction transaction, FieldDefinition defField, String pointerKey) in d:\\_aliteoPublish\\beta\\Aliteo.Cache\\Component.cs:line 1213\r\n   at Aliteo.QueryTask.<>c__DisplayClass51_0.< b__3>d.MoveNext() in d:\\_aliteoPublish\\beta\\Aliteo.Data\\Queries\\QueryTask.cs:line 2327\r\n--- End of stack trace from previous location ---\r\n   at Aliteo.CacheTransaction.Run(IContext context, Func`2 action) in d:\\_aliteoPublish\\beta\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 417\r\n   at Aliteo.CacheTransaction.Run(IContext context, Func`2 action) in d:\\_aliteoPublish\\beta\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 424\r\n   at Aliteo.QueryTask.SetMultiSubtasks(QueryInfo qi, QueryParamsMultiTasks xparams) in d:\\_aliteoPublish\\beta\\Aliteo.Data\\Queries\\QueryTask.cs:line 2320\r\n   at Aliteo.QueryTask.SetMultiSubtasks(QueryInfo qi, String xparams) in d:\\_aliteoPublish\\beta\\Aliteo.Data\\Queries\\QueryTask.cs:line 2232\r\n   at Aliteo.Queries.Execute(Cache cache, CompUser compUser, String applicationId, String querybase, String querydata, String timeZone, String userAgent, Stream inputStream, String requestData, String addactivity, Int32 cacheId, Int32 requestId, Boolean behalf, String authEmail, String authName, String authClaims, QueryParamsCache clientSocketCache, String requestQuery, String requestPath) in d:\\_aliteoPublish\\beta\\Aliteo.Data\\Queries\\Queries.cs:line 1002\r\n\r\nTakže nevím zda to nemá jít (pak by ta nabídka v uživatelském rozhraní neměla být) nebo zda to má jít.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 2,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, preposlal som na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Skřeček (davidskrecek@gmail.com) skus u seba ci toto vies nasimulovat.. oprava s abude riesit vo vyvoji - uloha vo vazbe"
+    },
+    {
+      "creator": "David Skřeček",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) nepodarilo se mi nasimulovat, nedari se mi prokousat pres strukturu dotazu, ktery z ukolu udela dilci ukol. Muzu se doptat Allana, zalezi kolik casu mi na to chces dat?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Skřeček (davidskrecek@gmail.com) na kolko to odhadujes? budeme to potreboval otestovat.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "přiznám se, že nevím co přesně chcete otestovat, jestli to, že to padá, nebo zda Allan kontroluje i ty další podmínky s termínama, atd. Jelikož ano, dneska to padá, Allan dal vědět, že to je vědomá kontrola (mě sice nedává smysl, jelikož za mě nespadá do nastavení na pracovním prostoru, ale už neřeším), já dále dával info, ale pozor, i v ALITEO toto udělám a padne to v consoli. Toto zde #5688 LBE: Změna úkolu na dílčí, pokud je například v žádosti o uzavření ##11 se již vyjasnilo. Jako narovinu, pokud budete dělat i v API kombinačně složité podmínky a to ještě ze stavu, který druhá DB nebude znát, jelikož v API komponenty Workspace jsem nenašel přepínače k dílčím úkolům, tedy nebude je možné ani nějak rozumně vyhodnotit, tak to bude pro stranu, co si bude dělat API hrůza a nevím jak moc ji to dlouho pak bude bavit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) mne uz tak nejde o ten test, pretoze je jasne ze ked je problem na strane ALITEO a je to chyba v kmonzoli najprv sa to musi vyriesit tam. Teraz mi islo len o to aby sme vedeli do nasej spolocnosti pre synchronizaciu vedeli dostat zmenu ulohy na dielciu."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "##8 aha, už chápu, my to děláme tak, že zakládáme novou componentu subtask, ale mělo by to jít i tak, že změníte v tasku pole ParentSubTask, které napníte ID nadřízeného tasku, tedy obdoba jak měníš třeba vlastníka, ale nevím jak to máte uděláno, tedy náročnost neumím odhadnout"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) dakujem za pomoc, mozno to pomoze @ David Skřeček (davidskrecek@gmail.com) za mna mozeme ten pripad uzatvorit.. @ David Skřeček (davidskrecek@gmail.com) ak nieco bude treba pis do vyvojoveho.."
+    }
+  ]
+}

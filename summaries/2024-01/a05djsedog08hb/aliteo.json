@@ -1,0 +1,43 @@
+{
+  "id": "a05djsedog08hb",
+  "created": "2024-01-09T13:23:59.217Z",
+  "closed": "2024-01-11T09:07:29.549Z",
+  "duration_minutes": 2623,
+  "first_response_minutes": 17,
+  "name": "Rozdílný formát datumů úkolu",
+  "description": "Všiml jsem si, že datumy úkolu mají dva rozdílné formáty . Vytvořeno je ve formátu dd. MM. yyyy <tečka> hh:mm Žádost o uzavření a uzavřeno je ve formátu dd.MM.yy hh:mm To má nějaký význam, nebo proč jsou u tak podobných informací, které se ještě navíc zobrazují hned pod sebou, použity dva rozdílné formáty?",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Josef, bavíme sa teda o týchto dátumoch: ? Dakujem"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Ano - Vytvořeno vs. Žádost o uzavření a uzavřeno , jak uvádím v popisu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik, predal som na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, vzhladom ze nejde o kriticku chybu tak je tato oprava zapracovana do dalsej verzie. Dakujem"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Nezbývá než věřit 🙂, díky."
+    }
+  ]
+}

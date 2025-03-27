@@ -1,0 +1,39 @@
+{
+  "id": "a05kajuvug0hdi",
+  "created": "2024-03-01T16:19:17.099Z",
+  "closed": "2024-03-11T17:24:15.646Z",
+  "duration_minutes": 14464,
+  "first_response_minutes": 359,
+  "name": "požadavek na registraci",
+  "description": "Dobrý den, Ráda bych Vás tímto požádala o pomoc při registraci do Alitea. Děkuji a přikládám níže pts sc Štěpánka Petrlíková Key account manager Phone: +420 724 559 187 Email:  < mailto:petrlikova@medicafilter.cz > petrlikova@medicafilter.cz < http://www.medicafilter.cz/ > www.medicafilter.cz",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 0,
+    "from_others": 4,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahoj @ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) , toto je asi na vas, ze?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dobrý den, účet jsem znovu aktivoval, nyní můžete provést registraci. S pozdravem Bednář"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) ako pozeram zakaznicka zamietla uzatvorenie a Lubo to dalej neriesi ... prosim ta vies zistit preco, ci este ma nieco na nas a ak nie tak uzatvorme, ak by chcela este nieco riesit tak do dajme do procesu KARATU ci uz na Luba alebo na Peta."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, podla kolegu, by mal byt problem vyrieseny. Uzatvorenie tejto ulohy ste zamietli, je este nieco co je potrebne vyriesit? Ďakujem"
+    }
+  ]
+}

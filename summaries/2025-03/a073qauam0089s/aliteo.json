@@ -1,0 +1,59 @@
+{
+  "id": "a073qauam0089s",
+  "created": "2025-03-05T13:19:15.644Z",
+  "closed": "2025-03-05T15:22:54.882Z",
+  "duration_minutes": 123,
+  "first_response_minutes": 5,
+  "name": "Notifikace Aliteo LOKART s.r.o.",
+  "description": "Ahoj Dane,\r\nprosím tě, viz náš telefonát, jde o zákazníka LOKART s.r.o., kde mi uživatel pan Penner tvrdí, že mu Aliteo neposílá notifikace o změně, přidání komentáře, atd.\r\nJá si myslím, že nám lže a to je ten důvod, proč potřebuju mít argument a jistotu, kde je chyba.\r\n\r\nDíky moc, Honza\r\n\r\n\r\nJan Prnka\r\nkey customer manager\r\n\r\ntel.: +420 581 737 198 | mobil: +420 702 087 872 | jan.prnka@karatsoftware.cz< mailto:jan.prnka@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Cauko, pozriem sa na to a zistim co sa da."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vies mi napisat o ake ulohy sa jedna? resp z akej spolocnosti by mali prichadzat upozornenia?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Jde o firmu Lokart s.r.o., uživatel Jiří Panner a tvrdí, že pokud mi vložíme do Alitea komentář, nepřijde mu e-mail s upozorněním."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pozeral som na to a z nejakeho dovodu nema zapnute podrobne notifikacie... ak nie su zapnute podrobne notifikacie (co by sa u neho mali zapinat automaticky) tak by mali chodit upozornenia aj emailom. Takze asi ma pravdu v tom ze nechodia emaily, ale plati ze nema zapnute podrobne upozornenia v danej ulohe. Teraz je otazka preco, ci je to chyba (neregistrujeme taky pripad) alebo si to vypne manualne, alebo si tie automaticke upozornenia zapol az teraz. Bohuzial uz nemam take moznosti zistit kedy si co niekto nastavil - ci to nastavenie nespravil az po tom vsetkom. Teraz to ma nastavene akoze \"dobre\" a bolo by treba aby si skusil zalozit pripad do toho projektu kde ma on pristup, nastavil ho ako vlastnika a potom skontroloval u neho ci ten pripad vidi a ci sa mu zapli podrobne upozornenia."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Alebo este inak, ked budes pri pc, ja skontrolujem nastavenie, ty urobit skusobny pripad a ja sa pozriem ci sa mu zapli podobne upozornenia."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak sme teda zistili, ze pri zalozeni pripadu a nastaveni jeho ako vlastnika sa mspravne zapnu podrobne notifikacie. Takisto ked si pridal komentar, vidim v aktivitach emailov ze mu email ohladom noveho komentara odisiel. Takze je treba dostriehnut aby mal zapnute podrobne notifikacie na ulohach, o ktore ma zaujem. Aktualne sa mu zapinaju automaticky, ale ked si ich manualne vypne tak mu uz nic nepride. Daj potom vediet ako to dopadlo."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "V pátek zjistím, už je mimo kancelář. Každopádně díky za pomoc. H."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, dam to na reakciu teba? alebo to uzatvorim a ked tak mi napises na teams ako to dopadlo?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Ok, takto to můžeme udělat."
+    }
+  ]
+}

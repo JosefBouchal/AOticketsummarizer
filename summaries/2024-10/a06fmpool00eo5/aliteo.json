@@ -1,0 +1,43 @@
+{
+  "id": "a06fmpool00eo5",
+  "created": "2024-09-30T08:26:53.222Z",
+  "closed": "2024-10-07T11:48:58.78Z",
+  "duration_minutes": 10282,
+  "first_response_minutes": 16,
+  "name": "Manuál",
+  "description": "Dobrý deň pán Dzuro, chcem sa opýtať, máte nejaký základný manuál na Aliteo?",
+  "owner": "Lukáš Zadžora",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, aky manual myslite? Nieco ako napovedu? Jasne, je uz dhsie na adrese: https://help.aliteo.com/sk/ je to to co hladate?"
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "Skôr aby to bolo napríklad nejaké PDF. Taký užívateľský manuál by som to nazval."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Exportoval som nieco, pozrite ci moze byt.. Dokumentácia SK online 24.1.pdf Ide v principe to iste, rovnako strukturovane.."
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "no niečo podobné mám, ale je to také dosť obšírne. Chcel som len niečo čisto z užívateľského hľadiska, ale okej, pošlem im toto a uvidíme. Ďakujem."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lukáš Zadžora (lukas.zadzora@lunys.sk) ano je to dokumentacia, zatial nemame manual na konkretne funkcionality. Este potom su dostupne videonavody tu: https://www.youtube.com/@ALITEO_software . Mozeme teda pripad uzatvorit a pripadne zalozite nieco nove ak budete mat dalsie informacie? Dakujem"
+    }
+  ]
+}

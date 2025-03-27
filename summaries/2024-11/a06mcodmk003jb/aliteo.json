@@ -1,0 +1,43 @@
+{
+  "id": "a06mcodmk003jb",
+  "created": "2024-11-21T06:50:36.561Z",
+  "closed": "2024-11-28T08:04:45.493Z",
+  "duration_minutes": 10154,
+  "first_response_minutes": 35,
+  "name": "Dotaz opakující se úkoly",
+  "description": "Dobrý den, chtěl bych v Aliteu vytvořit opakující se úkol, což se mi přes tlačítko podařilo. Nicméně mi není úplně jasné, jak s těmito úkoly pracovat. Mám následující očekávání, kterých bych chtěl dosáhnout: Pokud vytvořím pravidelný úkol (vnímám to jako úkol, na kterém nastavím opakování), nechci, aby se mi zobrazoval mezi mými běžnými úkoly (pokud chápu správně, tak ho nesmím zavřít). Dá se nějak poznat, že jde o opakující se úkol? Ideálně bych chtěl všechny pravidelné úkoly zobrazovali na jednom místě (v rámci jednoho pohledu). Plánuji aktuálně vytvořit asi 5 úkolů, které se budou pravidelně opakovat (např. měsíčně nebo kvartálně). Cílem je: Vidět, které úkoly jsou pravidelné. Nemít je mezi úkoly, na kterých aktivně pracuji, aby mi nezaplňovaly seznam mých aktuálních úkolů (dokud se nevygeneruje konkrétní opakující se instance úkolu). Děkuji za vysvětlení a nápad na řešení jak s opakující ukoly pracovat. Kdyby to enbylo jasné navrhuji call minut a projít to. Michal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, zda sa to byt riesitelne. Funguje to nasledovne: - vytvorte si ulohu, ktoru budete pravidelne opakovat - pouzite funkciu, ktoru ste pouzili - vytvori sa sablona (ktore najdete v nastaveniach uzivatela) - toto je len sablona, z ktorej sa pravidelne vytvori uloha - do ulohy si kludne dajte svoj stitok sukromny - \"pravidelne\" - vytvorte si pohlad (aj na domovsku stranku) s kriteriami, kde bude tento stitok a teda len v tomto filtri uvidite tieto ulohy (nastavil by by som pohlad napriklad na pozastavene - aby ste tieto ulohy vybrali zo svojich reakcnych) - postup by bol nasledovny: - uloha Vam vznikne - za mna je spravne ze vam pribudne medzi ostatne vsetky reackne ulohy aby ste mali info ze sa vytvorila a potom tu ulohu kludne pozastavte - zmenite etapu na \"pozastavene\" a do tej chvile tuto ulohu najdete len cez vyssie uvedeny filter Dava Vam to takto zmysel?"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Díky, to zní jako dobrý workeround. Vyzkouším to. Když se do další verze zamyslíte, nad nějakým systémovým řešením bude fajn. příklady použití. Potřebuji aby, kolega jednou za 3 měsíce zálohoval dokumentaci od dodavatele Potřebuji aby jednou měsíčně někdo zkontroloval logy apliikace Potřebuji , aby někdo jednou ročně zrontrolovat práva v konkrétní aplikaci... díky Ticekt asi zavřete, příapdně že bych měl dotaz ozvu se"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Preco myslite ze toto je workaround? Tie scenare co ste napisali presne na to sedia a na to bola tato funkcionalita navrhnuta Vytvorite si tieto ulohy na konkretnych ludi, tak ako si predstavujete a zadate im to. Nasledne z nich vytvorite sablony (vsetky veci sa ulozia podla toho) a potom na sablone definujete kedy sa ma tato uloha vygenerovat. Ona sa vygeneruje a padne na danej uzivatela - mne to pride presne tak ako pisete. Alebo v com je to ine? Co Vam v tomto chyba aby to bolo to co potrebujete?"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Teda ještě jeden dotaz.Jak zruším danou šablonu. Udělal jsem si testovcí šablonu  a nedaří se mi ten původní úkol zrušit. ( Archoval jsem ho a stejně tak daná šablona je)."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ako som pisal v komentari ##1 ulozene sablony najdete v nastaveniach uzivatela. Ak si jednu otvorite ma zelene pozadie a teda viete ze ste v sablone, prikladam gif: Sablona nie je klasicka uloh, preto sa nenachadza medzi standardnymi ulohami."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a06g77flvg0gju",
+  "created": "2024-10-04T08:09:06.555Z",
+  "closed": "2024-10-30T11:57:49.993Z",
+  "duration_minutes": 37668,
+  "first_response_minutes": 4226,
+  "name": "Mentoring",
+  "description": "Jsem v části Mentoring. na levém panelu seznam osob, dole jsou pohledy. Když je tam těch lidí víc, jako vidím já, tak se mi pohledy na data vůbec nezobrazují a já vlastně vůbec nevím, že to, že mám data prázdná, je jenom tím, že jsem nativně přepnutý na pohled \"Dnešní\". Navrhuji, aby Pohledy byly stále viditelné - aspoň hlavička Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 0,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za podnet.. bolo by treba nejako zalomit.. zoberiem na poradu.. dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu: - zalomime nejako mentorovanych ludi? pri takom objeme by mozno clovek aj tak mal vyhladavat.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Zaradene do vyvoja."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Martin Válek (martin.valek@karatsoftware.cz) este pre info, toto bude nakoniec riesene ako sucast ulohy #1848 Rework: Klientsky filter, pohlady kde bude optimalizovany lavy panel vseobecne. Konkretne to bude takto:"
+    }
+  ]
+}

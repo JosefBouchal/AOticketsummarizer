@@ -1,0 +1,43 @@
+{
+  "id": "a05nps50f0090v",
+  "created": "2024-03-28T16:26:01.901Z",
+  "closed": "2024-04-04T05:41:33.1Z",
+  "duration_minutes": 9435,
+  "first_response_minutes": 6563,
+  "name": "Šablony úkol - vytvoří se a nemám na něj právo",
+  "description": "Jsem v projektu kde jsem supervisor a jdu do úkolu - přes 3 tečky dávám vytvoření šablony. Jak to je tak to dám vytvořit: 1. šablona se na pozadí nějaká vytvoří - OK 2. skončí to s obrazovkou, že nemám právo (nevím co chce zobrazovat - možná tu šablonu?) - CHYBA 3. v nastavení uživatele vidím, že je šablona vytvořena a nemám na ni právo - CHYBA 4. když chci otevřít tu \"Sablonu\" tak nemám právo - asi souvisí s bodem 3.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "pro PMS, až to bude vyřešené, tak dát vědět Kopalovi z KSO."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) ide o chybu zjavne, prosim napis nam ktory projekt, pripadne priamo ulohu z ktorej si vytvaral sablonu. Dakujem"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "např. zde: #287935 MKP Vzd - Vzdělávání - dal jsem tě i do sledujících."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, dik, predam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by byt opravene, skus.."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a06v5ar2001om5",
+  "created": "2025-01-28T09:18:52.169Z",
+  "closed": "2025-02-06T10:33:53.008Z",
+  "duration_minutes": 13035,
+  "first_response_minutes": 16,
+  "name": "Format datumu",
+  "description": "Dobry den, kde by som mohol zmenit format datumu v Aliteu . Teraz sa zobrazuje vo formate mesia/den/rok.",
+  "owner": "Tomas Vrbican",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim Vas, ALITEO neobsahujke zatial take nastavenie. Aplikacia ho prebera bud z prehliadaca alebo z nastavenia operacneho systemu. je mozne ze toto ovplyvnuje aj nastaveny jazyk"
+    },
+    {
+      "creator": "Tomas Vrbican",
+      "comment": "Mam nastaveny jazyk anglicky s regionalnym nastavenim slovensko"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "skuste pohladat kde vsade mate EN, zmenit ho, ci sa to prejavi v ALITEO.. myslim ze to v buducnosti budeme riesit aby bol format nastavitelny.."
+    }
+  ]
+}

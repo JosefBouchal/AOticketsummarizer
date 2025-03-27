@@ -1,0 +1,31 @@
+{
+  "id": "a05mrrnrmg1o7u",
+  "created": "2024-03-21T09:35:47.012Z",
+  "closed": "2024-03-22T10:32:52.908Z",
+  "duration_minutes": 1497,
+  "first_response_minutes": 236,
+  "name": "Mezera v čísle úkolu",
+  "description": "S verzí 24 se v čísle úkolu objevila mezera. Dělá to ale problémy při kopírování čísla úkolu na další místa. Číslo úkolu v takovém formátu nenajde vyhledávání. Nelze na něj zadat odkaz v komentáři. Mezera se bude muset mazat i při vkládání čísla úkolu např. do interní direktivy #AA v IS Karat. Bylo by možné zajistit, že se při zkopírování čísla mezera smaže?",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano je to chyba, patch ktory ba mal byt dnes vecer to vyriesi"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Funguje, díky."
+    }
+  ]
+}

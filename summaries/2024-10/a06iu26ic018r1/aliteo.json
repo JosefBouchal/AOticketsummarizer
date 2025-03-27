@@ -1,0 +1,27 @@
+{
+  "id": "a06iu26ic018r1",
+  "created": "2024-10-25T10:00:05.369Z",
+  "closed": "2024-10-25T11:54:42.882Z",
+  "duration_minutes": 114,
+  "first_response_minutes": 110,
+  "name": "API nepromítnutá změna komentáře z KARAT do ALTIEO",
+  "description": "Pavla Malá testovala případ #303419 DOTAZ komentáře v konfliktu< https://app.aliteo.com/task/a06iu01dmg3baa/ > popis úkolu #8 úkol 2/2024< https://aliteobetaapp.azurewebsites.net/task/a06itksit00jjd/ > komentář \"nezapomeň si na něj vykázat 😀\" vložen z Aliteo a ještě než se synchronizoval do Karatu byl v karatu vložen komentář \"jooo\". Pořadí obou komentářů se následně zaktualizovalo na obou místech - následně do záznamu ID změny 4106 PŘES ALITEO vložen dodatek \"- huhu\" > ten se našel a dostal se i do komentáře do KARATÁtu - tak OK - souběžně v KARÁTU editována změna< https://karat-link-redirect.karatsoftware.cz/karat?uri=test_new :@192.168.36.7:24211/seznam/kt_comment%3Fwhere%3D%2528%2520kt%255fcomment%252einc%2520%253d%25204108%2520%2529%26menu%3D0>ID4108 a tam vložen do textu dodatek \" - hoho\", ale ten se do Alitea nedostal ani po nějaké době. viz #8 úkol 2/2024 ##5< https://aliteobetaapp.azurewebsites.net/comment/a06ittd5ug1l9m/ >. Nenašel se? Z IS KARAT odesláno: { \"company\": \"a06fatpos00nec\", \"usercompany\": \"a06fcbieug0nec\", \"ts\": \"2024-10-25T09:12:46.000Z\", \"changes\": [ { \"type\": \"Modify\", \"simple\": true, \"def\": \"Comment\", \"id\": \"a06ittd5ug1l9m\", \"eid\": \"4108\", \"fields\": [ { \"name\": \"Comment\", \"type\": \"FormattedText\", \"value\": \"nezapomeň si na něj vykázat ?? - hoho\" } ] } ] } Vráceno { \"iserror\": false, \"isrepeatable\": false, \"errorchangeindex\": -1, \"results\": [ { \"type\": \"Modified\", \"eid\": \"4108\" } ] } Realita: Doměnka, způsobuje to ten emotikon na konci? Testováno ne. Dle jsem se domníval, že to způsobuje, že komunikace běží pod nějakým userem, ten není ale autor komentáře, tedy pak je to zahozeno. Ale změnil jsem uživatele pod kterým běží synchronizace a co napsal komentář a furt nic, tedy prostě oprava komentáře nefunguje, nutno opravit!!! Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "odoslane na vyvoj.."
+    }
+  ]
+}

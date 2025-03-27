@@ -1,0 +1,43 @@
+{
+  "id": "a061mfb9ig0m4c",
+  "created": "2024-06-13T12:45:42.778Z",
+  "closed": "2024-07-17T13:53:23.074Z",
+  "duration_minutes": 49027,
+  "first_response_minutes": 26,
+  "name": "štítky  - nejsou vidět přes více společností",
+  "description": "pokud mám na společnosti KARAT veřejný štítek a na společnosti LUNYS nemám štítek tak: 1. filtruji úkoly za společnost Karat a vidím štítky - OK. 2. filtruji bez určení společnosti a nevidím štítky - CHYBA. Buď bych měl vidět všechny veřejné štítky všech firem. nebo bych neměl vidět výběr interních a veřejných, pokud je nedokáže zobrazit - nyní to je matoucí a vypadá to, že tam žádné nejsou :-(",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, v prvom rade su stitky vecou pracovnych priestorov. Takze aj keby si vybral spoločnost a nevybral pracovnych priestor, takisto ich neuvidis. Nedava zmysel vyberat stitok pre zoznam uloh, v ktorom sa moze nachadzat uloha, ktora je mimo toto nastavenie. Takze spravny point je asi ten, ze ak nemozu byt ponuknute ziadne stitky, tak by sa kategorie interne a verejne mali uplne skryt. Je tak?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano přesně - tedy nezobrazovat a bude to správně."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem, beriem na poradu.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: V suvislosti so kompletny reworkom stitkov tato poziadavka nema opodstatnenie, nakolko tieto kategorie sa uz nebudu uvadzat."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, sice nevím ajk to bude vypadat, ale až to bude tak na to kouknu."
+    }
+  ]
+}

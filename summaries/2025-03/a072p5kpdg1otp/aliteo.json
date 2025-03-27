@@ -1,0 +1,55 @@
+{
+  "id": "a072p5kpdg1otp",
+  "created": "2025-02-25T12:07:03.316Z",
+  "closed": "2025-03-05T08:26:11.319Z",
+  "duration_minutes": 11299,
+  "first_response_minutes": 9,
+  "name": "Organizace porad - zástup",
+  "description": "Dobrý den, mohu nějak za organizátora upravit seznam lidí, co mají pozvánku na poradu? Máme organizátora mimo signál a potřeboval bych to zeditovat. V projektu jsem adminem, ale nejsem organizátorem schůzky.\r\nDěkuji\r\nJirka Dvořák",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 3,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ono to vlastne to iste ako schodzka ktoru organizujete cez outlook. Ako ucastnik nie je moznost ako upravit udalost, takze to asi bohuzial nepojde."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Nevadí, jen jsem to zkoušel. Možná jako nápad pro úpravu. Je to opakovaná událost a potřeboval bych v ní jako záskok udělat malou úpravu 🙂 Hezký den a tím pádem to můžete uzavřít."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "rozumiem teda spravne, ze by Vam nevadilo, ak by Vam do Vasej schodzky mohol akykolvek ucastnik porady vojst a Vasim menom upravit Vasu schodzku?"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "spíš admin, než kdokoliv. prostě někdo, kdo to udělá za člověka, který je nějakým způsobem dlouhodobě vyřazen. případně, pokud by admin mohl předat organizátorství na někoho jiného.  takhle jsme totiž v pasti a nejsme schopni v poradě vyměnit účastníky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tomu rozumiem, avsak je to standard tak ako je to v pripade akejkolvek schodzky v MS exchange - takisto nie je ziadna moznost ako nieco upravit za organizatora.. Ale porozpravame sa o tom na produktovej porade, co na to kolegovia.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Zaplanovane."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim pan Dvorak, mali sme poradu produktu a zaplanovali sme to vyvoja dodatocne pravo, ktorym budete vediet na porade vybrat ucastnikov, ktori budu moct na zaklade tohto prava menit niektore parametre porady."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Moc díky. To mi přijde jako fajn věc. Řekněme vytvořit si tam zástup. U jedné porady to je asi v pohodě, ale u série porad je to problém, když to tam není. Díky."
+    }
+  ]
+}

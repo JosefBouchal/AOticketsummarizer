@@ -1,0 +1,43 @@
+{
+  "id": "a067k5le500s0f",
+  "created": "2024-07-29T13:49:45.705Z",
+  "closed": "2024-07-30T09:12:01.853Z",
+  "duration_minutes": 1162,
+  "first_response_minutes": 25,
+  "name": "FW: Ke schůzce",
+  "description": "Dobrý den,\r\nDnes mám pár dotazů, které nám zase vyběhly:\r\n\r\n  *   Bavili jsme se o apce. Měla být někdy v létě. Teda pokud si dobře pamatuji. Jak to s ní vypadá? Budete ji někdy vydávat?\r\n  *   Pak jsme se bavili o nějakém AI asistentovi. Máte k tomu už nějakou roadmapu?\r\n  *   Mohli bychom se zase domluvit na nějakém školení? Někdy po 20.8?\r\nHezký den a díky moc\r\nJirka Dvořák",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, zistim blizsie info a budem Vas informovat. Inak pridal som Vas do spolocnosti ALITEO, plus do projektu Support. Takze nemusiote zadat ulohy emailom ale priamo v aplikacii ALITEO - bude to pre Vas pohodlnejsie."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Posielam update: ad apka - vdaka niektorym systemovym, pomerne dolezitym zmenam sa vydanie aplikacie posunulo. Ciel je vydat ju vo stvrtom kvartali 2024 ad AI - v najblizsich tyzdnoch by sme mali dostat AI do testovacej prevadzky, kedy by sme mali zacat s trenovanim a testmi. Je tazke odhadnut datum vydania. Vsetko zalezi od prvych testov ad skolenie - samozrejem, kludne zadajte opat ulohu do projektu NC Line ALITEO v spolocnosti KARAT, tam sa mozeme dohodnut na termine a takisto aj na obsahu.."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Díky moc, už jsem pozvání potvrdil. Budu tedy chodit zde přes portál. A díky za ostatní informace. Zadám si tedy na to nový úkol zde #5018 Školení Aliteo v NC LIne"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, mozeme tuto ulohu teda uzatvorit?"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "ano, omlouvám se, uzavřete, prosím."
+    }
+  ]
+}

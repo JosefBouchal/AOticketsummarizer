@@ -1,0 +1,27 @@
+{
+  "id": "a06hgl75m013bj",
+  "created": "2024-10-14T09:29:39.648Z",
+  "closed": "2024-10-14T10:29:30.399Z",
+  "duration_minutes": 59,
+  "first_response_minutes": 9,
+  "name": "AO - definice SLA a výběr parametrického atributu, neukazuje název enumu",
+  "description": "Tip: jelikož to je sdílený atribut a pak v AO nemáte názvy u firemních atributů. Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, jasna chyba - polozky vyctu zdielaneho atributu sa nezobrazuju pri definicii SLA zmluvy."
+    }
+  ]
+}

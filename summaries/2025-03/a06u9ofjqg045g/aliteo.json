@@ -1,0 +1,55 @@
+{
+  "id": "a06u9ofjqg045g",
+  "created": "2025-01-21T16:41:10.293Z",
+  "closed": "2025-03-05T09:15:29.92Z",
+  "duration_minutes": 61474,
+  "first_response_minutes": 809,
+  "name": "úkol - změna rozložení na 2 panely (vyjádření a psaní)",
+  "description": "jen takový nápad, který by mohl řešit to, že při psaní není možné nějak rozumně listovat v předchozích vyjádřeních. Obvykle píšu text, dávám odkazy kde se co řešilo atd. a musím v malém okně listovat. - toto funguje ještě při prvním zadání, ale pokud dělám opravu vyjádření - tak si už nezalistuji vůbec - chová se to jinak a to okno mi to překryje. Návrh: 1. sbalit horní panel (už se kdysi diskutovalo) abych měl více prostoru pro širokoúhlé monitory pak lepší varianta: 2. umožnit změnit rozložení: kdy vlevo/vpravo uvidíme vyjádření a budu moci s nimi rolovat. na druhé straně uvidím svůj text - i chatgpt je schopno se přepnout a pracovat tak:-) - tož tak nějak bych si to představoval (a klidně interaktivní šoupátko pro zvětšení a zmenšení plochy",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Low",
+  "surveyterm": "Normal",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 3,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ok, dik za podnet. Osobne sa mi paci asi viac varianta ze by sme to dali az do fullscreen okna a na prepinac. Trochu sa obavam potom ze sa budu pytat ze preco nie aj popis ulohy napriklad - ktory moze byt pomerne velky."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "pokud potřebuji psát vyjádření a dívat se na předcházející (třeba při 50, 100 nebo v Respectu 700vyjádření) tak co se chtělo na začátku už není moc důležité. A pokud ano, tak si to \"změním\" do stávajícího rozložení a můžu si přečíst všechny atributy, popis, data atd. Ideálně jako ikonku která mi to zvětší a ta by byla vedle toho čtverečku u vyjádření - tím bych i změnil režim psaní."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "takze ty by si chcel zmenit toto aktualne rozlozenie (nie fullscreen) na vertikalne rozdelenie kde na lavej strane rolujes komentare a na prave strane mas odvrchu po spodok okno na pisanie noveho komentara? Ja som povodne myslel ze by bolo mozne rozdelit fullscreen okno na 2 casti, v jednej z nich by si pisal a v druhej by si si vybral ci chces komentare alebo popis alebo neviem... Napis kludne, ako by si navrhol tuto obrazovku (komentare) ak by si ju mal ju mal navrhnut nanovo.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "fullscearn není přes celou obrazovku , ale vlastně je to více než když by to bylo ve stávající, takže asi to je lepší řešení. Navíc nyní když mám zobrazené upozornění protože s nimi pracuji, tak o to mám menší obrazovku. Když píšu vyjádření, tak nepotřebuji ani ty atributy vlevo, ani upozornění vpravo. Takže ano, rozdělit FULLSCREAN je asi lepší řešení. Klidně to stávající šoupátko co mi z toho udělá nudličku - tak že by vyroloval ty vyjádření z leva a vpravo bych měl ten text. Když bych chtěl jen psát, tak bych si to mohl zase zasunout doleva a měl celou plochu pro vyjádření, pokud bych se potřeboval podívat, tak bych si to mohl vyrolovat z leva. co ty na to?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) si robis srandu ze ti aktualny fullscreen nie je dost velky... to by ti tak pomoho tych 80px naviac? mimochodom ked si skryjes lavy panel, a aj upozornenia tak mas celu sirku obrazovky.. to by malo byt ok.. ale za mna je nezmysel toto umoznit v normalnom zobrazeni a vo fullscreene nie.. preto ked vobec, tak som za variantu vo fullscreen a bez praveho panela.. predpokladam ze ti pri pisani komentara nijako netreba upozornenia.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, neřešme zvětšení okna. Ano při psaní komentáře nepotřebuji levý ani pravý panel. Ale pravý si nezavřu, protože by se mi upozornění označily jako přečtené, proto to mám pořád otevřené. Ale i kdybych to zavřel, tak to neřeší problém s výškou. Takže ano dejme to do fullscreanu"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Nevieme momentalne riesit, vzhladom na dalsie komplikacie, ktore to prinesie. Moze byt predmetom optimalizacie po nejakom case."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) bohuzial sme sa nedohodli na porade, takze zatial tento navrh neriesime, mozno v buducnosti - jeden z argumentov bol, ze mozes pouzit 2 okna vedla seba a takisto ze ked sa tam zobrazi nejaka dalsia evidencie, postupne sa uz budu ocakavat dalsie funkcionality, aby sa tam dalo hladat, filtrovat, pozerat aj na ine evidencie a podobne.."
+    }
+  ]
+}

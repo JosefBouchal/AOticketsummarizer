@@ -1,0 +1,39 @@
+{
+  "id": "a06n2b8l80011o",
+  "created": "2024-11-26T12:36:27.049Z",
+  "closed": "2024-12-04T13:59:25.9Z",
+  "duration_minutes": 11602,
+  "first_response_minutes": 22,
+  "name": "Vznik úkolu z Karatu",
+  "description": "Ahoj, prosím o pomoc při označení licence pro společnost: a01mkqoml06u9v, kterou jsme používali pro testování Karatu - vznik testovacích úkolů z DB test_mirror_new, abychom ověřili že vznikají KA. Zároveň jsme nechtěla, aby se nám tyto úkoly motali mezi reálnými úkoly pracovními. Nyní při pokusu o přihlášení/založení nového úkolu z Karatu  hlásí: Neplatné přihlášení. Ověření uživatele v ALITEO vrátilo chybu: Company a01mkqoml06u9v: Basic plan does not support API interface - it is supported from Premium plan",
+  "owner": "Pavla Malá",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Pavla Malá",
+      "comment": "ještě pro úplnost je z historických důvodů nastaveno toto: jde o dialog pořízení nového úkolu z Karatu do Alitea přímo, ne přes synchronizaci"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nie som si uplne isty kde je problem.. pojdem od zaciatku. Problem je teda ten ze sa ti motaju testovacie ulohy medzi pracovnymi. Moja otazka je ze kde: - v ALITEO? tak si vypni spolocnost v pravom hornom menu - v KARAT? - to ti neviem ci pomozem, nie je to o nstaveni v KARAT?"
+    },
+    {
+      "creator": "Pavla Malá",
+      "comment": "úlohy mají vznikat právě schválně do KSWPML, aby nechodili do ostrého Alitea. Schválně jsme to sem kdysi namířili. Jen teď stojím na tom, že to po mě chce nějaký typ licence"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ak mozes, zavolaj mi, lebo mi pride ze tuto spolocnost KSWPML sme nenastavoali, takze je logicke ze je tam Basic plan.."
+    }
+  ]
+}

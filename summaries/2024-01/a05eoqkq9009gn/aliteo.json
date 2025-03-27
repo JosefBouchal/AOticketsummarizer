@@ -1,0 +1,67 @@
+{
+  "id": "a05eoqkq9009gn",
+  "created": "2024-01-18T12:36:45.622Z",
+  "closed": "2024-01-25T09:33:01.863Z",
+  "duration_minutes": 9896,
+  "first_response_minutes": 15,
+  "name": "Nefunkční počet notifikaci 2",
+  "description": "Stav, že se se mě nezobrazí správný stav notifikací stále přetrvává, je to značná komplikace, bude se s tím něco dělat?\r\n\r\nPředtím se jednalo o úkol #3777 Nefunkční počet notifikaci< https://app.aliteo.com/task/a05d3ck3ng0scg/ >\r\n\r\nAllanK to viděl i u Petra Ďurčáka.\r\n\r\nZa mě je to chyba, kterou je zapotřebí co nejdříve vyřešit.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Lowest",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 5,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubo, no mozem to predat na AKO, len obavam sa ze dostanem rovnaku odpoved ako minule. Jak nasimuluji? Alebo AKO vie nieco viac a mam mu zadat do vyvoja?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "nevím co ví Allan, ale co vím já, jsem napsal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "OK, opytam sa teda priamo: Ako dosiahnem chybovy stav?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "co jsem pak zjistil v consoli je popsáno zde #3777 Nefunkční počet notifikaci ##6 a řekl bych, že pak mám vždy ten problém. Mě se přeci neptej jak toho stavu dosáhnu, já nepíši danou aplikaci"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) nerozumiem tvojmu argumentu ze nevies ako dostanes stav, ked ju nepises. Ty sa uzivatela KARATu nepytas ako vznikla chyba? Tiez mas k dispozicii nejake data aby si vedel kde ta chyba vznikla nie? Kazdopadne predam na vyvoj..."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ne nevěděl jsem jak problém vznikl, neumím na něj odpovědět, jelikož nemám ponětí, proč server se ztratil (spíše vrátil neplatnou odpověď) a nejde s ním komunikovat, vím že mě počítač nespadl (ani na modrou ani ze stolu), připojení díky tomu, že mám jiné aplikace citlivé na připojení nespadlo, tedy nejsem schopen odpovědět proč, jen můžu napsat, že mám většinou více záložek, ale nemám nastaveno uspávání záložek a  mám dostatek RAM, takže zde by problém být neměl"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "a je to tady zas (proč já nevím, mám 3x stejný úkol otevřený v 3 záložkách, na 2 je to aktualizované, na této nikoliv) Failed to load resource: the server responded with a status of 502 () Client.js:66476 XMLHttpRequest readyState DONE with Status=502 XMLHttpRequest Comunication requestId 128 repeatId: 0 ONLOAD returns status 502 <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\"> <html xmlns=\"http://www.w3.org/1999/xhtml\"> <head> <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"/> <title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title> <style type=\"text/css\"> <!-- body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;} fieldset{padding:0 15px 10px 15px;} h1{font-size:2.4em;margin:0;color:#FFF;} h2{font-size:1.7em;margin:0;color:#CC0000;} h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} #header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:\"trebuchet MS\", Verdana, sans-serif;color:#FFF; background-color:#555555;} #content{margin:0 0 0 2%;position:relative;} .content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} --> </style> </head> <body> <div id=\"header\"><h1>Server Error</h1></div> <div id=\"content\"> <div class=\"content-container\"><fieldset> <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2> <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3> </fieldset></div> </div> </body> </html>"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Preposlal som na Allana.. preposlem ti jeho odpoved.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) podla slov Allana ide o chyby ktore suvisia s problemom, ktory uz mame davnejsie a teda s so statusom 502. Toto by malo riesit prepracovanie asyns/await, ktory uz mame v dalsej verzii. Na to sa spolieha ze by to mohlo pomoct. Pri chybach 502 mi odmieta tickety, ze nema ako to riesit a spolieha sa na novu verziu.. takze tak.. Mrzi ma ze som to nejak lepsie nevyriesil.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Takže mám poslat na naší firmu mail, že ALITEO správně nyní chybně aktualizuje počet upozornění, že jsem danou funkčnost reklamoval, ale AllanK odmítá tikety s chybou 502 a že až bude nová verze, že bude snad to vyřešeno, do té doby si mají zapnout mailové upozornění (Ti co to mají vypnuto) a nebo mají jak blbečci klikat F5, pokud se jim neobjevila zrovna hláška, že přestalo komunikovat a že bude obnovovat? Jestli ano, ok, já to pošlu. Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, riesili sme na porade a zo vsetkych dostupnych informacii (neveieme nasimulovat, v dalsej verzie meniume await/async, cela funkcionalita upozorneni sa bude prerabat) sme sa rozhodli ze to tak ako to teraz je.  Verime ze nova verzia by tomu mohla pomoct."
+    }
+  ]
+}

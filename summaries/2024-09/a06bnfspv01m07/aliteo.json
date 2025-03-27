@@ -1,0 +1,43 @@
+{
+  "id": "a06bnfspv01m07",
+  "created": "2024-08-30T10:49:19.341Z",
+  "closed": "2024-09-04T11:39:20.188Z",
+  "duration_minutes": 7250,
+  "first_response_minutes": 136,
+  "name": "otevření úkolu z kalendáře",
+  "description": "při otevírání úkolu za kalendáře musím najet na červenou oblast.. chvíli jsem nad tím musel přemýšlet, protože z mého pohledu jsem logicky šel klikat na číslo úkolu.. Odkaz by měl fungovat nad celým oknem Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Martin, no ide o to ze to na co sa pozeras pre preview udalost - je to udalost v kalednari a jej sucastou je uloha. Dovolim si tvrdit ze to tak bolo aj pred tym, ze musis ist na oblast kde je uloha. Chapem to teda tak ze to nie je nahlasenie chyby ale je to podnet, aby sa kliknutim na ake kolvek miesto v preview otvorila uloha? V pripade ze kliknes na poradu v kalednari, takisto mas tlacidlo na vstup do porady, preto sa pytam aby som si ujasnil co navrhujes.."
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Ahoj, no dřív jsem na to takto přes ALITEO nechodil, tak jsem si toho nevšimnul. Teď s barvička začínám víc používat kalendář a minimálně při najetí na číslo úkolu bych čekal možnost na něj přejít. Prostě bez znalosti věci jsem intuitivně čekal, že nemusím \"hledat místo\", kam musím kliknout"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Rozumiem, len stale je treba pochopit ze ten odkaz na ulohu je sucastou udalosti. Takze ak vsetky ak vsetko nasmerujeme do ulohy uz nebudeme moct nasmerovat na udalosti. Zoberiem na poradu.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Riesime, prioritizujeme cinnost ktoru vykonavam najcastejise. Vytvorit do vyvoja."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Martin, zaradili sme do planu vyvoja. Dakujem"
+    }
+  ]
+}

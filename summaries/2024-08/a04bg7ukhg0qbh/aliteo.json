@@ -1,0 +1,147 @@
+{
+  "id": "a04bg7ukhg0qbh",
+  "created": "2023-04-19T14:08:00.354Z",
+  "closed": "2024-08-30T09:49:37.501Z",
+  "duration_minutes": 718301,
+  "first_response_minutes": 26,
+  "name": "Automatické občerstvení stránky Aliteo",
+  "description": "Dobrý den, nedávno jsme řešili případ, kdy se stránka Aliteo sama od sebe chce občerstvit. Chtěli jste po mně přesný čas, kdy se tak děje, který jsem nebyl schopen poskytnout, protože se mi zrovna tato chyba neprojevovala. Dnes v 15:53 jsem při psaní komentáře do úkolu #234578 TISK PRŮVODKY S VÝKRESEM+PŘÍLOHY< https://app.aliteo.com/task/a043cntuag1vgu/ > na toto automatické občerstvení narazil a to tak, že se mi informace o tom, že se chce stránka obnovit, zobrazovala tak dlouho, dokud jsem jí občerstvení nepovolil (po zrušení se okno objevovalo pořád dokola). [Image001] Ing. Josef Siska programmer",
+  "owner": "Siska Josef",
+  "priority": "Vyšší",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 31,
+    "from_owner": 3,
+    "from_others": 28,
+    "unique_authors": 5
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) prosim ta, vies sa na to pozriet? miestami sa to stane aj mne.. ze sa obnovi stranka. Nevieme to nasimulovat ale p. Siska zistil ked sa to stalo. Nevies zistit ci sa v tej chvili nieco nedialo?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Kontroluji kód a nenapadá mne problém, mně se nestává, ale je fakt že pracuji spíše ve visual studiu než dlouhodobě v Aliteu. Obnovení stránky požaduji pokud: - prohlížeč je cca 5 minut offline - možná stačí hodně špatná síť - nebo došlo ke změně autentikace uživatele na jiné stránce prohlížeče Asi tam někde bude problém ale nasimulovat  nebude jednoduché. Pokud se to někomu stane, pomohl by mi HAR soubor se síťovým protokolem... přitom je třeba mít zapnutou F12 a zapnutý Preserve log, jinak moc nevím jak řešit. Jak často nastává? Komu?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ako vidite, nie je jednoduche zistit co sposobuje tento problem. Aktualne nevieme nasimulovat problem a ani zistit co to sposobuje.. jedine takym postupom ako popisuje Allan"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vyborne, dakujem velmi pekne... predam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) v prilohe mas HAR subor, mozes sa prosim na neho pozriet alebo chces na to ulohu do vyvoja??"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Vyčítám, že problém není u mne, ale v autentikačních cookies. Cookie obsahují 2 záznamy: - _ga s platností snad rok - AppServiceAuthSession s platností Session Záznam s platností Session z ničeho přestane serveru posílat - pravděpodobně zmizí z cookies. Přitom session dále běží."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Nasimulovat u sebe stále neumím."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahojte, @ Allan Konečný (allan.konecny@karatsoftware.cz) @ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) nastal v tomto nejaky posun? Stava sa to bezne aj mne, ze v prostriedku prace sa refreshne stranka a odmaze mi data ktore som neulozil. Myslim, ze to je problem, ktory pri pisani dlhieho bodu porady naserie zakaznika dost. Vieme tomu dat nejaky cas a identifikovat to?"
+    },
+    {
+      "creator": "Tomas Pavlik",
+      "comment": "Ahoj, snazil som sa replikovat problem u seba (napr necham otvorenych 10 okien aliteo app s rozpisanym statusom). Nechal som bezat laptop cez noc a vsetko zostalo tak ako bolo (aj vratane rozpisanych komentarov) Myslim, ze to budeme musiet ponat zosiroka, spisem sadu otazok na ktore by som potreboval odpovede aby sme sa mohli posunut"
+    },
+    {
+      "creator": "Tomas Pavlik",
+      "comment": "Zopar otazok : - aky web browser pouzivas ? - ktora cast sa ti nahodne refreshne ? -- ked pises komentar na nejakej ulohe ? - dochadza k refreshu potom, co sa fyzicky hybes s laptopom a hypoteticky moze nastat strata network connection / vypadku Wi-Fi ? - kazdy aliteo window vytvara kazdych 15s HTTP Get request na refresh, takze ak by doslo k vypadku internetu a strate niekolko takychto requestov, mohlo by dojst k nutenemu znovunacitaniu celej stranky Alternativny postup -> namiesto zistovania, preco nam nahodne refreshne stranku (a my stracame neulozene data vramci rozpisaneho komentu), by sme sa mohli pokusit ukladat v pravidelnych intervaloch rozpisane komentare. Napr pouzitim JavaScript localStorage key,value. Allan, co si otom myslis ?"
+    },
+    {
+      "creator": "Tomas Pavlik",
+      "comment": "Jasne, uz chapem. Pozrel som prilohu, vybehlo ti okno s popisom : Na zobrazeni nemate pravo, coz indikuje problem s authentication. Ak sa ti to stane znovu, mozes prosim : - otvorit developer mode - otvorit napr request changes - Headers -> pozriet Cookie - tam by si mal vidiet AppServiceAuthSession= a dlhy hexadecimalny string. Ak sa ti zjavi okno, ze ti chybaju prava + nebudes mat v Cookie AppServiceAuthSession, tak to znamena ze ti z nejakeho dovodu zmizlo. Este otazka, ked refreshnes potom stranku, tak ti riadne dalej pokracuje ? alebo si redirectnuty na login stranku a musis nanovo prejst authentikaciou ? Otvaras Aliteo v standardnom okne, nie Private mode ?"
+    },
+    {
+      "creator": "Tomas Pavlik",
+      "comment": "Ok, uz som si vsimol v prilohach ten screenshot o automatickej obnove. Chrome pouziva Automatic Discard na strankach, ktore nie su dlshie pouzivane aby setril pamat Tu si vies na svojom laptope pozriet, ktore stranky je mozne auto-discardnut (Auto-Discardable) + aka je tvoja aktivita na jednotlivych taboch chrome://discards/ V pripade, ze chrome nedeteguje tvoju aktivitu (napr si dlhsie prec, pripadne nemas focus na dany tab) moze to vyhodnotit ako neaktivitu a pokusit sa refreshnut stranku. Pocet auto discardov na aliteo stranke mozes vidiet v stlpci Discard Count Skusal som simulovat vynuteny refresh stranky, zatial co som pisal tento komentar, aby som si uveril ci auto-discard dokaze zmazat rozpisany komentar .. Vysledok je, ze komentar zostal aj po discarde rozpisany. => stale sa mi nepodarilo replikovat tvoj problem Mozes zopakovat tento test na svojom PC a dat vediet, ci ti vynuteny refresh vymazal rozpisany komentar ? 1. chrome://discards/ 2. najdi aliteo 3. v poslednom stlpci klikni na urgent discard 4. vrat sa naspat na app.aliteo a pozri si, ci tvoj komentar je stale rozpisany Aku mas RAM na NB ? auto discard by sa mal vynucovat pri vyssej utilizacii RAMky Mozes pridat screenshot z chrome://discards/ ? konkretne by ma zaujimali taby Discard Count a Last Active. Aby sme zistili, ako casto ti chrome refreshuje stranky. Taktiez by pomohol screenshot z Task Managera -> utilizacia RAM v %"
+    },
+    {
+      "creator": "Tomas Pavlik",
+      "comment": "z .har suboru som vycital nasledovne : - spustenie recordingu cca 20.04.2023 08:24 - o 13:49:17 zmizol z Cookie : AppServiceAuthSession z Preview : _apperror: \"IsAuthenticated\" _appnotfound: true _error: true skusim nechat bezat aspon jeden den a uvidim, ci aj mne vyexpiruje session  za tu dobu"
+    },
+    {
+      "creator": "Tomas Pavlik",
+      "comment": "nechavam rozpisany komentar od 16:17 na Microsoft Edge sa mi podarilo replikovat problem cca 2000 pull requestov to trvalo po stlaceni na cancel sa okno zjavi znovu Po reloade sa stranka riadne nacita, auth cookie je spat Pisal som ale tento komentar v inom okne (chrome) tak mi zmizol komentar kedze som to priebezne ukladal. tu mam screenshot mojich dvoch alliteo sessions, predtym som tam mal cas od cca 16:30 kes som spustal cas. teraz je na oboch cas 18 :06, ked som zistil ze mi vyexpirovala session. Vyplyva mi z toho, ze aj napriek HTTP Get Pullingu, mi moze otvoreny TCP Session voci Alliteo web service vyexpirovat. Hypoteticky, ak vyexpiruje session, vyexpiruje aj cookie? Dalsi test uz nebudem takto dokumentovat, uz len spisem zaver, ci mi zmizli komentare alebo nie. Kazdopadne je to potvrdene, po niekolkych 100vkach Pull changes requestoch a necinnosti v okne, authentication cookie zmizne"
+    },
+    {
+      "creator": "Tomas Pavlik",
+      "comment": "Dalsi test cez noc session otvorena v Edgi a Chrome o 20:24 session na chrome skoncila okolo 04:46 rano, v IE pokracovala dalej v Chrome mi ale okno kompletne zamrzlo a nebolo mozne robit nic, nedokazal so ani stiahnut har subor, takze neviem vyhodnotit, ci : - najprv doslo k expiracii TCP session a nasledne odstraneniu Auth cookie, alebo - najrpv doslo k odstraneniu Auth cookie a nasledne expirovala session"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ospravedlnujem sa ze Vam do toho vstupim, ale to samovolne obnovenie stranky sa mi deje aj bezne pri praci, nie len ked nepracujem v ALITEO... to je ten problem"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Jen pro informaci, právě teď se mi stalo, že jsem editoval komentář, objevilo se okno s tím, že je potřeba obnovit stránku. Tak dlouho jsem klikal na zrušit, až jsem neměl jinou možnost než kliknout na obnovit a tím jsem přišel o rozpracovaný komentář."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Tomas Pavlik (tomas.pavlik@netlancers.eu) Mame na tomto nejaky posun? Ma zmysel to mat otvorene od 04/2023? @ Daniel Dzuro (daniel.dzuro@karatsoftware.sk)"
+    },
+    {
+      "creator": "Tomas Pavlik",
+      "comment": "Ahojte, povodny system fungoval na Azure Functions + HTTP pooling pre ziskavanie updatov. Aj kvoli cost-savingom to Allan prerobil na Azure App Service, co je \"always-on\" webovy server. Uvaha bola, ze ak budeme mat staly server, tak nebude dovod na vyexpirovanie akychkolvek sessions medzi serverom a vami, clientmi, avsak sa to este obcas deje. Dalsi posun mozeme urobit tak, ze nahradime HTTP pooling priamo WebSocketmi. WebSockety vytvoria permanentny HTTP tunel medzi vasim web-browserom a app service serverom a uplne nahradia HTTP pooling. To by opat hypoteticky mohlo eliminovat obcasne nutene refreshe stranok, kedze ta session by bola stale hore, bezohladu nato ci vas web browser posiela nejake data smerom k serveru alebo nie. ETA nato zatial nemame."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "OK, díky za info.\r\n\r\nIng. Josef Siska\r\nprogrammer\r\n\r\ntel.: +420 581 737 139 | josef.siska@karatsoftware.cz< mailto:josef.siska@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-twitter.png ] < https://twitter.com/karatsoftware >  Twitter< https://twitter.com/karatsoftware >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Tomas Pavlik (tomas.pavlik@netlancers.eu) Pls pouzivajte interne komntare, nech to zadavatel nevidi. :) Znamena to, teda, ze je potrebne urobit ulohu do vyvoja, ktoru sprioritizujem, alebo ako sa riesia tieto strukturalne zmeny teraz? Komunikujete to priamo s Allanom?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Zatím neřeš, I toto může souviset s #3734 AO: Při dlouho otevřeném tiketu spadne na chybu ."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Doplnil jsem případ do vazby, kde mám nějaké poznatky. Docházím k závěru, že vyřeším dotazem na občerstvení, nikoliv automatickým občerstvením."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Jen pro info, teď se mi zmínil SHC, že měl v Aliteo rozepsaný komentář, s oknem delší dobu nepracoval a když se k němu vrátil, bylo obnovené a komentář zmizel. Tzn. tento případ je stále aktuální."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Tento případ si přebírám pozastavuji do nasazení 24.1 s websockety. Nevím jestli se tím vyřeší, ale minimálně to bude celé jinak, takže teď nemá smysl řešit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) len ma v tej suvislosti napadlo, ci to nebude problem aj v suvislosti s tym co si vcera nasadzoval ze sa stranka odpoji po 10 minutach neaktivnej karty.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Asi ne, i když aplikaci na serveru zruším, měla by se po obnovení síťové komunikace vzpamatovat. Podle mne je toto ve verzi s web sockety vyřešené - pozastavuji do jejího nasazení."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Tento případ by měl být nasazení verze 24.1.3.14 vyřešen."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) nasdenim vezrie 24.1.3.14 by tento prolem mal byt vyrieseny.. vies to nejako otestovat alebo zatvorime a uvidime? dakujem"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Už delší dobu se mi nestalo, že bych o rozepsaný komentář přišel kvůli automatickému občerstvení, takže asi uzavřeme, pokud bych na to narazil někdy v budoucnu znovu, založím nový úkol. Díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "vyborne, dakujem.."
+    }
+  ]
+}

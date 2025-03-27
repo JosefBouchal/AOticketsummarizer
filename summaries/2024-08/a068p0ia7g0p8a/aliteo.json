@@ -1,0 +1,43 @@
+{
+  "id": "a068p0ia7g0p8a",
+  "created": "2024-08-07T12:26:31.192Z",
+  "closed": "2024-08-23T17:47:18.473Z",
+  "duration_minutes": 23360,
+  "first_response_minutes": 1228,
+  "name": "Při zvětšení ALITEO „zmizne“ ovládací prvek viz. šipka",
+  "description": "Agenda Porady Při zvětšení ALITEO \"zmizne\" ovládací prvek viz. šipka Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Martin, nie som si isty ci chapem. Ale ano, ak priblizujes obrazovku tak ostava menej priestoru a postupne sa jednolive veci skryvaju, lebo na nich nie je priestor. Alebo si to myslel nejak inak?"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Ano, je to přesně tak... jen bych někde čekal tři tečky, kde si takto \"zmizelé nabídky\" vyvolám.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Dušan Kovář (dusan.kovar@karatsoftware.cz) je mozne to vo vseobecnosti takto riesit? ze vsetko co zmizne sa niekde inde objavi?"
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) Asi obecně nepůjde vyřešit, aby se cokoliv, co zmizne, objevilo někde jinde. Ale můžeme jít v responsivním designu po komponentách. Zde by například header (viz případ #1811 Header v obrazovkach ) mohl skutečně podle nějakého pravidla postupně vše přesunout do tří teček. Dávám na UIX"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Budeme riesit plosne v ramci respo. celej aplikacie, po vydani mobilnej aplikacie."
+    }
+  ]
+}

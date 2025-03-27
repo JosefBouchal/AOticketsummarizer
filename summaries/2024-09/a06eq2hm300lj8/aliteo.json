@@ -1,0 +1,51 @@
+{
+  "id": "a06eq2hm300lj8",
+  "created": "2024-09-23T09:06:32.385Z",
+  "closed": "2024-09-24T10:12:26.421Z",
+  "duration_minutes": 1505,
+  "first_response_minutes": 53,
+  "name": "Změny v dokumentech se neukládají",
+  "description": "Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 2,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, len dedukujem - mas vlozeny subor s docx/xlxx alebo iny ktory je mozne editovat. Ty ho otvoris, povolis zmeny, upravis, ulozis a zmena sa nezapise? Vyhodi to nejaku hlasku ? alebo ako sa to sprava? Skusil som si co som napisal a mne to ide vo"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "1) ano, postup je jak říkáš 2) minulý týden mi to fungovalo, teď ne.. Přijde mi, že to nesouvisí s funčností ALITEO, ale s rychlostí?? Jakoby když je to pomalejší, tak se to neuloží, protože dám uložit, zavřu word, potom tu webovou stránku a vrátím se do ALITEO. Možná, že když se to udělá nějak rychle, tak nedoběhne ukládání těch změn??"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Martin Válek (martin.valek@karatsoftware.cz) je to mozne, skusime otestovat.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Josef Bouchal (Josef.Bouchal@karatsoftware.cz) prosim Ta, mohol by si otestovat? primarne tu horsiu rychlost, ci sa ti podari nasimulovat.. rychlost sa obmedzit priamo v F12 prehliadaca.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Martin Válek (martin.valek@karatsoftware.cz) ono, trochu je problem aj v tom, ze ta komunikacia medzi tvojim wordom a suborom ide mimo ALITEO, takze ak to tam nedobhne, v ALITEO s tym nic nespravime. Kazdopadne uvidime po teste.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Martin Válek (martin.valek@karatsoftware.cz) Allan opravoval, malo by to byt v poriadku.."
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Aktuálně funguje, děkuji"
+    }
+  ]
+}

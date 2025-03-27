@@ -1,0 +1,31 @@
+{
+  "id": "a06fv5sf0g14gb",
+  "created": "2024-10-02T09:15:25.452Z",
+  "closed": "2024-10-14T07:35:09.507Z",
+  "duration_minutes": 17179,
+  "first_response_minutes": 218,
+  "name": "chyba v kalendářích",
+  "description": "Ahoj – Martin přesunul uvedenou poradu z úterý na čtvrtek – a ona zmizela z kalendáře, … Dohodli jsme se, že pošlu takto, … Detaily sdělí Martin Marcel Herman",
+  "owner": "Marcel Herman",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report posuivam na Vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Marcel, vraj nemas pripojeny kalendar a bolo chyba ze si niekde videl pripojene.. takze to by malo byt opravene a mal by si to mat vsade rovnako.."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a06f6p55rg1ceb",
+  "created": "2024-09-26T11:07:47.755Z",
+  "closed": "2024-09-27T04:51:46.341Z",
+  "duration_minutes": 1063,
+  "first_response_minutes": 515,
+  "name": "Budoucí čas transakce?",
+  "description": "Vyjádření od MichalaD\r\n\r\nOpakovaně se mi stalo, že mi ALITEO při SetChanges na:\r\nALITEO API ERROR: /SyncSetChanges\r\nTransaction ts cannot be in the future. Check UTC time.\r\n\r\nPřitom čas je do UTC převeden. Je předáván čas transakce požadavku kt_data_sync.tran_ts (ten je průběžně aktualizován během aktualizace dat do daného požadavku kt_data_sync  - používá se getdate())\r\n\r\nTedy u my posíláme čas, která dle nás už určitě byl. My si na nemůžeme upravovat datum a čas na PC, takže to není nějakým naším přenastavením a asi je to tak, že prostě o trošku časy strojů nesedí, ale má to padat pak na chybu?\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Predane na Vyvoj"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a06id1thp018r1",
+  "created": "2024-10-21T06:55:04.825Z",
+  "closed": "2024-10-21T09:02:58.123Z",
+  "duration_minutes": 127,
+  "first_response_minutes": 53,
+  "name": "Licence",
+  "description": "Dobrý den, Můžu se dotázat co se děje v ALITEO s Licencí potřebujeme akutně opravit Licenci máme Zaplacenou! Děkuji S přátelským pozdravem David Skoták Administrator ERP mobil:      +420 605 062 625 e-mail:     d.skotak@agrikomp.cz< mailto:d.skotak@agrikomp.cz > agriKomp Bohemia s.r.o., Ostopovická 756/10, 664 47 Střelice [agriKomp Bohemia] < https://www.agrikomp.cz >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Vyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ideme sa na to ihned pozriet a dame Vam vediet. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) @ Dušan Kovář (dusan.kovar@karatsoftware.cz) potrebujem vasu pomoc.. neviem ako overit co sa deje s licencovanim.. - ak si zapnem licencie, tak tam vlastne vidim to co p. Skotaka - ak si zapnem payments - tak tam takuto firmu neviem najst - je tam cca 130 platieb, zda sa ze tam je zoznam cca rok aj nieco dozadu - ale medzi nimi vobec Agrikomp nie je, co je cudne, kedze uz niekedy platili"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, podla dat ktore som nasiel bola platba uskutocnena dnes 10:21 a teda mate uz licenciu aktivnu. Prosim o kontrolu a prajem pekny den. Daniel Dzuro"
+    }
+  ]
+}

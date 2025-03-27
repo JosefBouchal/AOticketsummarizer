@@ -1,0 +1,43 @@
+{
+  "id": "a05icd9mug0uju",
+  "created": "2024-02-15T13:55:54.856Z",
+  "closed": "2024-02-22T09:17:55.358Z",
+  "duration_minutes": 9802,
+  "first_response_minutes": 229,
+  "name": "Projekt - porady - nejsem účastníkem - nezobrazí nic",
+  "description": "na projektu v poradách chci vidět i porady,kde nejsem účastníkem - je na to tlačítko: ale nic mi nezobrazí. práva mám: Proč mi to nezobrazí všechny porady?",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Projekty",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) porady patria pod nastroje riadenia a ked teda chces vidiet vsetky porady musis ma Supervizora nastrojov riadenia:"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "to mě napadlo a tak jsme zkusili: V karátu to mám (předpokládám, že synchronizujeme) - v ALITEO ten údaj na členovi není a tak to asi zjistí jen ADMIN: PJE, který je taky supervisor nástroje řízení to nevidí, vidí jen své viz obrázek: Já vidím taky jen své = nic - ať je přepínátko vlevo, nebo vpravo. #938 MPZ MB s.r.o. - implementační licence vlevo: vpravo: můžeš to pls zkusit prověřit?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, zadal som na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Peto, malo by byt opravene.. prosim o kontrolu. Dakujem"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, vidím."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "a05ebm8d501qlo",
+  "created": "2024-01-15T08:05:00.268Z",
+  "closed": "2024-07-23T06:08:30.358Z",
+  "duration_minutes": 273483,
+  "first_response_minutes": 130,
+  "name": "Náměty UI Aliteo",
+  "description": "Ahoj, Posílám náměty na budoucí rozvoj Aliteo – myslím, že obecné. 1.  Do přehledu úkolů (nastavení) doplnit údaje plánovaný a odvedený čas ( za které se zobrazuje sumář). 2.  Doplnit možnost zobrazení jako grid – úkoly/výkazy v jednom řádku malým fontem. Na FHD se zobrazí 9 záznamů na celou obrazovku a při zmenšení měřítka prohlížeče jsou zase popisky filtrů moc malé a prostor plochy nevyužitý. díky za zvážení Juraj Matěj head of development",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 1,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dakujeme za namety, preberieme na produktovej porade. K bodu 2 - len aby sme boli \"same page\" - chceme ako stlpce zobrazovat len standardne data (ktore maju vsetky ulohy) alebo aj atributy. Aby sme sa pochopili kam tym mierim, ak budeme chciet zobrazovat veci, ktore su definovatelne na pracovnom priestore, tak kazdy atribu bude mat svoj stlpec. Ak budeme mat teda 3 prac. priestory a v kazdom definovanych 5 atributov, tak to bude vlastne doprava okrem standardnych dat aj dalsich 15 stlpcov pre tieto atributy. Logicky pre ulohy nepatriach do tychto priestorov budu tieto miesta prazdne. Tak ci sa spoliehame na filter alebo budeme rolovat doprava kym nenajdeme to co potrebujeme. Ak som nebol jasny, viem vysvetlit behom 5 minut. Staci napisat do MS Teams. Dakujem"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Konzultováno přes teamsy, primární cíl je zobrazení stávajících dat k jednomu úkolu v jednom řádku, funkčnost (definice) stejná... Aktuální pohled : 1) #ID, společnost, prostor, projekt a vlastník 2) Název 3) Ostatní údaje (dle nastavení uživatele) Požadovaná stav např: 1)#ID, společnost, prostor, projekt a vlastník      2) Název      3) Ostatní údaje viz např:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik za upresnenie, zoberiem na poradu..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "najprv na produktovu poradu, potom kludne na UI 1. planovany a odvedeny cas do konfiguratora 2. grid"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "z porady: 1. ok, nie je problem - zadat ulohu do vyvoja a do backlogu 2. s gridom pocitame na urovni widgetu a zaroven ako s dalsim zobrazenim (podobnym ako je vychodzi alebo kompaktny rezim)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) kedze si interny, videl si komentare, akurat som dnes pridal jednu ulohu do planu vyvoja a to je doplnenie konfiguratora.. chces to este nechat otvorene alebo mozeme uzatvorit?"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a05eshiu1g1n9g",
+  "created": "2024-01-19T10:15:54.916Z",
+  "closed": "2024-01-19T15:11:41.141Z",
+  "duration_minutes": 295,
+  "first_response_minutes": 39,
+  "name": "přílohy - nejdou zobrazit - prý tam nejsou",
+  "description": "nyní mám hlášeno několik problémů s ALITEO, nevím, jestli to souvisí, ale pro jistotu to uvádím. na případu #283566 Export FA do EDI - úprava přenosu doc_number pro partnera nejde nyní přiložená příloha zobrazit:",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Nejvyšší",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Petr, ako som ukazoval, v tom case nastal nejaky problem s azure a restartovala sa instancia. Sedi to pekne na cas uverejnenia toho komentara a prato sa asi neulozila priloha. Bude treba ju prilozit znova aby fungovala. Ospravedlnujeme sa za neprijemnosti."
+    }
+  ]
+}

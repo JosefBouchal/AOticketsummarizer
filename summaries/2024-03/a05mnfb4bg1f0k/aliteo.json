@@ -1,0 +1,35 @@
+{
+  "id": "a05mnfb4bg1f0k",
+  "created": "2024-03-20T08:02:15.914Z",
+  "closed": "2024-03-21T06:04:30.908Z",
+  "duration_minutes": 1322,
+  "first_response_minutes": 72,
+  "name": "čas odvodu ve FF nemá mezeru za budíkem vpravo",
+  "description": "Nový výkaz ve FireFox nemá u ODVEDENO u symbolu hodin mezeru zprava a naopak je tam spousta mezer zleva: V Chrome totéž je ok:",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, reportoval som do vyvoja.. chces ponechat otvorene alebo zatvorit?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Klidně to uzavři. Dík."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Uz to mame aj opravene, vyjde to v dalsej verzii ktora by mala byt vypustena v tychto dnoch.."
+    }
+  ]
+}

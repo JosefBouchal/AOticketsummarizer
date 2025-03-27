@@ -1,0 +1,31 @@
+{
+  "id": "a06dtk40e01a3o",
+  "created": "2024-09-16T11:22:14.682Z",
+  "closed": "2024-10-08T12:07:03.643Z",
+  "duration_minutes": 31724,
+  "first_response_minutes": 1,
+  "name": "Nie je mozne kopirovat bod porady v Respecte",
+  "description": "Uzivatel Truxa 1. Nie je mozne na niektore rady kopirovat body porady. 2. Zaroven ak si zapnem radu tak tam nevidim ostatne porady a ak zapnem porady na danom projekte vidim ich tam",
+  "owner": "Peter Ďurčák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Projekty",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) vieme dodat linky na porady resp na rady porad?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predal som na vyvoj.."
+    }
+  ]
+}

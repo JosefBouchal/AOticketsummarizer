@@ -1,0 +1,31 @@
+{
+  "id": "a06fvj6hpg14gb",
+  "created": "2024-10-02T11:40:51.717Z",
+  "closed": "2024-10-02T13:07:37.886Z",
+  "duration_minutes": 86,
+  "first_response_minutes": 69,
+  "name": "Přelinkování eid z něčeho na něco",
+  "description": "Přiznám se, že se mě moc nelibí, že AO provede přes API přelinkování i když původní eid je naplněno. Chápu, že to dělá pokud je eid prázdné (vytvořím projekt a vlastník v AO automaticky vznikne jako účastník, ale my jej taky posíláme jako Create), ale pokud jsem zavolal vytvoření účastníka řešitelské skupiny s eid 10 a zašlu nové create na stejného uživatele AO s eid 15, tak pak AO udělá přelinkování z 10 na 15, ale logicky musím mít v druhé db tedy záznam 10 a 15, jelikož jsem neposlal zrušení 10.\r\n\r\nTedy dá se nějak zemezit, aby AO provedlo změny a pak přelinkování, pokud mění záznam, který má již eid naplněno?\r\n\r\nOdeslaná data: {\"company\":\"a06fatpos00nec\",\"usercompany\":\"a06fcbieug0nec\",\"ts\":\"2024-10-01T19:50:53.130Z\",\"changes\":[{\"type\":\"Create\",\"simple\":true,\"def\":\"UserGroupItem\",\"eid\":\"3903\",\"parent\":{\"id\":\"a06fc1cob00nec\",\"field\":\"Items\",\"def\":\"UserGroup\"},\"fields\":[{\"name\":\"UserCompany\",\"type\":\"UserCompany\",\"value\":\"a06fatvlp06nec\"}]}]}\r\n\r\nNavrácená data: {\"iserror\":false,\"isrepeatable\":false,\"errorchangeindex\":-1,\"tranid\":\"a06fvgg3eg02ln\",\"results\":[{\"type\":\"LinkedUnique\",\"eid\":\"3903\",\"linkedid\":\"a06fc1cu700nec\"}]}\r\n\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, predane na vyvoj.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "díky"
+    }
+  ]
+}

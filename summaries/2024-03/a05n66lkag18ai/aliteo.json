@@ -1,0 +1,39 @@
+{
+  "id": "a05n66lkag18ai",
+  "created": "2024-03-23T21:50:25.495Z",
+  "closed": "2024-03-28T11:42:49.046Z",
+  "duration_minutes": 6592,
+  "first_response_minutes": 1922,
+  "name": "Filtr na otevřené úkoly nad vazbami zobrazuje i ty zrušené",
+  "description": "Když si nad úkolem zobrazím vazby a přes filtr si chci zobrazit pouze otevřené úkoly , tak se mi zobrazí i ty zrušené (což by neměly, protože ty nejsou otevřené).",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, predavam na vyvoj - otvorene ulohy by nemali byt uzatvorene a zrusene. Mozeme uzatvorit ci chces ponechat otvorene?"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Nechme prosím otevřeno."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) malo by byt opravene.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Funguje, díky."
+    }
+  ]
+}

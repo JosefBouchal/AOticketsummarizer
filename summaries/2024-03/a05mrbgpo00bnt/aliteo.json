@@ -1,0 +1,31 @@
+{
+  "id": "a05mrbgpo00bnt",
+  "created": "2024-03-21T06:38:36.647Z",
+  "closed": "2024-03-22T07:23:00.998Z",
+  "duration_minutes": 1484,
+  "first_response_minutes": 69,
+  "name": "Oddělovač tisíců v čísle případu",
+  "description": "Na případu vlevo nahoře je číslo, které jsem byl zvyklý kopírovat (do jiného případu, commitu apod.) Dvojklik na něm vybral číslo Ctrl+C jsem to zkopíroval.\r\nNyní je číslo rozděleno mezerou po tisících. Z jednoduché operace se stalo peklo. Tu operaci dělám stokrát denně. Proto je můj dotaz, zda mezeru někdo chtěl a hlavně zda to jde vrátit do původního stavu?\r\nVšude je číslo bez mezery, tak proč tady je s mezerou. Dík.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, Jasne poprosim o opravu. Prerabali sme oddelenia tisicov na nahlade atributov v lavom paneli a toto nam asi uslo.. prehodim na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pavle, bude opravene v najblizsom patchi.."
+    }
+  ]
+}

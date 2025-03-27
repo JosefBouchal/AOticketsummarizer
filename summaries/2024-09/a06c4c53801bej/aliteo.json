@@ -1,0 +1,63 @@
+{
+  "id": "a06c4c53801bej",
+  "created": "2024-09-02T13:52:17.442Z",
+  "closed": "2024-09-11T13:35:20.218Z",
+  "duration_minutes": 12943,
+  "first_response_minutes": 982,
+  "name": "Prepojenie Alitea a Karat",
+  "description": "Dobrý deň p. Dzuro, ako sme spolu telefonovali. Pozrite sa na to či je možné prepojiť: 1.) reklamačný formulár na web stránke , ktorý po vyplnení zákazníkom a odoslaní z web stránky cez API, príde email do firmy ako reklamácia do Alitea alebo Karatu 2.) Prepojiť Aliteo a KARAT -  automaticky číslo reklamácie do Alitea a Karatu - rovnaké identifikačné čislo v oboch systémoch, kvôli jednoznačnej identifikácií reklamačného prípadu... - číslo objednávky z Karatu a v ALiteo z ktorej bola zlá dodávka - podľa čísla objednávky vyplniť poličko fakturovaná suma - podľa čisla objednávky vyplniť poličko reklamovana suma, položka, cislo položky... 3.) náklady na reklamáciu /zaslanie noveho kusa, oprava, doprava.../ su v Karate, bolo by možné podľa  idetifikacneho cisla pritiahnut z Karatu  do Alitea kolonku náklady? 4.) 8D report má nejaké štandardy vyplnania políčok/krokov reklamácie ... Ja by som chcel aspoň 6 polia.... - Popis závady zákazníkom - tu by isiel text z emailu od zákazníka - Zistenie - vyplni pracovnik kvality - Príčiny - vyplni prac. kvality, aké identifikoval pri šetrení - Vyjadrenie ext. strany - napr. prepravca, dodavatel sa vyjadrenie k reklamácií... toto vyjadrenie by tu vypisal prac. kvality, resp. najst spôsob ako posunut reklamaciu z Alitea na externeho cloveka dodavata ? - Prijaté opatrenia - vyplní prac. kvality - Vysporiadanie - vyplni pracovník, ako vysporiadal reklamáciu, či poslal dobropis alebo nový diel... apd.",
+  "owner": "Jozef Mikita",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 4,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za dotaz, pripravim pre Vas odpoved, prekonzultujem s kolegami a informujem Vas ku kazdemu bodu ktory ste napisali."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "1.) reklamačný formulár na web stránke - cez API sa ulohy zakadat daju, problem je emailova adresu na ktoru neexistuje ucet (vas klient ktory nie je v ALITEO registrovany) - takyto email nevieme pouzit pre vytvorenie ulohy. Avsak pracujeme na tom, do niekolkych mesiacov by to mohlo byt funkcne. 2.) Prepojiť Aliteo a KARAT - chapem tu spravne, ze v zadavacom formulari uvedie vas zakaznik cislo objednavky, to chcete aby sa prepisalo do ALITEO a z Karatu si to natiahlo podla tohto cisla nejake data? Je to treba dopresnit (ktore parametre presne). Avsak toto je uz na zvlast implementaciu sychronizacie s KARAT, ktora ide mimo implementaciu ALITEO vo Vasej spolocnosti. 3.) náklady na reklamáciu - ak mame jednoznacne cislo (identfikator) podla ktoreho sa maju dotiahnut data, tak by to nemusel byt problem - treba definovat konkretne parametre, ktore by ste chceli do ALITEO dostat. 4.) 8D report má nejaké štandardy vyplnania políčok/krokov reklamácie ... počas callu som Vam ukazal ako by som toto riesil, takze je na vas ci ste s tymto riesenim spokojny.. je treba zaroven pochopit ze textovy atribut nijako do statistiky nevyhodnotite - ak by ste predsa len chceli, mohli by sme k jednotlivim poliam pridat aj dropdown - ktory by ponukol zakladny typ problemu k danej charakteristike a potom ten tex tb bol len doplnok..."
+    },
+    {
+      "creator": "Jozef Mikita",
+      "comment": "Okrem previazania čísla reklamácie v Karate a Aliteu, by bolo super, aby pri zalozeni reklamacneho pripadu v KARATE  sa vyberie zakaznik, tak sa automaticky vplnia kolonky ako (meno, nazov firmy, ICO, DIC a pd). Tie iste udaje aby pritiahli do hlavicky informácií o zákazníkovi aj do ALITEA, nech sa nepisu rucne udaje."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To sa da spravit inym sposobom - mame v ALITEO evidenciu Portfolia. Tam je priestor na jednoduche zobrazenie partnerov. Ak sa tam prida email z ktoreho do chodi, potom sa cez ulohu dostanete k danemu partnerovi a tieto data najdete. - v tejto ulohe mam napriklad toto - cez to prejdem na portfolio kde mam zakladne info o spolocnosti"
+    },
+    {
+      "creator": "Jozef Mikita",
+      "comment": "pozeral som. Avšak bolo by dobre keby sa dala urobit pumpa, ktorá by natiahla databazu z Karatu do Alitea aby nedoslo k chybe pri prepisovani."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dobre, znacim si to ako bod 5 - synchronizacia partnerov z ISK do ALITEO"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "pan @ Jozef Mikita (jozef.mikita@umakov.sk) pisem teda vyjadrenie: 1.) reklamačný formulár na web stránke - cez API sa ulohy zakadat daju, problem je emailova adresu na ktoru neexistuje ucet (vas klient ktory nie je v ALITEO registrovany) - takyto email nevieme pouzit pre vytvorenie ulohy. Avsak pracujeme na tom, do niekolkych mesiacov by to mohlo byt funkcne a nasledne by to malo fungovat ako potrebujete. 2.) Prepojiť Aliteo a KARAT - chapem tu spravne, ze v zadavacom formulari uvedie vas zakaznik cislo objednavky, to chcete aby sa prepisalo do ALITEO a z Karatu si to natiahlo podla tohto cisla nejake data? Je to treba dopresnit (ktore parametre presne). Avsak toto je uz na zvlast implementaciu sychronizacie s KARAT, ktora ide mimo implementaciu ALITEO vo Vasej spolocnosti. Aktualne este pracujeme na vylepseni tejto synchroniziacie, ktora by este par mesiacov mala trvat. Ja by som ale najprv navrhoval Vam zacal ALITEO pouzivat samostatne a nasledne by sme pokrocili k synchronizacii. Moze sa stat ze pri pouzivani zistite ze to nepotrebujete alebo ze potrebujete este nieco pridat a bolo by dobre vediet na zaciatku cele zadanie. 3.) náklady na reklamáciu - podobne ako bod2 - ak mame jednoznacne cislo (identifikator) podla ktoreho sa maju dotiahnut data, tak by to nemusel byt problem - treba definovat konkretne parametre, ktore by ste chceli do ALITEO dostat. Toto by som teda videl ako sucast implementacie synchronizacie. 4.) 8D report má nejaké štandardy vyplnania políčok/krokov reklamácie ... počas callu sme si ukazali ako by som toto riesil, takze je na vas ci ste s tymto riesenim spokojny.. je treba zaroven pochopit ze textovy atribut nijako do statistiky nevyhodnotite - ak by ste predsa len chceli, mohli by sme k jednotlivim poliam pridat aj dropdown - ktory by ponukol zakladny typ problemu k danej charakteristike a potom ten text bol len doplnenie.. (je to opat dalsi atribut a viditelnost) 5.) synchronizacia partnerov podobne ako body vyssie - bolo by dobre si vytvorit analyzu toho co chcete v ALITEO dotahovat z KARATU (a na zaklade coho), pouzivat ALITEO a tuto analyzu doplnat, menit a podobne. Na konci to potom zrealizujeme ak uznate ze je to potrebne."
+    },
+    {
+      "creator": "Jozef Mikita",
+      "comment": "vyskusam varianty a dam vediet"
+    },
+    {
+      "creator": "Jozef Mikita",
+      "comment": "zasielam subor spopisom krokov pre riesenie reklamacii v ALITEO vo firme UMAKOV. v Kapitole 3 - je uvedene, co je treba prepojit medzi ALITEO a KARATOM. resp. vyplnenie cez API reklamacny web formular do reklamcii v ALITEO. 00_Popis krokov reklamacie v ALITEO_UMAKOV_2024-09-11.docx 00_Popis krokov reklamacie v ALITEO_UMAKOV_2024-09-11.docx"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "podla dohody uzatvaram tuto ulohu, nakolko vec tykajucu sa synchronizacie riesime v ulohe v projekte ktory je venovany implementacii ALITEO.. tento subor tam prenesiem"
+    }
+  ]
+}

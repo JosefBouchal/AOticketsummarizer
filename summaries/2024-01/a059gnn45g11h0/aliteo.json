@@ -1,0 +1,79 @@
+{
+  "id": "a059gnn45g11h0",
+  "created": "2023-12-08T17:24:31.475Z",
+  "closed": "2024-01-06T11:52:49.645Z",
+  "duration_minutes": 41428,
+  "first_response_minutes": 3832,
+  "name": "AO: Při dlouho otevřeném tiketu spadne na chybu",
+  "description": "Dobrý den, Dle informace zasílám chybu na email: Mám velký problém s tím, že pokud si nechám v Chrome otevřený tiket AO, tak mi po čase změní adresu a zůstane mi jen toto: [Image001] a nejde dát ani zpět, ani nic.. Je to dooost nepříjemné!! Prosím o opravu. Děkuji! Ondr@",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 14,
+    "from_owner": 0,
+    "from_others": 14,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) prosim Ta, ma toto nejake riesenie? Zalozim ti pripad do vyvoja?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, poradim sa s kolegami co by sa s tym dalo robit a budem vas informovat."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "WEBSITE_AUTH_TOKEN_CONTAINER_SASURL= https://aliteostorage.blob.core.windows.net/tokens"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "WEBSITE_AUTH_TOKEN_CONTAINER_SASURL https://aliteostorage.blob.core.windows.net/tokens?sp=racwdli&st=2023-12-14T14:14:49Z&se=2023-12-14T22:14:49Z&spr=https&sv=2022-11-02&sr=c&sig=bj67MSjuetQ%2BHm0HpuaENTfT0esihhM%2BZHt2SUuJOaE%3D storage blob - vytvořit containet tokens - vytvořit shared access signature (SAS) - do linku vložím /tokens/ btw  generuji SAS přímo nad containerem tokens."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "https://stackoverflow.com/questions/41501612/trouble-getting-claimsprincipal-populated-when-using-easyauth-to-authenticate-ag"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Zdá se že WEBSITE_AUTH_TOKEN_CONTAINER_SASURL nepomohl - nastavil jsem a nic se nemění. Podivné je, že v kontejneru tokens jsou zatím jen 2 záznamy, čemuž nerozumím. Zatím nechávám nastaveno, ale nepředpokládám, že pomůže."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Ponechal jsem otevřená 4 okna. 2 prošly 2 neprošly. Linux instance podobné. Zajímavé je, že i instance které prošly, několikrát cyklí mezi callback a authorize - callback několikrát redirectuje na login.aliteo.com a až pak na app.aliteo.com. Přiložil jsem si nasimulovaný har soubor win a lin ve variantě kdy prošlo a kdy neprošlo. Asi bude nejjednodušší zapracovat dialog s dotazem zda přejít či nepřejít."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Zapracoval jsem místo automatického občerstvení dialog s informací, ž po ukončení dialogu dojde k obnovení stránky. Předpokládám že pomůže. Odkládám do zítřka, po nasazení vyzkouším."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) tak ako som ti pisal v komentari ##1 mohol som ti zalozit ticket do vyvoja, tu sme v supporte.. uz to neriesit?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "v rámci ##8 to považuji za vyřešené, tiscket do vývoje již nemá smysl zakládat.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Allan, cital som este raz zadanie a my jedine vyriesime to, ze mu vyhodis hlasku ohladom pripojenia a obnovis mu ten isty pripad. Je tak? Predpokladam ze ta sipka spat aj tak nebude mozna. Je tak?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "ano je to tak. tím že je tam dialog a uživatel obnovuje stránky postupně problém by neměl nastávat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, zapracovali sme opatrenie, ktore by malo upozornovat na obnovenie stranky. Nemalo by sa teda stat ze to padne na chybu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, zapracovali sme opatrenie, ktore by malo upozornovat na obnovenie stranky. Nemalo by sa teda stat ze to padne na chybu."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "a06cboncc01mev",
+  "created": "2024-09-04T08:56:16.88Z",
+  "closed": "2024-09-09T10:22:03.472Z",
+  "duration_minutes": 7285,
+  "first_response_minutes": 150,
+  "name": "povolit file-picker",
+  "description": "dle LTR, DZA a PDR potřebujeme v rámci Iframe povolit: allow=\"file-picker\" abychom mohli naimportovat soubor. nefunguje nám výběr souboru zde: Projektové řízení pak zde: Import požadavků a - import souboru: Budeme na setkání partnerů prezentovat jak se bude importovat soubor do karatu a generování požadavků do ALITEO.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Vyšší",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Projekty",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 3,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj predavam na vyvoj.. neviem co na to vyvoj povie.. chces este nechat otvorene?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "http://localhost:7071/httplinkdefaultframe/a04c8vvni01faj/?debug=true jako petr.masarik@karatsoftware.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Petr, prvy pokusy a vysledok od AKO: Chvíli se tím trápím, ale zdá se, že otevřít file dialog uvnitř sandboxovaného iframe není z bezpečnostních důvodů možné. To co navrhují klici neexistuje v dokumentaci a ani nefunguje (zkusil jsem). Navrhují otevřít link, který otevírá file dialog, v jiné záložce."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ještě přidám kde to řešíme: #294293 Projektové řízení - zpřístupnění partnerům přes ALITEO ano to je možné (jen tedy PDR má problém s bezpečností, protože do webové aplikace jdeme přes anonymní režim a díky \"vykradení\" linku a případně jeho úpravě v URL je omžné se dostat i tam, kde se normálně právy přes ALITEO nedostaneme... zkusíme to u nás přepnout."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) skuste sa s PMS pobavit ako to riesit, nech nekopritujem odpovede z jednej ulohy do druhej.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Pobavím se s PDR x PMS v práci."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "I když jsem doplnil všechny allow do sandboxu, padá na CSP: SecurityError: Failed to execute 'showOpenFilePicker' on 'Window': Cross origin sub frames aren't allowed to show a file picker. ChatGPT: Bohužel, neexistuje žádná Content Security Policy (CSP), která by vám umožnila obejít omezení týkající se showOpenFilePicker() v cross-origin iframu. Toto omezení je implementováno přímo v prohlížečích z důvodu bezpečnosti, aby se zabránilo potenciálním útokům skrze přístup k systému souborů v cross-origin kontextu. Nevím jak řešit, doporučuji otevřít v novém okně."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "tak asi zde pozastavíme, řeším tedy s DZA, aby to otevíral v novém okně."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na kolko pozastavit?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "chtěl jsem než to vyzkoušíme, ale už jsme vyzkoušeli - otevíráme to mimo a jde to. Se zabezpečením to je pak otázka už Karatu a web app. Takže toto asi uzavřeme a bude to \"vlastnost\" že to tak nejde."
+    }
+  ]
+}

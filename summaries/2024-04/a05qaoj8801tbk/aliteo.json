@@ -1,0 +1,51 @@
+{
+  "id": "a05qaoj8801tbk",
+  "created": "2024-04-17T07:38:45.28Z",
+  "closed": "2024-04-18T06:27:39.746Z",
+  "duration_minutes": 1368,
+  "first_response_minutes": 375,
+  "name": "Uložený pohled úkolu nefiltruje za stav úkolu",
+  "description": "Pan Hejna (marek.hejna@karatsoftware.cz) má již delší dobu uložený pohled na úkoly (společnost KARAT, úkoly Projektové, Pracovní prostor: Plán vývoje, Stav: V řešení všechny etapy, Atribut Strategický plán vývoje Ano) ale zobrazení neakceptuje Stav: V řešení.\r\n\r\nZkoušeli jsme vypnout a zapnout Stav a aplikace filtru nefiltruje za stav (ani to nezapíše do toho, za co má pohled filtrovat). Pokud zadá nový pohled, tak to funguje. Možná jej definoval ještě dokud se nedalo filtrovat Stav v řešení za etapy, nevím, ale vím, že mu uložené filtry nefungují a chtělo by to vyřešit.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 4,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report, posunul som na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, malo by byt opravene podla AKO.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Požádal jsem pana Hejnu, aby ověřil, zda je to OK"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Pan Hejna hlásí OK, děkujeme"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "jen podám info, že stav v řešení se mě nyní dostal i do filtrů, kde to předtím nebylo, ale už to řešit nechci. Snad se to neobjeví Jurajovi na měsíční poradě vývoje"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) chapem spravne ze to vnimas ako chybu? Lebo velmi nerozumiem ze sa obavas ze sa to objavi na mesacnej porade vyvoja.. kludne to zadajte ako problem.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "já nevím, řekl bych, že na filtru na osobu co má aktivně v plánu vývoje jsem filtr na stav řešení neměl, nyní tam byl a byl nastaven na V řešení , ale ruku do ohně za to nedám, tak jsem to jen pro jistotu uvedl."
+    }
+  ]
+}

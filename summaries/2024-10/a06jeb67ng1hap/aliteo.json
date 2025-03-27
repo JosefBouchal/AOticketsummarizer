@@ -1,0 +1,39 @@
+{
+  "id": "a06jeb67ng1hap",
+  "created": "2024-10-29T08:50:41.11Z",
+  "closed": "2024-10-30T07:44:45.942Z",
+  "duration_minutes": 1374,
+  "first_response_minutes": 464,
+  "name": "API - nesoulad podrobná notifikace účastníka úkolu",
+  "description": "Vytvořím úkol v IS KARAT, vlastník jsem já, tím vzniknu i jako účastník úkolu, ale systém nemůže znát, jak je zapnuto, kdy má uživatel ALITEO zapnuto podrobné notifikace. Tedy my odesíláme { \"company\": \"a069077mrg06rn\", \"usercompany\": \"a069077msg06rn\", \"ts\": \"2024-10-29T08:40:17.003Z\", \"changes\": [ { \"type\": \"Create\", \"simple\": true, \"def\": \"Task\", \"eid\": \"484\", \"parent\": { \"id\": \"a06e20g74g3pfv\", \"field\": \"Tasks\", \"def\": \"Section\" }, \"archived\": false, \"creator\": \"a069077msg06rn\", \"created\": \"2024-10-29T08:39:32.000Z\", \"fields\": [ { \"name\": \"CancelDate\", \"type\": \"DateTime\", \"value\": \"1901-01-01T00:00:00.000Z\" }, { \"name\": \"CancelRequestDate\", \"type\": \"DateTime\", \"value\": \"1901-01-01T00:00:00.000Z\" }, { \"name\": \"CancelRequestTrigger\", \"type\": \"Logical\", \"value\": \"0\" }, { \"name\": \"CancelTrigger\", \"type\": \"Logical\", \"value\": \"0\" }, { \"name\": \"CloseDate\", \"type\": \"DateTime\", \"value\": \"1901-01-01T00:00:00.000Z\" }, { \"name\": \"CloseRequestDate\", \"type\": \"DateTime\", \"value\": \"1901-01-01T00:00:00.000Z\" }, { \"name\": \"CloseRequestTrigger\", \"type\": \"Logical\", \"value\": \"0\" }, { \"name\": \"CloseTrigger\", \"type\": \"Logical\", \"value\": \"0\" }, { \"name\": \"Description\", \"type\": \"FormattedText\", \"value\": \"aaaa\" }, { \"name\": \"Done\", \"type\": \"Enum\", \"value\": \"Solving\" }, { \"name\": \"DueDate\", \"type\": \"Date\", \"value\": \"9999-01-01T00:00:00.000Z\" }, { \"name\": \"FirstSolverDate\", \"type\": \"DateTime\", \"value\": \"1901-01-01T00:00:00.000Z\" }, { \"name\": \"InternalType\", \"type\": \"Enum\", \"value\": \"Public\" }, { \"name\": \"MinutesPlan\", \"type\": \"Number\", \"value\": \"0\" }, { \"name\": \"Name\", \"type\": \"String\", \"value\": \"Zadání úkolu z IS KARAT\" }, { \"name\": \"Owner\", \"type\": \"UserCompany\", \"value\": \"a069077msg06rn\" }, { \"name\": \"Priority\", \"type\": \"Enum\", \"value\": \"Normal\" }, { \"name\": \"ProDueDate\", \"type\": \"Date\", \"value\": \"1901-01-01T00:00:00.000Z\" }, { \"name\": \"StartDate\", \"type\": \"Date\", \"value\": \"1901-01-01T00:00:00.000Z\" }, { \"name\": \"StoryPoints\", \"type\": \"Number\", \"value\": \"0\" }, { \"name\": \"StoryPointsTran\", \"type\": \"Number\", \"value\": \"0\" }, { \"name\": \"SurveyQuality\", \"type\": \"Enum\", \"value\": \"Unknown\" }, { \"name\": \"SurveyTerm\", \"type\": \"Enum\", \"value\": \"Unknown\" }, { \"name\": \"SuspendedDate\", \"type\": \"Date\", \"value\": \"1901-01-01T00:00:00.000Z\" } ], \"attrs\": [ { \"id\": \"a06d072nng0m9u\", \"type\": \"DateTime\", \"value\": \"2024-10-29T08:40:07.283Z\" }, { \"id\": \"a06hk8qu9g00l5\", \"type\": \"Decimal\", \"value\": \"54789.00\" }, { \"id\": \"a06908sto006rn\", \"type\": \"String\", \"value\": \"6456846\" }, { \"id\": \"a06fa4af9g0nec\", \"type\": \"Enum\", \"value\": \"a06fa4b3jg0nec\" } ] }, { \"type\": \"Create\", \"simple\": true, \"def\": \"MemberTask\", \"eid\": \"485\", \"parent\": { \"eid\": \"484\", \"field\": \"Members\", \"def\": \"Task\" }, \"fields\": [ { \"name\": \"Notifications\", \"type\": \"Logical\", \"value\": \"0\" }, { \"name\": \"UserCompany\", \"type\": \"UserCompany\", \"value\": \"a069077msg06rn\" } ] } ] } Vrací se: { \"iserror\": false, \"isrepeatable\": false, \"errorchangeindex\": -1, \"tranid\": \"a06jea7ra00rdf\", \"results\": [ { \"type\": \"Created\", \"eid\": \"484\", \"addedid\": \"a06jea7qng0rdf\" }, { \"type\": \"Created\", \"eid\": \"485\", \"addedid\": \"a06jea7r1g0rdf\" } ] } V ALITEO mám zaptnuto podrobné notifikace: což je správně, jelikož nevím jak to má nastaveno Ale v IS KARAT to nemám, za mě má být odesláno Modify na to, jak to je ALITEO po insertu jinak. Ono vlastně zkouším vůbec měnit notifikovat a ono to nereaguje i ve swaggeru to není, je to tak, že tím rozhozením přestalo toto ALITEO podporovat přes synchronizaci, jen nám to nikdo neřekl? Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "API",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Preposlane na vyvoj.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "prosím o přidání účastníka na vazební úkolů, nevidím jej, tedy nemůžu si dát podrobné info"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "hotovo, pardon"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "v pohodě, díky moc"
+    }
+  ]
+}

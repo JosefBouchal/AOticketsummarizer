@@ -1,0 +1,43 @@
+{
+  "id": "a06srml6sg0uk8",
+  "created": "2025-01-10T12:23:04.254Z",
+  "closed": "2025-01-15T08:43:12.841Z",
+  "duration_minutes": 6980,
+  "first_response_minutes": 26,
+  "name": "sql soubor jako zobrazitelný",
+  "description": "Poprosil bych doplnit SQL soubory do seznamu textových (koncovku .sql).\r\nMožná ať nevytvářím časem případy na další koncovky, tak přikládám foto a níže zdroj toho, jaký máme v KARATu seznam textových souborů (tam je to hlavně pro FileExplorer), dá se tím inspirovat.\r\nPřípadně, pokud nám nějaký textový chybí a AO to má, tak prosím o zpětnou vazbu. Dík.\r\n\r\n    public static readonly string[] TextFileExtensions = new string[] {\r\n        // text a formátovaný text\r\n        \".txt\", \".text\", \".txtile\", \".log\", \".md\", \".properties\", \".rst\", \".tex\", \".bib\", \".ipynb\",\r\n        // data\r\n        \".csv\", \".tsv\", \".xml\", \".json\", \".yaml\", \".yml\",\r\n        // konfigurace\r\n        \".ini\", \".cfg\", \".config\", \".editorconfig\", \".manifest\", \".master\", \".inf\", \".env\", \".toml\", \".dockerfile\",\r\n        // šablony\r\n        \".fdf\", \".xfdf\", \".xsl\", \".xslt\", \".xsd\", \".dtd\",\r\n        // c# a Visual Studio\r\n        \".cs\", \".csproj\", \".xaml\", \".resx\", \".wsdl\", \".sln\",\r\n        \".c\", \".h\", \".cpp\", \".hpp\", \".vcproj\", \".vb\", \".vbproj\",\r\n        // skriptování a vývoj\r\n        \".bat\", \".cmd\", \".vbs\", \".ps1\", \".psm1\", \".psd1\", \".sh\", \".bash\", \".zsh\", \".reg\",\r\n        \".make\", \".mk\", \".gitignore\", \".gitattributes\", \".gitmodules\",\r\n        \".js\", \".ts\", \".css\", \".less\", \".scss\", \".sass\",\r\n        \".htm\", \".html\", \".xhtml\", \".mht\", \".mhtml\", \".svg\",\r\n        \".asp\", \".ascx\", \".aspx\", \".jsp\", \".php\",\r\n        \".sql\", \".sqlplan\", \".sqlproj\", \".xdl\",\r\n        \".py\", \".pyw\", \".pl\", \".pm\", \".rb\", \".gradle\", \".groovy\", \".lua\",\r\n        \".r\", \".rmd\", \".swift\", \".go\", \".java\", \".kt\", \".kts\",\r\n        // proprietární\r\n        \".krd\", \".kdc\", \".mrt\", \".srd\",\r\n    };",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Dám to sem i jako kód: public static readonly string[] TextFileExtensions = new string[] { // text a formátovaný text \".txt\", \".text\", \".txtile\", \".log\", \".md\", \".properties\", \".rst\", \".tex\", \".bib\", \".ipynb\", // data \".csv\", \".tsv\", \".xml\", \".json\", \".yaml\", \".yml\", // konfigurace \".ini\", \".cfg\", \".config\", \".editorconfig\", \".manifest\", \".master\", \".inf\", \".env\", \".toml\", \".dockerfile\", // šablony \".fdf\", \".xfdf\", \".xsl\", \".xslt\", \".xsd\", \".dtd\", // c# a Visual Studio \".cs\", \".csproj\", \".xaml\", \".resx\", \".wsdl\", \".sln\", \".c\", \".h\", \".cpp\", \".hpp\", \".vcproj\", \".vb\", \".vbproj\", // skriptování a vývoj \".bat\", \".cmd\", \".vbs\", \".ps1\", \".psm1\", \".psd1\", \".sh\", \".bash\", \".zsh\", \".reg\", \".make\", \".mk\", \".gitignore\", \".gitattributes\", \".gitmodules\", \".js\", \".ts\", \".css\", \".less\", \".scss\", \".sass\", \".htm\", \".html\", \".xhtml\", \".mht\", \".mhtml\", \".svg\", \".asp\", \".ascx\", \".aspx\", \".jsp\", \".php\", \".sql\", \".sqlplan\", \".sqlproj\", \".xdl\", \".py\", \".pyw\", \".pl\", \".pm\", \".rb\", \".gradle\", \".groovy\", \".lua\", \".r\", \".rmd\", \".swift\", \".go\", \".java\", \".kt\", \".kts\", // proprietární \".krd\", \".kdc\", \".mrt\", \".srd\", };"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dik za podnet, preposlem na vyvoj.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaplanovane, do sprintu 25.3."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pavel, zaplanovali sme do jedneho z buducich sprintov... mozeme uzatvorit?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Ano, děkuji."
+    }
+  ]
+}

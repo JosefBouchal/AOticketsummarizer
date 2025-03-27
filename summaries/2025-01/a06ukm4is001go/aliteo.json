@@ -1,0 +1,39 @@
+{
+  "id": "a06ukm4is001go",
+  "created": "2025-01-24T08:20:20.406Z",
+  "closed": "2025-01-26T15:13:35.801Z",
+  "duration_minutes": 3293,
+  "first_response_minutes": 17,
+  "name": "Nedostupne Aliteo",
+  "description": "Dobrý deň prajem. Chcem nahlásiť nedostupné Aliteo. Manažér IT oddelenia +421 915 561 833",
+  "owner": "Seliga Jozef",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ako sme sa rozpravali pocase telefonickeho rozhovoru, nezaznamenali sme ziadne vypadky. Skusim sa opytat kolegov, ci sa s tym nestretli. Vyskusajte este pred tym sa prepnut na inu siet alebo idealne na mobilne data potom pristupit na app.aliteo.com, alebo este lepsie to skusit z telefonu napriklad (kedze niekedy sa problem moze vyskytnut aj na pocitaci, kde sa nachadzate). A dajte mi prosim vediet. dakujem"
+    },
+    {
+      "creator": "Seliga Jozef",
+      "comment": "Už je to OK."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Len to preslo alebo ste prisli na nejaku chybu?"
+    },
+    {
+      "creator": "Seliga Jozef",
+      "comment": "Len to prešlo"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "a05nbtv05g18ai",
+  "created": "2024-03-25T07:12:28.277Z",
+  "closed": "2024-03-26T11:17:36.694Z",
+  "duration_minutes": 1685,
+  "first_response_minutes": 36,
+  "name": "Nefungují upozornění na úkolech, kde nejsem sledující",
+  "description": "Nedávnou aktualizací Aliteo bylo umožněno, abych si mohl zapnout podrobná upozornění i na úkolech, na kterých nemám právo změny. Teď jsem náhodou zjistil a otestoval, že mi z takových úkolů upozornění nechodí, přestože je mám zapnuté. Mám podezření, že problém je v tom, že pokud nejsem ve sledujících, tak upozornění nechodí, i když je mám zapnuté. Prosím o nastavení vysoké priority, protože takto nevím o změnách na úkolech, na kterých je vědět potřebuji.",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 2,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report, otestujeme a predame na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu testerov : kto moze ten otestuje a zalozi.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Skřeček (davidskrecek@gmail.com) prosim o test podla dohody a v pripade chyby, zaloziz do vyvoja"
+    },
+    {
+      "creator": "David Skřeček",
+      "comment": "."
+    },
+    {
+      "creator": "David Skřeček",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) potvrzuji problém - pokud není uživatel sledujícím úlohy, nejsou mu zasílána upozornění, i přes to, že je supervizor projektových úkolů a má zapnuté upozornění. Reportováno viz. vazba."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Skřeček (davidskrecek@gmail.com) dik za test aj report.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Nějaký posun? Za mě je tohle celkem problém."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) malo by byt opravene, este sme neotestovali, ale ak chces mozes...a daj vediet.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Zdá se, že funguje. Díky. Jestli si úkol ještě chceš nechat otevřený pro otestování, tak klidně, za mě můžeme uzavřít."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "nie, nemusime, vyvoj a testy si riesime inde.. zatvaram teda"
+    }
+  ]
+}

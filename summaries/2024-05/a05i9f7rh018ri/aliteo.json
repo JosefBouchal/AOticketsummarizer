@@ -1,0 +1,39 @@
+{
+  "id": "a05i9f7rh018ri",
+  "created": "2024-02-14T20:48:32.982Z",
+  "closed": "2024-05-07T06:48:44.185Z",
+  "duration_minutes": 118680,
+  "first_response_minutes": 561,
+  "name": "Zadávání času v odvodu",
+  "description": "Zadávání času v odvodu je podivné. Zadal jsem OD 10 hodin, pak jsem se spletl a místo DO jsem naplnil počet hodin 14, pak jsem si všiml, že mám špatně DO, tak jsem dal DO 14, vypočetlo se mi celkem 28 hodin, tak jsem počet hodin opravil na 6 hodin, ale čas DO zůstal 14.\r\nViz video.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj @ Pavel Drtil (pavel.drtil@karatsoftware.cz) 1- to ze sa po doplneni DO napocitalo 28 je divne, toto cislo ani neumoznujeme zadat. Ak to urobis rucne (ze zmenis do) tak sa to vypocita spravne - zaujimave je ale ze ked pouzijem cisla 8:00 a 13:00, tak sa to chova spravne ale ak nieco vyssie ako 16:00 a 19:00 tak opat zle 2- je spravne, ze ak zadas od,do a nasledne vypocitany cas prepises, tak sa nijako nezmeni od ani do - to je spravne Davam teda bod 1 na vyvoj.."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "ad 2 - ok, jsem myslel, že se chtěla plná konzistence těch údajů, ale nevadí mi, pokud ne - prostě jsem dělal od 10:00 do 11:00 třeba 5 hodin, jakože fakturuji více hodin, ale chci mít pro sebe zapsaný čas výkonu (snad to pak klient nevidí), souhlas"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Pavle, tato chyba bola uz davnjesie opravena a ospravedlnujem sa, ze som nedal vediet. Vies to potvrdit? Ak nie, zamietni uzatvorenie. Dakujem"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Čau, v poho. Zkusil jsem ten příklad ze zadání a je ok. Zkoušel jsem i náhodně jiné a taky ok. Takže vyřešeno."
+    }
+  ]
+}
