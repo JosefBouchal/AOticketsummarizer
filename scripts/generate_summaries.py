@@ -2,12 +2,15 @@ import os
 import json
 from dotenv import load_dotenv
 from openai import OpenAI
+import tiktoken
 
 load_dotenv()
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 summaries_path = "summaries"
+
+skipped_log = []
 
 # Projde jednotlivé měsíce
 for month_folder in os.listdir(summaries_path):
@@ -58,6 +61,13 @@ Zachovej přesně tento formát: nadpis, číslování hlavních bodů, tučné 
 Data:
 {json.dumps(task_data, ensure_ascii=False, indent=2)}
 """
+
+        encoding = tiktoken.encoding_for_model("gpt-4o-mini")
+        num_tokens = len(encoding.encode(prompt))
+        if(num_tokens > 199999):
+            print(f"⛔ Přeskočeno {month_folder}/{task_folder} – {num_tokens} tokenů (limit 199999)")
+            skipped_log.append(f"{month_folder}/{task_folder} – {num_tokens} tokenů")
+            continue
 
         response = client.chat.completions.create(
             model="gpt-4o-mini",
