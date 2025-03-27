@@ -44,7 +44,7 @@ jobs:
           ALITEO_API_KEY: ${{ secrets.ALITEO_JBO_API_KEY }}
           ALITEO_COMPANY: ${{ secrets.ALITEO_JBO_COMPANY }}
           ALITEO_PROJECT: ${{ secrets.ALITEO_JBO_PROJECT }}
-          ALITEO_EMAIL: ${{ secrest.ALITEO_EMAIL}}
+          ALITEO_EMAIL: ${{ secrets.ALITEO_EMAIL}}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scripts/upload_monthly_report.py
 
