@@ -1,0 +1,71 @@
+{
+  "id": "a05nm36q500o39",
+  "created": "2024-03-27T18:25:00.267Z",
+  "closed": "2024-03-28T12:45:15.362Z",
+  "duration_minutes": 1100,
+  "first_response_minutes": 785,
+  "name": "uzavření",
+  "description": "Nevím, jak to cítí ostatní, ale mně tento dialog z obrázku vždy vystraší. Další věc je, že jej musím zavřít, abych si mohl přečíst ten text, který je pod ním, protože nevím, co mi tam ten řešitel píše. Možná se tam píše, že se na to řešitel vykašlal a chci to zamítnout, nebo to možná vyřešil a chci to schválit, ale to bez přečtení toho textu nevím, takže dialog musím zavřít a pak už mám na sválení normální tlačítko. Nenapadá mě, kdy bych tento dialog použil.\r\n\r\n[Image001]",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 2,
+    "from_others": 10,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Pavle, mozem k tomu povedat: - chcelo sa to aj zo strany KSW - kedze zakaznici nezatvarali pripad, ktore nasi navrhli na uzatvorenie - tato pripomienka sa mozue zjavovat pri: - otvoreni pripadu - pri odoslani komentar a nastavuje sa to separatne, teda to mozes aj vypnut: Co teda navrhujes? Resp co potrebujes?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Čau, nevím, kdo to chtěl, tak to s ním nemůžu konzultovat. Uznávám, že opravdu někdy chceme hrozné hovadiny. Hlavně naši klienti při uzavření dostanou 10 dnů na odpověď a pokud to neuzavřou, tak se to uzavře samo. Tím spíš ten terorizmus v podobě plachty přes celou obrazovku nedává smysl. Ještě to je umocněno tím, že takto třeba schvalují fakturaci a vlastně neví, co schvalují. V mém nastavení nic takového není, takže předpokládám, že je to nějaké nastavení společnosti nebo něčeho, kam se nedostanu. Takže asi mám chtít nějaké info od LBE nebo nevím koho. Co tedy chci? Seznámení s pachatelem."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "no mozete sa o tom porozpravat s @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) 🙂 good luck 🙂"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) chtěli jsme to za Servis - proto je to povoleno (požadováno) v pracovním prostoru Assistance. Neustále řešíme, že někdo nevěděl, že se po něm chce uzavřít požadavek, píšou tma, že je možné uzavřít, ale nezmáčknou tlačítko pro uzavření. Řešením by bylo, odškrtnout první volbu - při vstupu - nyní určitě na vývoji a o Assistance se můžeme pobavit až se MHR vrátí z dov - získáme zpětnou vazbu od zákazníků. @ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) pls můžeš na prac. prostoru vývoje odškrtnout první volbu?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Jsme si o tom volali, druhá fajka není problém. Na vývoji nějaký tlak na uzavírání vlastníkem není potřeba, takže při vstupu není potřeba. Věřím, že to Lubošek vypne. Na Assistance je za mě ten tlak přehnaný, ale jako postačující beru příslib, že se nad tím někdo ještě se zpětnou vazbou zamyslí. Podle mě by nějaké zvýraznění tlačítka schválení vlastníkovi udělalo větší službu. Nebo u případů s fakturací vkládat tři dny před automatickým uzavřením další upozornění do případu. Každopádně to již není problém ALITEO a případ se tedy může uzavřít. Děkuji."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "a jen doplním z praxe, tak já jsem vlastníkem hodně případů a je pravda to, co říká PDR a že ten dialog stejně vždycky zavřu. (a to říkám s vědomím toho, kdo prosazoval, že ho tam chceme v assistance). Ale zároveň když ho tam mám, tak jasně vím, že se po mě chce uzavřít požadavek a to je to, co se chtělo."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, som rad ze ste si to vyhovorili..takze staci ked sa to nastavi vo vasom priestore.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) vidis a ja to nastavene nemam 🙂"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "měl jsem jinou práci a než jsem vám nachystal data, už se to zavřelo, ale nevadí. Zapl jsem to já, vědomě a měl jsem z dané funkčnosti radost, jelikož jak požadavky na plán vývoje tak i operativu pro jiné se často uzavíralo automatem a to se mě moc nelíbilo. 25.3.2024 jsem to zapl, (chápu, je to krátká doba), ale vývoj uzavření automatem je takovýto zde je podklad AO - úkoly_20240328014828.xlsx tedy za mě přesně to co jsem očekával, že se počet uzavřeno automatem zmenší na minimum (a to pozor, to jsou žádány o schválení naše osoby, né zákazník). Ale OK, já jsem sám rozhodl, zapnu to, PavelD říká vypni to, je to jeden na jednoho a tak nyní dám dle Pavla, pokud někdo rozhodne, že je lepší mít vyšší procento uzavřenosti případů jinak než automatem, dá se to kdykoliv zapnout :-D Nyní vypnuto Luboš"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Někomu by se možná mohl líbit takový graf (je to jen za projekty Plán vývoje a Operativa), jelikož dokumentace a testování má vlastníka, který se do AO nehlásí, tedy tam to skoro ve 100% bude automat"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tak ještě na uzavřeném případu nelze opravit interní komentář, tak zde i s číslama"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "pro zajímavost vývoj uzavřenosti automatem v pracovním prostoru Asisstance mno uvidíme, možná se tam někteří vlastníci ani nepřihlašují a tak se to bude zavírat automatem i tak"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "a05qb4tak0136m",
+  "created": "2024-04-17T09:53:15.927Z",
+  "closed": "2024-04-24T08:28:15.284Z",
+  "duration_minutes": 9994,
+  "first_response_minutes": 70,
+  "name": "Aliteo problém s propisováním do outlook",
+  "description": "Dobrý den,\r\nPan Přibyl na mě předal problém s propisováním porad do kalendářů v Aliteu\r\n\r\nV systému máme vytvořený propojení na microsoft365 pomocí registrované aplikace, ta je přidána i do Alitea\r\n\r\nPokud vytvořím nový zdroj v Adresáři zdrojů v aliteu, přidám některou z našich konferenčních místností lze provést Verifikace – úspěšně\r\nJakmile ale pustíme Synchronzici, končíme chybou stejnou nebo podobnou:\r\n\r\nTZI base -8h  daylight True: System.ArgumentException: Unrecognized time zone id 67e2002d-b0dc-46dc-9e15-5e467bc2743c\r\n   at Ical.Net.Utility.DateUtil.GetZone(String tzId, Boolean useLocalIfNotFound)\r\n   at Ical.Net.CalendarComponents.VTimeZone.set_TzId(String value)\r\n   at Ical.Net.CalendarComponents.VTimeZone.FromDateTimeZone(String tzId, DateTime earlistDateTimeToSupport, Boolean includeHistoricalData)\r\n   at Ical.Net.CalendarComponents.VTimeZone.FromDateTimeZone(String tzId)\r\n   at Ical.Net.Calendar.AddTimeZone(String tzId)\r\n   at Aliteo.AliteoRecurrentRule.GetPeriods(DateTime fromUtc, DateTime toUtc, TimeZoneInfo tzi, String mainSummary)“\r\n\r\nVypadá to na nějakou chybu v časovém pásmě ale netuším kde by se něco takového nastavovalo\r\n\r\nS pozdravem\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >\r\n\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 16,
+    "from_owner": 5,
+    "from_others": 11,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za podnet, predal som na vyvoj. Budem Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Na chybu sme prisli, opravujeme ju. Bude nasledne releasnuta a budem vas informovat ked uz bude dostupna aj Vam.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, chyba by mala byt odstranena. Prosim o jej kontrolu."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "dobrý den, u většiny zdrojů se to zdá OK, u zdroje Krc singapore se objevuje trochu jiná chyba CalProviderExchange.check: RequiredAttendees,OnlyMissingOrganizer,Resources for a05qel7mq00pmh IcalEvent type Single name: prezentace INOVIO (online) originalstart:  UID AAMkAGJkN2NkODUxLWU0NmQtNDUyYi1iZWQ0LTYzM2NlZjQwMmVlMgBGAAAAAADdNc0Sdu/nS4+ZLDOOlZtFBwDXazrwedjvQI9F+V4a9gXRAAAAx4GdAACOtQ3kRE0KQKuete8ZCdtUAAUmCqoZAAA= Active uid AAMkAGJkN2NkODUxLWU0NmQtNDUyYi1iZWQ0LTYzM2NlZjQwMmVlMgBGAAAAAADdNc0Sdu/nS4+ZLDOOlZtFBwDXazrwedjvQI9F+V4a9gXRAAAAx4GdAACOtQ3kRE0KQKuete8ZCdtUAAUmCqoZAAA= tzi UTC má to souvislost nebo se jedná o jiný problém ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Skusim zistit ci sa jedna o podobny problem a dam vediet.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Mělo by být opraveno."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Neumím patchovat, pokud mi založíš případ, nastavím je k patchování."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, malo by byt opravene. Mozete prosim skusit a dat nam info? dakujem vopred."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den,\r\nLituji testovali jsme z mého Alitea a ještě pro jistotu testoval kolega přibyl od sebe. Pokud v Aliteu vytvoříme poradu, tak se nám nepropíše do našich outlooků. Ať již přidávám další kolegy nebo prostředky nebo ne.\r\n\r\nS pozdravem\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mozete mi prosim poslat screen obrazovky, kde sa nastavuje synchronizacia s exchange? Nemate tam nejaku chybu? Vacsinou je problem Tam."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "[Image001]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCo má být v poli Heslo aplikace ?\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To su 2 rozdielne veci: - to co ste poslali vy, je nastavenie office365 v spolocnosti - to na co sa pytam ja, najdete v nastaveni uzivatela: klik na menu uzivatela (vpravo hore na svoju fotku) -> moje nastavenie -> prisposobit -> kalendar -> synchronizacia"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Děkuji za vysvětlení, toto jsem měl zcela nevyplněné\r\nMám tedy ještě v té věci k systému dva dotazy\r\n\r\nMohu to nastavit u všech uživatelů centrálně ?\r\nA lze nastavit synchronizaci u Externích uživatelů ?\r\n\r\nS pozdravem\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No v tom vlastne je ta synchronizacia, ze si sa to jednak nastavi na spolocnosti a jednak si kazdy u seba nastavi svoj email aby sa mu  to synchronizovalo s jeho schrankou. Tato synchronizacia by mala fungovat aj u externeho uzivatela - rovnako ako u interneho - ma emailovu adresu ktoru si rovnako zada do nastaveni."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "OK díky, můžeme tedy uzavřít\r\n\r\nJan Šefčák\r\nZástupce ředitele IT\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< mailto:jan.sefcak@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, zatvaram."
+    }
+  ]
+}

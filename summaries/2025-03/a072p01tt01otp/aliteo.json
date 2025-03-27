@@ -1,0 +1,39 @@
+{
+  "id": "a072p01tt01otp",
+  "created": "2025-02-25T11:06:00.26Z",
+  "closed": "2025-03-02T12:12:24.468Z",
+  "duration_minutes": 7266,
+  "first_response_minutes": 76,
+  "name": "Zabezpečte data jednoduše s Dell Apex Backup Services",
+  "description": "Dobrý den,\r\n\r\nnavazuji na telefonický rozhovor s mojí kolegyní Kateřinou Morkesovou a posílám bližší informace k možné spolupráci.\r\nZároveň také děkuji za předání na vaše IT oddělení.\r\n\r\n Z naší zkušenosti víme, že společnosti podobné té Vaší často oceňují přínosy, které Dell Apex Backup Services nabízí:\r\n· Jednoduché a rychlé nasazení služby, bez nutnosti instalovat nebo spravovat lokální hardware.\r\n· Škálovatelnost a flexibilitu díky modelu plateb na základě skutečného využití.\r\n· Nejvyšší úroveň zabezpečení dat s neprolomitelnými a izolovanými zálohami.\r\nDell Apex Backup Services je moderní SaaS řešení, které nabízí centralizovanou ochranu dat napříč cloudy, aplikacemi i zařízeními. Díky funkcím, jako jsou automatické aktualizace, prediktivní analytika a 256bitové šifrování dat, získáte nejen spolehlivou ochranu proti ransomware útokům, ale také výrazně snížíte provozní náklady a složitost správy IT infrastruktury. Více podrobností naleznete na odkazu: https://dell.dns.cz/apex-backup-services Pokud byste měli zájem o podrobnější diskusi nebo ukázku, rádi si domluvíme schůzku, kde se můžeme bavit konkrétně.\r\n\r\n\r\nS přáním pěkného dne,\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n[Image]< http://www.dns.cz/ >\r\n\r\nJiří Žirovnický\r\n\r\nBusiness Development Manager, Dell Technologies\r\n\r\njzirovnicky@dns.cz< mailto:jzirovnicky@dns.cz > | www.dns.cz< http://www.dns.cz/ >\r\n\r\nDNS a.s., Na Strži 1702/65, 140 00 Praha 4 - Nusle",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 0,
+    "from_others": 4,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) chces to nejako riesit, je to ponukla sluzby, oni mi volali na telefon tak som ich preposlal sem."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Predpokladam, ze to pre chlapcov nebude velmi zaujimave, kedze pravdepodobne zalohujeme na cez Azure Backup. A nasadzovat ALITEO lokalne, nebudeme...takze skusme to dat na nich a ked nic, tak im len podakujme 🙂 PS: @ Allan Konečný (allan.konecny@karatsoftware.cz) @ David Kočíř (david.kocir@karatsoftware.cz) ma pre nas zmysel, alebo nepotrebujeme?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "V aktuální situaci ani není čas se tím podrobněji zabývat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujeme, ze ste nas kontaktovali. Preposielal som na oddelenie vyvoja, avšak v tomto momente nemame zaujem o Vase sluzby. Prajem pekny den. ALITEO tim."
+    }
+  ]
+}

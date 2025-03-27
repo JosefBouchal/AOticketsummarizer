@@ -1,0 +1,47 @@
+{
+  "id": "a05r43u54g1mfc",
+  "created": "2024-04-23T11:20:45.532Z",
+  "closed": "2024-04-29T10:43:37.682Z",
+  "duration_minutes": 8602,
+  "first_response_minutes": 519,
+  "name": "Porada + Make + Konzultace",
+  "description": "Dobrý den,\r\nMám na vás dvě prosby:\r\n\r\n  *   Kolega v rámci naší Porady vedení vytvořil poradu s opakováním a opakuje se mu neustále vnitřek porady. Potřeboval by to změnit a nemůžeme přijít na to, jak jí změnit obsah od teď dál. Popravdě nevím ani jak tu poradu zastavit, aby se neopakovala.\r\n[Image001]\r\n  *   Máme projekt se systémem Make a hledáme možné automatizace. Nemáte někde rozchozený příklad integrace? Pokud ne, prosím, moc by nám to pomohlo. 😊\r\n  *   Jak jsem měl nyní tu hodinu školení na Aliteo. Prosím, potřeboval bych ještě jednu hodinu, kde bychom probrali automatizace. Založil jsem nový prostor i projekt a udělal jsem to správně podle etap, ale rád bych si tam ještě pohrál s atributy a povinnostmi zapisovat tyhle věci při přesunu do jiných etap, ale nemůžu na to úplně dojít.\r\nMoc děkuji\r\n\r\nS pozdravem a přáním pěkného dne\r\n\r\nIng. Jiří Dvořák, Ph.D.\r\nManažer digitalizace\r\n[Image002]\r\nNC Line a.s.\r\n742 01  Suchdol nad Odrou 233\r\nMobil: +420 608 242 700\r\nE-mail: dvorak@ncline.cz\r\nInternet: www.ncline.cz",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 0,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, 1 - zastavenie rady porad - otvorit poradu, kliknete na \"Radu porad\" kliknete pre upravu nastavenia, a skratite datum ukoncenia na dnesny/zajtra (kedy chcete ukoncit) den a odoslete zmeny, vid tento gif: 2 - co sa tyka prepojenia, tak k tomu mame dostupnu API dokumentaciu na tejto adrese: https://api.aliteo.com/swagger/ui 3 - ad konzultacia - na to si zalozime novu ulohu, kde sa dohodneme - len sa dohodnem s kolegom v ktorom projekte a budem Vas informovat.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) prosim Ta, kde sme hovorili ze budeme zakladat tieto hodinove konzultacie pre NC Line? do Karatu alebo len tuto v supporte ako platenu konzultaciu. Vyhoda v karate je, ze urobim vykaz prace a hotovo. A v supporte by som asi musel davat si tvorit fakturu a nejako to riesit nie?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "jj urcite to sprav v KA, tam to pojde autonomnejsie, ak maju vytvoreny projekt, ak nie tak vytvorme ako fakturacia hodinovkou, ktoru dohodol Peter."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) spravil som ulohu #292091 Konzultacia ALITEO 2 len neviem preco nemozem nastavit p. Dvoraka ako vlastnika. V inej ulohe v tom isto projekte vlastnikom je. Dokonca ju zalozil. Cakam na vyjadrenie od AKO."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) koli tomu, ze ta uloha bola prenesena i ineho projektu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) ano, uz mi to AKO vysvetlil ked to skumal lebo ja som na to neprisiel.. :) nevadi dik"
+    }
+  ]
+}

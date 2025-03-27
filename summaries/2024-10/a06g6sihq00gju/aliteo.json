@@ -1,0 +1,43 @@
+{
+  "id": "a06g6sihq00gju",
+  "created": "2024-10-04T06:09:56.366Z",
+  "closed": "2024-10-30T15:41:13.998Z",
+  "duration_minutes": 38011,
+  "first_response_minutes": 13,
+  "name": "Nefunkční řazení požadavků ve zobrazení \"Sekce\"",
+  "description": "Řazení požadavků v sekcích nefunguje. Vlastní řazení je vypnuto, mám nastaveno řazení dle priorit a neřadí to (viz obrázek).",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za podnet, poslem na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Necham otvorene alebo zatvorime? a dam ti vediet vo vyvojovom ze ako?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Nechme otevřené, není to ani tak podnět na vývoj, jako hlášení chyby 😊"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, tak som to myslel, mal som napisat report.. ale je to hlasene na vyvoj ako chyba.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Michal, malo by byt opravene.."
+    }
+  ]
+}

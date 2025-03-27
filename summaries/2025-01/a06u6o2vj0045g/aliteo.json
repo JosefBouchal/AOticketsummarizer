@@ -1,0 +1,43 @@
+{
+  "id": "a06u6o2vj0045g",
+  "created": "2025-01-20T23:08:17.022Z",
+  "closed": "2025-01-24T08:52:01.774Z",
+  "duration_minutes": 4903,
+  "first_response_minutes": 473,
+  "name": "\"aktivování porady\"",
+  "description": "dobrý den, nedošlo k nějaké změně? Aktivovat poradu mohl kdokoliv a nyní to mohu jen já jako organizátor schůzky. proč to napříkald nemůže udělat pan Blažek, který je účastníkem této pravidelné porady a rád bych ji aktivoval a dal tam nějaké body. díky za objasnění Michal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pravdepodobne ide o chybu. Pracujeme na vyrieseni a ano mate pravdu, sice sa ta pravo na to kto ma zmenit stav porady da obmedzit ale vo vychodzom nastaveni by interny uzivatel mal mat moznost poradu aktivovat. Myslime si ze to suvisi so stavom pripojenia porady ku kalendaru. Stav preverujeme a budem Vas informovat. Ospravedlnujeme sa za neprijemnosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mam este dodatocne info/otazky. Predpokladam ze obaja mate funkcne pripojeny kalendar. Skuste sa pozriet do azure portalu -> registrace aplikacii Tu by ste mali mat registrovane ALITEO a k nemu certifikat. Mohli by ste pozriet, ci mate platny tento certifikat - ak nie, mohlo by dojst k tomu ze sa data nedostanu kam maju a ani zmeny sa potom neprenasaju. Vam sa zmeny v ALITEO prenasaju bez problemov do kalendara 365? prosim poslite aj kompletny screen porady, ktoru otvorite - zaujima nas primarne lavy panel, jednak porady a jednak celej rady. Dakujem"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Dobrý den, propojení Aliteo kalendáře do Azure není ověřováno certifikátem ale secret klíčem a ten je platný do 17.12.2025 Honza"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za overenie. Nasadili sme jeden opravny patch, mohli by ste sa prosim teraz pozriet, ci problem stale pretrvava? Pripadne nam poslite screen ako to vyzera teraz. Ďakujem"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "je to ok. díky Michal"
+    }
+  ]
+}

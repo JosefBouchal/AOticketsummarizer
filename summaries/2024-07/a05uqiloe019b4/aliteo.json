@@ -1,0 +1,79 @@
+{
+  "id": "a05uqiloe019b4",
+  "created": "2024-05-22T05:25:43.329Z",
+  "closed": "2024-07-23T16:24:36.018Z",
+  "duration_minutes": 89938,
+  "first_response_minutes": 66,
+  "name": "Řazení za poslední komentář nerespektuje soukromé komentáře",
+  "description": "Řazení za poslední komentář nerespektuje soukromé komentáře. Klidně si vyzkoušejte na tomto případu, kam si hned za první příspěvek/komentář (popis) vložíte soukromý komentář a úkoly si seřadíte podle posledního komentáře. Tento pak skončí opět na konci...",
+  "owner": "Lukáš Trunečka",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 14,
+    "from_owner": 1,
+    "from_others": 13,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano, to nemusim skusat. Viem ze sukromne komentare su ignorovane, kvoli tomu ze to generuje dalsie data a teda ma dosah na vykon. Takze to nie je chyba ale funkce. Predpokladam ze by si chcel zahrnut do radenia, je tak?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) pridal som ulohu do vazby kde sme to riesili, co ty na to? berieme naspat na produktovu alebo sa vyjadrime ze to nebudeme robit? Teoreticky to inym vadit nebude ak tam ty budes mat svoj komentar."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Ahoj Dane, já jako uživatel nijak nevnímám (a ani nemám) problém objemu dat a rychlosti. Já vnímám jen to, že jsem si soukromě okomentoval případ a že řazení za komentář mi to neovlivnilo. Takže ano - chci zahrnout do řazení. Prosím."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lukáš Trunečka (lukas.trunecka@karatsoftware.cz) no my to vnimat musime a preto su niektore obmedzenia take ake su. Preberiem s kolegami.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) pls hod ten odkaz na ulohu nevidim vazbu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) je tam"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Je to pre nas technicky a datovy problem, ktory nateraz nevieme vyriesit rozumne. Odporucame zmenu procesu a vyuzivat prioritu alebo datum ukoncenia. Po pripade zacat po novej verzii pouzivat Kapacitne planovanie. @ Juraj Matěj (juraj.matej@karatsoftware.cz)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Podla dohody pozastavujem do konca dalsieho tyzdna"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dohoda s PDU:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) @ Peter Ďurčák (peter.durcak@karatsoftware.sk) tato uloha bola pozastavena na zaklade Vasej dohody do konca minuleho tyzdna. Pohlo sa to nejako, pripadne co s touto  ulohou? dik"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) prebehlo vase stretko, kde ste si to mali vyjasnit? Je z toho nejaky zaver?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "já osobně nevidím zahrnutí soukromých komentářů do řazení jako řešení... Zásadní bude, zda je jiná vize jak pracovat s úkoly viz #4554 Kanban týmu navrhuji si k tomu dát společnou poradu. Probírali jste to již interně?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Dnes probrány možnosti filtrace - můžeme nastavit podmínku filtru na pohled v úkolu nebo dashboardu. @ Lukáš Trunečka (lukas.trunecka@karatsoftware.cz) pro info"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Dnes probrány možnosti filtrace - můžeme nastavit podmínku pohledu na datum komentáře pohled v úkolu nebo dashboardu. @ Lukáš Trunečka (lukas.trunecka@karatsoftware.cz) pro info"
+    }
+  ]
+}

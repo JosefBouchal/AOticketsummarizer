@@ -1,0 +1,83 @@
+{
+  "id": "a06g740bmg1bru",
+  "created": "2024-10-04T07:31:06.698Z",
+  "closed": "2024-10-08T12:14:49.618Z",
+  "duration_minutes": 6043,
+  "first_response_minutes": 4301,
+  "name": "\"O týmu\" - položky seznamu jsou příliš nízké",
+  "description": "Ahoj, zadání obrázkem:",
+  "owner": "David Kočíř",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 15,
+    "from_owner": 8,
+    "from_others": 7,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "David Kočíř",
+      "comment": "Vlastně mi to přijde jako chyba responsivity: výška položek na seznamu se zmenšuje společně s velikostí okna."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Kočíř (david.kocir@karatsoftware.cz) vies mi povedat typ prehlidaca a ci sa deje to iste aj v inom?"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Brave Version 1.70.123 Chromium: 129.0.6668.89 (Official Build) (64-bit) Nicméně nejsem si jistý, jestli si rozumíme - ta chyba responsovity bude způsobena nějakou chybkou ve stylech."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja tomu rozumiem co pises, ale idem na to dedukcne. Ak je na tom istom miesto pri roznych anstaveniach problem aj v chrome, potom to je oprava plosna. Pokial to v chrome alebo edge problem nie je potom je to vecou Brave.. ci zle chapem?"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "No Brave má stejné jádro jako Chrome a Edge - Chromium. Takže bych si tipnul, že tato oprava bude \"plošná\"."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No to som si vela krat myslel aj ja, ale prosim skontroluj to aj v chrome a kludne priloz obe obrazky.."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Chrome Verze 129.0.6668.90 (Oficiální sestavení) (64bitový): . Nicméně už se mi to nepodařilo nasimulovat ani v Brave. Možná že už to někdo opravil?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pochybujem, nemohol skor prave dotiahnut nejake updaty?"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Tak mám i v Chrome. Musí se vybrat nějaký konkrétní tým, např. HTML:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Posli prosim este konkretny link na projekt.. aby som to predal.. Inak ty ako vyvojar to nemusis riesit cez supprot - normalne vo vyvoji vytvor pripad: - sekcia Chyba - typ poziadavku chyba - vypln ostatne atributy a uloz - to padne vas.. - hlavne je teda treba doplnit aj linky kde ten prolem nastava (mozno sa to dostane naspat k tebe na opravu od Dusana, ktory front end riesi) Daj teda vediet, ci si to zalozil tu (a daj ulohu do vazby tohto pripadu) a tento zatvorime, alebo posli len link na to miesto kde je problem a vyssie uvedeny postup spravim ja."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Link: HTML Případ založím."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Případ založený zde: #5680 O týmu - výška položek na seznamu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "toto nechavame otvorene? si vlastnikom vyvojoveho takze budes vediet o vsetkom.."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Dávám tedy zrušit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "radsje by som povedal ze uzatvorit, prebehla nejaka debata a na zaklade nej je nejaky novy postup, plus nejaky vykaz prace atd.. takze klasicky uzatvorit prosim.."
+    }
+  ]
+}

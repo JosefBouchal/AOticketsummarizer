@@ -1,0 +1,35 @@
+{
+  "id": "a06b6nei501v49",
+  "created": "2024-08-26T09:09:54.669Z",
+  "closed": "2024-09-01T15:47:21.876Z",
+  "duration_minutes": 9037,
+  "first_response_minutes": 11,
+  "name": "upozornění na komentář - chybí odkaz na komentář",
+  "description": "Dobrý den,\r\nv upozorněních Alitea při upozornění typu \"XXX YYY přidal komentář #NN úkolu\" zmizel odkaz na komentář.\r\nTen umožňoval proklik rovnou do úkolu přímo ke komentáři a rovněž zobrazoval přímo text přidaného komentáře, což zvyšovalo rychlost vyhodnocení obsahu komentáře, který byl přidán (např. když kolega/kolegyně připsal ke komentáři jen text \"vyfakturováno\", tak taková informace stačila pouze v upozornění, jiné komentáře s větším obsahem pak stojí za kliknutí a tak odkaz zobrazil/roloval přímo ke komentáři).\r\n\r\nDěkuji za opravu a vrácení funkčnosti odkazu v upozorněních\r\nMilan Kopal",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "prosím o přidání sledujícího Masaříka. Dostal jsem do Milana jen link a pod společností ALITEO tento případ #5318 nevidím (nemám právo). Petr Masařík"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, dakujem za report, posuvam, na Vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, tento problem by uz mal byt vyrieseny. Prosim o kontrolu a pripadne uzatvorenie. Dakujem"
+    }
+  ]
+}

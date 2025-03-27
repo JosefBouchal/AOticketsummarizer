@@ -1,0 +1,47 @@
+{
+  "id": "a06nsgasag0srf",
+  "created": "2024-12-02T20:59:28.855Z",
+  "closed": "2024-12-04T07:45:18.641Z",
+  "duration_minutes": 2085,
+  "first_response_minutes": 671,
+  "name": "Zapnutá API synchronizace ve společnosti ALITEO nad vším?",
+  "description": "nyní stojí synchronizace pro společnost ALITEO, spadlo na to, že se snažil vložit komentář do IS KARAT pro společnost ALITEO.  Podívám se jak je nastavena společnost ALITEO a nestačím se divit na co vše je zapnuté SYNC . Nevím kdo tam dělal implementaci firemní úrovně, ale za mě min. nedodržel postup po přepnutí. Tedy za mě toto je není dobrý stav a ať je vyřeší kdo to způsobil. Tedy jak jsem napsal výše, synchronizace pro společnost ALITEO stojí.",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predavam na vyvoj"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Už nejsem schopen zjistit, proč je to tak nastavené - tady aktivity nezapisuji. Je to správně tak, že by se měly synchronizovat pouze Uživatelé společnosti a Výkazy práce? Přenastavit je to jednoduché, ale nejsem schopen domyslet jako to spravit v modulu KT. Až budeš mít čas zavolej prosím. Btw to hlásí, že pro komentář neexistuje úkol, ale přitom úkoly se synchronizují, takže tam úkol měl být. Myslíš že bylo nastavení změněno ex post?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Ano sem jsem si tím dokonce jistý, že bylo změněno ok. Jinak KARAT umí se s takovou situací vypořádat, ale je zapotřebí předtím si uvědomit co to znamená, nachystat vše co je potřeba, jelikož pak těžko bycha honit"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "1. Nastavení změnil Petr včera omylem když si procházel nastavení  - už ví co to způsobilo 2. Doporučuji pustit inicializaci nastavení a dat - měla by si zapsat aktuální id transakce a změny chtít od tohoto ID dál, kde již úkoly nebudou 3. Zkoušel jsem ještě jednou s pravidelným Obnov pokud by id transakce nebylo načteno - ale skončil jsem ve stavu Probíhá inicializace nastavení, bez chyby ale nedoběhne, jako by se stopla fronta?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "mě se založilo ALITEO - KARAT - počátek volání, to naplní od kdy pak volat changes, celé už jsem zprovoznil, bude pak poroblém, jeliož se sesynchronizoval workspace a možná kdoví co eště, neřeším"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, mozeme teda uzatvorit ? neviem uprimne ci sa na nieco na nas este caka"
+    }
+  ]
+}

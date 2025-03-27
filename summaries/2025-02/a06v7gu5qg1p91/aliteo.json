@@ -1,0 +1,63 @@
+{
+  "id": "a06v7gu5qg1p91",
+  "created": "2025-01-28T22:04:31.258Z",
+  "closed": "2025-02-04T09:25:50.434Z",
+  "duration_minutes": 9321,
+  "first_response_minutes": 685,
+  "name": "Synchronizace Kalendáře error",
+  "description": "Dobrý den,\r\n\r\nsnažím se sesynchronizovat kalendáře, aby se události v kalendáři ALITEO objevovaly také v kalendáři microsoftu. Postupuji podle tohoto návodu: https://help.aliteo.com/synchronizace-kalendare/. Každopádně když se dostanu do tohoto bodu:\r\n\r\n  *   V záložce „Oprávnění rozhraní API“ udělíme souhlas pro „full_access_as_app“\r\n\r\nA chci udělit souhlas, vyskočí mi tento error: Souhlas se nepodařilo udělit s chybou: Claim is invalid: dc890d15-9560-4a4c-9b7f-a736ec74ec40 does not exist on resource application 00000003-0000-0000-c000-000000000000.. [Bfh5/ttzWfyZbLu8OJrH9M].\r\n\r\nPosílám screen obrazovky pro lepší porozumění a stažený soubor manifestu pro kontrolu upraveného řádku.\r\nProsím Vás jak tento error vyřešit?\r\n\r\nPředem děkuji,\r\nMaxim Sáblík",
+  "owner": "Maxim Sablik",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "High",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 3,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim Vas, ako sme sa spolu bavili, vidim to skor na problem vo vasom Azure, ale pokusim sa poradit s kolegami a dam Vam vediet. Medzi tym som skusil chatGPT, kedze nie som odbornik a poradil niekolko moznosti, skuste ich v medzicase prejst kym dostanem odpoved od kolegov. Claim si invalid.docx"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vedel by si mi k tomu nieco poradit? na jednej strane je to asi ich problem na druhej chceme aby to fungovalo. Ja to nemam kde vyskusat."
+    },
+    {
+      "creator": "Maxim Sablik",
+      "comment": "Zdravím Vás, děkuji za zaslaný dokument tipů od chatGPT. Bohužel žádný tip nepomohl, i když jsem se pokusil upravit vše, co by šlo. Našel jsem na microsoft supportu idetifikaci této chyby: Resource not available in tenant error AADSTS65005: clientAppDisplayName is requesting access to a resource resourceAppDisplayName that isn't available in your organization tenantDisplayName. Ensure that these resources that provide the permissions requested are available in your tenant or contact an administrator of tenantDisplayName . Otherwise, there's a misconfiguration in how the application requests resources, and you should contact the application developer. Každopádně stále nevím, co s tím dál."
+    },
+    {
+      "creator": "Maxim Sablik",
+      "comment": "Můžu se zeptat, jakou hodnotu máte v Manifestě nastavenou na \"resourceAppID\" ? Protože podle tohoto erroru , co mi to při Grant Admin Consent for Wepgra ukáže, že se jedná o kód, který v cílové aplikaci neexistuje.  Nezměnil se ten kód, co uvádíte v návodu, třeba vlivem aktualizace Microsoftu?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane, v té dokumentaci je toto: resourceAccess [ \"id\": \"dc890d15-9560-4a4c-9b7f-a736ec74ec40\" \"type\": \"Role\" ] oni to tam zkopírovali ale podle mne to id musí být jiné id - jejich... nevím co, jestli nějaké resource id nebo tenant id, ale to co je v dokumentaci bude naše ID které nebude nikde jinde fungovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) no praveze nie, toto ID je v navode od Microsoftu: https://learn.microsoft.com/en-us/exchange/client-developer/exchange-web-services/how-to-authenticate-an-ews-application-by-using-oauth Takze to bude ID nejake zdroja alebo niecoho co maju vsetci rovnaky, aspon tak tomu chapem ja.. doteraz sa ziadny zakaznik neozval"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Maxim Sablik (maxim.sablik@wepgra.com) my ju mame v manifeste presne tak ako to bolo v navode od Microsoftu. - skontroloval som to este raz a podla navodu od MS je treba mat: { \"resourceAppId\": \"00000002-0000-0ff1-ce00-000000000000\", \"resourceAccess\": [ { \"id\": \"dc890d15-9560-4a4c-9b7f-a736ec74ec40\", \"type\": \"Role\" } ] } A vy mate zda sa ine resourceAppId... mozno tam bude problem.."
+    },
+    {
+      "creator": "Maxim Sablik",
+      "comment": "Velice Vám děkuji za zaslání resourceAppId. Tímto se ten problém vyřešil a kalendáře už jsou sesynchronizované a fungují. Tento kód resourceAppId \"00000002-0000-0ff1-ce00-000000000000\" u Vašeho návodu neuvádíte a MS si tam automatický nastaví jiný. Menší rada - možná by chtělo tento krok k Vašemu návodu v help desku přidat, aby se příští uživatelé tomuto erroru vyvarovali. Ještě jednou děkuji za reakci a za vyřešení problému. Maxim Sáblík"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak som rad ze sa to vyriesilo. Ano, optimalizujeme navod na webe, dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Maxim Sablik (maxim.sablik@wepgra.com) dakujem za hodnotenie, neviem ci ste IT oddelenim myslelo nase, ale to sa vyjadrilo, formou interneho komentara, ktory vy ako externy uzivatel nevidite."
+    }
+  ]
+}

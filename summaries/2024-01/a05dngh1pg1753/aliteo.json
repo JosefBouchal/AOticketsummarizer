@@ -1,0 +1,27 @@
+{
+  "id": "a05dngh1pg1753",
+  "created": "2024-01-10T10:31:54.755Z",
+  "closed": "2024-01-16T13:20:30.422Z",
+  "duration_minutes": 8808,
+  "first_response_minutes": 168,
+  "name": "Hromadná aktivácia porád",
+  "description": "Dobrý deň pán Dzuro, chcem sa opýtať, či je v Aliteu nejaká možnosť aktivovať viacero porád naraz? Napríklad kolegyňa má vytvorený rad porád, kde sa porady opakujú každý deň a z nejakého dôvodu ich chce všetky naraz aktivovať.",
+  "owner": "Lukáš Zadžora",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nie je mozne aktivovat hromadne vsetky vyskyty porad. Bolo by fajn zistit o co jej primarne ide. Dakujem"
+    }
+  ]
+}

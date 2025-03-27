@@ -1,0 +1,39 @@
+{
+  "id": "a05gn41in005al",
+  "created": "2024-02-02T15:29:59.503Z",
+  "closed": "2024-02-06T11:27:12.282Z",
+  "duration_minutes": 5517,
+  "first_response_minutes": 4010,
+  "name": "Změna avataru",
+  "description": "Už před delší dobou jsem si v nastavení Aliteo změnil avatar . Ten se mi ve společnosti KARAT vůbec neprojevil a zobrazuje se stále výchozí avatar. Po tom, co jsem byl přidán do společnosti Aliteo, tak jsem nějakou dobu tento správný avatar viděl, ale teď už i ve společnosti Aliteo vidím výchozí avatar . V čem je problém? Proč se avatar přestal ve společnosti Aliteo zobrazovat, resp. proč se nepoužije automaticky ve všech společnostech?",
+  "owner": "Daniel Dzuro",
+  "priority": "Nízká",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 3,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, funguje to tak, ze ty mas nastaveny avatar vo svojom nastaveni. Ale, v spolocnostiach Ti ho moze admin zmenit (tak ako aj ine informacie ako pozicia, spolocnost, email atd). V spolocnosti Vam asi LBE nastavil nejake a tak to nechal, preto sa ti nezobrazuje to co mas nastavene ty. V ALITEO si to mal nastavene takisto ale teraz som ti to zrusil, tak sa pozri ci to pre ulohy v spolocnosti ALITEO ukazuje spravne a teda tvoje nastavenie."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "OK, ale zajímavé je, že když avatar smažu a měním nastavení toho automaticky generovaného avataru (JSI v kolečku různě podbarvené), tak tyto změny se projevují i ve společnosti KARAT. Pokud to není chyba v Aliteo, ale je to nastavením ve společnosti KARAT, tak to asi nebudu řešit, nechci LBE otravovat s takovou drobností. Ano, pro společnost Aliteo už je to OK."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, je to nastavenim v spolocnosti KARAT. Tam by sa ale enmalo objavovat to co mas ty nastavene, lebo je tam prioritne nastavenie Lubosove."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nastala chyba v synchronizacii, to sposobilo ze bol Siska chvilu internym uzivatelom. Zalozil internu ulohu. Nasledne sa mu pravo nastavilo naspat na externeho a teda stratil úpristup k svojim ulohami (zmena sukromia ulohy nie je mozna) Aby som mohol ulohu zatvorit, tak som zmenil vlastnika na seba."
+    }
+  ]
+}

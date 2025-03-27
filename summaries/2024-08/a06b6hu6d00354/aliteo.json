@@ -1,0 +1,39 @@
+{
+  "id": "a06b6hu6d00354",
+  "created": "2024-08-26T08:09:42.664Z",
+  "closed": "2024-08-26T08:28:39.52Z",
+  "duration_minutes": 18,
+  "first_response_minutes": 3,
+  "name": "Při opravě události v Aliteo se změní na schůzku",
+  "description": "1.) Založím událost v MS 2.) Otevřu tuto událost v Aliteo = OK 3.) Opravím tuto událost v Aliteo = ZMIZÍ ovládací prvek Upravit 4.) A v MS se z události stane schůzka a chce to při editaci zadat účastníky = chybně změněno z události na schuzku",
+  "owner": "Bahula Michal",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, cas z toho som uz zadal ale pridal som aj tu ec so schodzkou.. chces to nechat otvorene alebo uzatvorime?"
+    },
+    {
+      "creator": "Bahula Michal",
+      "comment": "Ahoj, pokud se mnou nahlášený problém řeší jiným tvým případem, pak moje případy navrhuj k uzavření. Jenom ať se opraví na co jsem narazil."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mozeme to urobit aj tak.. ze ta úridam ako sledujuceho do vyvojovej.."
+    },
+    {
+      "creator": "Bahula Michal",
+      "comment": "ok"
+    }
+  ]
+}

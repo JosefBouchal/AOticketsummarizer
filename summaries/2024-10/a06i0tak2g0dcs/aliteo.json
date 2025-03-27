@@ -1,0 +1,35 @@
+{
+  "id": "a06i0tak2g0dcs",
+  "created": "2024-10-18T08:10:37.493Z",
+  "closed": "2024-10-18T09:01:36.633Z",
+  "duration_minutes": 50,
+  "first_response_minutes": 41,
+  "name": "Nefunguje vyhledávání v úkolech v Mentoringu",
+  "description": "Jsem v Mentoringu a koukám na případy nějaké osoby. Chci vyhledat v hlavičkách těch případů konkrétní slovo, ale vyhledání nic nenajde, přesto že tam to slovo určitě je - vs. Jinak v mém pohledu na úkoly to vyhledání funguje.",
+  "owner": "Lukáš Trunečka",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lukas, predavam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "chces nechat otvorene?"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Dane, díky, asi netřeba ;-)"
+    }
+  ]
+}

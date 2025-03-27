@@ -1,0 +1,55 @@
+{
+  "id": "a05omseqag0fhu",
+  "created": "2024-04-04T17:25:36.856Z",
+  "closed": "2024-04-09T14:00:04.404Z",
+  "duration_minutes": 6994,
+  "first_response_minutes": 1057,
+  "name": "Řazení za poslední komentář nezapočítává ten úvodní příspěvek.",
+  "description": "Prosím... Chci si vyhledat rychle případ, který jsem založil před nějakým týdnem a tak jdu do úkolů, zaškrtnu v pohledu že Vlastním a seřadím si případy za Poslední komentář ..... a naprosto nepochopitelně ten nedávno založený případ nevidím mezi nedávnými případy. Jednoduše proto, že v tom případě je jen zadání.... jenže to by se mělo počítat mezi ten Poslední komentář .",
+  "owner": "Lukáš Trunečka",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 5,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Bylo to krásně vidět na tomto případu, který jsem měl až někde dole"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "ano, mohl jsem řadit za Datum vytvoření (to tam do nedávna myslím nebylo, tak jsem si ještě nezvykl). Nicméně i tak to je v tom případě za Poslední komentář špatně..."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahoj Lukas, rozumiem ti. Mam vsak problem s tym, ze to radenie ktore si pouzil je skutocne za posledny komentar...nedava mi zmysel, aby sme do posledneho komentara brali popis, ktory ani funkcne ani datovo nieje komentarom. Mozem to zobrat na produktovku, ako to vidia ostani...ale nepride mi to ok."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Ahoj Peťo. Jasné.... ale normální uživatel nerozlišuje popis případu od komentáře. Popis vnímá jen jako první komentář. Nehledě na to, že ten popis vlevo je jeden z největších nesmyslů Alitea (polovina firmy tam nic nepíše, založí prázdný případ a první text píšou do komentáře). Takže mě jako uživatele nějaká vnitřní logika zajímat nemusí, já jen říkám, že to není intuitivní. To, že jsem ten případ zadal je krásný příklad toho, že jdete proti srsti. Kdyby to bylo intuitivní, tak to nereklamuju.... protože doteď jsem si nevšiml a nechápal jsem, že první komentář se jmenuje Popis a už vůbec mě nenapadlo, že se to chová jinak."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Mimochodem ještě jeden aspekt... Dívám se na seznam svých případů, kterých mám hodně. Všechny mají stejnou prioritu. V ten moment je pro mě nejlepší si je seřadit za nějakou poslední aktivitu (mimochodem na to jsem myslím také zadával případ a naprosto netuším, jak to dopadlo), ale mám k dispozici pouze řazení za poslední komentář. Prostě chci prvně řešit případy, kde byla poslední nějaká aktivita. A v důsledku této chyby ty nově založené případy vidím někde dole. Ano... pokud máte nějaký problém napravit tuto vadu, pomohla by mi možnost řadit případy za poslední aktivitu. Tam bych jen měl obavu, že do toho budete započítávat i nějaké automtické zásahy synchronizace apod. a to už by mohlo být zlé zas jinak :-D Já samozřejmě chápu, že určité nervy drásající nedostatky jsou i důsledkem divné implementace Alitea do prostředí a procesů naší firmy, ale je to v podstatě moje hlavní lopata a já se nemůžu smířit s tím, když ta lopata nefunguje tak, jak bych potřeboval."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) tuto je ta uloha #1916 Radenie uloh podla poslednej zmeny ktoru chcelo uz viecero uzivatelov a priznam sa aj mne by pomohlo ale zrusili sme ju kvoli vytazovaniu servera... :("
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lukas, mali sme poradu a dospeli sme k nasledovnemu: -  co sa tyka zahrnutia popisu medzi komentare - popis a komentare su  rozdielne objekty, nechcem to spajat pre ucely radenia - radenie  uloh podla poslednej zmeny - chceme to riesit, avsak problemy ktore to so sebou nesie (pravo uzivatela na danu aktivitu.. atd..) komplikuju riesenie natolko, ze sme to odlozili do casu pokial na to nebude tlacit viacero zakzanikov."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Ach jo..."
+    }
+  ]
+}

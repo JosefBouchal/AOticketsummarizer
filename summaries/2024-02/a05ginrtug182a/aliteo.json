@@ -1,0 +1,31 @@
+{
+  "id": "a05ginrtug182a",
+  "created": "2024-02-01T13:58:53.416Z",
+  "closed": "2024-02-02T08:17:06.903Z",
+  "duration_minutes": 1098,
+  "first_response_minutes": 172,
+  "name": "U archivovaného úkolu nejde v detailu mazat upozornění.",
+  "description": "pokud je úkol archivován, tak není možné z detialu hromadně smazat upozornění. (je to šedé) Je potřeba úkol aktivovat smazat a zase archivovat.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, toto uz je opravene v alfe, teda bude dostupne v dalsej verzii - zmazanie upozornenia na archivovanej ulohe."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok"
+    }
+  ]
+}

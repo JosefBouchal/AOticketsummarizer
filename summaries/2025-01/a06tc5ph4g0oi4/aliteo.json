@@ -1,0 +1,47 @@
+{
+  "id": "a06tc5ph4g0oi4",
+  "created": "2025-01-14T12:20:47.454Z",
+  "closed": "2025-01-27T06:46:51.835Z",
+  "duration_minutes": 18386,
+  "first_response_minutes": 115,
+  "name": "Chybně vystavená faktura z ALITEO",
+  "description": "Nastal případ, kdy neplátce v SK si zaplatil licenci Premium na 1 měsíc, byla mu vystavena faktura viz příloha, ale společnost KARAT Software a.s. není plátce DPH v SK, nepřekročila limit 10 000 EUR za rok, tedy dle mě, Olinky Konečné a Zdeňky Ondrouchové měla být vystavena faktura s 21% sazbou daně a danit to v CZ. Tedy za mě se musí vystavit faktura správně (úplně správně by mělo být dokonce zrušit plnění a vystavit nový doklad), ale pak budeme mít furt problém, že v našem IS KARAT nemáme 20% sazbu daně, ale s tím bychom se museli nějak poprat a nebo opravit stávající fakturu a znovu odeslat k importu do naší db. Závěrem udávám: jedná se o DPH, tedy řešit s patřičnou prioritou!!!",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "místo plnění u elektronicky poskytovaných služeb dle mě upravuje Zákon o DPH § 10i ( https://www.zakonyprolidi.cz/cs/2004-235 )"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) mozes prosim Lubovi odpovedat pripapadne mi dat vediet ako dalej riesit?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "No AKO uz je nedostupny a ja neviem ako to ma on urobene. Prebral som to s DKO je schipny nieco v kode upravit, takze si zajtra zavolam so p. Ondrouchovou a dohodnem sa, ako zjedname napravu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubo, dakujem za info.. Allan je uz mimo, zajtra to budeme riesit s Dusanom a takisto aj so Zdenkou.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Ahoj Dane, jasně, díky za info. Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, podla info od Petra je vec vyriesena a konzultovana so Zdenkou... mozeme uzatvorit?"
+    }
+  ]
+}

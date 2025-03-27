@@ -1,0 +1,47 @@
+{
+  "id": "a05j56i1gg1784",
+  "created": "2024-02-21T14:20:25.93Z",
+  "closed": "2024-02-28T11:26:35.902Z",
+  "duration_minutes": 9906,
+  "first_response_minutes": 1002,
+  "name": "Výkazy práce z dielčích úloh",
+  "description": "Dobrý deň, viem nejako jednoducho vidieť súčet výkazov práce za všetky dielčie úlohy? Príklad: mám materskú úlohu, už tam bolo vykázaných 18 hodín, mám tam 14 dielčích, vidím len, že urobených bolo 21%, ale nevidím súčet z výkazov práce na dielčích úlohách.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 1,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, chapem spravne, ze Vam chyba suctovy riadok v dielcich ulohach?"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "ano, vidim, ze som zabudla prilepit obrazok 🙂 mohlo by to tak byt, ze suctovy riadok alebo proste akykolvek iny sposob, ako jednoducho zistim tuto informaciu (sucet vykazanych hodin na vseky dielcie z materskej ulohy)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, to sedi, suctovy riadok v dielcich ulohach by to vyriesil. Prejdem si to s kolegami, preco to tam nie je vlastne.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Na poradu: - pridanie suctoveho riadka v zalozke dielcie ulohy (myslim ze som to hovoril uz davnejsie ale niecim som bol odbity, len si neviem spomenut cim)"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Zaplanovane #3997 Dielčie úlohy: suctovy riadok (suhrn)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, presli sme si to na porade a pridali sme \"sucet\" nad dielcimi ulohami do planu vyvoja."
+    }
+  ]
+}

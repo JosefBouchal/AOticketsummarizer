@@ -1,0 +1,31 @@
+{
+  "id": "a06d0b47m003gv",
+  "created": "2024-09-09T08:47:47.001Z",
+  "closed": "2024-09-09T10:20:16.503Z",
+  "duration_minutes": 92,
+  "first_response_minutes": 64,
+  "name": "Nové API synchronizace initial nemá přejmenované elementy",
+  "description": "Pls předat na opravu AllanoviK,\r\n\r\nBylo nám sděleno, že nové API přejmenovalo nějaké elementy, ale například u MemberProject vrací name UserCompanyId, ale nic takového už nemá existovat, má být UserCompany.\r\n\r\nVoláno {\"company\":\"a069077mrg06rn\",\"maxtranid\":\"a06d07c1og0f0c\",\"limit\":5,\"withexternalid\":\"false\",\"addrelations\":\"true \",\"companySettingsOnly\":\"false\",\"simpleResult\":\"true \"}\r\n\r\nVráceno mimojiné\r\n{\r\n         \"type\":\"Create\",\r\n         \"simple\":true,\r\n         \"def\":\"MemberProject\",\r\n         \"id\":\"a06909i48006rn\",\r\n         \"parent\":{\r\n            \"id\":\"a06909hmb006rn\",\r\n            \"field\":\"Members\"\r\n         },\r\n         \"fields\":[\r\n            {\r\n               \"name\":\"Tools\",\r\n               \"type\":\"Logical\",\r\n               \"value\":\"1\"\r\n            },\r\n            {\r\n               \"name\":\"CanAddKoop\",\r\n               \"type\":\"Logical\",\r\n               \"value\":\"1\"\r\n            },\r\n            {\r\n               \"name\":\"MemberType\",\r\n               \"type\":\"Enum\",\r\n               \"value\":\"External\"\r\n            },\r\n            {\r\n               \"name\":\"UserCompanyId\",\r\n               \"type\":\"UserCompany\",\r\n               \"value\":\"a06908gm1006rn\"\r\n            }\r\n         ]\r\n      },\r\n\r\n\r\nProsím o opravu min. na Betě.\r\n\r\nDíky\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "API",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, predane na Allana.. necham otvorene kym sa nevyriesi?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "do vazebního případu jsem si dal sledování, tedy můžeme zavřít"
+    }
+  ]
+}

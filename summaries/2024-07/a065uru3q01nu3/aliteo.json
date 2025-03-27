@@ -1,0 +1,47 @@
+{
+  "id": "a065uru3q01nu3",
+  "created": "2024-07-16T15:18:39.248Z",
+  "closed": "2024-07-17T13:54:30.094Z",
+  "duration_minutes": 1355,
+  "first_response_minutes": 3,
+  "name": "Má vidět externím uživatel zvoneček (podrobnou notifikaci?)",
+  "description": "Má vidět externím uživatel zvoneček (podrobnou notifikaci?) jako externí uživatel nevidím \"Zvoneček\" ve sledujících: jako interní to vidím jak u interních, tak u externích. ptám se i s ohledem na: #297568 Sledujúci úlohy nedostávajú všetky maily",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) - je mozne ze to dostupne externemu nie je - uloha mi nie je dostupna, ale podla nazvu sudim, ze si niekto moze mysliet ze staci mat zapnute podrobne notifikacie  ato je vsetko - ale ked nema nastavene co ma byt sucastou podrobnych alebo nema zapnute odosielanie emailom, tak mu \"len zapnutie podrobych\" nepomoze.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "přidal jsem tě do případu. To jak si to má nastavit jsme mu řekli, jen mi šlo o to jestli t omá být vidět nebo ne, žil jsem v domnění, že to vidí všichni no a ono ne."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No ak som spravne videl, tak mu email prisiel pri vlozeni komentara... pokracujeme v nejakom rieseni?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "pls o zodpovězení otázky: \"Má vidět externí uživatel zvoneček (podrobnou notifikaci?)\""
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Je to umyselne tak, ze to externy nevidi.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, takže uzavřeme."
+    }
+  ]
+}

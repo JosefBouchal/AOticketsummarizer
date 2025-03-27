@@ -1,0 +1,47 @@
+{
+  "id": "a05et1eg0g1ing",
+  "created": "2024-01-19T13:09:09.77Z",
+  "closed": "2024-01-23T11:33:05.762Z",
+  "duration_minutes": 5663,
+  "first_response_minutes": 51,
+  "name": "API väzba medzi materskou a nadriadenou úlohou",
+  "description": "Dobrý deň, v minulosti #3666 API Aliteo III sme žiadali o úpravu API tak, aby sme s úlohou dostali aj informáciu o materskej úlohe - tj. ak úloha je dielčia, tak vidím, ku ktorej úlohe patrí. Je to dôležité kvôli vyhodnocovaniu výkazov práce, lebo keď si vykáže na dielčiu, zaujíma ma v KARATe koľko bolo na materskú + dielčie úlohy. Poprosíme o termín realizácie, ďakujeme.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Low",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 1,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, pokusim sa zistit a budem Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) ide o tuto ulohu #3718 API: doplnit do dielcie ulohy, master ulohu, vazby je v v 23.4 ak som dobre pozeral, takze to je ob sprint, takze odhadom zaciatkom leta 2024?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "jj kludne napis tak."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, kontroloval som mozny termin a odhadom by tato vec mala byt dostupna zaciatkom tohto leta."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "OK, tak teda nám nič iné neostáva, len čakať.. mysleli sme si, že to nie je taká problematická vec"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No ono mozno to nie je extremne narocna vec, ale mame ten plan vyvoja tak naplneny dolezitymi vecami, ze je potom obtiazne to za behu doplnat o nieco. Ospravedlnujeme sa za neprijemnosti."
+    }
+  ]
+}

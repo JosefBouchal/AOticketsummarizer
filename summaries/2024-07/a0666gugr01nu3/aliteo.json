@@ -1,0 +1,35 @@
+{
+  "id": "a0666gugr01nu3",
+  "created": "2024-07-18T11:54:50.788Z",
+  "closed": "2024-07-25T07:05:24.908Z",
+  "duration_minutes": 9790,
+  "first_response_minutes": 13,
+  "name": "Nejde zrušiť príloha",
+  "description": "Dobrý deň, som administrátor spoločnosti, zároveň som supervízor projektových úloh a mám oprávnenie na zápis a čítanie a v pokročilých nastaveniach prac. priestoru je nastavené, že sa dá zrušiť príloha. Napriek tomu neviem zmazať (archivovať) prílohu ktorú pridal ku úlohe kolega. Ak ale prílohu pridám ja, prílohu archivovať viem, viď. príloha.",
+  "owner": "Lukáš Zadžora",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, dakujem za report, ospravedlnujeme sa za chybu, predal som to na vyvoj. Budem Vas informovat hned ako to bude mozne."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, Danu vec sme vyriesili, ale bude dostupna v najblizsom sprinte. Zatial stale plati ze prilohu ulohy moze zrusit a archivovat len vlastnik."
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "Okej, ďakujem za info. Môžeme teda uzavrieť."
+    }
+  ]
+}

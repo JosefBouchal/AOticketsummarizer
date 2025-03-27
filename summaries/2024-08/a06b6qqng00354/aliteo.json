@@ -1,0 +1,35 @@
+{
+  "id": "a06b6qqng00354",
+  "created": "2024-08-26T09:46:49.924Z",
+  "closed": "2024-08-30T11:32:11.446Z",
+  "duration_minutes": 5865,
+  "first_response_minutes": 29,
+  "name": "Opakovaná událost chybný požadavek Aktivace",
+  "description": "1.) Založil jsem opakovanou událost v MS 2.) V Aliteo jsem chtěl editovat jeden výskyt, ale dialog po mě chce Aktivovat událost. Tato logika je uživatelsky krkolomná, nevím už jak bylo v předchozí verzi, ale tohle bych si chtěl určitě odsouhlasit na analytické, že je OK. Za mě má být tak, že se nabídne detail s hodnotami z řady a až ho opravím a při uložení změn vznikne na pozadí instance. Máme sice logiku aktivace u porad, ale u události je to nepochopitelné. 3.) Navíc po Aktivaci vznikne na pozadí instance a okno se zavře a já musím jít tu událost (instanci) znovu otevřít, abych opravil, co jsem opravit chtěl. Znovu opakuji, uživatelsky nepoužitelné.",
+  "owner": "Bahula Michal",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Michal Bahula (michal.bahula@karatsoftware.cz) ak si dobre spominam tu aktivaciu vieme ze mame ze nie je uplne ok, ale myslim ze sme to neopravovali resp nemenili funckionalitu beriem na zajtrajciu poradu.. ci to vlastne je chyba alebo funkcia.."
+    },
+    {
+      "creator": "Bahula Michal",
+      "comment": "ok, na poradu"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Realizujeme #5356 Zrusit aktivaciu udalosti kalendara"
+    }
+  ]
+}

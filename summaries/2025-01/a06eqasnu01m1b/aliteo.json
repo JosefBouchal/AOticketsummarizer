@@ -1,0 +1,63 @@
+{
+  "id": "a06eqasnu01m1b",
+  "created": "2024-09-23T10:37:41.721Z",
+  "closed": "2025-01-14T06:51:32.731Z",
+  "duration_minutes": 162493,
+  "first_response_minutes": 52,
+  "name": "Založení schůzky nepropsalo všem Zdroj - místnost",
+  "description": "Založil jsem novou schůzku a zadal zdroj nějakou zasedačku. Asi jsem ho zadal až po založení schůzky dodatečně. Já zdroj vidím naplněný, ostatní ho nevidí ani v Aliteu, ani v kalendáři v Outlooku. Dušan ví ;-)",
+  "owner": "Lukáš Trunečka",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 2,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "chapem spravne, ze problem je len s viditelnostou zdroja pre ostatnych ucastnikov porady?"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Ne jen viditelností, ale i tím, že se jim neodeslala změna do Outlooku. Allan i Duša ví.... ukazoval jsem jim to."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dik, preposlal som na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lukáš Trunečka (lukas.trunecka@karatsoftware.cz) malo by byt opravene, mozes prosim potvrdit?"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Ahoj Dane, případ navrhuji uzavřít.... omlouvám se, ale nemám jak toto vyzkoušet, abych tím někoho neprudil planým poplachme založené schůzky. Takže já věřím tomu, že jste věc otestovali a že funguje. Děkuji ;-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Skřeček (davidskrecek@gmail.com) prosim otestuj vyssie uvedeny problem - zaloz poradu/schodzu so zdrojom - pouzi svoj karat cz email - pozvi allan test karat cz email - kludne aj ineho ucastnika, aj mimo domeny karat cz - mozes aj mna (cas daj radsej na vecer na 21:00) - ci vsetci pozvany vidia zdroj alebo nie.. dakujem"
+    },
+    {
+      "creator": "David Skřeček",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) zkousel jsem to na synchro s gmail a exchange: 1) Gmail Pokud zadam v udalosti (pouze pro me) zdroj, doplni se tento zdroj jako umisteni a mezi zdroji samotnymi se nezobrazuje. Pokud zadam v porade (vice uzivatelu) zdroj, nedoplni se do umisteni a po odeslani zmen se zdroje nezobrazuji ani mne, ani jinym uzivatelum. 2) Exchange Zdroj se nedoplni ani jako umisteni, ani se neulozi mezi zdroje. Nevidim ho tedy ani ja, ktery zdroj doplnuji, ani jini uzivatele."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Skřeček (davidskrecek@gmail.com) prosim otvor pripad vo vazbe (to je vyvojovy) prenes tam svoje zistenia (normalne copy paste) a hod na vyvoj nech sa nam k tomu vyjadria"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Skřeček (davidskrecek@gmail.com) prosim otvor pripad vo vazbe (to je vyvojovy) prenes tam svoje zistenia (normalne copy paste) a hod na vyvoj nech sa nam k tomu vyjadria"
+    },
+    {
+      "creator": "David Skřeček",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) problém ve vzbě je už uzavřený takže i tento se může uzavřít."
+    }
+  ]
+}

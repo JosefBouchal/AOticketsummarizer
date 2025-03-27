@@ -1,0 +1,35 @@
+{
+  "id": "a05dfakuog03l5",
+  "created": "2024-01-08T10:51:30.419Z",
+  "closed": "2024-01-11T07:45:02.318Z",
+  "duration_minutes": 4133,
+  "first_response_minutes": 7,
+  "name": "Nelze mě nastavit poradu jako probíhá",
+  "description": "Mám poradu A nelze na ní kliknout probíhá, tedy nejsem schopen dát docházku. V console vidím: Client.js:66279 Application ERROR: Aliteo.CheckAfterException: CompMeeting.checkAfterTransaction: Duplicate OriginalStart 1/1/2024 9:00:00 AM for a05cqj9ekg0srs at System.Environment.get_StackTrace() at Aliteo.CheckAfterException..ctor(String _message) in d:\\_aliteoPublish\\release\\Aliteo.BaseTypes\\CheckAfterException.cs:line 7 at Aliteo.CompMeeting.checkAfterTransaction() in d:\\_aliteoPublish\\release\\Aliteo.Data\\Metadata\\Meetings\\CompMeeting.cs:line 664 at Aliteo.CacheTransaction.Dispose() in d:\\_aliteoPublish\\release\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 233 at Aliteo.QuerySetFields.Set(QueryInfo qi, QueryParamsChange xparams, Func`3 afterAction) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\QuerySetFields.cs:line 128 at Aliteo.QuerySetFields.Set(QueryInfo qi, String xparams, QueryParamsBase& dataparams) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\QuerySetFields.cs:line 21 at Aliteo.Queries.Execute(Cache cache, CompUser compUser, String applicationId, String querybase, String querydata, String timeZone, String userAgent, Stream inputStream, Stream& outputStream, String& redirect, String requestData, String addactivity, Int32 cacheId, Int32 requestId, Boolean behalf, String authEmail, String& streamFileName, Boolean& streamOpen) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\Queries.cs:line 793 at Aliteo.WebUtilities.RunQueryInner(HttpRequest request, String query, Authentication authentication, Cache cache) in d:\\_aliteoPublish\\release\\Aliteo.Shared\\WebUtilities.cs:line 429 at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine) at Aliteo.WebUtilities.RunQueryInner(HttpRequest request, String query, Authentication authentication, Cache cache) at Aliteo.MainHelper.<>c__DisplayClass6_0.< b__0>d.MoveNext() in d:\\_aliteoPublish\\release\\Aliteo.Shared\\MainHelper.cs:line 477 at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine) at Aliteo.MainHelper.<>c__DisplayClass6_0. b__0() at System.Threading.Tasks.Task`1.InnerInvoke() at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj) at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state) at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread) at System.Threading.Tasks.Task.ExecuteFromThreadPool(Thread threadPoolThread) at System.Threading.ThreadPoolWorkQueue.Dispatch() at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart() at System.Threading.Thread.StartCallback() at Aliteo.CompMeeting.checkAfterTransaction() in d:\\_aliteoPublish\\release\\Aliteo.Data\\Metadata\\Meetings\\CompMeeting.cs:line 664 at Aliteo.CacheTransaction.Dispose() in d:\\_aliteoPublish\\release\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 233 at Aliteo.QuerySetFields.Set(QueryInfo qi, QueryParamsChange xparams, Func`3 afterAction) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\QuerySetFields.cs:line 128 at Aliteo.QuerySetFields.Set(QueryInfo qi, String xparams, QueryParamsBase& dataparams) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\QuerySetFields.cs:line 21 at Aliteo.Queries.Execute(Cache cache, CompUser compUser, String applicationId, String querybase, String querydata, String timeZone, String userAgent, Stream inputStream, Stream& outputStream, String& redirect, String requestData, String addactivity, Int32 cacheId, Int32 requestId, Boolean behalf, String authEmail, String& streamFileName, Boolean& streamOpen) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\Queries.cs:line 793 processPossibleResults @ Client.js:66279 await in processPossibleResults (async) xhr.onload @ Client.js:66654 load (async) webCommunicate @ Client.js:66603 await in webCommunicate (async) dataCommunicate @ Client.js:66527 writeFieldString @ Client.js:66861 setMeetingStatus @ Meeting.js:42 onClick @ Meeting.js:4348 handleClickThis @ Client.js:37505 handleClick @ Client.js:37466 click @ Client.js:5192 Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik, predavam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, malo by byt opravene.. mozes prosim potvrdit?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano již to jde"
+    }
+  ]
+}

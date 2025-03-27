@@ -1,0 +1,39 @@
+{
+  "id": "a074qssnv00mbf",
+  "created": "2025-03-13T11:00:08.309Z",
+  "closed": "2025-03-14T10:24:40.399Z",
+  "duration_minutes": 1404,
+  "first_response_minutes": 88,
+  "name": "RE: Upozornění",
+  "description": "Dobrý den, Níže uvedené mailové adresy nastaveny. Faktury jsem nyní odeslala znovu. Hezký den Zdeňka Ondrouchová accountant From: Jan Jochec Sent: Thursday, March 13, 2025 10:11 AM To: invoice@karatsoftware.cz Cc: Andrea Zdrálková ; Pazdera Roman - KARAT Software a.s. Subject: Upozornění Importance: High Pozdravuji prosím urychleně změnit adresy pro fakturaci nevím jak se tam dostal kontakt na petr.buco@jrgroup.eu< mailto:petr.buco@jrgroup.eu > což je programátor! Správně musí být adresy! Andrea.zdralkova@jrgroup.eu< mailto:Andrea.zdralkova@jrgroup.eu > a fakturacia@kpi.sk< mailto:fakturacia@kpi.sk > Zaslaných faktur jsem si všiml až nyní tak je budeme průběžně řešit. S pozdravem Ing. Jan Jochec [Image001] +421 907 457 070 jan.jochec@jrgroup.eu< mailto:jan.jochec@jrgroup.eu > jan.jochec@kpi.sk< mailto:jan.jochec@kpi.sk > www.jrgroup.eu< http://www.jrgroup.eu/ > www.kpi.sk< http://www.kpi.sk/ > [Image002] [Image003]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, o fakturaciu coho ide? Je to za ALITEO?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den,\r\n\r\nNe, jde o faktury za KARAT.\r\n\r\nHezký den\r\nZdeňka Ondrouchová\r\naccountant\r\n\r\ntel.: +420 581 737 105 | zdenka.ondrouchova@karatsoftware.cz< mailto:zdenka.ondrouchova@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "rozumiem teda, ze tento pripad mozeme uzatvorit?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "ano můžeme zavřít"
+    }
+  ]
+}

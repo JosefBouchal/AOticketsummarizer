@@ -1,0 +1,43 @@
+{
+  "id": "a06baa2j9g0asd",
+  "created": "2024-08-27T06:01:56.038Z",
+  "closed": "2024-09-10T18:22:07.117Z",
+  "duration_minutes": 20900,
+  "first_response_minutes": 53,
+  "name": "Nelze vkládat delší texty z clipboardu do komentáře",
+  "description": "V nové verzi Aliteo nejde do komentáře vkládat delší text, nepřišel jsem na konkrétní limit, ale je to někde okolo 5000 znaků. Vyzkoušet jde tak, že si třeba tady http://www.lorem-ipsum.cz/ vygeneruju 10 odstavců lorem ipsum a zkusím je vložit do Aliteo komentáře. Je to problém hlavně protože se do komentářů vkládají třeba úryvky kódu nebo logů, které takovou velikost klidně mít můžou.",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report - rozumiem spravne, ze vlastne ctrl+v nic neurobi?"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Ano, přesně tak, Ctrl+V v momentě, kdy je v clipboardu \"delší\" text nic nevloží."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja som len chcel potvrdenie, uz sme to reportovali.. obmedzenie by malo byt na 45k"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) podla vsetkeho je toto vyriesene.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Funguje, díky."
+    }
+  ]
+}

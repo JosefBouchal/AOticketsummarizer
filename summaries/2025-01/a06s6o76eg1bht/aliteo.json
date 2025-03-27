@@ -1,0 +1,39 @@
+{
+  "id": "a06s6o76eg1bht",
+  "created": "2025-01-05T10:20:06.054Z",
+  "closed": "2025-01-09T12:22:15.704Z",
+  "duration_minutes": 5882,
+  "first_response_minutes": 1315,
+  "name": "úkoly v poradě",
+  "description": "Dobrý den, můžete mi proisím poradit jak mám zrušit opakování bodů porady ? Mám na každé poradě tyto body a nikde sjem nenašel jak je zrušit aby už  se neopakovaly děkuji",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, chodte na radu porad (nie na konkretny vyskyt) a tam by sa mala nachadzat definicia opakujucich sa bodov porady, ktore sa pri aktivacii noveho vyskytu odtialto zoberu."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "dobrý den, no právě tam nic nevidím."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To nie je spravne miesto. Otvorte poradu a tam v zahlavi je _nazov_rady_ -> _nazov_vyskytu_ Tu kliknite na nazorv rady a potom a zalozku Body"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "aha díky už chápu. vyřešeno Michal"
+    }
+  ]
+}

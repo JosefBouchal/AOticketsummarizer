@@ -1,0 +1,39 @@
+{
+  "id": "a06bef0se01spe",
+  "created": "2024-08-28T06:14:03.801Z",
+  "closed": "2024-09-02T11:51:26.937Z",
+  "duration_minutes": 7537,
+  "first_response_minutes": 1,
+  "name": "Přesun úkolu do jiného týmu",
+  "description": "Po zmáčknutí \"Přesunout úkol\" se nic nestane Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano, toto sme nahlasili uz vcera - v ponuke presun riadiacej ulohy vobec nebol. Teraz tam je, ale je tam chyba, ma to AKO naspat na vyvoji.."
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "ok"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Martin, malo by to byt opravene, prosim o kontrolu.."
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "je to OK"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "a05uvldd3g04th",
+  "created": "2024-05-23T11:03:15.91Z",
+  "closed": "2024-05-23T14:27:38.569Z",
+  "duration_minutes": 204,
+  "first_response_minutes": 11,
+  "name": "Uživateli se nezobrazují upozornění",
+  "description": "Zprostředkovaně se mě ptá uživatel, resp. uživatelka 😊 z fortellu – Iveta Ambrožová – proč jí nepřišlo upozornění na komentář přidaný k případu 287835, který přidal Roman Vajčner včera: Podrobné notifikace má zapnuté: Podle jejího nastavení se jí jako sledujícímu nastavují automaticky: A nemá ani upozornění: A logicky ani e-mail. Ale panu Přibylovi přišel: Kde může být problém? Na první pohled to vypadá jako chyba 😉 Dík, r@bert",
+  "owner": "Robert Blaha",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 13,
+    "from_owner": 5,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, mozem na to pozriet, prosim posli mi jej email.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Najdem si, uz viem kde 😀"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vieme toto nejako vysetrit? ide o uzivatela iveta.ambrozova@fortell.cz - vsetko ma zapnute - neviem ale skontrolovat historiu co v akom case bolo zapnute - ale pozeral som outbox a ma tam tohto roku jediny jeden email niekedy minuly mesiac a potom nic ine - divne - mala by mat aj spravnu adresu v nastaveniach spolocnosti - aj keby nemala tak sice by jej email nedosiel ale upozornenie by mala.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Naviac, info - testovali sme s RBE vlozenie dalsieho komentara a ten vygeneroval aj upozornenie aj email.. takze je otazka preco komentar 21 upozornenie nevygeneroval.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Zpětně nedokáži zjisti, nicméně aktuální stav: jí emaily odesílá, podle mne to musela mít vypnuté, nebo neměl zapnutém podrobné notifikace... pokud již jí to funguje, nemá smysl řešit."
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "OK, uvidíme, jak to bude dál. Zrovna u ní jsem si prakticky stopro jist že nekecá, ale samozřejmě chápu, že důkazy chybí :-P"
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "Z mého pohledu je zajímavé že zjevně nemáte něco takového jako je ts poslední změny."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Akoze myslis, ze by sme niekde mali log vsetkych zmien, vsetkych uzivatelov, spolocnosti atd... ?"
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "Ne, že byste na každém záznamu měli informaci, kdy na něm naposledy došlo ke změně"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "K comu by mi to pomohlo.. teraz mam aktivity ulohy.. to co mi chyba je log zmien uzivatelskych nastaveni - teda vlastne nastavenia uzivatela a potom este maximalne kedy si zapol podrobne upozornenia a kde.. Z toho by som mohol potvrdit alebo vyvratit ci mal niekto zapnute nejake upozornenie alebo nie... alebo ako to myslis? Ono my sme to uz riesili kedysi, ja by som takisto chcel radenie podla poslednej zmeny ale ide o to, ze okrem toho objemu dat ktory mame by sa museli vyhodnocovat aj prava a vsetko zapisovat.. je to trochu obtiaznejsie nez sa zda.."
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "No v KARATu je na každém záznamu timestamp - čas poslední změny. kdybychom na tom jejím nastavení  notifikací viděl, že poslední změnu nastavení dělala před měsícem třeba tak by bylo zřejmé, že si to nezměnila až poté, co včera Roman to vyjádření napsal. Ale to nemá smysl řešit - zjevně takovou informaci nemáte, takže je to jen akademická diskuse."
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "Jediné, co bych možná řešil jako návrh na změnu je to, aby se do aktivit případu zapisovalo, když si někdo zapne nebo vypne podrobné upozornění. Protože že to někdo má stejně dneska vidím na přehledu sledujících, takže tajné to není. Chápu, že je každý může mít zapnuté jinak, ale na druhou stranu když je tam ta stavová informace, mohla by tam být i informace v čase. Ale je to požadavek a problém, který se asi řeší poprvé, takže nejspíš nebude nutné měnit podle toho hned chování Aliteo."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, aj to je poziadavok, preberieme na porade produktovej.. Ten log uzivatela som uz pred-komunikoval s AKO a teoreticky problem nevidi.."
+    }
+  ]
+}

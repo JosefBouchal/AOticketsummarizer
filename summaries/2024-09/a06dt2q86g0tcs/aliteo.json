@@ -1,0 +1,35 @@
+{
+  "id": "a06dt2q86g0tcs",
+  "created": "2024-09-16T08:13:13.736Z",
+  "closed": "2024-09-18T15:48:21.427Z",
+  "duration_minutes": 3335,
+  "first_response_minutes": 18,
+  "name": "Prezentace MEOPTA",
+  "description": "Dane prosím tě něco mi na to napiš a vrať mi k reakci, díky",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": ""
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, odpovedam.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mozeme tento pripad uzatvorit?"
+    }
+  ]
+}

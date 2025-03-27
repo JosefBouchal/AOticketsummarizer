@@ -1,0 +1,39 @@
+{
+  "id": "a05esei2ag0tci",
+  "created": "2024-01-19T09:42:51.09Z",
+  "closed": "2024-02-20T07:19:48.019Z",
+  "duration_minutes": 45936,
+  "first_response_minutes": 4,
+  "name": "úloha - klientský filtr - řazení",
+  "description": "Řazení řešitelů není dle abecedy - dle čeho se to řadí, nebo co tam můžeme mít na firmě špatně? Hodně jich je seřazených, ale za Zatloukalem je pak Zdražil, následně Čecháková atd. Jediné co mě napadlo bylo to, že by lidi s Diakritikou řadil až za konec abecedy. Toto podle mě není správně pokud to tak je, ale pokud to bude vlastnost, tak se s tím naučím žít.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Nízká",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 0,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, nemyslim ze by to mala byt vlastnost. Spytame sa ako to je. @ Allan Konečný (allan.konecny@karatsoftware.cz) ako radis uzivatelov v klientskom filtri? Asi nejdu podla abecedy. Mame ti zalozit vyvojovy pripad?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Ano založte případ na Dušana, zdá se, že naše řazení, které probíhá v prohlížeči, řadí diakritiku až na konec. Uvidíme, jestli Dušan dokáže vyřešit na straně prohlížeče."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "OK, zalozim do vyvoja na Dusana.. dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) toto je opravene vo vyvojovej, ktora bude zanedlho nasadena na ostru.."
+    }
+  ]
+}

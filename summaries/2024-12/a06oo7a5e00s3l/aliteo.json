@@ -1,0 +1,51 @@
+{
+  "id": "a06oo7a5e00s3l",
+  "created": "2024-12-09T14:27:38.524Z",
+  "closed": "2024-12-10T08:11:09.748Z",
+  "duration_minutes": 1063,
+  "first_response_minutes": 23,
+  "name": "ALITEO - dlouho točí kolečkem",
+  "description": "[Image001]\r\n\r\nUž třeba 2 min.\r\n\r\n Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 2,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, posles blizsie info? Robi to vsade? na kazdej evidencii? Alebo len niekde?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "žel ne, už to jede, díval jsem se na ala F12, ale v Network nebylo nic. Nejelo to ani MíšoviD, dalších jsem se neptal"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "takže zase se točí kolečko, tedy nyní už konečně najela aspoň nová záložka a blbé je, že pak network vypadá jak kdyby to najíždělo až pak app.aliteo.com_1.har"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ano, su tam nejake vypadky: Allan, vies s tym nieco robit? mam zalozit navazny do vyvoja?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Já jsem to při poradě také zaregistroval, tehdy jsem to nemohl řešit, teď se dívám a nic mne nenapadá. Chvíli to nejelo a pak se to rozjelo, aniž by došlo k nějakému restartu služeb. Klidně založ případ, nicméně budu potřebovat zajistit ten okamžik kdy to nejde, abych mohl alespoň v tu chvíli pustit např. dump."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "https://portal.azure.com/#view/WebsitesExtension/SCIFrameBlade/id/%2Fsubscriptions%2Fb0be8f89-89c8-4017-aa90-e53ab23dec94%2FresourceGroups%2Faliteo%2Fproviders%2FMicrosoft.Web%2Fsites%2Faliteoproductionapp/categoryId/DiagnosticTools/optionalParameters~/%5B%7B%22key%22%3A%22categoryId%22%2C%22value%22%3A%22DiagnosticTools%22%7D%2C%7B%22key%22%3A%22diagnoseAndSolveWorkflowId%22%2C%22value%22%3A%22edc96d0b-0fec-4559-927c-b5e4346ca673%22%7D%5D"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zalozil som ti navazny priapd do vyvoja, Lubosovi som dal sledujuceho, takze kludne to riesme tam. Rozmyslam ako to spravit tak aby sme to vobec stihli ti pisat o tom ze nieco pada.. no nic dalsie info tam. Lubos mozme tuto uzatvorit?"
+    }
+  ]
+}

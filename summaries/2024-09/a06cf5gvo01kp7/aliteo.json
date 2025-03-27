@@ -1,0 +1,35 @@
+{
+  "id": "a06cf5gvo01kp7",
+  "created": "2024-09-05T04:44:40.166Z",
+  "closed": "2024-09-05T06:08:24.46Z",
+  "duration_minutes": 83,
+  "first_response_minutes": 52,
+  "name": "nefunkční vkládání úkolů",
+  "description": "Dobrý den, prosím o odstranění problému při vkládání – chyba „Překročena maximální velikost popisu“ se zobrazuje bez ohledu na velikost popisu:\r\nS pozdravem\r\n \r\nBc. Radim Kohl, DiS.\r\nNC Line a.s.\r\n742 01 Suchdol nad Odrou 233\r\nMobil:  + 420 603 183 253\r\nE-mail:  kohl.radim@ncline.cz\r\nInternet: www.ncline.cz",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujeme za zalozenie pripadu. Na tejto chybe pracujeme, verime, ze coskoro bude nasadena oprava. Ospravedlnujeme sa za neprijemnosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Prebehlo nasedenie verzie, problem by mal byt odstraneny."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Děkuji za rychlé řešení, funguje."
+    }
+  ]
+}

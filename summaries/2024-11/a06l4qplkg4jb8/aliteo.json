@@ -1,0 +1,35 @@
+{
+  "id": "a06l4qplkg4jb8",
+  "created": "2024-11-11T14:15:31.617Z",
+  "closed": "2024-11-11T16:38:46.278Z",
+  "duration_minutes": 143,
+  "first_response_minutes": 9,
+  "name": "Změna přihlašovacího mailu servis@eson.cz",
+  "description": "Dobrý den, bylo by prosím možné změnit přihlašovací mail, který je nyní servis@eson.cz na r.matejka@eson.cz? Kolega měl dříve obecnou mailovou schránku, ale protože je jich na servisu nyní více, musíme je rozdělit na samostatné jednotky, kdy každý má svůj osobní mail se jménem. Děkuji S pozdravem / Best regards Ondřej Tomeš Quality and project manager tel.:         +420 773 699 977 e-mail:    o.tomes@eson.cz< mailto:o.tomes@eson.cz >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, skuste v nastaveniach spolocnosti, najdite daneho uzivatela, toho odpojte a zakazte. Nasledne vysplnte novu emailovu adresu, dajte pripojit a odoslite mu pozvanku. Skuste a dajte vediet, ci funguje. Dakujem"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, děkuji za pomoc. Máme hotovo 😉"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, som rad ze pomohlo.."
+    }
+  ]
+}

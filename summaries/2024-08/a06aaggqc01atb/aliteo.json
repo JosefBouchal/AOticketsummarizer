@@ -1,0 +1,55 @@
+{
+  "id": "a06aaggqc01atb",
+  "created": "2024-08-19T12:47:30.802Z",
+  "closed": "2024-08-22T12:58:24.448Z",
+  "duration_minutes": 4330,
+  "first_response_minutes": 1054,
+  "name": "ALITEO API prokonzultované změny",
+  "description": "Pro AllanaK\r\n\r\nZasílám prokonzultované požadavky na změny v API komunikaci:\r\n\r\n  1.  Request /SyncSetChanges – dát nonotifications do jednotlivých komponent, abych mohl dát pro každý úkol jinou osobu, kterou nenotifikovat\r\n  2.  Response /SyncSetChanges – vracet pokud není výsledek chyba Tranid pod kterým je změna provedena, abychom mohli rozhodnout, zda změny z AO – KARAT aplikovat nebo ne\r\n\r\nDěkuji\r\n\r\nLubomír Bednář",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Low",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 1,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik Lubo, prehodim na AKO"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik Lubo, prehodim na AKO"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) ako to mam sprocesovat? je to na supporte? Treba vytvorit do vyvoja?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "ad 1. nonotifications nelze dát na konkrétní změnu - zůstává pouze na transakci. Vysvětleno Lubošovi ústně, ale v principu jde o to, že některé trigry generující notifikace probíhají až po zapsání všech změn a pak již nedokáži rozlišit, z titulu které konkrétní změny notifikace vzniká. ad 2. doplněno - synchronizční Api, konkrétně SyncSetChangesResult, vrací tranid."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane zapracoval jsem, ale ano, vytvoř mi požadavek na vývoj, protože tento nemohu dát patchovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vytvoril som .. a budem cakat.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, za Allana vraj hotovo.. budes to nejako testovat? mozem ulohu uzatvorit?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "uzavřem"
+    }
+  ]
+}

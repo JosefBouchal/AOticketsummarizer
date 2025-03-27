@@ -1,0 +1,31 @@
+{
+  "id": "a06f6p0l301ceb",
+  "created": "2024-09-26T11:06:15.102Z",
+  "closed": "2024-09-27T07:21:17.206Z",
+  "duration_minutes": 1215,
+  "first_response_minutes": 232,
+  "name": "GetChanges smazání když je iniciátor druhá strana",
+  "description": "Vyjádření od MichalaD a já s ním souhlasím:\r\n\r\nV KARATu jsem smazal membera portfolia inc 4028 a portfolio inc 4027\r\nPosláno do ALITEA SetChanges - proběhlo bez chyb, v results je Deleted, tranid: a06f42u34g0qgq\r\n{\"company\":\"a0690t04tg06rn\",\"usercompany\":\"a06cchvnkg0f77\",\"ts\":\"2024-09-24T16:30:48.063\",\"changes\":[{\"type\":\"Delete\",\"simple\":true,\"def\":\"PfMember\",\"id\":\"a06f42trd00qgq\",\"eid\":\"4028\"},{\"type\":\"Delete\",\"simple\":true,\"def\":\"Pf\",\"id\":\"a06f42trc00qgq\",\"eid\":\"4027\"}]}\r\nOdpověd: {\"iserror\":false,\"isrepeatable\":false,\"errorchangeindex\":-1,\"tranid\":\"a06f42u34g0qgq\",\"results\":[{\"type\":\"Deleted\",\"eid\":\"4028\"},{\"type\":\"Deleted\",\"eid\":\"4027\"}]}\r\n\r\ndivné ale je, že mě v přišlo v cca stený čas došlo v GetChanges (asi tedy až po tom SetChanges)\r\n{\"iserror\":false,\"isrepeatable\":false,\"lasttranid\":\"a06f42u34g0qgq\",\"moredata\":false,\"trans\":[{\"tranid\":\"a06f42u34g0qgq\",\"ts\":\"2024-09-25T19:26:01Z\",\"usercompany\":\"a06cchvnkg0f77\",\"changes\":[{\"type\":\"Delete\",\"simple\":true,\"def\":\"PfMember\",\"id\":\"a06f42trd00qgq\",\"eid\":\"4028\"},{\"type\":\"Delete\",\"simple\":true,\"def\":\"Pf\",\"id\":\"a06f42trc00qgq\",\"eid\":\"4027\"}]}]}\r\n\r\nTedy Delete těch stejných komponent,  a to se stejným tranid, se kterým proběhlo SetChanges do Alitea: a06f42u34g0qgq. Dokonce je zde stejný usercompany\":\"a06cchvnkg0f77,\r\n\r\nZkusil jsem nasimulovat ještě jednou a opravdu to takto je, to je dle mě špatně a ALITEO by ten DELETE neměl posílat.\r\n\r\n\r\n Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predal som na vyvoj..."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ok, můžeme zavřít"
+    }
+  ]
+}

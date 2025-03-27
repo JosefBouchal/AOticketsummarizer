@@ -1,0 +1,51 @@
+{
+  "id": "a05qj2v7gg0pmh",
+  "created": "2024-04-19T08:08:16.331Z",
+  "closed": "2024-04-29T06:26:00.805Z",
+  "duration_minutes": 14297,
+  "first_response_minutes": 183,
+  "name": "kapacitné plánovanie - termín",
+  "description": "Ahojte, chcela som sa opýtať na termín vydania kapacitného plánovania v Aliteu, ako ste ho ukazovali v Brne, vtedy ste vraveli cca mesiac, ktorý už prešiel. V Žiline som nebola, tak som sa nemohla opýtať.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 1,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) asi odpovedz ty podla seba - 31.5 je termin konca aktualneho sprintu 24.1. Fakt si hovoril v Brne ze to bude do mesiaca von? :D"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Neviem o tom, aby som povedal ze o mesiac to bude vonku, ale mozno sme sa zle rozumeli alebo som sa pomylil. V kazdom pripade som na KK s nou nehovoril takze to musela niekde zapocut, asi. V kazdom pripade, sme asi aj tak posuvali termin ukoncenia sekcie, ked sme sa minuly tyzden dohodli na spojeni dvoch sprintov."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, konzultoval som s kolegom a nie je si vedomy ze by komunikoval termin 1 mesiac. Kazdopadne sa pozrieme do planu a skusime dat realisticky odhad, kedy by to mohlo byt."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) ked budes moct zavolaj mi ohladom toho, nech dame nejaky termin..lebo velmi nerozumiem ktore sprinty sa spajaju.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "\"Zlucili sa\" tak, ze som strategicke veci presunul do aktualneho sprintu, jednalo sa hlavne o systemove zmeny."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Pýtam sa, lebo potrebujeme taky nástroj a čakáme či nám bude stačiť aliteo alebo budeme riešiť ešte v spojení s plánovaním v karate,takze sa tešíme."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Odhadovany cas je v priebehu juna 2024."
+    }
+  ]
+}

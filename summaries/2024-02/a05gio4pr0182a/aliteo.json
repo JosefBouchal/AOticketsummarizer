@@ -1,0 +1,39 @@
+{
+  "id": "a05gio4pr0182a",
+  "created": "2024-02-01T14:01:55.101Z",
+  "closed": "2024-02-08T09:00:30.416Z",
+  "duration_minutes": 9778,
+  "first_response_minutes": 166,
+  "name": "přesun případu do jiného prac prostoru - nevytvoří vazbu",
+  "description": "nyní jsem potřeboval přesunout případ a vše se přesunulo, ale nevytvořila se mi vazba mezi původním a novým případem. Bylo by fajn, kdyby se vazba vytvořila, protože takto nevím proč případ končí a jaký je nástupce.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Nízká",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Petr, v aktivitach, ako uplne prva aktivita (alebo druha) by mala byt zmienka o tom ze tato uloha vznikla presunutim ulohy a mal by tam byt aj odkaz na tu ulohu. Je to tak zamerne. Nechceli sme aby sa generovali odkazy do vazieb na prakticky \"zrusenu\" ulohu. je to ok takto?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "máš pravdu, v tom novém to je , to jsem nehledal - to je super, ale v tom ze které to bylo nic není, je to tak? stalo se to 14:43. - přidal jsem tě tam do obou."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tam musel byt nejak konkretny postup preco sa to nestalo, ako posledna aktivita v presuvanej ulohe by mala byt o tom ze bola zrusena z dovodu presunutia.. Ty tam o zruseni nemas zmienku. Do toho este asi nejake hrabe aj ta synchronizacia ci? Standardne to tam je:"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano, tak já to zkusím na čisté úloze znovu, nechám si na sobě."
+    }
+  ]
+}

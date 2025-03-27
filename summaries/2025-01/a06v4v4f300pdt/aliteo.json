@@ -1,0 +1,63 @@
+{
+  "id": "a06v4v4f300pdt",
+  "created": "2025-01-28T07:11:00.549Z",
+  "closed": "2025-01-28T09:41:12.499Z",
+  "duration_minutes": 150,
+  "first_response_minutes": 6,
+  "name": "API - chyba SupervisorM cannot be Readonly",
+  "description": "Z API se navrací chyba ALITEO API ERROR: /SyncSetChanges CompMemberTeam.fieldChangeTrigger: SupervisorM cannot be Readonly Dle https://api.aliteo.com/swagger/ui#/Synchronization/RunSyncSetChanges ReadOnly není nijak omezen Tedy co přesně je tam kontrolováno? A jak to přesně je? Jinak je to divné, jelikož v uživatelském prostředí AO nic o čtení není. Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 3,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, preposielam na chlapov z vyvoja, kto bude moct a vediet nech ti odpovie. @ Dušan Kovář (dusan.kovar@karatsoftware.cz) @ David Skřeček (davidskrecek@gmail.com) @ Allan Konečný (allan.konecny@karatsoftware.cz) viete prosim odpovedat Lubosovi, pripadne mi dajte vediet ak je treba nieco riesit vo vyvoji aby sme zalozili pripad tam.."
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) Dívám se do kódu a při změně na účastníkovi týmu je skutečně kód: if (field.MyDefinition == CompMemberTeam.SupervisorMDefField && field.EnumInt == (int)Supervisor.Readonly) { throw new ApplicationException(\"CompMemberTeam.fieldChangeTrigger: SupervisorM cannot be Readonly\"); } To říká, pokud se mění pole SupervisorM a toto pole má hodnotu výčtu EnumInt Supervisor.Readonly tak vyhoď tu chybu. To je ta kontrola."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Super, tak víme, že hodnotu Readonly tam dát nemůžeme, ale nerozumí tomu, takže tam má být pouze No/Yes? V AO tam čtení ani nejde , tak je to tak, že někdo použil výčet pro supervisor, ale možné jsou jen některé výčty? prosím o zjištění, jestli je to stejně u MemberProject.SupervisorM Děkuji Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Dušan Kovář (dusan.kovar@karatsoftware.cz) Len to upresnim, @ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) tu dava obrazok z timu a tam supervizor na ulohy (zapis/iba citanie) nie je, je tam len supervizor nastrojov riadenia. V projektoch su vsetky typy. Takze to je spravne pretoze supervizorM, co je supervizor riadenia sa nerozdeluje na readonly a full"
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Ano, u MemberProject je stejná kontrola: if (field.MyDefinition == CompMemberProject.SupervisorMDefField && field.EnumInt == (int)Supervisor.Readonly) { throw new ApplicationException(\"CompMemberProject.fieldChangeTrigger: SupervisorM cannot be Readonly\"); }"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ok, děkuji, tedy změníme jen výčet, aby tam readonly nebylo. Případ si klidně vemte jako jako vlastník či navrhněte k uzavření, jen narovinu, až někdo bude dělat dle swaggeru komunikaci, tak bude ve stejném stavu jako já, zmaten a překvapen. Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Dušan Kovář (dusan.kovar@karatsoftware.cz) viete nejako doplnit do swagera aby tam ta informacia bola?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "k ##7 nebo spíše odebrat volbu ReadOnly u SupervisorM"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Suhlasim, idealny stav, len som myslel ze to nie je mozne ak to pouzivat jeden vycet. Nevedel som ci sa to tam dostalo nedopatrenim pri copy paste alebo to pouziva nejako jeden objekt a preto sa to neda. Takze ano, malo by to byt tak ako pises."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, budeme to preberat na produktovke ako tieto \"objekty pouzivane na viacerych miestach\" osetrit aby sa to nedialo"
+    }
+  ]
+}

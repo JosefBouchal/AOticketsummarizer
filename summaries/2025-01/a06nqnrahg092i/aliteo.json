@@ -1,0 +1,39 @@
+{
+  "id": "a06nqnrahg092i",
+  "created": "2024-12-02T10:42:30.119Z",
+  "closed": "2025-01-22T15:12:50.115Z",
+  "duration_minutes": 73710,
+  "first_response_minutes": 20,
+  "name": "Opakované porady - zdvojení? oprava názvu neprojevení?",
+  "description": "1.  Info: nesynchronizuji s Exchange\r\n  2.  Udělal jsem řadu opakujících porad 1. pondělí v měsíci a nyní vidím:\r\n[Image001]\r\n\r\nJednou neděle? Jednou pondělí? Všechno se to tváří jako k jedné opakující se poradě, i jsem zkusil abych to ověřil (jelikož adresní řádek se nemění má stále stejný ID ALITEO), tak jsme zkusil přejmenovat (přidat název řada)\r\n[Image002]\r\nAle pak nic. Tak nevím co toto je.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Takže i druhá řada blbě . Nasimulovat se to dá celkem dobře, stačí dát počátek například od 1.1.2025 a perioda plánování 1. pondělí v měsíci a on udělá schůzku i na toho 1.1., tedy blbě, to nesplňuje tu podmínku"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik, za report, preposielam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, len pre info, Allan to ma opravene u seba, este to nie je na ostrej, budeme patchovat v noci asi.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, toto uz je opravene, bolo otestovane koncom roka 2024 este."
+    }
+  ]
+}

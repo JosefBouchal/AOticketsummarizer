@@ -1,0 +1,31 @@
+{
+  "id": "a06frcu0tg1v1s",
+  "created": "2024-10-01T11:14:18.833Z",
+  "closed": "2024-10-01T19:54:59.517Z",
+  "duration_minutes": 520,
+  "first_response_minutes": 253,
+  "name": "Vymazání fáze řešení po zrušení úkolu, zasláno změna Phase bez value",
+  "description": "Po zrušení úkolu došlo ke změnám i Phase, ale daná změna neobsahuje Value\r\n\r\n{\r\n        \"iserror\": false,\r\n        \"isrepeatable\": false,\r\n        \"lasttranid\": \"a06foflmi01060\",\r\n        \"moredata\": true,\r\n        \"trans\": [\r\n               {\r\n                       \"tranid\": \"a06foflmi01060\",\r\n                       \"ts\": \"2024-09-30T18:15:39Z\",\r\n                       \"usercompany\": \"a06cbllohgef77\",\r\n                       \"changes\": [\r\n                               {\r\n                                      \"type\": \"Modify\",\r\n                                      \"simple\": true,\r\n                                      \"def\": \"Task\",\r\n                                      \"id\": \"a06farfsl00nec\",\r\n                                      \"eid\": \"3694\",\r\n                                      \"fields\": [\r\n                                              {\r\n                                                     \"name\": \"Done\",\r\n                                                     \"type\": \"Enum\",\r\n                                                     \"value\": \"Canceled\"\r\n                                              },\r\n                                              {\r\n                                                     \"name\": \"Phase\",\r\n                                                     \"type\": \"ComponentPointer\"\r\n                                              },\r\n                                              {\r\n                                                     \"name\": \"CancelDate\",\r\n                                                     \"type\": \"DateTime\",\r\n                                                     \"value\": \"2024-09-30T18:15:39.830Z\"\r\n                                              },\r\n                                              {\r\n                                                     \"name\": \"CloseDate\",\r\n                                                     \"type\": \"DateTime\",\r\n                                                     \"value\": \"2024-09-30T18:15:39.830Z\"\r\n                                              },\r\n                                              {\r\n                                                     \"name\": \"CancelUser\",\r\n                                                     \"type\": \"UserCompany\",\r\n                                                     \"value\": \"a06cbllohgef77\"\r\n                                              },\r\n                                              {\r\n                                                     \"name\": \"CloseUser\",\r\n                                                     \"type\": \"UserCompany\",\r\n                                                     \"value\": \"a06cbllohgef77\"\r\n                                              }\r\n                                      ]\r\n                               }\r\n                       ]\r\n               }\r\n        ]\r\n}\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "a pokud se nevolá simple, tak to dopadne ještě hůře: volám: {\"company\":\"a069077mrg06rn\",\"lasttranId\":\"a06frhjsl01ig4\",\"limit\":5,\"simpleResult\":\"false \"} vrací se { \"iserror\": false, \"isrepeatable\": false, \"lasttranid\": \"a06frhoeg01ig4\", \"moredata\": false, \"trans\": [ { \"tranid\": \"a06frhoeg01ig4\", \"ts\": \"2024-10-01T12:07:01Z\", \"usercompany\": \"a069077msg06rn\", \"changes\": [ { \"type\": \"Modify\", \"simple\": false, \"def\": \"Task\", \"id\": \"a06c8feqj00f77\", \"eid\": \"279\", \"Done\": \"Solving\" } ] } ] } volání v simple: {\"company\":\"a069077mrg06rn\",\"lasttranId\":\"a06frhjsl01ig4\",\"limit\":5,\"simpleResult\":\"true \"} vrací se { \"iserror\": false, \"isrepeatable\": false, \"lasttranid\": \"a06frhoeg01ig4\", \"moredata\": false, \"trans\": [ { \"tranid\": \"a06frhoeg01ig4\", \"ts\": \"2024-10-01T12:07:01Z\", \"usercompany\": \"a069077msg06rn\", \"changes\": [ { \"type\": \"Modify\", \"simple\": true, \"def\": \"Task\", \"id\": \"a06c8feqj00f77\", \"eid\": \"279\", \"fields\": [ { \"name\": \"Done\", \"type\": \"Enum\", \"value\": \"Solving\" }, { \"name\": \"CloseDate\", \"type\": \"DateTime\", \"value\": \"1901-01-01T00:00:00.000Z\" }, { \"name\": \"CloseUser\", \"type\": \"UserCompany\" }, { \"name\": \"CloseRequestDate\", \"type\": \"DateTime\", \"value\": \"1901-01-01T00:00:00.000Z\" }, { \"name\": \"CloseRequestUser\", \"type\": \"UserCompany\" } ] } ] } ] } tedy v nesimple vypadne vymazání polí CloseDate, CloseDate, CloseRequestDate, CloseRequestUser to ne dobré"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predane na vyvoj.."
+    }
+  ]
+}

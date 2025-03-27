@@ -1,0 +1,27 @@
+{
+  "id": "a06hgflpmg13bj",
+  "created": "2024-10-14T08:29:07.014Z",
+  "closed": "2024-10-14T08:55:23.939Z",
+  "duration_minutes": 26,
+  "first_response_minutes": 11,
+  "name": "API - existuje subtask s ID a06fnfrhng1ght, ale přitom se u úkolu podřízený úkol neukazuje",
+  "description": "Jedná se o úkol #9 Úkol 7< https://aliteobetaapp.azurewebsites.net/task/a06dtahcjg18t1/ > kde v data jde vidět, že existuje komponenta subtask a06fnfrhng1ght, ale přitom v ALITEO v dílčích úkolech není nic.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ok, predam na vyvoj.."
+    }
+  ]
+}

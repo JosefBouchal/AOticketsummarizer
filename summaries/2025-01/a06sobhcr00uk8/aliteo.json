@@ -1,0 +1,71 @@
+{
+  "id": "a06sobhcr00uk8",
+  "created": "2025-01-09T16:53:02.625Z",
+  "closed": "2025-01-27T17:41:01.647Z",
+  "duration_minutes": 25967,
+  "first_response_minutes": 878,
+  "name": "velké popup (a pop-up obecně)",
+  "description": "Čau, můžu si někde nastavit, že nechci, aby aplikace sama něco dělala, když jsem nekliknul?\r\n\r\nChci kliknout na obrázek, aby se mi zobrazil v galerii, ale ještě než to stihnu, tak mi tam vyskočí popup s malým obrázkem, který tam má ještě navíc na tom místě úplně jiné tlačítko, takže kdybych kliknul, tak si obrázek stáhnu.\r\nJako třešinka je pak to, že nad tím „Stáhnout obrázek“ vyskočí ještě vysvětlující pop-up „Stáhnout obrázek“, což nepřináší žádnou informační hodnotu. Viz přiložené video.\r\nKaždopádně již nejde kliknout na ten obrázek a zobrazit si galerii, což je tlačítko jinde – je to takové utíkající místo kam klikat.\r\nJeště přikládám fotku, kde je vidět, jak se ty pop-up mohou řetězit, kde ten obraz vznikl, aniž bych jedinkrát kliknul.\r\n\r\nNechci žádné pop-up, které vyskakují, aniž bych kliknul. Pokud takové nastavení není, je možné jej doplnit? (vypnutí nebo nastavení nějakého nekonečného času)\r\nDík.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 5,
+    "from_others": 7,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report, poslem na vyvoj.. co by sa s tym dalo robit"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) len ma tak napadlo, ze ked sa v komentari odkazes na ten isty komentar v ktorom si, tak je jasne ze to zacyklis.. ale v realite sa to nedeje ci ano?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Tak ony jsou tam obvykle odkazy jinam, ty se řetězí. Tady toto bylo jen ilustrativní, protože jsem byl líný hledat reálný případ. Takto to normálně nevypadá. Normálně tam dojdeš tak dva skoky, ale zase často jsou to daleko větší vybalující se plachty, protože jsou ty komentáře delší. Přímo cyklus sám na sebe tam asi nebývá, možná případ A odkazující se na B a ten zpět na A, to se asi podaří. Ber to jen jako ilustrační foto."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) rozumiem, ale tym som chcel demostrovat ze si musel vyrobit problematicky stav aby si demonstroval problematicke chovanie. - zaroven som bral ako vyhodu, ze sa cez tooltipy dokazes pozriet na previzaane komentare a ich znenie bez toho aby si na to klikal. Ak toto berieme ako funkciu, potom ano moze sa presne stat to co pises - ale to je proste sucastou tej funkcie"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "este historicka poznamka: niekomu naopak vadilo, ze prilis dlho caka na tooltipy.."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "ad ##4 To chování je problematické. Já jsem jen využil nějakého pokusného stavu, který není běžný. V reálu to bude třeba takto , ale může se to klidně nořit dál. Tady to šlo moc do historie, ten šedý nečitelný je už uzavřený, my v těch starých máme odkazy, ale nejsou to ty aliteácké, protože převod, takže to neukážu, musel bych hledat, kde najdu něco novějšího. Ale odkazy se používají hodně. Hádám, že si to dovedeš představit, ale můžu pohledat, když budeš chtít, ale problém je už s jedním, řetěz byl jen ukázka extrému. To vyskočení popupu je problematické v tom, že potřebuji vidět větší obrázek, takže tooltip nepotřebuji. Naopak tím, že mi tam vyskočí a na místě, kde již chci kliknout se mi najednou objeví na místě kliku úplně jiné tlačítko a zabrání mi v kliknutí, to je problém. Je to jako bych měl dotaz Ano/Ne a jak najedu na Ne, tak těsně před kliknutím mi nad to skočí Ano a to Ne je zase jinde. ad ##5 Souhlasím, každý jsme jiný (již jen třeba rychlost), proto to chce podle mě konfiguraci toho času, aby to sedlo každému. Já bych si tam dal třeba nějakých 120 sekund, že ty pop-up spíše nechci, protože nemám rád, když aplikace něco dělá, aniž bych jí o to řekl, ani nijak netěžím z těch tooltipů."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) rozumiem ti, no taketo nastavenia sa velmi do takychto aplikacii nedavaju, skor by sa treba zamysliet ako to spravit aby to bolo pouzitelnejsie pre teba. Pre teba by stacilo aby tam bolo on/off na tooltipy nie?  ak by si si dal 120 sekund, takze ich vobec nepouzivas? nezistujes cez to ziadne info?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "V KARATu máme: Ano, asi by mi stačilo i on/off."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) chapem, v takom ERP softe je jasne ze to bude, ale v nastrojoch ako je ALITEO by som to necakal ze to bude, otazkou je ci tam tooltipy su. Kazdopadne preberieme to na UI porade a dam ti vediet.. Inak, zmena vybalovania tooltipu aby sa ANO pod rukami nemenilo na NIE, napriklad aby sa ten tooltip vybalil inde by ciastocne riesilo tvoj problem nie?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Ano, pokud se to alespoň nevybalí pod myší, tak to bude alespoň trochu lepší. (Doufám, že tím klik by se jen nezavřel ten popup a provedl by se klik na tom, na čem jsem chtěl kliknout.)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, navrhli sme oprimalizaciu - problem bol primarne v zobrazovani. Optimalizujeme to aby sa to nevybalovalo pod mysou. Stavalo sa to vtedy ak nebolo uz miesta na vybalovanie, Po novom ten tooltip zmensime a bude sa v nom scrolovat. Chces to nechat otvorene?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Pokud to řešíte jinde, tak toto klidně uzavři. Dík."
+    }
+  ]
+}

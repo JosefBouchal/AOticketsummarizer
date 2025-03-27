@@ -1,0 +1,63 @@
+{
+  "id": "a06d482gk01gki",
+  "created": "2024-09-10T07:32:31.763Z",
+  "closed": "2024-09-10T08:39:33.204Z",
+  "duration_minutes": 67,
+  "first_response_minutes": 1,
+  "name": "padá synchronizace",
+  "description": "Padá synchronizace na:\r\n\r\nError: System.InvalidOperationException: Connection must be valid and open to rollback transaction    at MySql.Data.MySqlClient.MySqlTransaction.Rollback()    at System.Data.Common.DbTransaction.RollbackAsync(CancellationToken cancellationToken) --- End of stack trace from previous location ---    at Aliteo.TablesMaria.Execute(String sqlCommand, String connectionString, MySqlParameter[] parameters, Boolean ignoreLong) in d:\\_aliteoPublish\\release\\Aliteo.Azure\\Tables\\TablesMaria.cs:line 714    at Aliteo.TablesMaria.execute(String sqlCommand, MySqlParameter[] parameters) in d:\\_aliteoPublish\\release\\Aliteo.Azure\\Tables\\TablesMaria.cs:line 1084    at Aliteo.TablesMariaInstance.execute(String sql) in d:\\_aliteoPublish\\release\\Aliteo.Azure\\Tables\\TablesMariaInstance.cs:line 10020    at Aliteo.TablesMariaInstance.WriteTransaction(DataStoreTransactinon dbt, List`1 changedComponents, String changedid) in d:\\_aliteoPublish\\release\\Aliteo.Azure\\Tables\\TablesMariaInstance.cs:line 459    at Aliteo.TablesMaria.WriteTransaction(TablesInfo tablesInfo, DataStoreTransactinon dbt, List`1 changedComponents, String changedid) in d:\\_aliteoPublish\\release\\Aliteo.Azure\\Tables\\TablesMaria.cs:line 41    at Aliteo.DataStoreProvider.writeTransaction(Cache cache, CacheTransaction transaction) in d:\\_aliteoPublish\\release\\Aliteo.Cache\\Providers\\DataStoreProvider.cs:line 45    at Aliteo.DataStoreProvider.writeTransaction(Cache cache, CacheTransaction transaction) in d:\\_aliteoPublish\\release\\Aliteo.Cache\\Providers\\DataStoreProvider.cs:line 54    at Aliteo.CacheTransaction.DisposeAsync() in d:\\_aliteoPublish\\release\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 464    at Aliteo.CacheTransaction.Run(IContext context, Func`2 action) in d:\\_aliteoPublish\\release\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 387    at Aliteo.FunctionApi.FunctionApi.Actualize[TComp,TActualize,TData](Cache cache, String sparam) in d:\\_aliteoPublish\\release\\Aliteo.FunctionApi\\FunctionApi.cs:line 5221    at Aliteo.FunctionApi.Generated.Actualize(Cache cache, String componentName, String sparam) in d:\\_aliteoPublish\\release\\Aliteo.FunctionApi\\Generated.cs:line 214    at Aliteo.FunctionApi.FunctionApi.DoSynchronize(Cache cache, String componentName, String command, String data) in d:\\_aliteoPublish\\release\\Aliteo.FunctionApi\\FunctionApi.cs:line 4526 componentName: Task: command: Actualize data: {   \"$type\": \"Aliteo.Sync.Shared.TaskActualize, Aliteo.Sync.Shared\",\r\n\r\nProsím o rychlou nápravu.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Nejvyšší",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 5,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "rpedam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "vraj uz to bezi.. mozes potvrdit?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano potvrzuju, nyní to běží, hlavně potřebuju, zda je známa příčina a zda se to nebude nějak často opakovat"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Allan napisal, ze to sposobil on.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ok, zavřeme, snad už to neuzpůsobí"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Takže pro info, způsobil a nemuseli jsme ani moc čekat :-( 11.09.2024 20:50:29.783\tError: System.InvalidOperationException: Connection must be valid and open to rollback transaction    at MySql.Data.MySqlClient.MySqlTransaction.Rollback()    at System.Data.Common.DbTransaction.RollbackAsync(CancellationToken cancellationToken) --- End of stack trace from previous location ---    at Aliteo.TablesMaria.Execute(String sqlCommand, String connectionString, MySqlParameter[] parameters, Boolean ignoreLong) in d:\\_aliteoPublish\\release\\Aliteo.Azure\\Tables\\TablesMaria.cs:line 714    at Aliteo.TablesMaria.execute(String sqlCommand, MySqlParameter[] parameters) in d:\\_aliteoPublish\\release\\Aliteo.Azure\\Tables\\TablesMaria.cs:line 1084    at Aliteo.TablesMariaInstance.execute(String sql) in d:\\_aliteoPublish\\release\\Aliteo.Azure\\Tables\\TablesMariaInstance.cs:line 10020    at Aliteo.TablesMariaInstance.WriteTransaction(DataStoreTransactinon dbt, List`1 changedComponents, String changedid) in d:\\_aliteoPublish\\release\\Aliteo.Azure\\Tables\\TablesMariaInstance.cs:line 459    at Aliteo.TablesMaria.WriteTransaction(TablesInfo tablesInfo, DataStoreTransactinon dbt, List`1 changedComponents, String changedid) in d:\\_aliteoPublish\\release\\Aliteo.Azure\\Tables\\TablesMaria.cs:line 41    at Aliteo.DataStoreProvider.writeTransaction(Cache cache, CacheTransaction transaction) in d:\\_aliteoPublish\\release\\Aliteo.Cache\\Providers\\DataStoreProvider.cs:line 45    at Aliteo.DataStoreProvider.writeTransaction(Cache cache, CacheTransaction transaction) in d:\\_aliteoPublish\\release\\Aliteo.Cache\\Providers\\DataStoreProvider.cs:line 54    at Aliteo.CacheTransaction.DisposeAsync() in d:\\_aliteoPublish\\release\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 464    at Aliteo.CacheTransaction.Run(IContext context, Func`2 action) in d:\\_aliteoPublish\\release\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 387    at Aliteo.FunctionApi.FunctionApi.actualizeLastSync(Cache cache, String companyId) in d:\\_aliteoPublish\\release\\Aliteo.FunctionApi\\FunctionApi.cs:line 4680    at Aliteo.FunctionApi.FunctionApi.DoSynchronize(Cache cache, String componentName, String command, String data) in d:\\_aliteoPublish\\release\\Aliteo.FunctionApi\\FunctionApi.cs:line 4475 componentName: : command: SyncInit data: {   \"$type\": \"Aliteo.Sync.Shared.QuerySyncInit, Aliteo.Sync.Shared\",   \"sources\": [     {       \".........."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) kludne si to mohol vratit do vyvoja. Uz som dal a posunul na AKO"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "neznám vaše procesy, takže nechci šahat do stavů atd."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V poriadku, nevadí, keď ALEN opravy vo vývoji hodím to na teba aby si to potvrdil že to funguje a až potom to zatvoríme. Súhlasíš?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tak ono to už zas funguje, on tam něco udělá a spadne to, tedy každý kdo bude psát API komunikaci to bude muset nějak ošetřit, já už mám do triggeru naspáno odchycení a za 10 sekund to zkusím znovu (tedy toto jsem si tam přidal dneska ráno), jen prostě takto to fungovat nemá, takové výjimky v API se nemají objevovat"
+    }
+  ]
+}

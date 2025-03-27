@@ -1,0 +1,35 @@
+{
+  "id": "a06bihep501am5",
+  "created": "2024-08-29T05:58:45.228Z",
+  "closed": "2024-09-04T11:23:53.206Z",
+  "duration_minutes": 8965,
+  "first_response_minutes": 1628,
+  "name": "Nové chování Upozornění je matoucí, neergonomické, problémové",
+  "description": "Nové chování upozornění se vůbec z uživatelského pohledu dle mě nepovedlo, jediné pozitivum je že došlo ke sloučení všech notifikací do jednoho, zbytek už je z mého pohledu katastrofa\r\n\r\n  1.  Popelnice překvapující na poslední chvíli a ještě mezi dvě funkčními prvky na zobrazení? Takže chci rozbalit všechny notifikace, kdybych chtěl vidět jen takto na rychlo co se tam stalo a přesně se netrefím na šipku dolů, naráz vyskočí popelnice a smažu to celé? Nebo mám název případu a po konec (tentokráte šipka nikde) [Image001]  a tak chci kliknout na název úkolu, ale mám kurzor vpravo, tak jen si dej bacha Lubine, abys tam neklik, jelikož pak vyskočí ikona můžeš se jen domnívat, co tam mohlo být a lovit v paměti, číslo či název, co si tam viděl [Image002]\r\n  2.  Počet upozornění:  jako četl jsem, že po rozbalení seznamu zešednou, co byly předtím a když přibudou nové, tak zase bude číslo červené, ale číslo jen s novými notifikacemi? A pak zpět číslo s šedými notifikacemi? Tedy chvilku červená 4 pak šedá 30 [Image003]\r\n\r\nMno nepotěšili jste, jak jde udělat požadavek na jednu změnu tak, že z ní nakonec člověk ani nemá radost ☹. Prosím vysvětlete někdy už těm designerům, že není dobré mít funkční prvky, co dělají opačnou funkčnost mít vedle sebe (jako třeba zobraz, smaž) a pokud tomu někdo dá korunu, že to smaž ještě udělá do poslední chvíle neviditelné, tak to už je echt!!! (a to já mám ještě relativně dobré oči na blízko, chudáci co už jsou trošku starší)\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Lowest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report: 1. - chapem ze mame nazov a asi nie je dostatocne oddeleny a v tom mieste pribudne kos - to ze sa pri extra dlhom nazve na tom istom mieste objavuje kos a sipka to je za mna chyba 2. - ano toto je funkcionalita, ktora sa takto chcela - tiez si na to zvykam a riesil som to na porade, zatial to takto ostava Suhlasim s nazorom ze mat vedla seba 2 prvky, ktore robia opacnu funkciu nemusi byt stastne (o to viac ak sa jeden z nich skryva), preberieme to na porade... Kazdopadne budem rad ak napises aj v pripade, ze ta upravou potesime.. tak nejako potom nema clovek pocit ze robi same zle veci. Alebo to tak vazne je?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "já i v tomto případu napsal pozitivum určitě je, že jste sloučili notifikace, tedy to chválím. Není to určitě tak, že vše je špatně, to vůbec ne, ale na dobré/funkční věci nebudu přeci zakládat případy :-). Jinak u mě to musíš to musíš brát ještě jinak, vaše změny mě převážně přinášení komplikace, kolikrát pak i je to tak, že nakonec ze strany AO nedojde k úpravě aby se to pro nás ulehčilo a dělejte jak chcete a to třeba ač někdo věděl, že se bude předělávat API synchronizace a že to nebude sranda, nedal to do strategického plánu a my to děláme už skoro 3. měsíc. Bude to rizikové, problémové a museli jsme tím odsunout věci co jsou ve strategickém plánu, tedy jak na to mám nahlížet? prostě ber to tak, že z malá změn mám radost, jelikož jsem zatím správce firemní úrovně AO - KARAT, jsem analytik std synchronizace AO - KARAT, informace chodí většinou pozdě nebo vůbec, tak já z toho nemůžu mít nijak radost, nemluvě že čekám u léta na slibované změny (například výjimky kalendáře (dovolené, nemoci), možnost si změnit e-mail účtu v AO, ctrl+Z, ........, ale dělá se jen jiné věci, tak asi tak)."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Preberali  sme to na porade a pockame na viac spatnej vazby, aby sme nieco nemenili hned po vydani.. a ak bude potrebne budeme sa tomu viac venovat.. zatial to teda ostava tak ako to je.."
+    }
+  ]
+}

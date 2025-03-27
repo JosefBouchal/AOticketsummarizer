@@ -1,0 +1,63 @@
+{
+  "id": "a059lel3bg1qss",
+  "created": "2023-12-09T20:53:09.356Z",
+  "closed": "2024-01-04T09:24:56.963Z",
+  "duration_minutes": 36751,
+  "first_response_minutes": 2174,
+  "name": "Vyhledávání v komentářích probíhá od konce",
+  "description": "Narazil jsem na to, že když na úkolu chci přes Ctrl+F vyhledávat pomocí prohlížeče nějaký text, tak vyhledávání probíhá od konce, tj. první výskyt (v nejstarším komentáři) je nalezen až jako poslední . Přijde mi to dost matoucí, obzvlášť v úkolech s hodně komentáři jsem se při vyhledávání ztrácel, u kterého komentáře to vlastně jsem.",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 3,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, no ak som to spravne pochopil, tak prehliadac hlada nejak po DOMe stranky. On nevie ze nas prvy komentar je najstarsi, ale vies ze je to prvy zaznam. Takze: - ty si myslis, ze je mozne prinutit prehliadac vyhladavat od spodu? - asi by si to chcel len na zalozke komentare nie? Dalej som prisiel na to, ze kazda zalozka poskytuje vyhladavanie ALITEO v ramci danej funkcionality. V kontexte toho mi pride legitimnejsie mat vyhladavanie v komentaroch svoje ALITE (nie prehliadacove) a tam si asi zvolit poradie hladanie. Co myslis?"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "- ty si myslis, ze je mozne prinutit prehliadac vyhladavat od spodu? Tak to vůbec netuším, jen reklamuju něco, co se mi úplně nezdá z pohledu uživatele. - asi by si to chcel len na zalozke komentare nie? Čekal bych shodné chování úplně všude - tj. když přes Ctrl+F v prohlížeči dám něco vyhledávat, tak by to měl (alespoň v rámci daných panelů) hledat vždy z vrchu dolů. Ale netestoval jsem jak se Aliteo chová na jiných místech. Dalej som prisiel na to, ze kazda zalozka poskytuje vyhladavanie ALITEO v ramci danej funkcionality. V kontexte toho mi pride legitimnejsie mat vyhladavanie v komentaroch svoje ALITE (nie prehliadacove) a tam si asi zvolit poradie hladanie. Tím myslíš, že by se do Aliteo dopracovala funkčnost vyhledávání nad komentáři, která by byla řízena Aliteem a ne prohlížečem? Pokud by se do takového vyhledávacího políčka umístil kurzor při stisku Ctrl+F, tak klidně (v opačném případě to nemá moc význam, protože si myslím, že většina uživatelů při hledání mačká Ctrl+F, a to by je tím pádem hodilo zase do toho prohlížečového vyhledávání a ne do toho Aliteo vyhledávání)."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "- no prave, ze pocitas s tym ze to bude vyhladavat od vrchu na dol a to aj robi, len je tvoj problem ten ze hore su starsie komentare a dole novsie a ty to chces opacne, tak? - no ved skus sa prepnut na inu zalozku, napriklad na dielcie ulohy a ked stlacis ctrl+f tak ti to ponukne vyhladavanie ALITEO a nie prehliadacove vyhladavanie..."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Ano, chtěl bych to opačně, přijde mi to logičtější, ale klidně se na to poptej víc lidí, jaký je na to názor. Jo, už chápu, ano tak nějak. Jen teda ta vyhledávání nad jinými záložkami fungují spíš jako filtr, tzn. ony ponechávají pouze záznamy obsahující hledaný text. To by se na komentáře podle mě moc nehodilo. Když mám komentář o 20 řádcích textu, tak chci přesně vidět, kde se ten hledaný výraz v komentáři vyskytuje a ne jen mít zafiltrované komentáře na ty, kde se výraz vyskytuje."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Josef Siska (josef.siska@karatsoftware.cz) zoberiem to na poradu a poradim sa s kolegami a dam vediet.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu: - predmetom je hladanie v komentaroch v ramci zalozky \"komentara\" - teoreticky by sme tam mohli pridat hladanie, ale: - standardne hladanie ktore mame filtruje - takze by teoreticky odfiltroval len komentare kde sa nachadza dane slovo - ale podla Josefa by praveze len potreboval vyznacit najdete slova a vidiet v kontexte ostatnych komentarov a nie ich dat prec - teoretickym riesenim je hladanie cez prehliadacove hladanie, to ale prechadza od hora  nadol a tym padom ked si prepinam vysledky idem od najstarsich co nechceme"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Planujeme riesit vyhladvanie nad komentarmi v buducnosti, nateraz nemame kapacitu prerabat prehliadacove vyhladavanie."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Planujeme riesit vyhladvanie nad komentarmi v buducnosti, nateraz nemame kapacitu prerabat prehliadacove vyhladavanie."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Josef Siska (josef.siska@karatsoftware.cz) preberali sme tento podnet na porade a vzhladom na to, ze mam uz v plane riesit vyhladavanie v komentaroch v buducnosti, to budeme riesit neskor. Prerobit vyhladavacove hladanie by bolo len jednym riesenim a my planujeme ohladom komentarov trochu viac."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Chápu, díky."
+    }
+  ]
+}

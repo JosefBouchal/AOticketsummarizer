@@ -1,0 +1,35 @@
+{
+  "id": "a05flqaj9g1l31",
+  "created": "2024-01-25T13:29:30.433Z",
+  "closed": "2024-01-31T12:46:52.408Z",
+  "duration_minutes": 8597,
+  "first_response_minutes": 65,
+  "name": "Archivace úkolů",
+  "description": "Dobrý den,\r\n\r\nprosím o prověření:\r\n\r\n[Image001]\r\n\r\nZdá se, že není funkční. Zdá se, že se automatem nearchivuje - je popřípadě nutné něco donastavit?\r\n\r\nDíky\r\n\r\nHezký den\r\n\r\nS pozdravem | Best regards\r\n\r\nTomáš Novák\r\nVedoucí výdeje | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nT:   +420 541 426 845\r\nM: +420 720 061 074\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n[Image002]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, reklamujete teda to, ze uloha ktora je zrusena alebo uzatvorena sa do definovaneho casu nearchivuje? Mozete mi prosim poslat print screen aktivity ulohy, kde sa toto archivovanie neudialo? Dakujem vopred."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den,\r\n\r\njá dám ještě vědět. Ještě jsem si vlastně uvědomil, že jsme řešili pouze datum vytvoření, nikoliv uzavření.\r\nNecháme tak ještě dál plynou a uvidíme, jestli se archivace automatem spustí. Pokud bychom info již k tomuto tématu neposlali, je ok. V opačném případě dám vědět.\r\n\r\nDíky za Váš čas\r\n\r\n\r\nS pozdravem | Best regards\r\n\r\nTomáš Novák\r\nVedoucí výdeje | Head of outgoing\r\n\r\nNOVIKO s.r.o. – Letiště Brno – Tuřany  964/13 - 62700\r\nT:   +420 541 426 845\r\nM: +420 720 061 074\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n[Image001]"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, vyskusajte nasledovne: - vytvorte si novy pracovny priestor (skusobny) - nastavte si uzatvorenie 1 den - vytvorte ulohu, uzatvorte tu - na druhy den by sa mala archivovat Kazdopadne budem cakat na info. Dakujem"
+    }
+  ]
+}

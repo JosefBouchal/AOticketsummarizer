@@ -1,0 +1,63 @@
+{
+  "id": "a05cqm2hhg0i6m",
+  "created": "2024-01-03T10:36:15.714Z",
+  "closed": "2024-01-10T07:28:18.811Z",
+  "duration_minutes": 9892,
+  "first_response_minutes": 255,
+  "name": "NC Line - platba",
+  "description": "Dobrý den,\r\n\r\nChtěl bych zaplatit licenci Aliteo v rámci firmy NC Line. Zkoušel jsem projít procesem. Původně jsme to chtěli zaplatit převodem, ale nakonec jsme se rozhodli, že bychom to zaplatili kartou, ale nejde mi to tam už zadat. Mohli byste, prosím, stornovat platbu, abych mohl zadat znovu kartu? Moc děkuji\r\n\r\n[Image001]\r\n\r\nS pozdravem a přáním pěkného dne\r\n\r\nIng. Jiří Dvořák, Ph.D.\r\nManažer digitalizace\r\n[Image002]\r\nNC Line a.s.\r\n742 01  Suchdol nad Odrou 233\r\nMobil: +420 608 242 700\r\nE-mail: dvorak@ncline.cz\r\nInternet: www.ncline.cz",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 4,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, cakanie na platbu by sa malo stornovat automaticky po nejakom case. Predpokladam ze zajtra by to malo byt uz zrusene a bude mozne to zaplatit kartou."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, stále ne. Pořád to tam visí.\r\nŠlo by to nějak urychlit?\r\n[Image001]\r\n\r\n\r\nS pozdravem a přáním pěkného dne\r\n\r\nIng. Jiří Dvořák, Ph.D.\r\nManažer digitalizace\r\n[Image002]\r\nNC Line a.s.\r\n742 01  Suchdol nad Odrou 233\r\nMobil: +420 608 242 700\r\nE-mail: dvorak@ncline.cz\r\nInternet: www.ncline.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, trochu som zistoval co sa s tym da robit. Na procesovanie platieb vyuzivame sluzieb GoPay, ktora z bezpecnostnych dovodov neumoznuje explicitne storno platby z nasej strany. Zaroven bohuzial tato offline platba moze mat zivostnost  od 1 pod 7 dni, v zavislosti na banke. Nevieme to teda nijak ovplyvnit a preto najrychlejsi sposob by bol predsa len dokoncit platbu prevodom. Ospravedlnujeme sa za neprijemnosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dostali sme informaciu od platobnej brany ze platba od Vas (email od NC line) nebola sparovana, kvoli nespravnemu zadaniu variabilneho symbolu. Tato platba bola poukazana spat na Vas ucet, mohli by ste prosim skontrolovat Vasu platbu a pripadne ju zopakovat podla emailu od platobne brany GoPay, kde sa vsetky udaje k platbe nachadzaju? Dakujem vopred"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den,\r\nNíže posílám náš platební příkaz a v příloze posílám informaci gopay brány. Rozdíl jsme nenašli. Nechápu, kde je problém.\r\nJirka Dvořák\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nVS\r\nKS\r\nSS\r\n\r\n\r\nČástka a měna\r\n\r\n\r\nDatum přijetí k zaúčtování\r\nDatum splatnosti\r\nDatum zaúčtování\r\n\r\n\r\n-\r\nZahraniční platba IDK vyšlo\r\nID transakce 0\r\n6020000000\r\n3057627321\r\n\r\n\r\n-82,28 EUR\r\n\r\n\r\n04.01.2024\r\n04.01.2024\r\n04.01.2024\r\n\r\n[Avízo] [Detail] [Vytvoří novou jednorázovou platbu.] SK7502000000000007654322 3057627321602\r\n\r\n\r\nSUBASKBXXXX SLV\r\n\r\n\r\n8002261457\r\n\r\n\r\nPlatba na vrub vašeho účtu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za info, avšak zo screenu obrazovky neviem urcit ci je VS na spravnom mieste: Viete prosim vygenerovat pdf ? Dakujem"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den,\r\nTak jsem to ještě jednou prohlížel a problém je, že banka neumožní při zahraniční platbě vytvořit VS na správném místě, proto je napsaný v poznámce a mám obavu, že s tím už nic neuděláme. Můžete to nějak celé stornovat, nebo nějak zařídit, ať to konečně můžeme začít používat?\r\nJirka Dvořák"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Bohuzial nam platobna brana neumozuje explicitne stornovat platbu, avsak automaticke zrusenie by malo podla podpory platobnej brany: 09.01.2024 ve 14:13:31. Takze uz by to mohlo byt dostupne."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dík. Vše proběhlo a podařilo se mi to zaplatit kartou.\r\nJirka Dvořák"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem pekne za informaciu a ospravedlnujem sa za komplikacie. Prajem pekny den."
+    }
+  ]
+}

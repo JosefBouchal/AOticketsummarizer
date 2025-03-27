@@ -1,0 +1,35 @@
+{
+  "id": "a06hghfnq013bj",
+  "created": "2024-10-14T08:48:53.64Z",
+  "closed": "2024-11-05T11:13:32.281Z",
+  "duration_minutes": 31824,
+  "first_response_minutes": 28,
+  "name": "API - v ALITEO ze stavu žádost o uzavření změnit například na fázi řešit se neodesílá vymazání kdo a kdy navrhl k uzavření",
+  "description": "Obdržená data:\r\n\r\n{\r\n        \"iserror\": false,\r\n        \"isrepeatable\": false,\r\n        \"lasttranid\": \"a06hggp0q001uh\",\r\n        \"moredata\": false,\r\n        \"trans\": [\r\n               {\r\n                       \"tranid\": \"a06hggp0q001uh\",\r\n                       \"ts\": \"2024-10-14T08:41:08Z\",\r\n                       \"usercompany\": \"a069077msg06rn\",\r\n                       \"changes\": [\r\n                               {\r\n                                      \"type\": \"Modify\",\r\n                                      \"simple\": true,\r\n                                      \"def\": \"Task\",\r\n                                      \"id\": \"a06dtahcjg18t1\",\r\n                                      \"eid\": \"304\",\r\n                                      \"fields\": [\r\n                                              {\r\n                                                     \"name\": \"Done\",\r\n                                                     \"type\": \"Enum\",\r\n                                                     \"value\": \"Solving\"\r\n                                              },\r\n                                              {\r\n                                                     \"name\": \"Phase\",\r\n                                                     \"type\": \"ComponentPointer\",\r\n                                                      \"value\": \"a06grjjv600g2n\"\r\n                                              }\r\n                                      ]\r\n                               }\r\n                       ]\r\n               }\r\n        ]\r\n}\r\n\r\nPokud dojde k zamítnutí řešení, tak se to posílá\r\n\r\n\r\n{\r\n\r\n        \"iserror\": false,\r\n\r\n        \"isrepeatable\": false,\r\n\r\n        \"lasttranid\": \"a06hgh4sp001uh\",\r\n\r\n        \"moredata\": false,\r\n\r\n        \"trans\": [\r\n\r\n               {\r\n\r\n                       \"tranid\": \"a06hgh4sp001uh\",\r\n\r\n                       \"ts\": \"2024-10-14T08:45:11Z\",\r\n\r\n                       \"usercompany\": \"a069077msg06rn\",\r\n\r\n                       \"changes\": [\r\n\r\n                               {\r\n\r\n                                      \"type\": \"Modify\",\r\n\r\n                                      \"simple\": true,\r\n\r\n                                      \"def\": \"Task\",\r\n\r\n                                      \"id\": \"a06dtahcjg18t1\",\r\n\r\n                                      \"eid\": \"304\",\r\n\r\n                                      \"fields\": [\r\n\r\n                                              {\r\n\r\n                                                     \"name\": \"Done\",\r\n\r\n                                                     \"type\": \"Enum\",\r\n\r\n                                                     \"value\": \"Solving\"\r\n\r\n                                              },\r\n\r\n                                              {\r\n\r\n                                                     \"name\": \"Phase\",\r\n\r\n                                                     \"type\": \"ComponentPointer\",\r\n\r\n                                                     \"value\": \"a06grjjv600g2n\"\r\n\r\n                                              },\r\n\r\n                                              {\r\n\r\n                                                     \"name\": \"CloseRequestDate\",\r\n\r\n                                                     \"type\": \"DateTime\",\r\n\r\n                                                     \"value\": \"1901-01-01T00:00:00.000Z\"\r\n\r\n                                              },\r\n\r\n                                              {\r\n\r\n                                                     \"name\": \"CloseRequestUser\",\r\n\r\n                                                     \"type\": \"UserCompany\",\r\n\r\n                                                     \"value\": \"\"\r\n\r\n                                              }\r\n\r\n                                      ]\r\n\r\n                               }\r\n\r\n                       ]\r\n\r\n               }\r\n\r\n        ]\r\n\r\n}\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Predal osm na vyvoj.. Tuto ulohu som nechal otvorenu, lebo z nejakho dovodu sa v editacnom okne popisu neobjavuje rovnaka struktura aka je v nahlade.. nahlasil som to Dusanovi, tak to nechavam otvorene aby sa na to mohol pozriet.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "##1 ok, díky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Podla info, ktore si Lubos napisal do vyvojoveho pripadu som pripad uzatvara a teda navrhujem uzatvorit aj tento. Ak tomu spravne rozumiem."
+    }
+  ]
+}

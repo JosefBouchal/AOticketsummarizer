@@ -1,0 +1,35 @@
+{
+  "id": "a062jfv7lg0e58",
+  "created": "2024-06-20T13:48:45.239Z",
+  "closed": "2024-06-20T13:56:22.146Z",
+  "duration_minutes": 7,
+  "first_response_minutes": 3,
+  "name": "Test spojení",
+  "description": "[Image001]< http://www.prumrent.cz/ >\r\n\r\nMILAN LANGER\r\n\r\ndevelopment manažer\r\n\r\n\r\n\r\nM: +420 739 297 332\r\n\r\n E: langer@prumrent.cz< mailto:langer@prumrent.cz >\r\n\r\n A: Dr. E. Beneše   1831/12, Šumperk",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za report, prosim obrazok Vady"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Problém vyřešený\r\n\r\n\r\n\r\n\r\n[Image001]< http://www.prumrent.cz/ >< http://www.prumrent.cz/ >\r\n\r\nMILAN LANGER\r\n\r\ndevelopment manažer\r\n\r\n\r\n\r\nM: +420 739 297 332\r\n\r\n E: langer@prumrent.cz< mailto:langer@prumrent.cz >\r\n\r\n A: Dr. E. Beneše   1831/12, Šumperk"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dakukem"
+    }
+  ]
+}

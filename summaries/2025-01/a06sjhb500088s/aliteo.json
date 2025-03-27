@@ -1,0 +1,47 @@
+{
+  "id": "a06sjhb500088s",
+  "created": "2025-01-08T12:48:49.28Z",
+  "closed": "2025-01-11T07:08:43.163Z",
+  "duration_minutes": 3979,
+  "first_response_minutes": 31,
+  "name": "zmena prihlasovacej e-mailovej adresy",
+  "description": "Dobrý deň, klient žiada o zmenu prihlasovacej e-mailovej adresy. Stačí mu zmeniť e-mail v profile? alebo to je len e-mail, ktorý sa používa na upozornenia a keď sa chce prihlasovať pod iným mailom musím ho pridať ako nového užívateľa? ak je to možné zmenou na profile, ostane vlastníkom úloh, ktoré zadal?",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, ak sa bavime o tom, ze mam uzivatela A, ktory teraz funguje pod emailom a@email.com. A chcem aby sa tento uzivatel hlasil pod emailom b@email.com, potom je treba v nastaveni spolocnosti uzivatela odpojit, zakazit pristup. Zmenit email pozvanky a odoslat pozvanku znova."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "a teda zmena e-mailovej adresy  profile slúži len ako presmerovanie upozornení? ale prihlasoval by sa stále s pôvodným e-mailom a keby zabudol heslo tak mu oznam príde na prihlasovací e-mail?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "- ano, email v profile sluzi hlavne ne presmerovanie upozorneni a takisto na zobrazenie na vizitke.. - ak zabudne heslo, tak to je vlastne pristup k jeho uctu teda to nema nic spolocne s tym ako je nastaveny v roznych spolocnostiach.."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "ok,chapem, dakujem za vysvetlenie"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mozeme teda pripad uzatvorit?"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "ano, uzivatela som pridala nanovo pod novym emailom a je to v poriadku"
+    }
+  ]
+}

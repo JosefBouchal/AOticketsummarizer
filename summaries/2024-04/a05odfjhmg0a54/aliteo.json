@@ -1,0 +1,47 @@
+{
+  "id": "a05odfjhmg0a54",
+  "created": "2024-04-02T10:39:30.37Z",
+  "closed": "2024-04-02T11:56:04.396Z",
+  "duration_minutes": 76,
+  "first_response_minutes": 7,
+  "name": "Počet symbolů",
+  "description": "Dobrý den,\r\n\r\nje možné pro dané atributy nastavit i počet symbolů?\r\n\r\n[Image001]\r\n\r\nPotřebovali bychom namísto 9 nastavit 10.\r\n\r\nDíky\r\n\r\nS pozdravem | Best regards\r\n\r\nTomáš Novák\r\nVedoucí výdeje | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nT:   +420 541 426 845\r\nM: +420 777 982 504\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n[Image002]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, o aky datovy typ ide? Cislo alebo retazec?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, je to číslo"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No v pripade cisla je nejvyssie mozne cislo 999 999 999. Podla popisu chapem, ze ide o cislo objednavky, takze tam nepotrebujete nic spocitavat, ak som pochopil spravne. Mohli by ste pouzit dat. typ Retazec. Tam sice dosiahnete viac znakov, ale neobmedzite to presne na 10. Zaroven tam bude mozne dat vsetky znaky, nie len cisla."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Ok, akorát je možné toto upravit už v nastaveném atributu? Nám to bohužel nejde"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nie, bohuzial uz to nie je mozne zmenit, prave kvoli spatnej kompatibilite. Ale pokojne ten atribut archivujte, ake ste ho nepouzili tak Vam pojde aj zrusit. Nasledne vytvorte novy s novym datovym typom Retazec."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "už jsme změnili. Díky"
+    }
+  ]
+}

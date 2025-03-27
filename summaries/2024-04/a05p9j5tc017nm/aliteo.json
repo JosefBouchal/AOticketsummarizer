@@ -1,0 +1,71 @@
+{
+  "id": "a05p9j5tc017nm",
+  "created": "2024-04-09T06:25:15.121Z",
+  "closed": "2024-04-10T06:00:58.267Z",
+  "duration_minutes": 1415,
+  "first_response_minutes": 4,
+  "name": "Dát prioritu CTRL+Z v poli, kde píši text",
+  "description": "Prosím, dejte prioritu CTRL+Z do pole Komentář, Popis, je to opravdu porod, něco vložím přes CTRL+V nebo vyjmu CTRL+X a už to nemám jak dát zpět. Toto musí přeci otravovat všechny a nemůže to dělat dobré jméno produktu.\r\n\r\nDěkuji\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 7,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, zoberiem dnes na produktovku.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Ahoj, super, děkuji"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Doriesime kalendar, planovani, final apku a hned vyriesime toto."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "To pro mě není termín, kdy je představa?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Hruby odhad 08-09.2024"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "hmmm, tak jo, souhlasím, budování dobrého jména zabere čas"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, chces to nechat otvorene alebo mozueme zatvorit?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane, neznám vaše procesy, hotové to není, bude v nedohlednu, klidně zavřeme"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "jako vidím vazební úkol, pokud to je tak, že jste si to dali do vývoje s termínem příště, tak v klidu zavřeme, já sice nevím jak se dozvím je to hotovo a nasazeno, ale možná v té době ještě stále v dobré víře použiju ctrl + z  a budu překvapen"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "My si nedavame terminy ako datumy splnenia ale tym ze je to v nejakom sprinte a podla toho planujeme..  zatvorim a ked tak chces si sledovat tu ulohu vo vyvoji?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano pls zavři"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "nevěděl jsem jak hodnotit, max termín, tak jsem nehodnotil"
+    }
+  ]
+}

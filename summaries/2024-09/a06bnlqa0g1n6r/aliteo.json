@@ -1,0 +1,27 @@
+{
+  "id": "a06bnlqa0g1n6r",
+  "created": "2024-08-30T11:54:00.33Z",
+  "closed": "2024-09-05T08:20:59.577Z",
+  "duration_minutes": 8426,
+  "first_response_minutes": 40,
+  "name": "Zdroje - místnosti",
+  "description": "Po aktualizaci nejsem schopný vybrat jinou místnost, nebo zadat místnost se seznamu, jak to bylo dříve.. Ani vlastně nevím, jak ji mám přidat jinak Petr mi vysvětloval, že to nejde řešit, je to daň za technologickou změnu. Považuji za zásadní problém. Tohle ani v KSW ani u zákazníků neprojde.. Prosím když tak přizvat na poradu.. Děkuji Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Martin, ide to, otvoris zdroje a ono si to taha zdroj. Problem je ten ze to neprehladavame fulltextom ale zlava doprava a teda musis napisat \"zdroj\" a dostanes Nie je to uplne v poriadku, zoberiem to na poradu ako by sa to dalo spravit.. Su tam technicke prekazky, ze je treba nacitavat vsetko aby sme mohli prehladavat fulltextovo, skratka nie je to podla AKO jednoduche a v tomto je API na echange ombedzene. Preberieme to, ale na teraz som rad ze mas riesenie.."
+    }
+  ]
+}

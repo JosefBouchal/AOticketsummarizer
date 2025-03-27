@@ -1,0 +1,27 @@
+{
+  "id": "a06il6fc8g18r1",
+  "created": "2024-10-23T06:21:03.537Z",
+  "closed": "2024-10-23T06:27:53.038Z",
+  "duration_minutes": 6,
+  "first_response_minutes": 6,
+  "name": "API - změna názvu týmu se neprojevila v ALITEO",
+  "description": "Odesláno: { \"company\": \"a069077mrg06rn\", \"usercompany\": \"a06d063c900m9u\", \"ts\": \"2024-10-23T06:14:51.020Z\", \"changes\": [ { \"type\": \"Modify\", \"simple\": true, \"def\": \"Team\", \"id\": \"a06horth100rkn\", \"eid\": \"412\", \"fields\": [ { \"name\": \"name\", \"type\": \"String\", \"value\": \"LBE tým upr nazev\" } ] } ] } Vráceno: { \"iserror\": false, \"isrepeatable\": false, \"errorchangeindex\": -1, \"results\": [ { \"type\": \"Modified\", \"eid\": \"412\" } ] } Výsledek, tým není přejmenovaný: Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Synchronizace",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report, posunul som na vyvoj.."
+    }
+  ]
+}

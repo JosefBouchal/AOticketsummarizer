@@ -1,0 +1,55 @@
+{
+  "id": "a05do71afg1ssk",
+  "created": "2024-01-10T14:37:45.917Z",
+  "closed": "2024-01-23T14:15:00.544Z",
+  "duration_minutes": 18697,
+  "first_response_minutes": 219,
+  "name": "Synchronizace Aliteo - Outlook",
+  "description": "Dobrý den,\r\n\r\nNejsem si jistý, zda-li se jedná o featuru nebo bug: v Aliteo jsem potvrdil účast na poradě, v outlooku je účast nepotvrzená, viz přílohy. Nemělo by se toto potvrzení synchronizovat?\r\n[Image001][cid:image002.png@01DA43DA.EE9AE0F0]\r\n\r\n S pozdravem,\r\nDavid Kočíř",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 3,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj skusal som u seba, a funguje mi to, f unguje mi aj jedna porada aj rad porad. Asi to bude nejaky specificky pripad alebo postup kedy sa to stane. Inak, nepresiel mi druhy obrazok, neviem preco:"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Posílám znovu.\r\n[Image001]"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pridal som ta do spolocnosti ALITEO, aj do projektu support, tak mozes pripady zakladat priamo a takisto aj odpisovat priamo v ALITEO a nie cez emaily - bude to takto lepsie. Predpokladam, ze asi nevies ako to nasimulovat. Predavam to na vyvoj, snad sa to bude dat nejako opravit, dam vediet."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Prosim o preverenie, ze organizator aj ucastnici maju zapnutu synchronizaciu s Outlookom."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Tím máte na mysli tohle? [Image001]"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Presne tak, synchronizacia nebezi.. Mozno pred tym bezala... skuste to zapnut ci sa to zrovna.."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dostal jsem od IT oddělení informaci, že při zapnuté synchronizaci dochází k náhodnému zamykání doménového účtu. Můžete tuto informaci prosím potvrdit či vyvrátit?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Doslo ku komunikacnemu sumu. Problem bol ten ze kedysi ked nebola kontrola tak sa dialo to ze ked sa zmenilo heslo do exchange a nezmenilo sa v ALITEO (uzivatel to nezmenil v nastaveniach ALITEO) tak sa ALITEO snazilo autorizovat so starym heslom. Tym ze to robilo opakovane ho domena blokla. Teraz na to uz mame kontrolu, takze ak sa zmeni heslo, tak sa aplikacia snazi autorizovat niekolko krat a nasledne to automaticky stopne a upozorni uzivatela ze je problem so synchronizaciou. Takze toto je uz osetrene. Long story short - popisovany problem uz nie je problemom, je mozne sync zapnut. Skus a daj vediet ci to bezi. Dik"
+    }
+  ]
+}

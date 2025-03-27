@@ -1,0 +1,51 @@
+{
+  "id": "a06i0qolj00m9k",
+  "created": "2024-10-18T07:42:39.1Z",
+  "closed": "2024-10-18T08:58:48.386Z",
+  "duration_minutes": 76,
+  "first_response_minutes": 74,
+  "name": "Vložení dat z clipboardu (ctrl+v) způsobí odeslání komentáře",
+  "description": "Stává se mě nahodile, že když vezmu nějaká data do clipboardu a pak chci je vložit do vyjádření, dojde k odeslání komentáře a to ani data tam nejsou vložena. Děje se to nahodile, neumím říct nějkou logiku ale tento týden se mě to stalo nejméně 3x a je to dosti nepříjemné.\r\n\r\nV praxi často vkládám části z xml souborů, wordu, PDF, ….\r\n\r\nProsím zkuste zjistit a opravit to, je to opravdu nepříjemné, jelikož pak odešlu komentář s úvodem (zákazníkovi dojde notifikace) a pak teprve chci dopsat dlouhý text, takže je z toho zmaten. A přeci nebudu si psát vyjádření někde bokem a pak jej celé vkládat do ALITEO kor  když nerespektuje html formátování.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 4,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, uz sme na to prisli - je to nahlasene tu: #5744 Komentář se odešle i po stisknutí ENTER+CTRL V skratke: nasimulovat mi to neslo, alebo len velmi zriedka lebo som v edge. Ale v chrome, ak si napisal text, potom rychlo 3x enter a za tym rychlo \"ctrl\" tak sa to odoslalo caka sa na najblizsi patch"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "super!!!! už to tedy jen opravit"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "uz to len nasadit.. 🙂 vraj je to opravene.. uvidime 🙂"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "vídím, že dneska je napsané i opraveno"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano pak uvidíme"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, ale zaroven je to v \"patchovani\" a ja viem ze to este nie je na ostrej.. ak yb to chceli robit opacne, tak by vyjadrenia musel pisat potom co to releasnu.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano, to jsem pochopil, šak počkáme, mě je to jedno, jelikož si dám podrobné sledování na tom vazebním případu, takže tento je pro mě nepodstatný."
+    }
+  ]
+}

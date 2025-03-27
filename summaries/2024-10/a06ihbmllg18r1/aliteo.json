@@ -1,0 +1,27 @@
+{
+  "id": "a06ihbmllg18r1",
+  "created": "2024-10-22T08:00:03.635Z",
+  "closed": "2024-10-22T08:07:54.865Z",
+  "duration_minutes": 7,
+  "first_response_minutes": 5,
+  "name": "API - vytvoření kooperující skupiny chybně účastníci",
+  "description": "Z ext. Db došlo k vytvoření kooperující skupiny, bylo zavoláno: { \"company\": \"a069077mrg06rn\", \"usercompany\": \"a06d063c900m9u\", \"ts\": \"2024-10-22T07:53:20.253Z\", \"changes\": [ { \"type\": \"Create\", \"simple\": true, \"def\": \"WorkingGroup\", \"eid\": \"422\", \"parent\": { \"id\": \"a06909hmb006rn\", \"field\": \"ProjectMemberGroups\", \"def\": \"Project\" }, \"archived\": false, \"fields\": [ { \"name\": \"Name\", \"type\": \"String\", \"value\": \"A Skupina KOO PROJ 1\" }, { \"name\": \"Owner\", \"type\": \"UserCompany\", \"value\": \"a069077msg06rn\" } ] } ] } Pak jsme přidal dalšího účastníka  kooperující skupiny (bylo zavoláno): { \"company\": \"a069077mrg06rn\", \"usercompany\": \"a06d063c900m9u\", \"ts\": \"2024-10-22T07:53:45.600Z\", \"changes\": [ { \"type\": \"Create\", \"simple\": true, \"def\": \"WorkingGroupItem\", \"eid\": \"424\", \"parent\": { \"id\": \"a06ihb34g01g5e\", \"field\": \"Items\", \"def\": \"WorkingGroup\" }, \"fields\": [ { \"name\": \"UserCompany\", \"type\": \"UserCompany\", \"value\": \"a06fah340g13e5\" } ] } ] } A dopadlo to takto Tedy nyní v kooperující skupině pouze učastník, pod kterým se odesílají změny do ALITEO, ten tam nemá co dělat a osoby, které tam mají být se mě nabízejí k přdání. Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik, posuvam na vyvoj.."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a05gj2pfj01d6q",
+  "created": "2024-02-01T15:58:12.226Z",
+  "closed": "2024-02-08T08:49:30.32Z",
+  "duration_minutes": 9651,
+  "first_response_minutes": 25,
+  "name": "Uložené poledy na úkoly - nejdou sdílet",
+  "description": "Marcel vytvořil pohled a poslal mi ho - i když mám právo na úkoly atd, tak ten pohled nevidím, protože na něj nemám právo - OK. Na druhou stranu jak toto nějak inteligentně sdílet aby si to jiný uživatel mohl nastavit? vyfotit to a klikat znovu asi není vhodné. Uložit na firemní úrovni taky ne, je to jen pro ty dva. Tedy ideálně mít možnost pokud na daný pohled nemám právo takový pohled \"vytvořit\", případně ho dovolit uložit jako můj pohled.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) skus napisat ako ti ho poslal? pohlad sa da vytvorit a ulozit: - na uzivatelovi - vidi len ten kto vytvoril - na spolocnosti pre internych - na spolocnosti pre vsetkych Ak ho vytvoril mozes si ho pozriet, upravit a ulozit ako tvoj a on potom moze ten svoj zmazat. Neriesi to problem? Kazdopadne tusim ze vo vyvoji by sme mali mat pripad kde by bolo mozne zdielat pohlad vybranym, podobne ako je to s dashboardmi alebo dokumentmi."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "vzal jsem URL a poslal ho třeba takto: https://app.aliteo.com/viewtasks/?savedid=a03v3t29e01klb"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No podla mna to takto nepojde, pretoze to by sme museli otvorit uzivatelovi1 pristup k datam uzivatela2 a to neviem ci nie je z nejakeho hladiska bezpecnostne riziko. A teda svojim sposobom prepojit roznych uzivatelov aby si videli do dat. Kazodpadne som dal do vazby ulohu kde budeme menit aj pohlady tak aby sa dali zdielat.."
+    }
+  ]
+}

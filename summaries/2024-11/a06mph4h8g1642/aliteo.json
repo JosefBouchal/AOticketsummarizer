@@ -1,0 +1,39 @@
+{
+  "id": "a06mph4h8g1642",
+  "created": "2024-11-24T09:14:51.051Z",
+  "closed": "2024-11-25T08:02:06.812Z",
+  "duration_minutes": 1367,
+  "first_response_minutes": 434,
+  "name": "API - Chyba synchronizace, které nerozumím",
+  "description": "Volá se SyncSetChanges {\"company\":\"a013794r1g06um\",\"usercompany\":\"a015g173q016cv\",\"ts\":\"2024-11-24T08:55:54.153Z\",\"nonotifications\":\"a015g173q016cv\",\"changes\":[{\"type\":\"Modify\",\"simple\":true,\"def\":\"Task\",\"id\":\"a06mpfct2g07mm\",\"eid\":\"8503944\",\"attrs\":[{\"id\":\"a01jpsi1bg1me1\",\"type\":\"String\",\"value\":\"S-ALITE101\"},{\"id\":\"a029utg0r01hbc\",\"type\":\"String\",\"value\":\"S-ALITE101\"},{\"id\":\"a02fb7a6901nqp\",\"type\":\"String\",\"value\":\"S-ALITE101\"},{\"id\":\"a029v4tu4g1hbc\",\"type\":\"Logical\",\"value\":\"1\"},{\"id\":\"a029v4ffig128q\",\"type\":\"Logical\",\"value\":\"0\"},{\"id\":\"a04dgqlru01k5v\",\"type\":\"Logical\",\"value\":\"0\"},{\"id\":\"a029utct301hbc\",\"type\":\"DateTime\",\"value\":\"9999-01-01T00:00:00.000Z\"},{\"id\":\"a029utj0mg1hbc\",\"type\":\"String\",\"value\":\"PMS\"},{\"id\":\"a02fb7bong1nqp\",\"type\":\"String\",\"value\":\"PMS\"},{\"id\":\"a029us6mh01hbc\",\"type\":\"Logical\",\"value\":\"0\"},{\"id\":\"a029utbhgg1hbc\",\"type\":\"Logical\",\"value\":\"1\"}]}]} Navrací se {\"iserror\":true,\"error\":\"ComponentDefinition.GetField: field dynamic.a01jpsi1bg1me1 parent a01jpr84b05me1 does not correspond with parameter a029ucslog4hrc\",\"isrepeatable\":false,\"errorchangeindex\":0,\"results\":[{\"type\":\"Error\",\"eid\":\"8503944\"}]} Přiznám se, že tomu nerozumím, co se tam motá a01jpr84b05me1 což je spojitost s workspace Vývoj IS KARAT Lubomír Bednář system analyst",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Preposielam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Od AKO: Pro task a06mpfct2g07mm (305007), který patří do workspace a029ucslog0hrc (Assistance), mi posíláš atribut a01jpsi1bg1me1 (Kód projektu), který ale patří do workspace a01jpr84b01me1 (Vývoj IS KARAT). Jde o sdílený atribut... možná se někde nesprávně zjišťuje. Btw hlášku opravuji aby byla pochopitelnější."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "děkuji, už jsem asi našel, měl jsem problém při vzniku insertu ukolu do kt_task se nenaplnilo source, a nějak pak nepoznal, kam to patří. Děkuji za info Luboš"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "můžeme uzavřít"
+    }
+  ]
+}

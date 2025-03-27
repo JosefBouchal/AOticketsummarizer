@@ -1,0 +1,59 @@
+{
+  "id": "a059c7llbg07gq",
+  "created": "2023-12-07T15:11:09.676Z",
+  "closed": "2024-01-08T09:21:03.506Z",
+  "duration_minutes": 45729,
+  "first_response_minutes": 18,
+  "name": "Odkazy na komentáře nefungují správně v případě, kdy je v úkolu soukromý komentář",
+  "description": "V úkolu #273510 DLO - ZU CS.VYR.01 Sestava štítků na nomenklatuře s použitím pro balící jednotky a odvádění práce. jsou komentáře 11 a 15 soukromé . Pokud se chci v komentáři tohoto úkolu odkázat na komentáře 1-10, tak vše funguje správně. Použitím ##11 se ale vytvoří odkaz na komentář 12 , podobně ##12 míří na 13 atd. Od komentáře 16 nahoru jsou pak díky dalšímu soukromému komentáři odkazy posunuté o dvě místa, takže třeba ##24 míří na komentář 26 .",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 4,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, nepouzivas nejaky stylebota? Mne to totiz funguje spravne... tak hladam rozdiel"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Ano, to sice používám, ale v momentě, kdy jdu něco reklamovat, tak ho vypínám, abych měl jistotu, že to není způsobeno ním. Každopádně jsem to teď testoval: V anonymním režimu ve Chromu, kde jsou doplňky vypnuté úplně. V Edge V Brave V Edge v Sandboxu, takže úplně mimo potenciální vliv nějakých rozšíření . A všude se to chová stejně chybně, tak teď nevím. Testuješ to na tom odkazovaném úkolu a zkoušíš tam dávat odkaz třeba na komentář 24?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Netestoval som to tam lebo nemam na to pravo. Skus to prosim na nejakej inej ulohe, pripadne si vytvor testovaciu ulohu. Viac krat sa nam stalo, ze tam \"uzivatelia\" prepašovali svoje styly a potom potom to rozbilo fungovanie (nejake kontroly uz funguju ale nie je to asi 100%). Ja som to v minulosti reklamoval a vyvojar mi povedal, ze je tam cudzi kod. Tak by som sa rad tomu vyhol aby som mu nereklamoval nieco za co nemoze. Preto prosim ci by si to nevyskusal niekde inde. Nasledne by som im to posunul. Dakujem"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Tak omlouvám se za mystifikaci. Narazili jsme na to s PSB u toho úkolu #273510 DLO - ZU CS.VYR.01 Sestava štítků na nomenklatuře s použitím pro balící jednotky a odvádění práce. a všiml jsem si, že k tomu posouvání odkazů dochází přesně podle toho, jak jsou tam vynechané komentáře. Tak nějak automaticky jsem předpokládal, že jde o soukromé komentáře. Ve skutečnosti nejde o soukromé komentáře, ale o archivované komentáře. Tzn. stále platí zadání z popisu tohoto úkolu, jen namísto soukromých komentářů je potřeba nějaké komentáře archivovat. Toto chování jsem nasimuloval i na úplně novém úkolu #281527 Testovací úkol JSI , na který by jsi měl mít i právo. Když se v něm zkusíš odkázat na komentář 8, tak odkaz bude mířit na komentář 11."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Josef Siska (josef.siska@karatsoftware.cz) takze problem je vlastne v tom, ze je tam odkaz na archivovany komentar. On ako keby neexistuje v tom zozname, tak ti to zobrazi najblizsi zobrazeny?"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Ne, já se neodkazuju na archivovaný komentář. Já se odkazuju na normální komentář, který ale následuje za archivovanými. Konkrétně v tom #281527 Testovací úkol JSI je 14 komentářů, kdy 5 a 9 je soukromý komentář a 4, 6 a 7 je archivovaný. Pak když se chci odkázat na komentář 8, tak odkaz míří na 11, což je špatně, protože není důvod nemít možnost se odkázat na normální komentář 8. Jak by se mělo chovat to, když se odkážu na archivovaný, to nevím, ale to ani nereklamuju. Ještě jeden postřeh, když si z komentáře 8 přes tři tečky získám odkaz na komentář, pak je odkaz správně , ale když stejný odkaz napíšu ručně, tak je špatně ."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, chapem, predavam na vyvoj.. dakujem za vysvetlenie"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Podla mojich info, bolo opravene. Mohol by si prosim pozriet ci je to u Teba ok? Dakujem"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Za mě OK, funguje, díky. Můžeme uzavřít."
+    }
+  ]
+}

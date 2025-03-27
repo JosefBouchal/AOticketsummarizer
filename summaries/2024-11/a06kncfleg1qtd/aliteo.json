@@ -1,0 +1,35 @@
+{
+  "id": "a06kncfleg1qtd",
+  "created": "2024-11-08T07:55:21.894Z",
+  "closed": "2024-11-08T11:23:17.498Z",
+  "duration_minutes": 207,
+  "first_response_minutes": 58,
+  "name": "API - vyprázdnění attributu typ User company:",
+  "description": "Bylo odesláno\r\n\r\n        \"company\": \"a013794r1g06um\",\r\n        \"usercompany\": \"a015g173q016cv\",\r\n        \"ts\": \"2024-11-08T07:48:05.310Z\",\r\n        \"changes\": [\r\n               {\r\n                       \"type\": \"Modify\",\r\n                       \"simple\": true,\r\n                       \"def\": \"Project\",\r\n                       \"id\": \"a03kv3cbt00hai\",\r\n                       \"eid\": \"1428770\",\r\n                       \"attrs\": [\r\n                               {\r\n                                      \"id\": \"a029urefag1hbc\",\r\n                                      \"type\": \"UserCompany\",\r\n                                      \"value\": \"a02bc410a00uub\"\r\n                               },\r\n                               {\r\n                                      \"id\": \"a03rghbu3g1g0c\",\r\n                                      \"type\": \"UserCompany\",\r\n                                      \"value\": \"\"\r\n                               }\r\n                       ]\r\n               },\r\n               {\r\n                       \"type\": \"Delete\",\r\n                       \"simple\": true,\r\n                       \"def\": \"MemberProject\",\r\n                       \"id\": \"a03kv3cjq00hai\",\r\n                       \"eid\": \"1428991\"\r\n               }\r\n        ]\r\n}\r\n\r\n\r\nChyba:\r\n\r\n{\r\n\r\n        \"iserror\": true,\r\n\r\n        \"error\": \"Component.setField: usercompany id  not found (setting component a03kv3cbt00hai, field dynamic.a03rghbu3g1g0c)\",\r\n\r\n        \"isrepeatable\": false,\r\n\r\n        \"errorchangeindex\": 0,\r\n\r\n        \"results\": [\r\n\r\n               {\r\n\r\n                       \"type\": \"Error\",\r\n\r\n                       \"eid\": \"1428770\"\r\n\r\n               },\r\n\r\n               null\r\n\r\n        ]\r\n\r\n}\r\n\r\n\r\nDle swageru User company je dobře\r\n[Image001]\r\n\r\n Lubomír Bednář",
+  "owner": "Lubomír Bednář",
+  "priority": "Nejvyšší",
+  "surveyquality": "Highest",
+  "surveyterm": "Low",
+  "type": "Kritická chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "jen pro informaci, nyní synchronizace stojí, tedy stav silně nechtěný"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) Dane, tento případ je již vyřešen... nemám zatím návazný případ tak jej nemusíš zakládat a tento uzavři."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, zatvaram ak vyriesene"
+    }
+  ]
+}

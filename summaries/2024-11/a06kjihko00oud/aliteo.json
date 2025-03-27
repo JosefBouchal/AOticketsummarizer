@@ -1,0 +1,59 @@
+{
+  "id": "a06kjihko00oud",
+  "created": "2024-11-07T09:43:28.484Z",
+  "closed": "2024-11-13T11:52:31.83Z",
+  "duration_minutes": 8769,
+  "first_response_minutes": 26,
+  "name": "Vytvoření VP přes API nebo nějak automaticky",
+  "description": "Proč se to chce: v rámci testování bychom chtěli pořizovat Výkazy práce (VP) do ALITEO nějak automatem. Co se chce: A. nějaký skript, který to bude tupě plnit v nějakém intervalu opravdu jen z důvodu testování synchronizace. B. přes API - ať z KARAT z testovací DTB, nebo prostě odkudkoliv založit VP korektně do ALITEO a přes synchronizaci si to stáhnout do KARAT (nebo si to založit v KARAT a přes synchronizaci to založit do ALITEO - to už je asi jedno, protože to bude asi stejné API.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Výkazy práce",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik Peto za podnet.. Vies rozpisat co v nom by ste chceli testovat? Ide mi len o to, ci sa bavime o tom, ze vytvorime vykaz prace, teda nazov, popis, datum a vykazany cas. Alebo chceme aj stav verifikacie a neviem co este. Nech to mame v jednom poziadavku ked tak.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Verifikaci nepotřebuji, to už asi umím synchronizovat. Co chci testovat - chci otestovat celé kolečko od založení úkolu, přes změnu etap, přes vykázání až po uzavření a odsouhlasení. Vše dokážu z ALITEO udělat nebo pak přes Karat = API které testujeme, jen ten VP neumím v ALITEO založit. Takže ano, stačí mi jen to založení VP, no ale asi by bylo dobré mít i úpravu, ale to nepotřebuji hned. to klidně za dlouho, nyní jde opravdu jen o to vykázání a jestli pak ALITEO správně vše vyplní a provede se synchronizace."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, a teda vykazanie prace len na projektovu ulohu? Alebo aj na projekt/tim/spolocnost ?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "tak chtěl jsem projektovou úlohu, ale ano, mělo by to být i na Tým a společnost, protože otestovat bychom měli všechno. Tedy prosím na všechno."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, beriem na poradu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Na poradu: - len ci sme s tym vsetci ok - Allan mal nejake vyhrady k Vykazom prace, zatial mame /modifyTimesheet, kde menime len atributy VP - ak sa zhodneme ze ok, dame rovno na AKO? Alebo je treba aby som analyzoval co vsetko tam treba?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "ZP: Doplnime aj vytvorenie vykazu prace."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) bude doplnene.. mozeme uzatvorit?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano"
+    }
+  ]
+}

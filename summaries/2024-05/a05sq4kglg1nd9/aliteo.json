@@ -1,0 +1,43 @@
+{
+  "id": "a05sq4kglg1nd9",
+  "created": "2024-05-06T14:02:45.554Z",
+  "closed": "2024-05-07T07:07:52.698Z",
+  "duration_minutes": 1025,
+  "first_response_minutes": 33,
+  "name": "Problém při změně hesla",
+  "description": "Dobrý den,\r\n\r\nChtěl bych Vás touto cestou požádat o pomoc se změnou hesla uživatele Tomáš Šesták, který je ve společnosti ESON CZ s.r.o.\r\nBohužel se nám to nedaří viz příloha „screen přihlášení uživ…“\r\nZkoušel jsem to „obejít“ tím, že jej znovu zaregistruji s použitím jiné mailové adresy tomes.o@seznam.cz< mailto:tomes.o@seznam.cz > a nového hesla, které jsem chtěl následně v nastavení účtu změnit zpět na t.sestak@eson.cz< mailto:t.sestak@eson.cz > + nové heslo, což ale byla slepá ulička.\r\nBylo by tedy možné, aby se kolega Šesták mohl přihlašovat pod svou adresou t.sestak@eson.cz< mailto:t.sestak@eson.cz >?\r\n\r\nPředem moc děkuji za pomoc dostat se ven z této šlamastyky. 😊\r\n\r\nS pozdravem / Best regards\r\nOndřej Tomeš\r\nQuality and project manager\r\n\r\ntel.:         +420 773 699 977\r\ne-mail:    o.tomes@eson.cz< mailto:o.tomes@eson.cz >\r\nweb:        www.eson.cz< http://www.eson.cz/ >\r\n\r\n[Image001]  CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, skuste nasledovny postup: 1. v nastaveniach uzivatela (nastavenie spolocnost -> uzivatelia -> (konkretny uzivatel) -> pokrocile) zakazte pristup 2. odpojte uzivatela 3. povolte uzivatela 4. nasledne zadajte novy email do kolonky 5. stlacte Odoslat pozvanku emailom Dakujem"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, udělal jsem vše krok za krokem. Pozvánku kolega potvrdil a protože si nepamatuje heslo(z tohoto důvodu ho chtěl změnit), poslal ověřovací kód pro ověření emailové adresy. Ta proběhla, ale dále už je to viz screen níže."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Podla vsetkeho taky uzivatel neexistuje.. nech sa skusi separatne zaregistrovat v ALITEO a potom nech skusi potvrdit pozvanku"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobré ráno, je vyřešeno. Sice nám to v předchozích pokusech o registraci psalo, že uživatel existuje a tudíž můj pokus o novou registraci neprošel, tak dnes se stal zázrak a kolega je zaregistrován a v tuto chvíli potvrdil i pozvánku do společnosti ESON CZ s.r.o. Děkuji Vám za trpělivost a přeji hezký den."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, som rad ze sa vyriesilo. Prajem pekny den."
+    }
+  ]
+}

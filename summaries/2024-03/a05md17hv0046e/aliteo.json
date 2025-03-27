@@ -1,0 +1,47 @@
+{
+  "id": "a05md17hv0046e",
+  "created": "2024-03-17T19:12:52.46Z",
+  "closed": "2024-03-18T14:17:52.268Z",
+  "duration_minutes": 1144,
+  "first_response_minutes": 696,
+  "name": "Dotaz před zavřením okna pro úpravu komentáře",
+  "description": "Bylo by možné před zavřením okna pro úpravu komentáře zobrazit dotaz, jestli chci okno opravdu uzavřít? Takto si totiž otevřu úpravu komentáře, rozepíšu si tam několik vět, omylem zmáčknu Esc, okno se zavře a všechna práce je nenávratně pryč. Dotaz by se mohl zobrazovat jen v případě, kdy v okně provedu nějakou změnu.",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, nieco podobne sme tu uz mali, pozri tu: #1449 Hlaska pri Esc a pisani ukolu ci to vyhovuje.. je to skor zamerane na klavesu ESC,.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Ahoj, na ten úkol nemám právo 😀."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V skrakte: pridama nastavenie na uzivatelovi: Kto bude chciet tak si ho nastavi.. Moze byt?"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Pokud se bavíme o libovolném modálním okně, tak ano, to je přesně to, co bych potřeboval."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "tak to presne chapem aj ja.. takze to riesi tvoj problem je tak? Je to teda v plane vyvoja.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Ano, OK, díky."
+    }
+  ]
+}

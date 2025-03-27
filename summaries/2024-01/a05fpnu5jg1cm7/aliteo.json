@@ -1,0 +1,47 @@
+{
+  "id": "a05fpnu5jg1cm7",
+  "created": "2024-01-26T12:21:31.277Z",
+  "closed": "2024-01-31T06:53:27.164Z",
+  "duration_minutes": 6871,
+  "first_response_minutes": 4016,
+  "name": "Kopie Výkazu práce nechá vyplněné atributy které již nejdou při ručním pořízení vybrat",
+  "description": "Máme podmínku atributu ve VP na nějaký stav v úkole. Pokud udělám kopii VP tak tam jsou atributy, které bych ale ručně už nemohl vybrat a za mě je to špatně, jelikož fce už může počítat, že takový stav již nemůže nastat.\r\n\r\nLuboš\r\n\r\n[Image001]",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ako myslis podmienku na stav v ulohe? Myslis ze mas viditelnost atributu VP podmienenu atributom proj. ulohy? Lebo neviem ako by som podmienoval na zaklade stavu v ulohe. Ak mozes, napis aj priklad: - atribut VP A je viditelny na zaklade atributu proj. ulohy B - ak kopirujem VP a uz je nejako nastaveny potom by som nemal vidiet.. chapes Dik za upresnenie."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "v tomto případě toto mělo způsobit, že není viditelný fakturační odvod"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predal som na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, malo by byt opravene.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "děkuji"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, otestováno, funguje."
+    }
+  ]
+}

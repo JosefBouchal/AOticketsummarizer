@@ -1,0 +1,43 @@
+{
+  "id": "a066r5hdf01uri",
+  "created": "2024-07-23T12:10:15.344Z",
+  "closed": "2024-07-25T07:22:14.422Z",
+  "duration_minutes": 2591,
+  "first_response_minutes": 151,
+  "name": "Pomocník aliteo",
+  "description": "Dobrý den,\r\nMám prosbu. Kolegyně uzavřela pár úkolů a ty ji zmizely. Našli jsme je archivované a když jsem se pídil po tom, jak se to mohl zaarchivovat, tak jsme zjistili, že tam škodil Aliteo pomocník 😊\r\nZajímavé, že mně nepomáhá a vůbec nevím, kde se podobná věc nastavuje. Můžete mne navést, protože kolegyně ty úkoly nechce archivovat. Rozhazuje jí to pak Dashboard.\r\nDík moc\r\nJirka Dvořák\r\n\r\n[Image001]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, niekolko poznatkov: 1. pravdepodobne ide o nastavenie nachadzajuce sa: Nastavene spolocnosti -> prac. priestor -> pokrocile -> uzatvorenie/zrusenie ulohy. Na tomto mieste sa nastavuje: - ak je uloha dlho v \"caka na reakciu vlastnika\" a vlastnik na to \"kasle\" tak sa sama navrhne na uzatvorenie - ak na to vlastnik nadalej \"kasle\" :) tak sa to uzatvori samo - tieto automaticke akcie robi potom \"pomocnik\" 2. dalsie nastavenie: Nastavene spolocnosti -> prac. priestor -> pokrocile - nizsie je nastavenie automatickej archivacie ulohy po jej uzatvoreni alebo zruseni - to setri licenciu (ak by ste ziadny nearchivovali potom by ste dossiahli stropu a nepohli by ste sa dalej kym by ste nenavysili licenciu) 3. dashboard - v ramci nastavenia dashboardu (podmienok) je mozne zahrnut aj archivovane ulohy a tym padom by to malo byt v poriadku -> beriete data zo vsetkych uloh (aj archivovanych) a zaroven nemusite nic nastavovat Snad vam moja odpoved pomoze.."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, měl jste pravdu . Odstranil jsem tenhle bod a kolegyně si zapnula nad dashboardem, že to bere i ty archivované 🙂 Děkuji moc. Můžete to uzavřít."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pan Dvorak, ak si zapla pani archivovane nad dashboardom, potom ste nemuseli tento bod (automaticke archivovanie) rusit. Ono ked vypnete to automaticke archivovanie, musite to robit vzdy rucne. Ak na to zabudnete, potom sa asi rychlo dostanete k licencnemu stropu."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Vím, proberu to s ní. a díky moc za pomoc 🙂 vážím si té rychlé zpětné vazby."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, uzatvaram a prajem pekny den."
+    }
+  ]
+}

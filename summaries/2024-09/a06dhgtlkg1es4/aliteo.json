@@ -1,0 +1,51 @@
+{
+  "id": "a06dhgtlkg1es4",
+  "created": "2024-09-13T12:53:00.579Z",
+  "closed": "2024-09-23T12:23:40.23Z",
+  "duration_minutes": 14370,
+  "first_response_minutes": 3913,
+  "name": "nepřiložení přílohy do komentáře",
+  "description": "Od nové verze se celkem často děje, že se přiložená příloha do komentáře neodešle na AO, nevím proč, žel jsem dal obnov, takže nemám ani výpis z console, ale například v úkole #295063 modul KT změny v synchronizaci Aliteo< https://app.aliteo.com/task/a05vo1fv701enc/ > se mě stalo nyní: Ten stejný příklad dneska ráno MichaloviD Závěrem bych dodal, že ALITEO ví, že jsem přihlášen já Lubomír Bednář a že tu přílohu tam přílohu tam přiložil Michal Domes, tak dovětek Přiložte ji znovu mě celkem zarazil, jak můžu přiložit něco co nejspíše nemám? Ano mohl bych požádat o znovupřiložení. Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report, mne sa to s obrazkami takisto niekedy deje, ale neviem to nasimulovat. Tebe sa to podarilo?? kazdopadne poslem na vyvoj.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ne, žel nasimulovat to taky neumím, ale není to jen ojedinělé, není to velká příloha, že bych třeba zavřel prohlížeč a ještě to tam neodeslalo, zkoušel jsem i že jsem to tam dal pomocí chyť a pusť, za to už nic nenapsal a dal odeslat, ale zatím jsem nenašel klíč, kdy se tak děje"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ved to je ten problem, ja viem ze to je problem.. aj mne sa to deje, dal som to pretestovat nasim testerom, ale nedari sa nam najst ten spravny postup aby sme to vedeli vyriesit.. A bez simulacie ma vyvoj posle vies kam.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "třeba vývoj si někam zapisuje chyby z console a my ani nevím že to na něco spadlo, uvidíme, co oni na to odpoví"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, chyby sa zapisuju.. to problem nie je, ale vela krat (ak nie vacsinou) to je tak, ze to nestaci a potrebuju vediet ako k tej chybe doslo.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, nasadili sme patch, malo by to uz byt opravene, problem bol, ze subory nesli cez sockety a teda ak vyprsala autentifikacia, tak to nedopadlo.. AKO opravil, tak snad to bude dobre.. dakujem"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ok, věřím"
+    }
+  ]
+}

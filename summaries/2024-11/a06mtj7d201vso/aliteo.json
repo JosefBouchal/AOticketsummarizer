@@ -1,0 +1,39 @@
+{
+  "id": "a06mtj7d201vso",
+  "created": "2024-11-25T08:55:46.6Z",
+  "closed": "2024-11-27T13:44:53.89Z",
+  "duration_minutes": 3169,
+  "first_response_minutes": 93,
+  "name": "nefungují pordy",
+  "description": "pokliknutí na proady mám stále akce probíhá. Nejde to ani kolegovy. díky",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, dakujem za report, posuvam ihned na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chcel by som Vás poprosiť, či by ste mohli do v azure portale pre aplikáciu ALITEO (tam kde ste ju registrovali aby ste mohli pripojiť kalendár) pridať tieto scopes pre Graph API: -\tUser.Read.All -\tPlace.Read.All -\tContacts.Read -\tOrgContact.Read.All Presná cesta na portal.azure.com je : Domov -> Registrácia aplikácii -> ALITEO V ľavom paneli: Správa -> Oprávnenie rozhrania API : Výsledkom bude, že sme vylepšili našepkávanie užívateľov pri pridávaní hostí a zdrojov do porady, ktoré sa načítajú z Vášho zoznamu: Mohli by ste prosím vyskúšať, je možné že toto vyrieši problém, ktorý máte."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Dobrý den,teď jsem to zkoušel a již je to ok a změny co píšete jsme neudělali."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "pokojne tie zmeny urobit mozete, aspon sa Vam spravne budu ponukat zdroje z kalendara 365. Dakujem"
+    }
+  ]
+}

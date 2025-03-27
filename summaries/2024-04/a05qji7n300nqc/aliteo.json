@@ -1,0 +1,31 @@
+{
+  "id": "a05qji7n300nqc",
+  "created": "2024-04-19T10:55:00.546Z",
+  "closed": "2024-04-22T06:26:10.409Z",
+  "duration_minutes": 4051,
+  "first_response_minutes": 9,
+  "name": "Nelze vykazovat práci s odkazem na úkol - přímo z výkazů práce (pole nelze zadat)",
+  "description": "Nelze vykazovat práci s odkazem na úkol - přímo z výkazů práce (pole nelze zadat)",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Michal, dik za report, predavam na vyvoj na opravu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, malo by byt opravene.."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a05jllek8g0t9i",
+  "created": "2024-02-25T14:15:30.731Z",
+  "closed": "2024-03-03T13:17:31.593Z",
+  "duration_minutes": 10022,
+  "first_response_minutes": 963,
+  "name": "Založení nového projektu",
+  "description": "Dobrý den,\r\n\r\nprosím o drobnou radu, jak je možné si založit nový projekt.\r\n\r\nPři vytváření se mi nedaří vložit naši společnost a postoupit tak k další části založení:\r\n\r\n[Image001]\r\n\r\nDíky\r\n\r\nS pozdravem | Best regards\r\n\r\nTomáš Novák\r\nVedoucí výdeje | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nT:   +420 541 426 845\r\nM: +420 777 982 504\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n[Image002]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, skontrolujte si prosim nastavenie prav uzivatela v nastaveniach spolocnosti. Pravdepodobne nemate zapnute pravo pre pridavanie projektov."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den,\r\n\r\nmáte pravdu, díky.\r\n\r\nV případě založení nového projektu, bude se měnit i e-mail, přes který lze zakládat požadavky?\r\n\r\nTzn. co projekt = jiný e-mail – či zůstane stejné?\r\n\r\n\r\nDíky za info\r\n\r\nS pozdravem | Best regards\r\n\r\nTomáš Novák\r\nVedoucí výdeje | Head of outgoing\r\n\r\nNOVIKO s.r.o. – Letiště Brno – Tuřany  964/13 - 62700\r\nT:   +420 541 426 845\r\nM: +420 777 982 504\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n[Image001]"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Kazdy projekt ma svoje unikatne cislo a teda aj unikatnu emailovu adresu, aby bolo mozne zakladat emailom ulohy do kazdeho projektu zvlast."
+    }
+  ]
+}

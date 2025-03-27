@@ -1,0 +1,39 @@
+{
+  "id": "a06l3tjs2g0jb8",
+  "created": "2024-11-11T08:56:47.418Z",
+  "closed": "2024-11-11T21:54:34.359Z",
+  "duration_minutes": 777,
+  "first_response_minutes": 5,
+  "name": "API - pád na okurky",
+  "description": "Volání:\r\n{\"company\":\"a02680eeqg1n4b\",\"lasttranId\":\"a06l3t5qr00a00\",\"limit\":90,\"simpleResult\":\"true \"}\r\n\r\nObdržena chyba 501 s textem:\r\nAn error occurred while sending the request.\r\n\r\nToto je dle mě na straně ALITEO, jelikož je to směr Aliteo -> KARAT změny, tedy /SyncGetChanges\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": "Synchronizace",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, predane na vyvoj.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Jen dodám, že společnost ALITEO se stále nesynchornizuje a nebude dokud to nebude vyřešeno."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "info z vyvoja: Chyba HTTP 501, označená jako \"Not Implemented,\" znamená, že server, na který posíláte požadavek, nepodporuje metodu nebo funkci, kterou se snažíte použít. Když se k ní přidá hláška \"An error occurred while sending the request,\" může to znamenat problém se sítí, konfigurací serveru nebo kompatibilitou mezi klientem a serverem. Aktuálně ten stejný dotaz běží, takže očekávám, že jde o síťový problém a bude nutné tuto chybu ze strany LBE ignorovat = dotaz po např. 1 sekundě opakovat (dle mně se to ani do našeho kódu nedostalo). Možná bude takových chyb více."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "OK, přidáno do triggeru, volání frontu požadavků na nastavení chyba synchronizace  jak vrácení chyby 501 tak i text An error occurred while sending the request"
+    }
+  ]
+}

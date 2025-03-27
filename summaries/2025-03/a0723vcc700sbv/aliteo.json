@@ -1,0 +1,35 @@
+{
+  "id": "a0723vcc700sbv",
+  "created": "2025-02-20T08:38:36.943Z",
+  "closed": "2025-03-03T08:57:45.542Z",
+  "duration_minutes": 15859,
+  "first_response_minutes": 27,
+  "name": "Upozornění Aliteo",
+  "description": "Nová a starší upozornění jsou nepřirozeně rozdělena, jedná se o bug nebo o featuru? Martin Chudý programmer",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, ide pravdepodobne o chybu. Deje sa to stale? Alebo je na to konkretny postup?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Ahoj, screenshot je z dnešního rána. Po každé nové notifikaci se tohle zjeví. info o prohlížeči:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, predal som na vyvoj pytam sa preto, lebo ja tento problem nemam:"
+    }
+  ]
+}

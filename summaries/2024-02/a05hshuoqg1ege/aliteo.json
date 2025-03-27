@@ -1,0 +1,47 @@
+{
+  "id": "a05hshuoqg1ege",
+  "created": "2024-02-11T17:34:23.255Z",
+  "closed": "2024-02-14T07:07:27.006Z",
+  "duration_minutes": 3693,
+  "first_response_minutes": 823,
+  "name": "Podpora tabulek v komentářích",
+  "description": "Bylo by možné umožnit do komentářů vkládat tabulky? Klidně bych si ji naklikal pomocí nástrojů přímo v Aliteo, nepotřebuji ji vkládat z Excelu nebo něčeho takového. V KA tabulky (sice krkolomně) vkládat šly, v Aliteo to jde ještě násobně krkolomně taky, ale výsledek není nic moc.",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 1,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, myslim ze sme sa v minulosti na produktovej porade o tom rozpravali ale neviem najst k tomu ziadny zapis. Skusime to prejst znova zajtra a dam ti vediet. Nebude to mat asi nejaku velku prioritu ale je to ako to prejde je dobre si to dat na backlog."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ignoruj ziadost a komentar, preklikol som sa.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu: - tabulky v komentaroch - pokojne by som pridal jednu ovladaciu ikonu s tymto"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Neriesime, je to priliz koplikovane. Nateraz je mozne vkladat fotky alebo live dokumenty do prilohy."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) prebrali sme na porade a ide o velmi komplikovanu vec, takze ju teraz nemozeme zaradit do vyvoja. Uvidime co ostatni uzivatelia. Co ale mozno zlepsi situaciu, vo vyvoji mame podporu live zmien dokumentov v prilohach ulohy. Takze si mozes vlozit tabulku v exceli do prilohy a potom ju tam aj menit. Takze taky je vysledok.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Škoda, díky za info."
+    }
+  ]
+}

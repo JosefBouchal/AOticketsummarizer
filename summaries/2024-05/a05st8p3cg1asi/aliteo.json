@@ -1,0 +1,59 @@
+{
+  "id": "a05st8p3cg1asi",
+  "created": "2024-05-07T08:16:35.456Z",
+  "closed": "2024-05-14T07:44:41.131Z",
+  "duration_minutes": 10048,
+  "first_response_minutes": 149,
+  "name": "Opakované úkoly se generují i když jsem šablonu smazal",
+  "description": "měl jsem nastavenu šablonu - byly tam nějaké chyby, ty jste orpavily a pak se to začalo generovat správně. - OK Tak jsem šablonu pro opakovaný úkol smazal - OK. nyní se mi generují úkoly dle té šablony co jsem smazal - CHYBA. - a to 4úkoly (měl jsem kdysi více šablon, ale jmenovali se jinak) - nyní ty 4 úkoly se jmenují stejně a stále se každý den generují. z oznámení: #293681 požadavek pro šablonu opakovanou #293683 požadavek pro šablonu opakovanou #293682 požadavek pro šablonu opakovanou #293684 požadavek pro šablonu opakovanou",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Vyšší",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 4,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "mám tedy obavu to začít používat. Prosím tedy o odstranění důvodu proč se to generuje v nastavení to nemám:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "chapem, generuju sa ulohy zo sablony, ktora je zmazana.. posuvam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by byt opravene, mozes prosim potvrdit? dakujem"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "takže dnes v 00:00 se to vygenerovalo - tedy to mělo být již orpaveno nebo to zítra nemá vygenerovat ty případy?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "no podla toho co nasadzoval AKO, tak 8.5. rano okolo 3:00 bola nasadena verzia takze teoreticky 9.5 by sa to uz nemalo generovat.. generuje sa to stale? aj dnes 10.5?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "tak dnes je to tam zas, takže nepomohlo: - je možné, že to obecně funguje, ale já potřebuji ještě smazat to, co to vytváří mě - klidně všechny co tam najdete mi smazejte - nic tam nemám nastaveno. #293940 požadavek pro šablonu opakovanou"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "vratil som to naspat AKO.. uvidime"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) uloha tam vznikla s Allanovej sablony, takze toto by malo byt uz ok., Na zaklade toho upravujeme aktivitu o vzniku ulohy, aby bolo jasne kto ju vytvoril (z koho sablony) a zaroven zmena vlastnika na toho podla sablony.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "a06lkk082g1icc",
+  "created": "2024-11-15T10:13:43.09Z",
+  "closed": "2024-11-20T09:35:26.573Z",
+  "duration_minutes": 7161,
+  "first_response_minutes": 105,
+  "name": "Porady",
+  "description": "Dobrý den, máme všichni problém se zobrazením porady. Když klikneme na poradu, tak máme prázdno. Můžete se na to podívat, prosím? Děkuji. Jirka Dvořák",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 13,
+    "from_owner": 4,
+    "from_others": 9,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, dakujem za report a uspravedlnujem sa za neprijemnosti. Hned preposielam na vyvoj na zistenie problemu, alebo pripadnu opravu. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chcem sa len spytat, ucastnik, od ktoreho ste mi poslali screeny je standardnym uzivatelom, internym clenom a ucastnikomporady? Ďakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ospravedlnujem sa, teraz som si este raz precital popis, a problemy mate vsetci a aj organizator.. ok.. beriem naspat na seba"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Predsa sa len spytam, ma problem aj sam organizator porady?"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Ano, on mne na to upozornil."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, vidime uz zapisanu chybu, preposlal som vec na vyvoj.. budeme sa snazit vyriesit co najskor.."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Moc děkujeme 🙂"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja dakujem a osppravedlnujem sa za neprijemnosti.. mrzi ma ze prave tato jedinecna funkcionalita zaskripala.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, podla vyvoja by malo byt opravene.. prosim o kontrolu a potvrdenie. Dakujem"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Dobrý den, já už to vidím ok, ještě si to nechám potvrdit od organizátora. Moc díky za rychlou opravu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ano, prosim idealne vediet od organizatora.. az nasledne by som to uzatvoril, nech mam ciste svedomie 🙂"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Můžete mít čisté svědomí, teď mi to potvrdil 🙂 Hezký den."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem pekne, zatvaram teda pripad. Prajem pekny den"
+    }
+  ]
+}

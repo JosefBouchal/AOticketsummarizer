@@ -1,0 +1,35 @@
+{
+  "id": "a06c3thifg0hq6",
+  "created": "2024-09-02T11:12:42.55Z",
+  "closed": "2024-09-02T11:15:30.744Z",
+  "duration_minutes": 2,
+  "first_response_minutes": 0,
+  "name": "skuska",
+  "description": "overujem komunikaciu",
+  "owner": "Jozef Mikita",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dakujem, rpedane na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "vyriesene"
+    },
+    {
+      "creator": "Jozef Mikita",
+      "comment": "dakjem za zodpovedanie otazok ohladne statistiky a reportu reklamácií..."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "a06ghbmbe01ank",
+  "created": "2024-10-06T19:10:19.801Z",
+  "closed": "2025-01-20T15:26:22.762Z",
+  "duration_minutes": 152416,
+  "first_response_minutes": 649,
+  "name": "Tabulátor někdy neodsazuje odrážky",
+  "description": "Občas se mi děje to, že při psaní komentáře s odrážkami nelze pomocí tabulátoru řídit odsazení vlevo/vpravo dané odrážky. Teď se mi podařilo nasimulovat, že se to děje např. v případě, kdy je na konci odrážky text kurzívou .",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dakujem za report aj za postup.. predavam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) reportovany problem by mal byt uz opraveny.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Teď jsem zkoušel přesně dle postupu v popisu a pořád se chová stejně."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) uz vidim kde je problem, bolo zatial opravene len na vyvojovej, takze otestujeme tam.. ospravedlnujem sa, na ostrej to este nie je.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "otestovane na vyvojovej, bude dostupne na ostrej v najblizsej verzii.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Nezbývá než věřit 😀."
+    }
+  ]
+}

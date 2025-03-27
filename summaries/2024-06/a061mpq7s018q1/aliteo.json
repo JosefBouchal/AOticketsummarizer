@@ -1,0 +1,35 @@
+{
+  "id": "a061mpq7s018q1",
+  "created": "2024-06-13T14:40:02.482Z",
+  "closed": "2024-06-18T12:04:12.224Z",
+  "duration_minutes": 7044,
+  "first_response_minutes": 57,
+  "name": "Žádost o zrušení notifikací",
+  "description": "Dobrý den,\r\n\r\nšlo by prosím zrušit zasílání notifikace o tom, že jsme dosáhli 100% limitu počtu uživatelů? Chodí nám to denně a v nastavení jsem možnost zrušení tohoto typu notifikace nenašel.\r\n\r\nDěkuji\r\n\r\nS pozdravem / Best regards\r\nOndřej Tomeš\r\nQuality and project manager\r\n\r\ntel.:         +420 773 699 977\r\ne-mail:    o.tomes@eson.cz< mailto:o.tomes@eson.cz >\r\nweb:        www.eson.cz< http://www.eson.cz/ >\r\n\r\n[Obsah obrázku logo, Grafika, grafický design, Písmo  Popis byl vytvořen automaticky]  CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\n\r\n\r\nThe first version of ESON CZ app is here! Tracking option shipment status and product previews right on your mobile!\r\nPrvní verze aplikace ESON CZ je zde! Možnost sledování stavu zásilek a náhledy produktů přímo ve Vašem mobilu!\r\n[Obsah obrázku Písmo, text, Grafika, snímek obrazovky  Popis byl vytvořen automaticky]< https://play.google.com/store/apps/details?id=cz.eson.eson&hl=cs >                [Obsah obrázku text, logo, Písmo, design  Popis byl vytvořen automaticky] < https://apps.apple.com/cz/app/eson/id6502104060?l=cs >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, neviem o tom aby sa to dalo zrusit, ale preberiem s kolegami, lebo je pravda, ze to mozete mat vyuzite na presno a moze to byt dlhodoby stav. A nasledne tato notifikacia rusi. Preberiem s kolegami a dam vediet."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ciastocne sme to vyriesili a zmenili frekvenciu upozorneni, ale budeme sa tomu este venovat, Kedze niektore uupozornenia je dobre mat castejsie a niekto opat menej casto. Myslim ze by mal byt Vas problem vyrieseny. Je to tak?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Zdravím, pane Dzuro, žádnou novou hlášku jsme zatím nezaznamenali, takže za nás asi OK. Děkuji O.Tomeš"
+    }
+  ]
+}

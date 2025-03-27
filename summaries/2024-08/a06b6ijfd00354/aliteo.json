@@ -1,0 +1,27 @@
+{
+  "id": "a06b6ijfd00354",
+  "created": "2024-08-26T08:16:58.501Z",
+  "closed": "2024-08-26T09:52:30.255Z",
+  "duration_minutes": 95,
+  "first_response_minutes": 18,
+  "name": "Aktualizace dat z kalendáře před editací hodnot",
+  "description": "Pokud opravím na existující události v MS nějaký údaj, promítne se mi do události Aliteo po určitém čase (odhaduji 30sec, není podstatné). Ale pokud do tohoto času chci událost v Aliteo editovat (neřešme proč) mám tam neopravené hodnoty jak na zobrazeném tooltipu , tak na vybaleném detailu , a to není dobré. navrhuji, aby se data události (porady nebo jiného objektu) aktualizovali i před zobrazením detailu abych editoval správné hodnoty.",
+  "owner": "Bahula Michal",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "reportoval som"
+    }
+  ]
+}

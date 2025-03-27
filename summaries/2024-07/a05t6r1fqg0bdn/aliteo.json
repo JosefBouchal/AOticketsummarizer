@@ -1,0 +1,31 @@
+{
+  "id": "a05t6r1fqg0bdn",
+  "created": "2024-05-09T16:01:47.411Z",
+  "closed": "2024-07-02T10:01:47.735Z",
+  "duration_minutes": 77400,
+  "first_response_minutes": 851,
+  "name": "Nelokalizovaný formát data",
+  "description": "Dobrý den,\r\n\r\natribut DATUM REPAIR TIME na popupu atributy úkolu není lokalizovaný. Správná lokalizace je vidět na levém panelu. V přiloženém screenu jsou zmíněné situace vyznačeny jako OK a BAD.\r\n[Image001]\r\n\r\nS pozdravem,\r\nDavid Kočíř",
+  "owner": "David Kočíř",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dakujem za report - posunul som na vyvoj na opravu"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Naplanovane v backlogu, ked sa uvolina kapacity opravime to."
+    }
+  ]
+}

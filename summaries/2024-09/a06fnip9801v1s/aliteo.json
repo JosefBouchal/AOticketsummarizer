@@ -1,0 +1,27 @@
+{
+  "id": "a06fnip9801v1s",
+  "created": "2024-09-30T13:00:07.843Z",
+  "closed": "2024-09-30T13:34:51.545Z",
+  "duration_minutes": 34,
+  "first_response_minutes": 19,
+  "name": "Sekce workspace nemají vstupovat do API",
+  "description": "Dle AllanaK, by neměli vstupovat sekce workspace do API, ale nyní /SyncGetInitialChanges vrací i tyto sekce:\r\n\r\nVoláno\r\n{\"company\":\"a06fatpos00nec\",\"maxtranid\":\"a06fn7ej600vq2\",\"limit\":100,\"withexternalid\":\"false\",\"addrelations\":\"true \",\"companySettingsOnly\":\"false\",\"simpleResult\":\"true \"}\r\n\r\nVráceno:\r\n{\r\n        \"iserror\": false,\r\n        \"isrepeatable\": false,\r\n        \"lastcomponentid\": \"a06fg33kk00ppi\",\r\n        \"moredata\": false,\r\n        \"components\": [\r\n               {\r\n                       \"type\": \"Create\",\r\n                       \"simple\": true,\r\n                       \"def\": \"Section\",\r\n                       \"id\": \"a06fc563vg0nec\",\r\n                       \"parent\": {\r\n                               \"id\": \"a06fatpov00nec\",\r\n                               \"field\": \"Sections\",\r\n                               \"def\": \"Workspace\",\r\n                               \"eid\": \"3766\"\r\n                       },\r\n                       \"archived\": false,\r\n                       \"fields\": [\r\n                               {\r\n                                      \"name\": \"Name\",\r\n                                      \"type\": \"String\",\r\n                                       \"value\": \"První sekce\"\r\n                               },\r\n                               {\r\n                                      \"name\": \"Background\",\r\n                                      \"type\": \"Color\",\r\n                                      \"value\": \"#EAEEB6\"\r\n                               },\r\n                               {\r\n                                      \"name\": \"IsDefaultForAddingTask\",\r\n                                      \"type\": \"Logical\",\r\n                                      \"value\": \"1\"\r\n                               }\r\n                       ]\r\n               },\r\n               {\r\n                       \"type\": \"Create\",\r\n                       \"simple\": true,\r\n                       \"def\": \"Section\",\r\n                       \"id\": \"a06fc57gr00nec\",\r\n                       \"parent\": {\r\n                               \"id\": \"a06fatpov00nec\",\r\n                               \"field\": \"Sections\",\r\n                               \"def\": \"Workspace\",\r\n                               \"eid\": \"3766\"\r\n                       },\r\n                       \"archived\": false,\r\n                       \"fields\": [\r\n                               {\r\n                                      \"name\": \"Name\",\r\n                                      \"type\": \"String\",\r\n                                      \"value\": \"Druhá sekce - bez ukolu\"\r\n                               },\r\n                               {\r\n                                      \"name\": \"CanAddTask\",\r\n                                      \"type\": \"Logical\",\r\n                                      \"value\": \"0\"\r\n                               },\r\n                               {\r\n                                      \"name\": \"CanPlaceTask\",\r\n                                      \"type\": \"Logical\",\r\n                                      \"value\": \"0\"\r\n                               },\r\n                               {\r\n                                      \"name\": \"CanAddTaskExternal\",\r\n                                      \"type\": \"Logical\",\r\n                                      \"value\": \"0\"\r\n                               },\r\n                               {\r\n                                      \"name\": \"IsDefaultForAddingTask\",\r\n                                      \"type\": \"Logical\",\r\n                                      \"value\": \"0\"\r\n                               }\r\n                       ]\r\n               },\r\n\r\n\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, predam na AKO"
+    }
+  ]
+}

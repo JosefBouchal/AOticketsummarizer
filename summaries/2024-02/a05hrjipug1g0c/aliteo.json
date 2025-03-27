@@ -1,0 +1,71 @@
+{
+  "id": "a05hrjipug1g0c",
+  "created": "2024-02-11T12:02:37.413Z",
+  "closed": "2024-02-21T06:21:16.273Z",
+  "duration_minutes": 14058,
+  "first_response_minutes": 1240,
+  "name": "test mobilní verze Aliteo - poznatky na Alfě",
+  "description": "ahoj, zkoušel jsem na Alfě přístup přes iOS (poslední verze iOS a iPhone 15 pro). Našel jsem pár věcí, co vnímám jako chyby, bavil jsem se s PDU a prý mohu zadat, zjistíte jestli už o chybách víte a pokud ne, tak si je připíšete. Chyba viz obrázky: - na telefonu nevím jak spustit F12, tak nevím co je to za chybu. - jde to nějak? ToDo: - je tam docela malý text pro zapsání (přitom to je to co tam chci vidět/zapsat VP: 1. seznam: nevejde se tam datum: 2. detail: pomlčka je graficky nad Událost: - není tam vidět celé pole pro hodiny - je tam pole pro přidání vícekrát: Kalendář: je rozdíl mezi tím, když jdu přes AO a dám kalendář a když jdu na kalendář z toho spodního odkazu. - je tam možnost \"Program\" a když jdu přes to AO - tak se vypisuje, když jdu přes spodní tak se nevypisuje žádný program Když dám DNES - tak se začnou dny v týdnu posouvat (možná je to z toho důvodu, že tam mám nějakou událost (tečkou vyznačenou). P.S. nevím, jestli to vypustíte s touto verzí, docela dobré pro otestování by bylo, kdyby na telefonu bylo možné si zapnout v nastavení že chci mít \"Mobilní\" verzi. - většinou je možné toto si zapnout v daném prohlížeči, jestli chci mobilní verzi nebo \"Úplnou verzi stránky\" - ale toto nefunguje.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Nastavení společnosti",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 5,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj. A - Chyby na telefone - neviem ako pustit konzolu, ale akt ov ies zopakovat tak to staci, pripadne to zopakuje na PC a potom maj aj chybu B - to-do - chces teda skryvat skor a nechat viac miesta na  nazov to-do?  Mimochodom, rezim na sirku bude zakazany takze sa to asi bude musiet riesit inak C - VP - ok to by sa mohlo opravit D - Udalosti - to iste moze by opravene E - tomu nerozumiem - aky je rozdiel medzi kalendar z odkazu a Dnes (to na spodnej liste je DNES a druha moznost je z laveho panela) ? F - vydanie - nebudeme to vypustat oficialne v tejto verzii - je na to cas - ono to tam bude, ale bude to zakazane (okrem niektorych uzivatelov) G - mobilne zobrazenie - ak si v iphone otvoris alfu, potom stlacis tlacidlo zdielat, potom z toho urobis \"aplikaciu\" na svoju plochu potom by to malo byt stale mobilne zobrazenie Ak to chces prejst telefonicky mozeme.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "C, D, E - je možné opravit. Jestli bude možné, tak se hlásím do mobilního testu."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "obrazovky kde byla chyba: Obrázek 1 a 2 v zadání, ale nyní zkouším na telefonu a je to ok."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) dakujem za info a j vysvetlenie, zoberiem este na poradu kvoli tomu Dnes: - Dnes v spodnej liste - Lave menu -> Kalendar -> Program Maju sa spravat rovnako alebo pre Dnes urobime zvlast obrazovku?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Spisat zaver co je potrebne dotiahnut od Kyzlinka do #3090 Responzivny dizajn ALITEO aplikacia"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) stiahni si apku do iphonu z debugu."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) nerozumím, debug je co? já mám alfu a betu. Na alfě to vidím jako mobilní, na betě ne. Co znamená stáhnou apku?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ze tak ako ti to Dano popisoval, je lepsie ak si stiahnes tu \"apku\" z prehliadaca a testujes to v nej pretoze prehliadacove zobrazenie ti moze zmensovat a ciastocne deformovat niektore objekty a v ramci \"apky\" to uvidis tak ako to vo finale bude."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Tak jsem to nyní zkoušel a bude mi to. Dostanu stránku na plochu ale stal vidím řádek URL. Zkusil jsem se stránkami app.strava.cz a tam to jde. Ale ani na alfě ani na produkci mi to nejde."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mne to teda na alfe ide:"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "jen ještě uvedu že jsem se dočetl, že aplikace \"na plochu\" časem na IOS už nebudou moci jít s ohledem na rozhodnutí applu. takže zůstanu v prohlížeči;-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) nie je to uplne tak.. preto pracujeme na PWA aplikacii, ktoru nebude treba stahovat zo storu.."
+    }
+  ]
+}

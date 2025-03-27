@@ -1,0 +1,39 @@
+{
+  "id": "a06mpin34g1642",
+  "created": "2024-11-24T09:32:06.491Z",
+  "closed": "2024-11-25T07:55:15.847Z",
+  "duration_minutes": 1343,
+  "first_response_minutes": 417,
+  "name": "API - pád na okurky",
+  "description": "Voláno SyncGetChanges {\"company\":\"a013794r1g06um\",\"lasttranId\":\"a06mjprb4003jb\",\"limit\":90,\"simpleResult\":\"true \"} Vráceno An error occurred while sending the request. Jak se to může stát? Lubomír Bednář system analyst",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "preposielam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "od AKO: Z toho co vidím nemám jak reagovat - žádny http error code... jen zpráva. Podle zprávy \"An error occurred while sending the request.\" bych řekl že jde o síťovou chybu (internet nebo azure), kterou je možné ignorovat a zkusit znovu s prodlevou znovu. Zdá se, že se zpráva k našemu kódu v Azure ani nedostala."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "chápu, já poslal, co jsme obdrželi, nic víc"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Jasne, ja to beriem a tak to ma byt. Ak chapem AKO tak odpovedal ze to asi nebude na nasej strane a viac povedat nevieme. Mrzi ma to."
+    }
+  ]
+}

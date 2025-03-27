@@ -1,0 +1,35 @@
+{
+  "id": "a06gj52ae0148d",
+  "created": "2024-10-07T05:37:00.44Z",
+  "closed": "2024-10-07T05:57:06.685Z",
+  "duration_minutes": 20,
+  "first_response_minutes": 14,
+  "name": "Možnost v ToDo úkole použít odkaz na komentář toho úkolu",
+  "description": "Jsou případy, kdy počet komentářů přesáhne přehledný stav a tak používám ToDo, aby vše vyplívající z komentářů bylo uděláno. Podrobnější popis mám v komentáři a tak nyní tam píšu např. viz ##102 a zde by se mě uživatelsky líbilo, aby se z toho stal odkaz na komentář a pak tedy daná osoba se mohla prokliknout a být na něm místo aby jej hledala v komentářích. Myslím, že se jedná o drobnost, ale nemohu posoudit, třeba se jedná jen o textové pole a ne formátovaný text. Děkuji za zvážení případně za realizaci Luboš PS: Příklad z praxe:",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 2,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubos, dik za podnet. Nieco podobne budeme prejednavat na porade, ale skor to je mechanicky, ze z komentara mozes vytvorit, vazbu, dielciu ulohu a teraz teoreticky aj to-do. Pri komentari by ano  mohol vzniknut preklik ako je to v pripade prilohy z komentara. ked zalozime ulohu, dam vediet.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "díky moc, ano z komentáře udělat ToDo by taky bylo hezké a já si právě říkal, že i jen to ##nnn by nemuselo být složité"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "do vazebního úkolu jsem si dal zájem o podrobné notifikace, tedy toto klidně můžeme uzavřít"
+    }
+  ]
+}

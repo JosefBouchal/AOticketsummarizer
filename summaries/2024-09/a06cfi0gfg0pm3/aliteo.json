@@ -1,0 +1,31 @@
+{
+  "id": "a06cfi0gfg0pm3",
+  "created": "2024-09-05T07:01:02.398Z",
+  "closed": "2024-09-12T09:47:43.854Z",
+  "duration_minutes": 10246,
+  "first_response_minutes": 165,
+  "name": "Ztrácejí se některé obrázky.",
+  "description": "Je to už několikátý případ, ale nejsem schopen přijít na nějaký vzorec. Třeba v tomto případu https://app.aliteo.com/task/a06c6f4t80108e/?view=comments se z vyjádření ##3 obrázek ztratil, ale ve vyjádření ##4 zůstal.\r\n[Image001]\r\n\r\n\r\nMgr. Petr Skýpala\r\nprogrammer\r\n\r\ntel.: +420 581 737 159 | petr.skypala@karatsoftware.cz< mailto:petr.skypala@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Petr, ano mne sa deje to iste - uz som to dal nasim 4om testerom a zatial nemam vysledky ako to nasimulovat. Tiez ma to serie, ale bez toho postupu ako to nasimulovat ma AKO posle vies kde, nebude vediet to opravit.. Mne sa dokonca deje ze vidim obrazok zniceny, dam refresh a je to v poriadku.. Kazdopadne o tom viem.. a neviem chces to nechat otvorene? ale vyvojovy zalozit je zatial zbytocne ked to neviem replikovat"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ petr.skypala@karatsoftware.cz (petr.skypala@karatsoftware.cz) pridal som ta do spolocnosti ALITEO a takisto do projektu support, mozes pripady teda zakladat priamo v ALITEO"
+    }
+  ]
+}

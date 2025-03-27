@@ -1,0 +1,35 @@
+{
+  "id": "a06poaeacg0vb5",
+  "created": "2024-12-17T09:26:38.332Z",
+  "closed": "2024-12-17T11:39:58.533Z",
+  "duration_minutes": 133,
+  "first_response_minutes": 16,
+  "name": "Pridanie sledujúceho z iného projektu",
+  "description": "Je možné nejakým nastavením dosiahnuť, aby bolo možné pridať ako sledujúceho úlohy externého užívateľa, ktorý je pridelený na projekt A, do úlohy na projekte B? Pričom ale nechcem, aby v projekte B vedel zakladať úlohy, ani ten projekt nemá vidieť a aby samozrejme len mal právo zobraziť tú úlohu, kde je sledujúci. Ďakujem.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Allan, za mna to nie je mozne teda. Len ako som sa ta pytal v Teams, toto bude platit aj nadalej nie? Externy nemoze byt sledujuci v ulohe, kym nie je clenom projektu? Pripadne moze tak byt, ale projekt musi byt viditelny vsetkym? Ci ani tak to nejde? dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, nie, nie je mozne pridavat externeho uzivatela medzi sledujucich ulohy, pokial ten uzivatel nie je je clenom projektu, ktoreho viditelnost je nastavena na \"iba clenovia\"."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "ok, dakujem za informaciu"
+    }
+  ]
+}

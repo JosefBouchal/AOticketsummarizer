@@ -1,0 +1,27 @@
+{
+  "id": "a06dt2osrg0tcs",
+  "created": "2024-09-16T08:12:45.99Z",
+  "closed": "2024-09-16T09:33:24.979Z",
+  "duration_minutes": 80,
+  "first_response_minutes": 70,
+  "name": "Atribut typu Time",
+  "description": "Mám atribut typu Time, vyplním například 9:00 a do aktivit se naplní 10:00 Do synchronizace se naštěstí přenáší 9:00, tak dobrý. U vás je to asi problém, že 1.1.1901 je v období zimního času, tak nevím zda to nějak neopravuje špatně. Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik za report, posielam na Vyvoj a zatvaram.."
+    }
+  ]
+}

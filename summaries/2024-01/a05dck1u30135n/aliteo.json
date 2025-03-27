@@ -1,0 +1,47 @@
+{
+  "id": "a05dck1u30135n",
+  "created": "2024-01-07T19:05:39.908Z",
+  "closed": "2024-01-14T07:20:57.298Z",
+  "duration_minutes": 9375,
+  "first_response_minutes": 733,
+  "name": "export výkazů",
+  "description": "Dobrý den, u nás v systému pracují i lidi na ičo, kteří pak výkazy používají jako podkald k fakturaci. Nejde prosím udělat tlačítko na export výkazů do excelu ? děkuji MIchal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 0,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, zatial export ako taky nemame dostupny ale planujeme ohladom tejty nieco vo vyvoji - nie som si isty detailmi ale mozem to zistit. Mozete mi napisat ako by ste si ten export predstavovali? Pisete ze excel, chapem teda ze nejde o export jedneho vykazu do nejakeho pdf, ktory prilozit k fakturam, ale chceli by ste excel ako zoznam vyfiltrovanych vykazov prace, kde by stlpce boli data z vykazov? Dakujem za upresnenie."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) prosim ta, dal som ulohu k exportom do vazby. Riesili sme tam aj export do excelu? Mne sa vidi ze sme riesili len pdf. Ja predpokladam ze Pribyl vie ze sa to da cez API, ale pre ich uctovnicku by bol pohodlnejsi export na tlacidlo v ALITEO chapes."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ak dobre pamatam, export mal byt v PDF a potom to excelu. Doplnim to tam aj textovo. A nebolo by mozne aby si napisali web app a skrz api tahali data do exportov, kym to dorobime. Tacidlo by bolo ako odkaz nad projektom?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) kde si to doplnoval? nejak som to nenasiel. Prave preto som sa ta chcel spytat, lebo sme sa tam o exceli skoro vobec nebavili. Len sa mi marilo ze nejaka zmienka bola ale sme ju odlozili na neskor. Ked odpise, tak mu ponuknem tu moznost s API."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Uz som to doplnil aj do popisu, kyzlink to tam mal niekde v navrhoch aj vizualizovane, ale do popisu sme to nedali."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, doriesime to potom ked tak v tamtom tasku, nech tam mame aj k excelu jasno.."
+    }
+  ]
+}

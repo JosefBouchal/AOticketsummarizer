@@ -1,0 +1,31 @@
+{
+  "id": "a06cc8ato01sld",
+  "created": "2024-09-04T11:46:47.522Z",
+  "closed": "2024-09-05T06:37:04.489Z",
+  "duration_minutes": 1130,
+  "first_response_minutes": 19,
+  "name": "\"Chycení úkolu\" za Název úkolu",
+  "description": "Ahoj, je prosím nějaký důvod, proč když chytím úkol za jeho \"Název\", tak ho např. do programu porady nepřenesu? Mě přijde intuitivní chytnout to právě za ten Název, vždycky to tak udělám a musím to chytat znovu.. Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, povodne som ti chcel napisat, ze su to 2 rozdielne objekty - jedno je URL link (nazov) aby si to mohol otvarat v novom okne na ctrl+klik alebo stlacenim kolieska a to biele je karta, ktora je objektom s ktorym pracujeme. Ale prisiel som na to ze tahanie nazvu do kalendar funguje, takze by teoreticky mal fungovat aj bod porady. Prehodim na vyvoj.. dik"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Martin, je to opravene, mozes tahat aj za nazov.."
+    }
+  ]
+}

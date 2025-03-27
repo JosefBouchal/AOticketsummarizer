@@ -1,0 +1,43 @@
+{
+  "id": "a060gl0i5g0ffv",
+  "created": "2024-06-04T08:25:37.399Z",
+  "closed": "2024-11-02T14:33:11.981Z",
+  "duration_minutes": 217807,
+  "first_response_minutes": 5,
+  "name": "Porady kopírování bodů",
+  "description": "Dobrý den, od všech týmů přišel požadavek na téma porady a tona možnost kopírování bodů z předchozí porady. Na ukázce jste panu Truxovi slibovali, že to doděláte, chci se zeptat jaký je stav ?",
+  "owner": "Josef Blažek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano, tuto funkcionalitu mame v plane vyvoja. Zatial je to v sprinte, ktory by mal byt hotovy niekedy na hranici 3Q a 4Q 2024."
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "OK budu čekat na nasazení"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chcete nechat tento pripad otvoreny?"
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "ano nechte otevřeno do doby kdy bude k dispozici"
+    },
+    {
+      "creator": "Support pomocník",
+      "comment": "Zdravím vás, Kopírovanie bodu porady bolo nasadené, preto, ak dovolíte, navrhujem tento požiadavok uzavrieť."
+    }
+  ]
+}

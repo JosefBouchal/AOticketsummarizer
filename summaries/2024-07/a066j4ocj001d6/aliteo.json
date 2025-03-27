@@ -1,0 +1,35 @@
+{
+  "id": "a066j4ocj001d6",
+  "created": "2024-07-21T13:25:30.627Z",
+  "closed": "2024-07-23T08:27:44.135Z",
+  "duration_minutes": 2582,
+  "first_response_minutes": 17,
+  "name": "Licence / prosím o urgentnější řešení",
+  "description": "Dobrý den,\r\n\r\nz naší strany by mělo být proplaceno a funkční, tarif se nám však přepnul na ,,basic\" a nyní nás to omezuje hlavně kvůli počtu aktivních úkolů.\r\n\r\nŠlo by na to prosím prioritně mrknout?\r\n\r\nDíky\r\n\r\nTomáš Novák\r\nVedoucí výdeje  | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nM: +420 777 982 504\r\ntomas.novak@covetrus.conm< mailto:tomas.novak@covetrus.conm >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n\r\n[A blue text on a black background  Description automatically generated with low confidence]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "problem ako taky, som uz vyriesil, teraz, lebo mi pisal sms. Tak som ich prepol, ty ked chces, pls posli mu screen, ze realne az ked platovna brana prime peniaze,(uvidi to aj v nastaveni licencovania) automaticky im prepne licenciu. To ze to uz oni uhradili je vlastne prd platne."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) myslis screen zo stranok platobnej brany? ze zaplatili prevodom a ze to v niektorych pripadoch moze trvat niekolko dni?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravím vás, pán Novák, problém sme síce spolu vyriešili, len vám dopĺňam informácie. V prípade, že sa firma rozhodne hradiť cez bankový prevod, je potrebné počkať, kým platobná brána zaregistruje platbu a pripíše ju k vašej licencii. Tento proces sa uskutoční okamžite po doručení platby. Väčšinou sa to správa ako štandardná cezhraničná platba. Stav, či vaše finančné prostriedky dorazili, môžete nájsť tu: . Až keď sa daná platba dostane do stavu \"Zaplatene\", systém aktivuje na pozadí vami vybranú licenciu. kolega Novosad mi volal, že ďalšiu úhradu už budete realizovať cez kreditnú kartu, takže sa podobným komplikáciám už vyhneme. :) S pozdravom, Peter."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a05ussbhs00vli",
+  "created": "2024-05-22T18:50:30.968Z",
+  "closed": "2024-05-23T07:50:57.676Z",
+  "duration_minutes": 780,
+  "first_response_minutes": 689,
+  "name": "překlepy",
+  "description": "Koukal jsem na nastavení společnosti a jsou tam nějaké překlepy – viz také obrázky.\r\nZde je možné *vyrat typ portfolia\r\nbude *synchronizacve prováděna\r\n\r\nVidím i dvě chyby v jednom textu v nastavení projektu:\r\n*Paramatery SLA *umožni definovat\r\n\r\nZahlédl jsem i ve výběru widgetů na dashboard projektů:\r\nOtevřené *úkoky podle priority\r\nÚkoly po *termíně",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik Pavle, predal som na vyvoj.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Opraveno do verze alfa."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Můžeš jim (volitelně) přihodit ještě: *nastevení práv podbarvit *čeveně"
+    }
+  ]
+}

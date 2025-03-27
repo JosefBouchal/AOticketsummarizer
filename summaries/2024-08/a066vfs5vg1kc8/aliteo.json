@@ -1,0 +1,31 @@
+{
+  "id": "a066vfs5vg1kc8",
+  "created": "2024-07-24T13:21:15.514Z",
+  "closed": "2024-08-14T20:39:04.483Z",
+  "duration_minutes": 30677,
+  "first_response_minutes": 1074,
+  "name": "FW: ALITEO - #1069 - předání řešiteli: Zlepšovací návrh #e1510",
+  "description": "Dobrý den, lze nějak lépe „kvantovat“ upozornění? Lze třeba nastavit, aby u některých projektů chodily jen souhrn změn?\r\nViz email od našeho CEO.\r\nJirka Dvořák\r\n\r\n\r\nFrom: Sobotka Bohumil Sent: Wednesday, July 24, 2024 8:17 AM\r\nTo: Dvořák Jiří ; Tvarůžková Kateřina Subject: FW: ALITEO - #1069 - předání řešiteli: Zlepšovací návrh #e1510\r\n\r\nTento mail obdržím 3 x , viz přílohy. Jde to procesně upravit tak, abych to dostal jedenkrát? Navíc ve stejnou dobu….\r\nB\r\n\r\n\r\nFrom: notifications@aliteo.com< mailto:notifications@aliteo.com > mailto:notifications@aliteo.com >>\r\nSent: Wednesday, July 24, 2024 8:10 AM\r\nTo: sobotka.bohumil@ncline.cz< mailto:sobotka.bohumil@ncline.cz >\r\nSubject: ALITEO - #1069 - předání řešiteli: Zlepšovací návrh #e1510\r\n\r\n\r\n\r\n[Logo Aliteo]\r\n\r\n\r\n\r\n\r\nÚkol vám byl předán k řešení\r\n\r\n\r\n\r\n\r\nNC Line a.s.  /  Kaizen  /  Evidence zlepšovacích návrhů  /  Kateřina Tvarůžková\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n#1069  Zlepšovací návrh #e1510\r\n\r\n\r\n\r\n\r\nStav\r\n\r\nZaevidováno\r\n\r\n\r\nPriorita\r\n\r\nNormální\r\n\r\n\r\nDatum splnění\r\n\r\nNeuvedeno\r\n\r\n\r\nÚroveň soukromí\r\n\r\nVeřejný úkol\r\n\r\n\r\n\r\n\r\n\r\n\r\n    Zobrazit úkol     < https://app.aliteo.com/Task/a0658h45vg0c1o >\r\n\r\n\r\n\r\n\r\n\r\n[Logo Aliteo]\r\n\r\n\r\n\r\n\r\nCopyright 2022 ALITEO • Powered by KARAT Software",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ono to v principe vyplyva s technologie akou riesime zmeny v ALITEO. Chceli sme sa vyhnut co najviac tlacidlu \"ulozit\" a preto kazda zmena sa deje hned. Tym ze moze nastat oddelene ma kazda tato zmena zvlast notifikaciu. Ale niektore z nich sa stanu naraz a preto tieto emaily pridu. Kazdopadne vieme o tomto probleme a budeme ho riesit, nejakym delayom a poslanim nejakeo suhrnu. Myslim si ale, ze to z principu veci nepomoze vzdy. Format tych notifikacii sa meni podla toho o aku notifikaciu ide. Definicia toho ako dlho cakat - aka zmena este pride. Kazdopadne sa tym budeme zaoberat ako toto zlepsit."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Chápu a předám to dál. Díky za info. Jirka"
+    }
+  ]
+}

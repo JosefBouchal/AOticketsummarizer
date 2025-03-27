@@ -1,0 +1,51 @@
+{
+  "id": "a06eq8dvj00lj8",
+  "created": "2024-09-23T10:10:48.706Z",
+  "closed": "2025-01-21T07:34:37.329Z",
+  "duration_minutes": 172643,
+  "first_response_minutes": 37,
+  "name": "Oznámení na dokument - není odkaz",
+  "description": "Oznámení k dokumentu - neobsahuje odkaz - nemůžu najít Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 2,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report, poslal som na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Martin Válek (martin.valek@karatsoftware.cz) chcel som sa spytat, ze co by bolo riesenie pre Teba. Realne nemoze existovat odkaz na nieco co uz neexistuje... dik za nazor"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Pokud dokument již neexistuje, tak např. do závorky dát do aktuální stav.. Dokument byl smazán.. Dokument byl archivován... Pokud je dokument aktivní, tak odkaz na něj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ak dokument existuje, to je jasne, ze by tam mal byt odkaz.. Len neviem, pri zmazanom dokumente v com sa lisi to co pises od toho ako to je teraz. Vyslovene v notifikacii pise ze dokument bol odstraneny.."
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "ok.. tak to nechme tak, že pokud dokument už neexistuje, je to tak, jak to je teď (Vyslovene v notifikacii pise ze dokument bol odstraneny), když existuje, je na něm odkaz.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, tak necham opravit to, ze tam ten odkaz nie je pri pridani.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Martin, malo by to byt opravena  ked sa vlozi dokument tak by upozornenie malo obsahovat aj odkaz."
+    }
+  ]
+}

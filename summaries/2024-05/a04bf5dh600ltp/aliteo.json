@@ -1,0 +1,83 @@
+{
+  "id": "a04bf5dh600ltp",
+  "created": "2023-04-19T07:50:47.805Z",
+  "closed": "2024-05-07T12:20:41.9Z",
+  "duration_minutes": 553229,
+  "first_response_minutes": 189,
+  "name": "Na dashboardu nevidím všechny oblíbené projekty",
+  "description": "projekty kde nejsem členem, ale mám je jako oblíbené nevidím na dashboardu",
+  "owner": "Josef Blažek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": null,
+  "comment_stats": {
+    "total": 15,
+    "from_owner": 4,
+    "from_others": 11,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano je to tak. Natrafil som na to uz tiez, preto je to uz nahlasene na vyvoji, predpokladam ze sa to opravi. Budem Vas informovat"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, riesili sme tento problem s produktovym timom a popisovany stav nie je chyba. Je umysel, aby sa na uvodnej obrazovke objavovali len \"moje projekty\" ci uz pri oblubenych alebo pri hladani. Inymi slovami, je nutne byt clenom projektu, aby po oznaceni projektu za oblubeny sa zobrazoval na uvodnej obrazovke. Pre zobrazenie ostatnych projektov, je nutne ist do evidencie \"projekty\". V niektorej s dalsich verzii bude do tejto evidencie pridana moznost \"oblubene\" aby bolo mozne si oblubene projekty filtrovat."
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "mě se to pořád nezobrazuje správně. JB"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, co sa Vam nezobrazuje spravne? Resp co by sa Vam malo z toho co pisem v komentari ##3 ? Zhrniem to: - na domovskej obrazovke sa Vam zobrazuju len tie oblubene, ktory ste clenom. Inymi slovami, ak si oznacite projekt, na ktory mate pravo cez supervizora (nie ste jeho clenom) tak sa medzi oblubenymi na domovskej obrazovke nezobrazi - do evidencie projektov chceme pridat aby ste mohli vidiet vsetky a nie len ktorych ste clenom"
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "otázka zní: vyřešíte to abych jako supervizor firmy nemusel být jako supervizor ve všech projektech. Opravdu mě nebaví že mě tam mají přidávat a nyní se do stejné situace dostal pan Truxa."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Odkomunikovane telefonicky: p. Blazek by potreboval nutne vidiet vsetky oblubene projekty nazavisle na tom ci je clen alebo na nich ma pravo ako supervizor."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) ako vidis ##8 volal som s p. Blazkom a vsetky ponuknute riesenia (dokonca ma napadlo dat s odkazy na projekty do poznamok a zoradit si ich ako chce) nie su pre neho riesenie. K tomu co potrebuje sa vie dopracovat ale tu uvodnu stranku bral ako hlavnu z ktorej ma pristup na vsetky veci ktoreho zaujimaju. Co s tym teda dalej?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Skusme mu povedat, ze v ramci dashboardov by to malo byt vyriesene, lebo si tam zavola dlazdicu, do ktorej si nasype vsetky projekty? Co ty na to?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) No ja sa obavam, ze to comu sa chce AKO vyhnut teraz - vsetky ulohy a vsetky projekty, ktorych mozu byt \"miliony\", tak sa tomu bude chciet vyhnut aj na dashboardoch, resp upresnim to, na obrazovkach, ktore sa nacitavaju najcastejsie a nimi je uvodna obrazovka. Ale  nemam problem mu napisat, ze by to mali vyriesit dashboardy, kde si da co chce, ak si myslim, ze toto dosiahneme.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Viem presne o com hovoris, ale tato odpoved nam pomoze ho uspokojit a kym pride na rad dashboard, mozno to uz ani nebude aktualna poziadavka, ak ano vysporiadame sa s tym."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim pan Blazek, Vami popisovany problem, by mohli riesit dashboardy (ako funkcionalita - ktoru aktualne analyzujema a budeme implementovat v buducich verziach), kde si budete moct vybrat aj tieto \"vsetky projekty\", ktore teraz nevidite. A celkovo prisposobit obrazovku Vasmu stylu prace. Bohuzial mimo spominanych rieseni Vam aktualne neviem ponuknut lepsi variantu. Prajem pekny den."
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "Dejte vědět až něco nasadíte co by nějak řešilo problém"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V poriadku pan Blazek. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas pan Blazek, prechadzal som si aktualne dlhsie otvorene pripady a pride mi ze tento je uz vyrieseny. Z popisu vyplyva, ze chcete mat na uvodnej stranke zobrazeny aj projekt ktory je oblubeny, ale nie je jeho clenom (mate na neho pravo ako supervizor). Mne to uz funguje. Mozete potvrdit? Dakujem"
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "Ano můžete zavřít"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "a06kjibvm011m4",
+  "created": "2024-11-07T09:41:32.601Z",
+  "closed": "2024-11-12T07:47:21.494Z",
+  "duration_minutes": 7085,
+  "first_response_minutes": 31,
+  "name": "Member týmu admin a přitom nemá Řídící tým",
+  "description": "My máme kontrolu, že nesmí být Admin aniž by neměl Řídící tým, ale například a01j5ndkc01b7n to tak v ALTIEO nemá, je jich více, jak to tedy je? Musíme to hlídat? Pokud pošleme data jak jsou nyní ALITEO například u a01j5ndkc01b7n spadne to?\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 19,
+    "from_owner": 8,
+    "from_others": 11,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ak si pamatam spravne tak prava admin sa nijako nespojuju s pravom riadiaci Tim. Teda nekontroluje sa navzajom napriklad ze nemozes zapnut Admina ak nemas riadiaci alebo napriklad ze sa Riadiaci zapne ked sa zapne Admin."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "zajímavé, jelikož"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak to som si zle pamatal.. idem na to pozriet. mozes mi v takychto pripadoch posielat klasicke mena uzivatelov? bude to rychlejsie.. aj ked viem ze ak je to vyslovene chyba tak sa ID tiez hodia.. ale na zaciatok je pre mna lepsie  toto.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem teda z uzivatel Wertheimer ma admina a pri tom nema riadiaci tim? alebo nerozumiem spravne?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem teda z uzivatel Wertheimer ma admina a pri tom nema riadiaci tim? alebo nerozumiem spravne?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Resp. inak.. pytas sa ze uzivatel Wertheimer nema riadaici tim a pytas sa ze ked mu cez Sync posles ze bude Admin.. tak ci to spadne?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "já nemám právo vidět tým, co jsem uvedl, ale dle dat co došly synchronizací ano, nedošlo řídící tým yes"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "takze inak, lebo mi pride ze nie uplne mi odpovedas na komentar ##6 Nemal by si vidiet konkretny tim ty (Lubos Bednar) ale ked pouzijes API dotaz tak ti ho vravi ako keby si ho vidiet mal? prosim napis mi polopate: - v akej spolocnosti (asi KARAT) - kto ma/nema vidiet (uzivatel, kludne ID) - co (tim projekt).. Lebo poslal si mi v popise dva krat ID a01j5ndkc01b7n, ktore patri uzivatelovi Tomas Wertheimer, v komentari ##2 posielas obrazky uzivatela Michal Domes a v komentari ##7 pises, ze ty (Lubos Bednar) by si nemal vidiet nejak tim, co su uviedol.. myslis teda tim \"LBE tým upr.... \" ?? ak ano neviem ako s tym suvisi p. Wertheimer alebo Michal Domes, preto som zmateny aky problem riesime.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "aha, takže fakt na ten tým mám právo, to jsem nečekal, takže vidím , zaslaná data byla { \"iserror\": false, \"isrepeatable\": false, \"lastcomponentid\": \"a01j5ndkc01b7n\", \"moredata\": true, \"components\": [ { \"type\": \"Create\", \"simple\": true, \"def\": \"MemberTeam\", \"id\": \"a01j5ndkc01b7n\", \"parent\": { \"id\": \"a01j5nchpg1b7n\", \"field\": \"Members\", \"def\": \"Team\", \"eid\": \"8370312\" }, \"fields\": [ { \"name\": \"Admin\", \"type\": \"Logical\", \"value\": \"1\" }, { \"name\": \"UserCompany\", \"type\": \"UserCompany\", \"value\": \"a01j5mn0b01b7n\" } ] } ] } tedy je tam vráceno Tools value 1? není, když se podíváš do dat, tak vidíš tam tools? nevidíš. Já posílal příklad, jak se chová detail účastníka týmu, nevím co už mám dodat více, může mě někdo říci, že pokud je member týmu Admin, zda povinně musí být tools? Jednoduchá otázka, tak čekám i celkem jednoduchou odpověď, ne nemusí být povinné ano musí být povinné. Pokud musí být povinné, proč to tedy není u vás vyplněno?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Očividně to přes API nepadá (toto je vzorový obrázek, né původní zadání (nebudu kazit přeci ostrá data)), tak nevím jak toje."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) prosim o pomoc vid problem vyssie, ja sa v tom stracam, ospravedlnujem sa.. Ci mam zakladat navazny alebo nie"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "1. probíhají automatiky: - při zapnutí Admin na true se nastaví i Tools na true a CanAddKoop na true - při změně na externího uživatele se vypne Admin 2. Probíhají kjontroly: - nelze vypnout Admin, Tools, CanAddKoop pro vlastníka - nelze zapnout Admin pro externího uživatele Současně platí, že Tools a CanAddCoop je pro Admina nepřístupné, ale tvrdá kontrola v triggerech není, takže přes api nebo synchronizaci (nebo F12 v prohlížeči) lze tohoto stavu dosáhnout. Navrhuji v modulu KT kontrolovat pouze: - Vlastník má Admin, Tools, CanAddCoop zapnuté - MemberType external není admin Btw. Tools budou reworkem týmů zrušeny."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Jenže Allane, pokud budu triggerm kontrolovat, že pokud je Admin true tak je i Tools true, tak my importem dostali Amin true a Tools nikoliv. Pak někdo v IS KARAT dá edituj a neuloží dokud to nespraví, jinak pád. Dále jak při insertu, když nám to může dojít z ALITEO? mám vypnout kontrolu, pokud to jde z ALITEO. Jako můžeme, ale je to divné"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Proto píši - toto nekontrolovat, kontrolovat jen to co má tvrdou kontrolu v triggerech viz ##12 : - Vlastník má Admin, Tools, CanAddCoop zapnuté - MemberType external není admin"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Omlouvám se, četl jsem to vícekrát, ale to slovo Vlastník mě uteklo, už chápu, upravíme"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "stejně tak i u membra projektu? -- počítám s tím, že ano"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Ano, tam je to stejné."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "zapracováno, ještě nevypublikováno, ale s Michalem už dořešeno do triggerů"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane tímto lze považovat za vyřešené."
+    }
+  ]
+}

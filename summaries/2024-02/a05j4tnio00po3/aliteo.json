@@ -1,0 +1,27 @@
+{
+  "id": "a05j4tnio00po3",
+  "created": "2024-02-21T12:44:01.128Z",
+  "closed": "2024-02-27T15:46:16.194Z",
+  "duration_minutes": 8822,
+  "first_response_minutes": 182,
+  "name": "dotaz - nastavení notifikace do e-mailu",
+  "description": "Dobrý den,\r\n\r\nje možné nastavit e-mailovou notifikaci při změně vlastníka úkolu, aby danému vlastníkovi přišlo info e-mailem? Daný vlastník bude jako externí.\r\n\r\nDíky\r\n\r\nS pozdravem | Best regards\r\n\r\nTomáš Novák\r\nVedoucí výdeje | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nT:   +420 541 426 845\r\nM: +420 777 982 504\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n[Image001]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Nastavení uživatele",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, aktualne je mozne do emailu dostat iba notifikacie, ktore su uvedene v nastaveniach uzivatela: . Na zaklade tohto nastavenia, nie je bohuzial mozne notifikaciu o zmene vlastnika dostat aj do emailu. Dakujem"
+    }
+  ]
+}

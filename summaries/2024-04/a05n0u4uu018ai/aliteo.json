@@ -1,0 +1,43 @@
+{
+  "id": "a05n0u4uu018ai",
+  "created": "2024-03-22T15:09:43.649Z",
+  "closed": "2024-04-04T06:57:55.102Z",
+  "duration_minutes": 18228,
+  "first_response_minutes": 3761,
+  "name": "kopie případu - kopíruje i vlastníka souborů",
+  "description": "zkopíroval jsem případ kdy tam DBU vložil přílohy. vše se zkopírovalo ok, jen vlastníkem příloh je DBU a ne já,který založil případ.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, povodne som si myslel ze to nie je chyba, pretoze ak dokument niekomu patri a bol vytvoreny tak je toho vlastnika. Nie som si isty, ale nieje to tak aj vo windowse? Ze vlastnik ostava aj ked subor skopirujes a vlozis inde? Ale teraz ked nad tym tak premyslam asi mas pravu, ze by si sa mal stat vlastnikom a skopirovat samozrejme len tie prilohy na ktore mas pravo. Uprimne, bal som sa aby sa kopirovanim nepreberalo pravo na subor. Zoberiem este na poradu."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "kdo je vlastník - interní informace - o to mi nejde, mě jde o to že: 1. vlastník se zkopíruje = má se tam i přidat do sledujících? to se podle mě stalo - je to dobře? 2. protože jsem soubor nezaložil já, tak nemám přes 3 tečky práva na něj jako vlastník. podle mě by to mělo dopadnout tak, jako když ho zkopíruješ na disk a pak přiložíš."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Vlastnikom suboru by mal byt ten, kto ho skopiruje."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) dohodli sme sa ze skopirovana priloha by mala mat vlastnika toho kto to kopiroval.. posuvam do vyvoja.. chces nechat otvorene alebo mozeme zatvorit?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Medzitym sa opravilo.. 🙂"
+    }
+  ]
+}

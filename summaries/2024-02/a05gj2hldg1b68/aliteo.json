@@ -1,0 +1,43 @@
+{
+  "id": "a05gj2hldg1b68",
+  "created": "2024-02-01T15:55:32.111Z",
+  "closed": "2024-02-08T08:24:15.422Z",
+  "duration_minutes": 9628,
+  "first_response_minutes": 50,
+  "name": "Porada - chtěl bych poslat odkaz na konkrétní bod porady",
+  "description": "nenašel jsem možnost jak poslat někomu odkaz na konkrétní bod porady - jde to? Pokud ne, tak prosím o zapracování obdobně jako u úkolu. P.S. nenašel jsem ve výběru porady, tak jsem to dal jako ISK.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Projekty",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano nejde to aktualne. Predpokladam ze to chces poslat kolegovi ktory bol na porade. Lebo inemu, kto na to nema pravo by to aj tak bolo zbytocne a predpokladam ze nechces riesit extra pristup pre tych komu posles odkaz - podobne ako v ulohe. Je tak? Inak je to kategoria projekt, pretoze porady su v projektoch/timoch."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano - řeším to, že kolegovi nebo vedoucímu porady chci napsat odkaz na bod, který má."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "rozumiuem, zoberiem na poradu.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Odsuhlasene na porade, pridel do sprintu 24.2."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Petr, podporime to, zaradili sme do vyvoja - ziskat odkaz na bod porady (uz tam sice je, lebo je dostupny pri hladani bodu porady a funguje aj scroll to) len to doplnit priamo do porady na bod porady."
+    }
+  ]
+}

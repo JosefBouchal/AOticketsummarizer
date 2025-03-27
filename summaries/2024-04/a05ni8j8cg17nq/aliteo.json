@@ -1,0 +1,87 @@
+{
+  "id": "a05ni8j8cg17nq",
+  "created": "2024-03-26T20:05:45.855Z",
+  "closed": "2024-04-03T16:00:47.25Z",
+  "duration_minutes": 11275,
+  "first_response_minutes": 625,
+  "name": "Já chci obrázky v textu!!!!",
+  "description": "Hej, kamarádi.... já už to fakt nemůžu vydržet.... to se fakt nedá :-( Dejte nám možnost se svobodně rozhodnout, jestli si obrázky zobrazíme přímo v textu tak, ať jsme schopní vytvořit přehledný a čitelný foto-návod... Když mám luštit toto, tak fakt umírám.... #287787 Karat Terminál: Špatné styly tlačítek Nebo budu muset nakázat, že to mají dávat do Wordovského dokumentu a vrátíme se 30 let dozadu :-( Děkuji, že vám i na nás záleží ;-)",
+  "owner": "Lukáš Trunečka",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 16,
+    "from_owner": 5,
+    "from_others": 11,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lukas, dik za pripad. Na tu ulohu nemam pravo, ak by si mohol ma pridat tak by som sa pozrel. Mam k tomu nasledne otazky: - v com je primarny problem? je necitatelny tooltip nad obrazkom? - ak ti ide o citatelnost - tak predpokladam ze by ti tam nestacil vlozit thumbnail . Chcel by si tam asi plnu velkost, aby si to nemusel rozklikavat takze nieco ako vo worde: ??"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "pozn z callu s PDR : - ma ten problem takisto - chce mat moznost zobrazovat nativne zobrazenie - teraz musi klikat, dat do noveho okna, potom to rusit - nepotrebuje mat okolny text - on skuma chybove hlasky - a vela krat je ta fotka od kolegov prilis velka (viac krat 4k) - prijal by nahlady namiesto thumbnailov - prijal by scroll bary a nativne zobrazenie v tooltipe"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Ahoj Dane ;-) Napsal jsem to tak schválně emotivně, abych vyjádřil expresivně to, jak moc toužím po nějakém lepším řešení, tak si to prosím neber osobně ;-) Já zkusím vytvořit tu na tom Pepově příspěvku ukázku, jak by to mohlo podle mě vypadat.... zkusím to graficky udělat tak, aby to vypadalo jakoby to bylo přímo v Aliteu. Dole přehled příloh mi nevadí, respektive tak jak to teď je ten režim, s tím asi nemám nějak zásadní problém. Mě jde o opravdu jiný režim tak, abych místo těch čísílek měl dané náhledy na ty obrázky roztažené do šířky celého řádku (klidně s nějakým max omezením, ať to není morbidní). Tedy tak, abych četl text a obrázky se tam daly vložit tak, že na ně nemusím nutně klikat.... ... ale připravím nějakou ukázku ;-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, posli ukazku, aby to bolo jasne aj kolegom, ale mne je asi jasne o co ide. Skor bude problem ten, ze to nebude take kompaktne.. ak by som tych niekolko obrazkov nahradil  plnou velkostou na celu sirku, ten komentara by bol enormne obrovsky.. s tym sa ti dobre pracuje?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pozn. callu s JSI: - je ok s aktualnym stavom - chape potrebu PDR nejako pracovat s vacsimi obrazkami - staci ze ma niekto retinu so 4k a prntscr celej obrazovky je velky a potrebuje ju vidiet celu a zaroven mat moznost zoom in"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Uloha sa medzi tym uz chcel uzatvorit, tak som to znovu dal do reakcie.."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Jo... nestíhal jsem vydáváme verzi, tak jsem toto upozadil.... omlouvám se. Moje představa je cca takováto: S tím, že je na uživateli, jestli obrázek cíleně do textu vloží (by default to tak nemá být, ale možnost má mít) a s tím, že dostane možnost si určit maximální šířku náhledu, která ale samozřejmě omezovaná šířkou objektu příspěvku (tedy na telefonu to nevyteče z obrazovky). Pokud se tedy někdo rozhodne, že fotopříběh je efektivnější forma, možnost bude mít a obrázky bude fotit a nastavovat tak, ať to smysl opravdu má. A pokud tvořím takový fotonávod, kde obrázek dá za tisíc slov, pak nevadí to, když konzument pak musí scrollovat, protože to stejně čte a provádí postupně. Jinak obrázky jsou náhledy a klikem na ně se provede to samé, co náhledy dělají dnes. Obrázek bude vždy na novém řádku, nebude se řešit nějaké obtékání textem (text vedle obrázku apod.)."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Fakt si vies v tom tvojom priklade predstavit, ze kazdy obrazok nahradis tymto nahladom? Ja chapem ze to bude \"len pre teba\" lebo to \"tak chces\" dokonca este aj s tym ze bude fotka na novom riadku a bez obtekania tak bude vlastne jedna veta s tromi obrazkami na celu obrazovku... Maximalnu sirku nahladu myslis ze si chces po vlozeni obrazku do komentara menit jeho velkost? ako je to v outlooku?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "K tomu ma este napadlo,  je tento styl \"fotonavodu\" ten najlepsi? Nevylepsili by to napriklad gifka ako robim ja? ako som ti poslal v tom predchadzajucom komentari?"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "GIFy jsou fajn, občas taky používám, ale ty zas nemají komentář a většinou ty návody nejsou tak jednoduché, aby se to obešlo bez komentáře. Navíc kolikrát je ten postup složitější a GIF je protivný v tom, že pořád jede (možná existujě nějaký prohlížeč, co je umí pauznout)... rozhodně GIF není všespásný. Ano, umím si nudloidní příspěvek představit, když chci očima sledovat text a obrázky a myší v jiná aplikaci podle toho klikat. V ALITEO si chci jen očima číst a klikat do něj minimálně. Ano, je to speciální usecase, ale třeba u nás na vývoji velmi častý."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "este prebrate s PDR: Co se týká psaného textu proloženého obrázky, tak tam bych nejraději míst 1 2 3 4 a dole malé náhledy měl na těch místech hned ty malé náhledy. Sice v tom nic nepřečtu, ale jsou malé, text to nerozbije a nějakou informaci to dá - černé okno (příkazová řádka), bíle běco jiného, zda je tam vidět hláška apod. - vidím kontext, dole ty náhledy pak už kontext nemají. takze nemusi mat nutne to co navrhuje LTR"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Neriesime, nie je to za nas ok, neriesime."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Neriesime, nie je to za nas ok, neriesime."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Zaver z porady: Neriesime, nie je to za nas ok."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Doma nikdo není prorokem.... Ale moje naděje umírá poslední. Jsem přesvědčený o tom, že vám to zákazníci i tak otrepou o hlavu ;-) Já totiž od vás zatím neslyšel žádný jiný důvod, než že se vám to esteticky nelíbí aka nechce se vám to řešit. Nicméně v konkrétním usecase, který jsem tu popsal, je aktuální koncept fakt podobně nepraktický stejně tak, jako popis případu v levém panelu (polovina firmy dělá to, že do prvního příspěvku nic nepíšou a popis píšou až do druhého). Prostě nekterými věcmi jste se na krev snažili být originální, ale možná je na čase si umět přiznat, že občas vymýšlíte vymyšlené a jití proti proudu je střílení se do vlastní nohy."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem tvoj pristup a rozumiem ze by si to chcel. Uvidime ako na to ostatni uzivatelia (zatial na to nikto okrem teba neupozornoval)."
+    }
+  ]
+}

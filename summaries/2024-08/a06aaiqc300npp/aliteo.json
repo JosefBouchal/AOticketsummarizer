@@ -1,0 +1,31 @@
+{
+  "id": "a06aaiqc300npp",
+  "created": "2024-08-19T13:12:37.184Z",
+  "closed": "2024-08-27T13:44:51.138Z",
+  "duration_minutes": 11552,
+  "first_response_minutes": 1024,
+  "name": "Zrušené úlohy do widgetu",
+  "description": "Dobrý den, máme nastavený widget, kterým sledujeme uzavřené úlohy. Chtěli jsme do něj přidat i zrušené úlohy, ale widget tyto zrušené úlohy nezobrazuje, pokud máme v podmínce ČAS PODLE datum ukončení. Proč se nám zobrazují v tomto nastavení správně uzavřené úlohy, ale zrušené ne? Děkuji za informaci.",
+  "owner": "Jakub Trhlík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za podnet, preverim s Vyvojom a budem Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Preveroval som a zistil som ze je to v principe v poriadku, kedze ide o uzatvorene ulohy, tak oni maju datum ukoncenia. Zrusene ulohy datum ukoncenia nemaju, maju datum zrusenia - preto sa nezapocitavaju do vypisu. Kazdopadne sme sa rozhodli ze urobime upravu, kde budeme zapocitavat aj tieto zrusene ulohy podla datumu zrusenia. Uprava bude dostupne s novou verziou ktora by mala byt dostupna buduci tyzden."
+    }
+  ]
+}

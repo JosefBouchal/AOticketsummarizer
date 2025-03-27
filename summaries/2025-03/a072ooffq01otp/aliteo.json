@@ -1,0 +1,67 @@
+{
+  "id": "a072ooffq01otp",
+  "created": "2025-02-25T09:43:15.088Z",
+  "closed": "2025-03-05T07:05:27.16Z",
+  "duration_minutes": 11362,
+  "first_response_minutes": 157,
+  "name": "proč byly vyhledány úkoly,které nesplňují podmínku?",
+  "description": "Hledám text ATTCH 24.002.300 a je vrácen i úkol ATTCH 20.002.300 nebo ATTCH 22.002.300 víz příloha Japato? Lubomír Bednář system analyst",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 3,
+    "from_others": 8,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, no osobne si myslim ze to je preto, lebo sa hladaju retazce ktore maju >= 3 znaky a specialne znaky sa ignoruju preto to najde ATTCH a potom 002 a 300. Neviem aky je potom algoritmus pri viacero takychto retazcoch, ci je medzi nim AND alebo OR. @ Allan Konečný (allan.konecny@karatsoftware.cz) vies nam k tomu dat info?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Při nastavení se vyhledávají úkoly, které mají v názvu nebo v popisu texty: ATTCH 002 300 24 je ignorováno protože < 2 znaky. Btw proto tam i píšeme co se reálně hledalo."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "pak možná by stálo za to to psát i tam, kde jsem to hledal já a jako uživatel mohu říci, že tomu moc nerozumím, neboli jak mám zaobalit hledání, aby to hledalo co jsem zadal?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) asi ma Lubo pravdu v tom ze ak sa hlada nieco ine ako je tuto: potom by sme to malo zobrazit spravne nie? Co myslis?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Opravuji - do toho textu v seznamu úkolů nově posílám text který se opravdu vyhledává. Nedokáži dát k patchování - bude nasazené v betě 24.1.3.120 v noci."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "přiznám se, že jsem co uvedl Dan ani neviděl, ale možná že jiný uživatel to uvidí. Dále existuje něco čím bych mohl dosáhnout hledej co jsem zadal?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Allan, bol by problem dopracovat nejaky mechanizmus ako hladat presnu frazu? Ja som sa s tym nieco viac krat stretol ze by som chcel hladat presnu frazu. Nech ked zadam napriklad s uvodzovkami \"ATTCH 24.002.300\" tak nech to hlada presnu vyraz.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Teoreticky by to mohlo jít, museli bychom prozkoumat, ale nejsem si jist."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zadane do vyvoja."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, zadali sme to planu vyvoja, ciel je aby vyhladavanie medzi uvodzovkami napriklad, hladalo celu frazu a mohol si tak vyhladavat co potrebujes aj ked to budu 2znakove retazce alebo specialne znaky"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "super, díky moc"
+    }
+  ]
+}

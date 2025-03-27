@@ -1,0 +1,39 @@
+{
+  "id": "a074k8cdq01al8",
+  "created": "2025-03-11T20:18:57.805Z",
+  "closed": "2025-03-21T11:55:45.683Z",
+  "duration_minutes": 13896,
+  "first_response_minutes": 842,
+  "name": "Dotazy",
+  "description": "Dobrý den, 1.) po roce máme zase nového head of PM a rád bych, aby nový kolega si udělal přehled jaká je vize Alitea a co umí s ohledem na celkové řízení projektů a co se pláýnuje do budoucna. Kolega vše vždy vše řešil v Jira.  Myslíte, že byste si našli hodinku času a udělali krátký workshop na ALiteo, co umí jak v tom plánovat projekty ( gant, plánování kapacit, ukoly) a co plánujete do budoucna. 2.) Zpracováváme teď větší množství požadavků ve frontě pro business. A chtěli bychom je pomocí AI umět nějak inteligentně třídit. Tedy máte již nějaké řešení ? Jste schopni to pro nás udělat ? . Můžeme připadně krátce probrat možnosti v rámci schůzky a nebo budu i na konferenci, tak to můžeme probrat tam. V zásadě jsou to scénáře. Mám v dané frontě  100 a více požadavků ( drobných features do Karatu či jiného systému). Ty si nějak štítkuji.kategoruzuji. Napřiklad po oblastech. Pojistné smlouvy, CRM, ... příklad: Už mi tam delší dobu leží  požadavek na přidání sloupce do CRm  a udělat funkčnsot v CRM xy. Přijde nový požadavek také ze CRM oblasti a já bych vlastně chtěl dostat návrhy na to jak daný požadavek zařadit. ( štítky/kategorie).A zároveň by mi to třeba nabídlo, že již stejný požadavek tam čeká ve frontě nebo najde podobný požadavek a pro mě je to signál z dané agendy se mi sešlo více požadavků.  Bylo by dobré je udělat.Synergie udělat více věcí při jednom podobném ukolu. V tuto chvíli již máme frontu je tam více jak 100 úkolů a bavíme se a tom jak to kategorizovat. Má te s podobnou úlohou zkušenost/ nějaká best practise za vás ? děkuji Michal case. Přijde požadavek skrze mail do Alitea. například přijdejte mi prosím sloupeček do CRM. Nebo udělejte funkčnsot A ve firmách.",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) chcem im odpisat: 1. dame im ten workshop zdarma cez teams? 2. tu je asi odpoved jasna - ano AI chystame a mozeme zohladnit aj ich potrebu na porade produktu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim Vas, 1. jasne, dohodneme sa na nejakom stretnuti - kedy by sa Vam dalo? ja mozem hned v pondelok dopoludnia (9-12) alebo streda popoludni (13-15) 2. ano na AI uz intenzivne pracujeme - primarne ako pomoc pri sumarizacii dat, ak vsetko pojde podla planu, nejaka cast by mala byt demostrovana aj na Konferencii v Brne. Tento Vas podnet na rozsireni funkcionality sme uz poslali vyvojarovi AI. Ked budem mudrejsi dam Vam vediet."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Díky tak ten workshop zatím nic, kolega nakonec skončil, tedy se ozvu až to bude aktuální. co se týče AI, tak si připadně tedy řekneme na konferenci. Dává vám ten use case smysl? Nebo případně něco potřebujete doplnit? Michal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Michal Přibyl (Michal.Pribyl@respect.cz) dava to urcite zmysel aby AI pomahal s navrhmi na dalsie riesenie, takze za nas je to ok. Chcete tento pripad nechat otvoreny, alebo ho teda zatvorime a porozpravame sa na konferencii?"
+    }
+  ]
+}

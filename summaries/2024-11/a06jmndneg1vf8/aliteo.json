@@ -1,0 +1,31 @@
+{
+  "id": "a06jmndneg1vf8",
+  "created": "2024-10-31T09:40:31.014Z",
+  "closed": "2024-11-05T13:17:58.646Z",
+  "duration_minutes": 7417,
+  "first_response_minutes": 90,
+  "name": "Změna názvu účastníka společnosti (já prováděl přes API) = změna zobrazení řešitelů na úkolu",
+  "description": "Mám otevřený úkol a řešitelé tam jsou Bednářovic a Domes, pokud změním název účastníka společnosti, tak se změní zobrazení řešitele na změněnou osobu, po F5 je to zase OK viz návaznost v přílohách.\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Nastavení uživatele",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Allan Konečný",
+      "comment": "Po vysvětlení Petrem uvádím, že jde o chybu: Komentář úkolu (možná i příloha) nepřekreslí uživatele při změně názvu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Popisany problem by mal byt vyreseny.."
+    }
+  ]
+}

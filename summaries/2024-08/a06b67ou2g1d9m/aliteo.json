@@ -1,0 +1,39 @@
+{
+  "id": "a06b67ou2g1d9m",
+  "created": "2024-08-26T06:18:41.337Z",
+  "closed": "2024-08-27T08:11:02.368Z",
+  "duration_minutes": 1552,
+  "first_response_minutes": 15,
+  "name": "Chyba v upozorněních pod F12",
+  "description": "kliknul jsem do Upozornění a pár se mi jich zobrazilo, nyní mi to končí na: chyba: Uncaught (in promise) Error: Sockets._onmessage: cannot parse JSON:{\"type\":4,\"requestId\":9,\"ms\":298,\"debugInfo\":[{\"key\":\"sql_read_views\",\"value\":\"28ms\"},{\"key\":\"sql_write\",\"value\":\"13ms\"},{\"key\":\"cache_read\",\"value\":\"216ms\"},{\"key\":\"app_read\",\"value\":\"7ms\"},{\"key\":\"app_compare\",\"value\":\"12ms\"},{\"key\":\"other\",\"value\":\"1\"},{\"key\":\"compGet\",\"value\":\"23\"},{\"key\":\"compsGet\",\"value\":\"21/548\"},{\"key\":\"listsGet\",\"value\":\"11/26\"},{\"key\":\"readViewsItems\",\"value\":\"25\"},{\"key\":\"writeOther\",\"value\":\"2\"}],\"headers\":[{\"key\":\"version\",\"value\":\"24.1.3.7\"}],\"openrequests\":0,\"cacheGeneration\":5,\"resultData\":{\"_cache\":{\"ri\":[{\"id\":\"a010dkqtv00eu6\",\"type\":1,\"tranid\":228777137493380260},{\"id\":\"a010dkqtv06eu6\",\"type\":9,\"tranid\":228777137493052580},{\"id\":\"a0109183mg1mut\",\"type\":9,\"tranid\":228777137493118100},{\"id\":\"a013794r1g06um\",\"type\":9,\"tranid\":228777137493183650},{\"id\":\"a02680eeqg1n4b\",\"type\":9,\"tranid\":228777137493249180},{\"id\":\"a045q7r3ug0djn\",\"type\":9,\"tranid\":228777137493314720},{\"id\":\"a03lo53nog172q\",\"type\":0,\"tranid\":228777138… _onmessage https://aliteoscript.azureedge.net/scripts/scripts/Sockets_dfbcc3bd-a014-4b7b-14c2-71d700b4a878.js:250",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Predane na vyvoj.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "tak doplňuji, problém je jen ve Firefoxu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by byt opravene.. daj vediet ci je to ok.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "zkouším a vypadá to ok, nyní to nepadá."
+    }
+  ]
+}

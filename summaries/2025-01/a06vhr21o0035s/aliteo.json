@@ -1,0 +1,47 @@
+{
+  "id": "a06vhr21o0035s",
+  "created": "2025-01-31T10:10:19.36Z",
+  "closed": "2025-01-31T11:09:49.766Z",
+  "duration_minutes": 59,
+  "first_response_minutes": 2,
+  "name": "FV z AO uvedená jednotková a celková cena je hoodně zvláštní",
+  "description": "Viz příloha, z tohoto dokladu by měl správně mít zákazník základ daně 58 320 Eur, to není dobře.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubo, ano, vieme o tom, mame na to zalozeny pripad priamo pre p. Andogovu. Uz to riesime. Stretol si sa s tym aj u inych uzivatelov?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "nemám, toto jsem jen namátkou kontroloval, jelikož ověřuju fci importu vaší FV k nám do systému, aby bylo v pořádku DPH. Tipuju, že to bude problém s custom licencí a že se bude nabírat částka z nějakého číselníku a né dle smlouvy, ale to je jen tip, jelikož vůbec nevím jak to AllanK napsal. Vím že se budu opakovat už snad posté, ale já mu říkal, že vystavovat FV ve vlastní režii a nepoužít na to systém, kde se vede účetnictví (tedy náš ostrý KARAT) je cesta dopekel, nedal si říci. Co se dá dělat, když tak Vám ZdeňkaO bude muset vytisknout/poslat FV z IS KARATu, jelikož například i text Daň odvede zákazník taky ve vaší faktuře nevidím a sic úplně si nejsem jist, jak to je u faktur do zahraničí, ale u nás v režimu přenesené daň. povinnosti to musí být na faktuře uvedeno. ps: faktura z IS KARAT KSW - Faktura vydaná (24FOAL0100000033).pdf"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "daň odvede zákazník například dle tohoto https://www.idoklad.cz/blog/na-co-nezapomenout-pri-fakturovani-do-evropske-unie (ještě přesněji dle https://www.zakonyprolidi.cz/cs/2004-235 §29 2 c) musí být uvedeno a to třeba není uvedeno ani zde AO_3307459811.pdf tedy toto nene dobré"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, mimo opravu pre STEP mame uz ulohu na AKO aby sa to opravilo spravne v kode. Aby to dobre pocitalo custom a zaroven aby sme pridavali tieto dodatky textove, tam kde ich treba"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ok, tak zavřeme? já jsem jen chtěl dát info, ať se o tom ví, což se stalo"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "jasne, pridal som aj tuto ulohu k tej vyvojovej aby sa to zohladnilo.."
+    }
+  ]
+}

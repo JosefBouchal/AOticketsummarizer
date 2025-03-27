@@ -1,0 +1,59 @@
+{
+  "id": "a06c4f1thg0hq6",
+  "created": "2024-09-02T14:23:58.433Z",
+  "closed": "2024-09-05T06:34:07.582Z",
+  "duration_minutes": 3850,
+  "first_response_minutes": 264,
+  "name": "Upozornění - přidat \"stav\" u nově přidaných",
+  "description": "nové upozornění je super, jen prosím přidat \"stav\" jako je u již zobrazených. např: - vidím že synchronizace přidala komentář, ale až po rozkliku vidím, že čeká na reakci. U již přečtených vidím, \"v řešení\", \"žádost k uzavření\". Osobně nevím, k čemu je to \"kolečko s fajkou\" ale asi je to znak \"upozornění\". - kdyby tam byl stav ikonou jako je vedle řešení, tak by tam nemusel být ten text.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, nejde mi otvorit obrazok.. mozes prilozit este raz prosim?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "zajímavé, to by se nemělo stávat, že ta příloha nejde otevřít , ale tak není to nic důležitého a tak přiložím jiný obrázek, je jen pro dokreslení. takže přikládám:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) nemalo by sa to stavat a ani sa to nedialo, ale zatial to neviem nasimulovat Co sa tyka chyby, mozem to zobrat na UI, avsak mne to prave pride z ak je to nove upozornenie, tam tych zmien moze byt viac a mas ich otvorene.. ale ked uz su \"precitane\" (otvorene a zatvorene viem) tak uz to je nejaka suhrna informacia, ktora obsahuje vycuc nejaky  - stav, datum posledneho upozrnenia a pocet.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "nevnímám to jako chybu s tím upozornění. Já jen říkám, že i u nových upozornění by se hodil mít \"Stav\" a nemusel by být textem, stačila by ikonka. (navíc je tam u každého upozornění ikona která je všude stejná = zbytečná, tak kdyby se zaměnila za tu, co reprezentuje stav, tak by to bylo za mě ok, ale je to jen návrh."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) to ze mas vacsinou ulohy sposobi ze sa ti zda ze je vacsinou rovnaka.. ale akonahle tam su upozornenia na projekty, porady, body porad, timy tak uz to nieje ta ista ikona.. zoberiem teda na UI poradu tvoj podnet.. aby sa stav danej ulohy zobrazil aj v rozbalenej verzii (mimochodom tooltip takisto funguje 🙂 )?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, to mi nedošlo - takže tam to kolečko s fajkou nechat - znak pro úkol - rozumím. a jen tam přidat stav celého požadavku."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: 1. Doplnit riadok podla poziadavky aj k novym pripadom. 2. Optimalizovat aj spacig, aby bolo jasne co k comu patri."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pridat do sprintu 24.2 a hodit na PDU"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) zaradili sme do planu vyvoja - ze pridame tam ten novy riadok, zaroven zoptimalizujeme spacing, aby to bolo viac UX friendly"
+    }
+  ]
+}

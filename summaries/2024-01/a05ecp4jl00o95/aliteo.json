@@ -1,0 +1,35 @@
+{
+  "id": "a05ecp4jl00o95",
+  "created": "2024-01-15T14:26:00.107Z",
+  "closed": "2024-01-25T13:17:21.022Z",
+  "duration_minutes": 14331,
+  "first_response_minutes": 3,
+  "name": "Rozpad po týždňoch ukazuje 0.týždeň",
+  "description": "Dobrý deň, mám graf, kde som si rozpadla dátumový údaj podľa týždňov . Avšak prňho napríklad dátum 1.1. je 0.týždeň, pričom podľa kalendára by malo ísť o 1.týždeň. Teda máme všetky týždne posunuté. Dalo by sa to opraviť? Ďakujem.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za report. Ono je to v principe aj trochu pochopitelne, nakolko existuje niekolko algoritmov pre urcenie 1. tyzdna roka (napriklad prvy pondelok v roku urcuje prvy tyzden, pripadne prvy tyzden je ten kde je vacsina dni v novom roku a podobne). Kazdopadne to preverim ako sa to aktualne pocitame."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, cisla tyzdnov by uz mali byt opravene. Dakujem za trpezlivost."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Už to vyzerá v poriadku, ďakujem."
+    }
+  ]
+}

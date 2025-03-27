@@ -1,0 +1,47 @@
+{
+  "id": "a06htcj6v01avd",
+  "created": "2024-10-17T11:39:17.741Z",
+  "closed": "2024-10-23T04:51:16.778Z",
+  "duration_minutes": 8231,
+  "first_response_minutes": 153,
+  "name": "email na uživateli neslouží pokaždé k zaslání upozornění",
+  "description": "Když vidím toto Tak si myslím, že to spoustu uživatelů může zmást, jelikož stále se domnívám, že nejvíce externích uživatelů jsou ve společnosti KARAT a tam my jsme nadefinovali maily my, tedy chodí jim ze společnosti KARAT na ten mail, co máme zavedeno my a nikoliv uživatel. Teda snad se nepletu. Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nie som si isty co tym myslis.. resp aky je tvoje podnet.. dal by si to prec? alebo doplnil informaciu o tom, ze \"pokial nie je na spolocnosti definovane inak\"?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "to nechávám na Vás, ale spíše bych doplnil tu informaci, jen jsem dával vědět, že ta informace je zavádějící"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok zoberiem na poradu.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Doplnit vetu v \" i \" o \"Zadaný e-mail bude použit pro notifikace, dokud administrátor společnosti nenastaví jiný e-mail. Pro ostatní společnosti budou notifikace chodit na tento původní e-mail.\" Slovensky: \"Zadaný e-mail bude použitý pre notifikácie, pokiaľ administrátor spoločnosti nenastaví iný e-mail. Pre ostatné spoločnosti budú notifikácie chodiť na tento pôvodný e-mail.\" Anglicky : \"The entered email will be used for notifications until the company administrator sets a different email. For other companies, notifications will be sent to this original email.\" Poľsky : \"Wprowadzony e-mail będzie używany do powiadomień, dopóki administrator firmy nie ustawi innego adresu e-mail. Dla pozostałych firm powiadomienia będą wysyłane na ten pierwotny adres e-mail.\" Zaroven do doplnit rovnake \"i\" a vetu \"Na tento e-mail vám budú prichádzať notifikácie z tejto spoločnosti.\" Česky : \"Na tento e-mail vám budou přicházet notifikace od této společnosti.\" Anglicky : \"Notifications from this company will be sent to this email.\" Poľsky : \"Powiadomienia od tej firmy będą wysyłane na ten adres e-mail.\""
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "děkuji za uživatele"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Predane na vyvoj.."
+    }
+  ]
+}

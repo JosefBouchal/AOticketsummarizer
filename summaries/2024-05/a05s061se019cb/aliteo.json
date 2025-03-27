@@ -1,0 +1,27 @@
+{
+  "id": "a05s061se019cb",
+  "created": "2024-04-30T06:50:35.16Z",
+  "closed": "2024-05-09T05:29:16.014Z",
+  "duration_minutes": 12878,
+  "first_response_minutes": 2798,
+  "name": "Námět na evidenci znalostí/postupů",
+  "description": "Prosím o zvážení námětu na vytvoření evidence pro ukládání znalostí (wiki/knowledge base). Struktura je na zvážení, ale v podstatě stačí Název + text (např. Dotaz/odpověď ; téma/informace... ). S m ožností používat štítky, odkazovat se na záznam, evidovat platnost a další atributy zděděné z úkolů, projektů atd. Využití pro interní evidenci (helpdesk - časté dotazy) i externí - firemní (pracovní postupy a jiná dokumentace) Souřástí evidence by mohlo být API pro načtení dat (komplet, nebo změněno od určitého od data) Využití dat pro AI jazykové modely.",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano, v backlogu vyvoja mame uz takmer rok knowledge base. Chceme sa tomu venovat, ale zatial nedoslo k prioritizacii nakolko su asi veci ktore musime dotiahnut skor. Kazdopadne sme otvoreni napadom ako to spravit, ako sa technicky na to pozerat, kedze nemame este urobenu technicku analyzu, z akych dat by sa mala baza budovat. Nepochybne je to vec, ktora do tohto nastroja patri."
+    }
+  ]
+}

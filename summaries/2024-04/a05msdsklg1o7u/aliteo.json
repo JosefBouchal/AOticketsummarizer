@@ -1,0 +1,35 @@
+{
+  "id": "a05msdsklg1o7u",
+  "created": "2024-03-21T12:54:01.396Z",
+  "closed": "2024-04-02T15:35:02.603Z",
+  "duration_minutes": 17441,
+  "first_response_minutes": 44,
+  "name": "Ukládání pohledů projektu",
+  "description": "Prosím proč nejde ukládání pohledů u projektů, tak jako to je u úkolů? Nyní musím pokaždé definovat pohled znovu... díky",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, pohlady sa v projektoch zatial nikdy neukladali, iba v ulohach. Mam uz taku poziadavku v plane vyvoja, takze sa to urcite bude riesit. Aktualne je lepsie si tento pohlad definovat v Ulohach a nasledne si projekt bude vyselektovat v pravom paneli, alebo priamo v pohlade uz je mozne definovat jeden projekt:"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Prosím nechat úkol otevřený, za mě je to zásadní funkčnost, jinak budeme používat gantt jen na opravdu malé projekty s pár úkoly.  V plánu vývoje je to s nějakým termínem?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "- ok, nechavam otvorene - aktualne je to v sprinte 24.2, to znamena ob sprint, teda nie tento najblizsi ale ten potom - odhadujem 3-6 mesiacov - chces aby sme sa pozreli na proces ci sa to neda inak?"
+    }
+  ]
+}

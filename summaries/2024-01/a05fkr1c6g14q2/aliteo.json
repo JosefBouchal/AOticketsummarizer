@@ -1,0 +1,27 @@
+{
+  "id": "a05fkr1c6g14q2",
+  "created": "2024-01-25T07:47:45.418Z",
+  "closed": "2024-01-30T08:17:57.421Z",
+  "duration_minutes": 7230,
+  "first_response_minutes": 18,
+  "name": "FW: Aliteo - drobnosti k nastavení",
+  "description": "Dobrý den,\r\nMám prosbu. Rád bych v rámci projektu Digitalizace nastavil, aby každý, komu dám k projektu přístup viděl všechny úkoly (je mi asi jedno, pokud by tam mohl i zapisovat a měnit je), ale nechodilo by mu upozornění při každé změně. A nerad bych to nastavoval pro každý úkol zvlášť, ale uměl to nastavit jako chování celého projektu.\r\nLze to? V současné době jsem dal všem plná práva k projektu, ale vidí jen své věci a netuším, jak to zlomit bez toho, že je dám jako sledující u každého úkolu, ale to jim zase začnou chodit upozornění, ne?\r\n\r\n\r\n[Image001]\r\n\r\nDruhá věc, existuje možnost vytvoření nějaké „Distribuční skupiny“. Třeba pozvánka na porady je pořád stejná skupina lidí, ale vyklikávat to je opruz ☹\r\n\r\nDík moc za pomoc\r\n\r\n\r\nS pozdravem a přáním pěkného dne\r\n\r\nIng. Jiří Dvořák, Ph.D.\r\nManažer digitalizace\r\n[Image002]\r\nNC Line a.s.\r\n742 01  Suchdol nad Odrou 233\r\nMobil: +420 608 242 700\r\nE-mail: dvorak@ncline.cz< mailto:dvorak@ncline.cz >\r\nInternet: www.ncline.cz< http://www.ncline.cz >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, 1. pristup k uloham - v nastaveni projektu -> uzivatela -> vyberte u uzivatela moznost \"supervizor\" (nie administrator, to na pristup k uloham nie je treba mat zapnute) - malo by to plnit funkciu ktoru popisujete. Upozornenia si potom clovek natavi na potrebnych ulohach zvlast, kde potrebuje 2. v ALITEO existuju uzivatelske skupiny, ale sluzia primarne na hromadne pridavanie ludi do projektu alebo filtrovanie uzivatelov. Nie je ale zatial mozne cez tuto skupinu pridat vsetkych do pozvanky porady. Kazdopadne mame uz teraz vo vyvoji pouziadavku, ktora umozni pri vybere uzivatelov \"vybrat vsetkych\", takze v spojeni s tymito uzivatelskymi skupinami by to malo byt mozne."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a06cfd68h00pm3",
+  "created": "2024-09-05T06:08:23.386Z",
+  "closed": "2024-09-05T06:41:45.745Z",
+  "duration_minutes": 33,
+  "first_response_minutes": 10,
+  "name": "Flídr metal-Založení nového úkolu na Aliteo - nelze",
+  "description": "Dobrý den, prosím o prověření:\r\nFlídr metal, Krustýna Flídrivá.\r\n\r\nDěkuji.\r\n\r\nS pozdravem\r\nSilvie Zachariášová\r\n\r\nFrom: Ing. FLÍDROVÁ Kristýna, Flídr group Sent: Thursday, September 5, 2024 6:53 AM\r\nTo: Silvie Zachariášová Subject: Založení nového úkolu na Aliteo\r\n\r\nDobrý den paní Zachariášová,\r\n\r\nPokoušela jsem se dnes ráno založit nový úkol na Aliteo, protože při zakládání nové majetkové karty se nám objevila chybová hláška.\r\n\r\nÚkol ale nejde založit a vždy se mi objeví chybová hláška viz. přiložený screen. Název jsem zkrátila na prosté \"majetek\" a stejně mě systém nepustí úkol uložit.\r\n\r\nProsím o prověření, kde je problém.\r\n\r\n[Image001]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, problem sme odhalil a nasadili opravu."
+    }
+  ]
+}

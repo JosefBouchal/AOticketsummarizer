@@ -1,0 +1,27 @@
+{
+  "id": "a05sn3teqg0col",
+  "created": "2024-05-05T20:26:18.771Z",
+  "closed": "2024-05-06T06:36:29.284Z",
+  "duration_minutes": 610,
+  "first_response_minutes": 593,
+  "name": "hodnocení a uzavření",
+  "description": "Viz obrázek. Případ se včera (v sobotu večer) uzavřel a říká, že jej mým do 5 dnů ohodnotit a dnes (v neděli večer) je již uzavřený bez možnosti hodnocení.\r\nDávám to sem jen jako upozornění, že možná něco není ok. Nepotřebuji něco hodnotit a může se to hned uzavřít. https://app.aliteo.com/task/a05rtgrkfg1ahp/?view=comments [Image001]",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, najprv som nechapal ale pochopil som. zatvorilo sa to skor ako piseme v komentari. Uz som to opravil aby nastavenia sedeli s komentarom. Dik za report."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "a06epnqpvg1m1b",
+  "created": "2024-09-23T07:09:30.235Z",
+  "closed": "2024-11-04T16:15:10.114Z",
+  "duration_minutes": 61025,
+  "first_response_minutes": 65,
+  "name": "Dílčí úkol z příspěvku",
+  "description": "Bavil jsem se o tom s Allanem a líbilo se mu to ;-) Byla by fajn možnost pod třema tečkama na příspěvku mít nabídku pro založení dílčího úkolu. Kolikrát v rámci řešení nějaké větší věci vznikají další věci k řešení a toto by byla rychlá možnost jak tu danou věc nenechat v hlavním případu a rovnou ij nasměrovat do dílčího úkolu. V jednoduchém provedení by to jen založilo dílčí úkol s textem zadání z toho příspěvku. Propracovanější varianta by vytvořila i jakousi viditelnou vazbu. Tedy příspěvek by byl označený a měl na sobě nějaký odkaz na ten dílčí úkol. Naopak také..... dílší úkol by měl odkaz na ten příspěvek, ze kterého vznikl. Pod čarou.... Líbila by se mi možnost od nějakého příspěvku případ rozděli. T´ma případu se zvrhlo k něčemu jinému, případ už je příliš dlouhý, tedy od nějakého příspěvku to rozříznou. Už jsem párkrát takovou situaci zažil, kde bych toto využil.",
+  "owner": "Lukáš Trunečka",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 2,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za podnet, mam k tomu poznamky: - trochu sa nam tu biju 2 veci - na jednu stranu hovoris pridal dielciu ulohu a potom zaroven aj ze by bola vazbe a k tomu chcem povedat: - vazbu na komentar nemame, to bude komplikovanejsie - jednoduchsia varianta je vytvorit ulohu - obsah komentara sa preberie do popisu a uloha sa do vazby - ak trvas na dielcej, potom uz by som zvazoval dat obe, resp pridat ulohu a rozhodnes sa ktoru ci vazbu alebo dielciu - dalsou otazkou je ci nejak este riesit aby som na komentari videl ze z toho vznikla ulohy pripadne opacne - ale vies, cim viac novych funkcionalit, tym narocnejsie a tym neskor to bude lebo to bude treba analyzovat - pod ciarou - co to znamena \"rozriznout\" - mas na mysli nejaku novu funkcionalitu? ako vy vyzerala? ved ty ked vytvoris novu ulohu tak v nej povedies riesenie tej novej temy. Alebo co? chces nejako zakazat pokracovat v povodnej? (to mozes zatvorit hned teoreticky) Alebo aky by bol funkcny prinos do povodnej ulohy..?"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "V prvej půlke.... Jo, asi nevím jestli vazbu na nový případ, nebo dílčí případ... přišlo by mi asi logičtější ten dílčí, u kterého mám problém jen s tím, ž emám pocit, že ten hlavní nejde zavřít, pokud nejsou hotové ty dílčí. Takže asi pak ano, jak říkáš, dát možnost volby... To, že by bylo nějak indikované, že na základě nějakého příspěvku vznikl nový fork (případ), by bylo hezké a člověk by se lépe orientoval v tom, jaká byla geneze řešení. Tu mi trošku chybí to, co bylo v KA a to že byl daný směr vazby mezi případy. Tedy nehrozilo, že se ve větší kaskádě na sebe provázaných případů zacyklím, jako se mi to často děje v Aliteu. Prostě jsem šel z nadřízeného na podřízený... Ale to je už trošku off topic. Rozdělení případu. No, je to myšlenka... Ano, je to otázka, kdo má být vlastníkem/zadavatelem toho odděleného případu a do je ten, kdo by tu operaci mohl udělat. Mám zkušenost se správou složitějšího systému diskuzního fóra, kde aktivní moderátor se snaží takový nástroj používat. Vidí, že se téma posunulo jiným směrem, tak založil jiné vlákno, aby to původní nechal čisté pro to původní zadání. Funkčně to to bylo tak, že moderátor měl možnost označit příspěvky, které mají jít do nového tématu, prvotním vlastníkem byl autor toho příspěvku, který byl první v tom novém vlákně. Ale toto já beru jako téma k zamyšlení.... chápu, že složité k řešení v kontextu jiného systému, možná i špatně řešitelné.... tedy klidně víc nerozvádějme a bez jen že říkám, že se mi prostě stalo, že bych takovou možnost uvítal. Až bude sto dalších, tak já jsem ten sto první, co to chce ;-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Konzultacia s PDU: 1. ok - na komentar sa prida: vytvori ulohu z komentara - vyber dielcia, vazba, to-do s odkazom na (podobny podnet od LBE: #5667 Možnost v ToDo úkole použít odkaz na komentář toho úkolu ) - obsah komentara sa pouzije ako popis - podla vybranej varianty sa uloha da ako dielcia alebo ako vazba - na komentar pribudne identifikator ze z tohto komentara bola vytvorena uloha 2. graficke zobrazenie prepojenia - zvazujeme nad grafickou variantou pre : - dielcie ulohy - komplet strom uloh, ktore sucastou je ulohe v ktorej detaile sa nachadzam - vazby - zobrazime siet ulohy, ktore su prepojene vazbami 3. rozdelovanie ulohy - moznost na troch bodkach, rozdelit ulohu, vyberieme ktore komentare chceme preniest do novej ulohy. Tie sa tam skopiruju. Autori komentarov sa prenesu do sledujucich a ostanu autormi novyh komentarov."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "k bodu1 - podobny podnet od LBE: #5667 Možnost v ToDo úkole použít odkaz na komentář toho úkolu teda doplnam: z komentara na tri body, vytvorit, dielciu ulohu, ulohu vo vazbe, to-do s odkazom na komentar"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zaver z porady: 1 . ok - dielcia uloha, vazba aj to-do s odkazom na komentar 2. strom dielcich uloh na prepinac - OK mapa vazieb - OK, ale na neskor, nie je to priorita 3. zatial z technickych dovodov nepokracujeme davam na @ Peter Ďurčák (peter.durcak@karatsoftware.sk) na vytvorenie do vyvoja. Potom vrat na mna a dam odpoved Lukasovi"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Hotovo"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lukas, informujem ta ako to dopadlo: 1 . na komentari na tri bodky pribudne - vytvorit: - novu dielciu ulohu - novu ulohu s vazbou na nu - nove to-do s odkazom na tento komentar 2.  vizualizacia uloh - strom dielcich uloh na prepinac - OK - mapa vazieb - OK, ale na neskor, nie je to priorita 3. fork uloh - chapeme co je ciel (vyuzili by sme to asi aj my), ale zatial z technickych dovodov nepokracujeme Co teda planujeme urobit, je backlogu vyvoja. Mozeme uzatvorit alebo mas este nejake otazky?"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Ok, Dane, díky... klidně uzavřeme a klidně zas jen napiš, až bude zrealizováno. Nebo to uvidím v novinkách ;-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, Lukas, napisem, ked to bude online.."
+    }
+  ]
+}

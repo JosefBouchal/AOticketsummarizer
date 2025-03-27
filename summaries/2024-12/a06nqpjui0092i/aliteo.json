@@ -1,0 +1,47 @@
+{
+  "id": "a06nqpjui0092i",
+  "created": "2024-12-02T11:01:49.807Z",
+  "closed": "2024-12-13T06:50:18.598Z",
+  "duration_minutes": 15588,
+  "first_response_minutes": 5,
+  "name": "Nemám možnost aktivovat poradu a nějak s ní pracovat",
+  "description": "Nesynchronizuji s Exchangem.\r\n\r\nMám porady a nemůžu s nimi pracovat. Dneska co proběhly jsme nemohl přepnout probíhá, docházku nic.\r\n\r\n[Image001]\r\n\r\nOk vytvořil jsem nové řady, ale tam to je stejné:\r\n[Image002]\r\n\r\n Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, o tomto probleme vieme, opravujeme a nahodime patch co najskor.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, malo by byt opravene.. este testneme"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Min. já mám nyní možnost poradu aktivovat"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, este nieco chlapi opravuju, ale za teba je to ok..?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tak minimálně tam mám nyní už možnost aktivovat poradu, takže ano"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "za mě můžeme zavřít"
+    }
+  ]
+}

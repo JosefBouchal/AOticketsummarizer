@@ -1,0 +1,31 @@
+{
+  "id": "a05oho83900bch",
+  "created": "2024-04-03T11:32:00.185Z",
+  "closed": "2024-04-09T12:04:00.515Z",
+  "duration_minutes": 8672,
+  "first_response_minutes": 31,
+  "name": "Nezobrazují se Upozornění",
+  "description": "Ing. Martin Válek\r\n\r\ngeneral director\r\n\r\n \r\n\r\ntel.: +420 581 737 111 | mobil: +420 602 770 824 |\r\n< mailto:martin.valek@karatsoftware.cz > martin.valek@karatsoftware.cz\r\n\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov |\r\n< http://www.karatsoftware.cz/ > www.karatsoftware.cz\r\n\r\n \r\n\r\n < https://www.facebook.com/karatsoftware >\r\n< https://www.facebook.com/karatsoftware > Facebook\r\n< https://www.linkedin.com/company/karat-software-a.s. >\r\n< https://www.linkedin.com/company/karat-software-a.s. > LinkedIn\r\n< https://www.youtube.com/@karat_software >\r\n< https://www.youtube.com/@karat_software > YouTube\r\n\r\n \r\n\r\n < http://www.karatsoftware.cz/outlook >",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Martin, nepomaha ani refresh? pripadne vies mi povedat postup ako nasimulujem?"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Dane už OK, prostě se mi v rámci dopoledne nezobrazovaly, potom už ano.. :-)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a05ebk7teg0pq2",
+  "created": "2024-01-15T07:42:59.499Z",
+  "closed": "2024-01-21T10:09:39.582Z",
+  "duration_minutes": 8786,
+  "first_response_minutes": 145,
+  "name": "Dodelavky",
+  "description": "Zdravim, po nejake dobe prace s Aliteo mi hrozne vadi 1. kdyz dam zadost o uzavreni, tak mi automaticky nenastavi resitele kdyz jsem jej predtim nemel zvoleneho a mel skupinu IT 2. porad kdyz mi chodi notifikace z Aliteo, nevidim od koho je ten pozadavek. To je klicove pro rozhazovani Aliteo pozadavku a reagovani u nas.",
+  "owner": "Zdenko Piovarci",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, vsetko dobre v novom roku p. Piovarci. 1. skuste napisat ako to mate nastavene v priestore a ako chcete aby sa to spravalo. Nie som si isty ci rozumiem z popisu. Ak spravne chapem, mate nastaveneho riesitela skupinu IT. A ked date \"ziadost o uzatvorenie\" tak chcete aby sa nastavil niekto iny? 2. \"od koho je pripad\" znamena ze chcete vidiet v emailovom upozorneni vlastnika pripadu?"
+    }
+  ]
+}

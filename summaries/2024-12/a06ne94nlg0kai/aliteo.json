@@ -1,0 +1,47 @@
+{
+  "id": "a06ne94nlg0kai",
+  "created": "2024-11-29T10:07:34.199Z",
+  "closed": "2024-12-04T12:54:06.75Z",
+  "duration_minutes": 7366,
+  "first_response_minutes": 106,
+  "name": "Nefunkční porada",
+  "description": "Dobrý den, organizátor porady mi hlásí, že mu zase nejede. Nemám šanci to nyní prověřit. Prosím o kontrolu.\r\nDěkuji\r\nJirka Dvořák\r\n\r\nZískat Outlook pro Android< https://aka.ms/AAb9ysg >",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, viete nam dat blitzsie informacie k problemu? - o akeho uzivatela ide (email) - aky je ten problem? (nemoze vytvorit poradu, nemoze otvorit, alebo otvori ale nevidi data atd) - pripadne nejaky printscreen by pomohol. Dakujem"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Dobrý den,\r\nProblém je  v tom, že v poradě chybí ovládací prvky – viz obrázky. Problémem je to jak u organizátora, tak u mne jako účastníka.\r\nJirka Dvořák\r\n\r\n[Image001]"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za blizsie info, predal som na vyvoj…"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, malo by byt, opravene.. mohli by ste prosim u Vas overit? Dakujem vopred."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Dobrý den, už včera se nám tam objevilo tlačítko s aktivací porady, tak jsem to zkusil a vypadá to ok. Ještě počkám, co na to vlastník porady. Ale myslím, že to můžete uzavřít.\r\nMoc děkuji\r\nJirka Dvořák"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem aj ja."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a05fhduvt000is",
+  "created": "2024-01-24T11:56:22.344Z",
+  "closed": "2024-01-25T07:50:33.886Z",
+  "duration_minutes": 1194,
+  "first_response_minutes": 6,
+  "name": "Aliteo appka",
+  "description": "Dobrý deň, už viacero ľudí sa ma pýtalo na appku ALITEO do mobilu, na vianočnom stretnutí ste spomínali, že existuje... ale našli sme len niečo na microsoft store, čo sa nedá stiahnuť. Existuje teda mobilná aplikácia?",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) nechces jej prosim ty odpoved? ja uz presne nepamatam o com sme hovorili. Resp aky termin sme slubovali. Iba sme navnadili ze na apke sa pracuje, je vo vyvojovej ale ak si spravne pamatam tak ju este s najblizsou verziou nebudeme pustat. Dik"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahoj Maria, aplikacia existuje, ale nie je povolena uzivatelom, pokial sa ju nerozhodneme vydat. /nenajdes ju nikde na storoch (ios, android)/ Momentalne dotahujeme vizualne nezrovnalosti a podobne. Tak ako som hovoril na stretnuti, odhadovane spustenie pre uzivatelov je naplanovane na .03-.04 mesiac 2024 Ked bude schvalena na ios a android storoch ,dame info samozrejme plosne."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Ďakujem za informáciu."
+    }
+  ]
+}

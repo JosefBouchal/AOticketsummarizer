@@ -1,0 +1,39 @@
+{
+  "id": "a06g2vpatg02kc",
+  "created": "2024-10-03T07:26:55.319Z",
+  "closed": "2024-10-06T06:29:07.244Z",
+  "duration_minutes": 4262,
+  "first_response_minutes": 129,
+  "name": "Nepřiložení přílohy přes komentář",
+  "description": "Už zase se nepřiložily přílohy a to navíckrát, objevuje se to často, slyším na to celkem nechvalné reakce, doporučuju s tím něco udělat.\r\n\r\nJinak v mém případě se jedná o přiložení přes komentář i do příloh, jen do komentáře, testováno pak zobrazení jen na xslx. Nakonec jsem to musel zabalit a to už pak šlo stáhnout, rozbalit a byl v pořádku.\r\n[Image001]\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "další příloha nefunguje zobrazí či stáhne se takto toto jsou reálné odpovědi zákazníkům, jak to vypadá? prosím opravdu to vyřešte co nejrychleji"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tady jsem vkládal 63319551.00 a nyní stáhnu toto 63319551 (1).00 ? ta data jsou tam 2x toto fakt není dobré"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predal som na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "tento zatvaram, predal som info vo vyvojovom pripade.."
+    }
+  ]
+}

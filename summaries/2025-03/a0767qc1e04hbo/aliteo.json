@@ -1,0 +1,47 @@
+{
+  "id": "a0767qc1e04hbo",
+  "created": "2025-03-24T08:41:13.889Z",
+  "closed": "2025-03-25T10:41:57.641Z",
+  "duration_minutes": 1560,
+  "first_response_minutes": 71,
+  "name": "Po uzavření nejde editovat komentář",
+  "description": "Pokud si zadám soukromý komentář, tak ho není možné upravit po uzavření úkolu. Bylo by možné toto zpřístupnit? Needitovatelný by byl až po archivaci úkolu. Totéž platí i pro interní. Nebo je nějaký důvod proč to nejde editovat?",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) , - o sukromnom by sa dalo diskutovat pokial ho vidis len ty - u interneho, tam bola myslienka taka, ze ak sa nieco uzatvori, aby sa nemenili \"dohody\" alebo nejake zavery"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "interní  chápu u soukromého je můj a tam ano tam by neměl být problém."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, zoberiem na poradu vyvoja"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Umoznime editovat (bez zmeny sukromia) privatny komentar aj po uzatvoreni ulohy. Nebudeme riesit, nakolko sa nechce komplikovat kod a logiku editovania na uzatvorenej ulohe."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) len poznamka, navrhovany workaround je archivovat komentar a vlozit novy.."
+    }
+  ]
+}

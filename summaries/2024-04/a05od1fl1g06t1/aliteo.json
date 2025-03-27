@@ -1,0 +1,83 @@
+{
+  "id": "a05od1fl1g06t1",
+  "created": "2024-04-02T08:05:15.552Z",
+  "closed": "2024-04-03T15:10:06.503Z",
+  "duration_minutes": 1864,
+  "first_response_minutes": 14,
+  "name": "není možné označit vlastníka",
+  "description": "jsem v cizí společnosti (LUNYS) a nemohu označit vlastníka - nenabízí se mi. Mohu označit Mozolu, Dufka. případ: #558 Ulohy na Lunys zo stretnutia 17.1.2024",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 15,
+    "from_owner": 2,
+    "from_others": 13,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vedel by si poradit preco je to tak? - myslel som si ze to je nastavenim viditelnosti projektu, pri ktorej ak mas \"pre vsetkych\" tak sa ti neponukaju ostatni uzivatelia.. - ale skusil som si to nasimulovat a mne ten vlastnik ak je interny a ja som externy tak mi ho zmenit ide: Ak je to chyba, len mi daj vediet a zalozim pripad do vyvoja.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Při zobrazení uživatelů pro zmínky v úkolu se nabízí sledující úkolu + členové projektu/týmu s těmito omezeními: - pro externího uživatele jsou zobrazení pouze externí členové vyjma řešitelů úkolu v případě, že pracovní prostor má nastaveno zobrazení řešitelů pro externí uživatele - pro interní úkol jsou zobrazeni pouze interní členové - externí uživatel na projektu, který má viditelnost Všichni nebo Externí, vidí pouze sám sebe + řešitele, pokud pracovní prostor má nastaveno zobrazení řešitelů pro externí uživatele Podle mne bod 1 způsobí, že PMA nevidí co by možná očekával."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ale tu sa jedna o vlastnika pripadu - alebo sa to pravo na \"riesitela\" vztahuje aj na vlastnika?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Nevím proč je externí uživatel sledujícím úkolu, který založil interní člen... možná to má logiku, ale určitě ne v klasickém helpdesku. Pokud chceme uvedený algoritmus změnit, dejme na dnešní poradu a proberme.... možná by šlo zjistit od PMA proč to tam takto je. Nesupluje PMA řešitele něčeho?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) prosim o odpoved na otazku od Allana: Nevím proč je externí uživatel sledujícím úkolu, který založil interní člen... možná to má logiku, ale určitě ne v klasickém helpdesku. Pokud chceme uvedený algoritmus změnit, dejme na dnešní poradu a proberme.... možná by šlo zjistit od PMA proč to tam takto je. Nesupluje PMA řešitele něčeho?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Píšete: \"proč je externí uživatel sledujícím úkolu, který založil interní člen\" - je to externí úkol - tak je přeci jedno kdo je vlastníkem ne? U nás taky v karatu je jsem vlastníkem externího případu u zákazníka a jsem interní. Podle mě by to tedy vyřešilo to, kdyby Šeliga byl ve sledujících, je to tak? Ostatní nastavil, ale on sám tam není:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Seliga podla mna je sledujuci, len ty ako externy nevidis internych medzi sledujucimi.. Stale mi to nejde do hlavy, naviac viditelnost toho projektu je nastavene na \"clenov projektu\"."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane z toho co píšeš nevím jak reagovat, jen chápu že se ti něco nezdá. Pokud něco nesedí program x popsaný algoritmus, reklamuj a popiš co konkrétně. Pokud chceš změnit algoritmus, který podle mne má logiku, dej na poradu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak som to skusil znova a problem je teda v pravach - ak v prac. priestore dam skryt \"riesitelov\" pre externych, potom nemozem zmienit ani vlastnika v komentari. To je to co som sa pytal v komentari ##3 Ak vlastnika nemozem skryt, preco by som ho nemohol aj zmenit. @ Allan Konečný (allan.konecny@karatsoftware.cz) povedz sam ci ide o funkcionalitu alebo o chybu - za mna sa priklanam asi k chybe.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Ktokolvek moze oznacit vlastnika."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Změněno - zmínky v komentáři zobrazují vlastníka úkolu vždy, bez ohledu na to, jestli je interní nebo externí. Dane toto je ze supportu tedy namohu nastavit patchování. V noci se nasadí."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vyvoril som ulohu vo vazbach.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) prehodnotili sme, vlastnika bude mozne zmienit vzdy.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) bolo uz aj opravene, teda by ti to uz v Lunyse malo fungovat.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok ,funguje"
+    }
+  ]
+}

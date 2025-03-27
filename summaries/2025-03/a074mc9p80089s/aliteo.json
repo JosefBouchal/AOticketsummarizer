@@ -1,0 +1,35 @@
+{
+  "id": "a074mc9p80089s",
+  "created": "2025-03-12T08:40:48.165Z",
+  "closed": "2025-03-25T06:19:53.059Z",
+  "duration_minutes": 18579,
+  "first_response_minutes": 95,
+  "name": "Oprava komentáře se zmínkou přidá novou zmínku",
+  "description": "Je komentář, kde je někdo zmíněn, pak někdo ten komentář opraví a dojde nová zmínka, toto není dle mě dobře, jelikož já jej znovu nezmiňuji Lubomír Bednář system analyst",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, chapem, takze opravujem komentar, kde zmienka nepribudne. Tam sa asi riesilo ze ked ta zmienka pribudne sucasne s opravou komentara, tak to chodi ako upozornenie. Ale rozumiem posuvam na vyvoj."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, opravili sme na bete, teda ked nasadime betu na ostru, bude oprava na ostrej. Chces to ponechat do tej doby otvorene?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Ahoj Dane, ne, klidně uzavřeme. Děkuji za změnu. Luboš"
+    }
+  ]
+}

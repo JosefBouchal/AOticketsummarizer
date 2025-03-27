@@ -1,0 +1,31 @@
+{
+  "id": "a06e2gvbt00tfn",
+  "created": "2024-09-17T15:55:31.147Z",
+  "closed": "2024-09-23T13:34:02.206Z",
+  "duration_minutes": 8498,
+  "first_response_minutes": 178,
+  "name": "Smazání pohledu nad Projekty",
+  "description": "Nejde mi smazat - možná jen dělám špatně.. Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report - predavam na vyvoj, je to chyba.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Martin Válek (martin.valek@karatsoftware.cz) opravene.. dik"
+    }
+  ]
+}

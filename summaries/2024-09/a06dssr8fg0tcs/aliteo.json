@@ -1,0 +1,31 @@
+{
+  "id": "a06dssr8fg0tcs",
+  "created": "2024-09-16T07:08:02.234Z",
+  "closed": "2024-09-16T10:15:46.106Z",
+  "duration_minutes": 187,
+  "first_response_minutes": 29,
+  "name": "Odkaz na úkol v Ganttu",
+  "description": "Ahoj, myslím že v Ganttu by mělo fungovat otevření úkolu při kliku na úkol - aktuálně mi to nejde.. Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Martin Válek (martin.valek@karatsoftware.cz) mali sme to tak ale s analytickych dovodov a z dovodvo ze to na vsetkych miestach nie je mozne spravit rovnako, je otvorenie projektu alebo ulohy na pravy klik.. takze je to umyselne tak.."
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "ok"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a06v98a8vg14d8",
+  "created": "2025-01-29T08:09:23.836Z",
+  "closed": "2025-02-09T07:32:21.405Z",
+  "duration_minutes": 15802,
+  "first_response_minutes": 63,
+  "name": "opakované generování ka",
+  "description": "Ahoj, Prosím o ověření zda se standardně u Vás generují nová KA (úkoly) podle šablony. My jsme ji na ALITEO BETA definovali, ale přestaly vznikat. Viz příloha. Je tam vidět, že generování mělo probíhá to 31.1.2025 a poslední úkol vznikl 6.11.2024. Používáme to pro kontrolu synchronizace. Děkuji za pomoc P.Malá",
+  "owner": "Pavla Malá",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, dakujem za report, za mna je to chyba, preposlal som na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "problem, by mal byt odstraneny, treba nastavit novu sablonu a nove opakovanie.. ak by bol problem tak znova nahlasit..."
+    },
+    {
+      "creator": "Pavla Malá",
+      "comment": "Děkuji moc za informaci, zkusíme."
+    }
+  ]
+}

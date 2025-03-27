@@ -1,0 +1,31 @@
+{
+  "id": "a06itrvvf018r1",
+  "created": "2024-10-25T08:52:18.221Z",
+  "closed": "2024-11-08T13:56:04.136Z",
+  "duration_minutes": 20463,
+  "first_response_minutes": 311,
+  "name": "Problém s přihlášením ověřeného uživatele",
+  "description": "Dobrý den, Uživatelka dostal mailem pozvánku pro přístup do ALITEA. Ověření proběhlo v pořádku – přišel jí do mailu ověřovací kód. Poté to ale hlásí, že „Uživatele se zadanými přihlašovacími údaji nešlo najít“. Prosím o pomoc. Děkuji S pozdravem Peter Zachariáš [LOGO] IT Manager | +420 601 103 233 | +420 565 300 344 | peter.zacharias@conteg.cz< mailto:peter.zacharias@conteg.cz > CONTEG, spol. s r.o. | K Silu 2179 | 393 01 Pelhřimov | Czech Republic www.conteg.cz< https://www.conteg.cz > [SPS 2024]< https://sps.mesago.com/nuernberg/en.html >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, uzivatel s tymto emailom neexistuje. Ak dostala pozvanku, je treba sa najprv registrovat a potom prihlasit. Pravdepodobne ste vybrali moznost \"zabudnute heslo\" a pri jeho obnovovani system zistil ze taky ucet neexistuje. Navod na registraciu z pozvanky najdete tu: YouTube: Registrace V pripade potreby nas kontaktujte. Dakujem a prajem pekny den."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Tu najdete viac info.: Zdravim Vas, uzivatel s tymto emailom neexistuje. Ak dostala pozvanku, je treba sa najprv registrovat a potom prihlasit. Pravdepodobne ste vybrali moznost \"zabudnute heslo\" a pri jeho obnovovani system zistil ze taky ucet neexistuje. Navod na registraciu z pozvanky najdete tu: YouTube: Registrace V pripade potreby nas kontaktujte. Dakujem a prajem pekny den."
+    }
+  ]
+}

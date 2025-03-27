@@ -1,0 +1,35 @@
+{
+  "id": "a05j485jgg0kri",
+  "created": "2024-02-21T08:48:30.414Z",
+  "closed": "2024-02-27T06:23:46.362Z",
+  "duration_minutes": 8495,
+  "first_response_minutes": 1329,
+  "name": "Refresh počtu úkolů při přepnutí na řešitelský tým",
+  "description": "Při vybrání Řešitelského týmu pod projektem se po přepnutí do toho týmu\r\nneprovede refresh počtu řídících úkolů. Po kliknutí na řídící úkoly se\r\naktualizuje a úkoly se zobrazí + správně se aktualizuje jejich počet\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\nIng. Martin Válek\r\n\r\ngeneral director\r\n\r\n \r\n\r\ntel.: +420 581 737 111 | mobil: +420 602 770 824 |\r\n< mailto:martin.valek@karatsoftware.cz > martin.valek@karatsoftware.cz\r\n\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov |\r\n< http://www.karatsoftware.cz/ > www.karatsoftware.cz\r\n\r\n \r\n\r\n < https://www.facebook.com/karatsoftware >\r\n< https://www.facebook.com/karatsoftware > Facebook\r\n< https://www.linkedin.com/company/karat-software-a.s. >\r\n< https://www.linkedin.com/company/karat-software-a.s. > LinkedIn\r\n< https://www.youtube.com/@karat_software >\r\n< https://www.youtube.com/@karat_software > YouTube\r\n\r\n \r\n\r\n < http://www.karatsoftware.cz/outlook >",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dakujem za report, posielam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "testovane v #19 Novy projekt na alfe"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Martin, je to opravene, prosim o kontrolu. Mne to funguje."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a0648u7v4g1hol",
+  "created": "2024-07-03T13:09:29.699Z",
+  "closed": "2024-07-04T07:42:04.081Z",
+  "duration_minutes": 1112,
+  "first_response_minutes": 81,
+  "name": "Úkoly chodí ve smyčce",
+  "description": "Dobrý den,\r\n\r\nzačaly nám chodit úkoly ve smyčce, děje se něco?\r\n[Image001]\r\n\r\nDěkuji za informaci,\r\n\r\n\r\n\r\n[Image002]< https://www.benesalat.cz/ >\r\n\r\nJakub Trhlík | IT | BENEŠ a LÁT a.s. | M: +420 724 350 614 E: jakub.trhlik@benesalat.cz | www.benesalat.cz< http://www.benesalat.cz/ > | Křížová 660, CZ-47124 Mimoň I | DIČ/VAT: CZ25724304",
+  "owner": "Jakub Trhlík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravím Vás, Ešte raz sa ospravedlňujeme za vzniknutú situáciu a chceme Vás ubezpečiť, že intenzívne pracujeme na jej riešení. Zdá sa, že došlo k zlyhaniu služby tretích strán, ktorá pre ALITEO spracováva emaily. Veríme, že problém bude čoskoro vyriešený. Ako dočasné riešenie, pokiaľ danú situáciu neodstránime, by sme Vám odporúčali pozastaviť odosielanie emailov z Vašej domény smerom na ALITEO. Prosím, informujte zadávateľov, že máme technické problémy a nech skúsi zadať požiadavku neskôr. Týmto opatrením zabránime nadmernému zaťaženiu používateľov, kým situáciu nevyriešime. Ďakujeme za Vašu trpezlivosť a pochopenie. Ospravedlňujeme sa za všetky nepríjemnosti, ktoré Vám to mohlo spôsobiť."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dobrý deň, radi by sme Vás informovali, že chyba bola odstránená a boli vykonané opatrenia, ktoré by mali zabrániť opätovnému vzniku podobných komplikácií. Ďakujeme za Vašu trpezlivosť a porozumenie. Prajeme Vám pekný deň. S pozdravom, Peter"
+    }
+  ]
+}

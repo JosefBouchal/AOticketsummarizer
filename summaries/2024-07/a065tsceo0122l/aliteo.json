@@ -1,0 +1,47 @@
+{
+  "id": "a065tsceo0122l",
+  "created": "2024-07-16T09:34:01.442Z",
+  "closed": "2024-07-22T11:08:27.462Z",
+  "duration_minutes": 8734,
+  "first_response_minutes": 127,
+  "name": "Zobrazení AO v mobilu",
+  "description": "Dobrý den,\r\n\r\nv minulosti nám v mobilním prohlížeči AO fungoval skvěle, nyní už je to horší. Stránka se nezobrazuje celá, nejde po ní přejíždět a tím pádem ani využívat.\r\n\r\n[Image001]\r\n\r\nVyzkoušel jsem jak na Androidu tak na IOsu a stejný problém.\r\n\r\nDěláme něco špatně či proč taková změna?\r\n\r\nDíky za zpětnou vazbu.\r\n\r\nS pozdravem | Best regards\r\n\r\nTomáš Novák\r\nVedoucí výdeje | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nT:   +420 541 426 845\r\nM: +420 777 982 504\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n[Image002]",
+  "owner": "tomas.novak@covetrus.com",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 0,
+    "from_others": 6,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) v tomto komunikujeme pravdu, ze sa mobilna apka dostala vonku nedopatrenim?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Nerozumiem uplne o co ide? On sa stazuje na zobrazenie standardnej responzivity? Co to ma sa aplikaciou? Akym nedopatrenim...? Ved Dusan to spustil len tebe, mne a masarikovi, ne?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) No prave, ze Dusanovi to uslo a videli to vsetci - takze videli realne apku (chybou, ale boli spokojni asi) a teraz to Dusan opravil a vidia standardnu web stranku, takze je to pre nich horsie nez to bolo... zaujimave bolo ze nikto nehlasil problem s apkou.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, vyskusajte zmenit nastavenie zobrazenia na \"plnu stranku\" a nastavte si priblizenie stranky. Mali by ste tak uvidiet vacsiu cast stranky a potom by malo byt mozne zoomovat a plnohodnotne pouzivat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dostal som Vasu odpoved, ale asi ste neodpovedali na povodny email, resp ste nechali email supportu v adresatoch, takze sa zalozil novy. Odpovedam teda tu. Nerozumiem Vasej otazke, ci budeme nieco mat. Ako ste to mysleli? Poslem Vam pozvanku do spolocnosti ALITEO a do prpojektu, aby ste mohli pripady zakladat priamo v ALITEO. Dakujem"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Zdravím, jasně, asi jsem neodpověděl úplně správně, nicméně vázalo se k prvnímu dotazu. vyzkouším. Díky"
+    }
+  ]
+}

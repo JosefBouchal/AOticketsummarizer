@@ -1,0 +1,27 @@
+{
+  "id": "a05rtgrkfg1ahp",
+  "created": "2024-04-29T15:20:01.591Z",
+  "closed": "2024-05-05T16:40:03.182Z",
+  "duration_minutes": 8720,
+  "first_response_minutes": 79,
+  "name": "Mailový podpis a ALITEO",
+  "description": "Do případu je možné odpovědět mailem, ale dává se tam i podpis. Tady v obrázku je vidět, že uživatel napsal jedinou větu, ale pod tím je nějaký podpis, kde se v češtině a pak i angličtině píše nějaký korporátní text, který jsem nikdy nečetl, je pro případ nepodstatný, ale strašně rozbíjí případ do nečitelné podoby.\r\nPlánuje se nějaká možnost na uživatele zadat, jak začíná jeho podpis, aby se odfiltroval. Nebo bude nějaké AI, které to nějak pozná samo?",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Pavle, mame nieco podobne vo vyvoji. Ale skor len na nastavnei spolocnosti, kde zadas retazec, ten sa najde a za tym sa vsetko odreze. Problem je ze ci to staci na spolocnosti,  ako tam definovat nieco co bude osekavat texty pre vsetky pripady. Pripady vznikaju aj z inych emailov a podobne."
+    }
+  ]
+}

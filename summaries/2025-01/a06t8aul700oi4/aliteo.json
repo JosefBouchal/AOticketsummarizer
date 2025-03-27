@@ -1,0 +1,47 @@
+{
+  "id": "a06t8aul700oi4",
+  "created": "2025-01-13T13:59:03.184Z",
+  "closed": "2025-01-14T09:21:44.291Z",
+  "duration_minutes": 1162,
+  "first_response_minutes": 36,
+  "name": "API",
+  "description": "Dobrý deň,\r\nmám problém s API. Pri spustení dotazu napr. \"ListUserCompany\" sa vráti chyba \"Data parameter Company - bad format\".\r\nSkúsil som aj zmeniť názov spoločnosti na iba velké písmena a  resetovať apikey, ale chyba je stále rovnaká:\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\nS pozdravomPeter Bučo",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, Prosím pošlite mi ten kód ktorý odosielate ako API dotaz."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý deň, skúšal som to na Vašej stránke (foto v 1. prílohe): https://api.aliteo.com/swagger/ui ale aj od seba cez aplikáciu SoapUI a výsledok je rovnaký: Request: POST https://api.aliteo.com/ListUserCompany HTTP/1.1 Accept-Encoding: gzip,deflate ApiKey: a598b883-1db3-46be-8f6e-e81cd2e0c0dd accept: application/json Content-Type: application/json Content-Length: 23 Host: api.aliteo.com Connection: Keep-Alive User-Agent: Apache-HttpClient/4.5.5 (Java/12.0.1) Body: {\"company\":\"PETERBUCO\"} Response: HTTP/1.1 200 OK Content-Type: application/json Date: Mon, 13 Jan 2025 14:44:39 GMT Content-Encoding: gzip Transfer-Encoding: chunked Vary: Accept-Encoding Strict-Transport-Security: max-age=31536000; includeSubDomains x-ms-middleware-request-id: ee4a4cb3-f9b0-4f92-a1f1-aff59c58e5ad {\"iserror\":true,\"error\":\"Data parameter Company - bad format\",\"isrepeatable\":false}"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pre spolocnost je treba pracovat s jej ID, nie s jej nazvom: ID spolocnosti najdete tak, ze otvorite nastavenie spolocnosti a nasledne vlavo dole vidite ID, na ktore ked kliknete otvori sa Vam aj moznost toto ID skopirovat: Takymto sposobom sa potom hladaju aj ID inych objektov, ktore sa nachadzaju v nastaveniach spolocnosti."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Ďakujem, už to funguje. To ID som tam nevidel, ani som sa nenašiel, kde má byť, preto som si myslel, že ide o názov spoločnosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To ID je umyselne takto “skryte”, kto sa to raz nauci potom vie a “neotravuje” to potom cloveka pri beznej praci. Mozeme teda brat tento pripad za uzatvoreny?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý deň, áno, môžete uzatvoriť. Ďakujem."
+    }
+  ]
+}

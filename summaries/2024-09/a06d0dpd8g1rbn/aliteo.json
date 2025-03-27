@@ -1,0 +1,43 @@
+{
+  "id": "a06d0dpd8g1rbn",
+  "created": "2024-09-09T09:16:51.372Z",
+  "closed": "2024-09-10T08:22:49.82Z",
+  "duration_minutes": 1385,
+  "first_response_minutes": 17,
+  "name": "Jak přidat definici, aby staré API synchronizace to nebrala?",
+  "description": "Do nové API bylo přidáno do Regionu Task ParentSubTask, ale to do staré synchronizace nebylo přidáno. Když to nyní přidáme do definice, tak synchronizace spadne, jak je udělána stará synchronizace nevím, tedy jak zajistit, abychom to mohli zkombinovat?\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Asi toto je na Allana.. predam.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Allan vies na to Lubovi odpovedat? Resp mam zalozit pripad do vyvoja?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Domluveno s Lubošem - ParentSubtask se doplní a nikde nepoběží původní synchronizace. Tento případ lze zavřít."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) podla Allana dohodnute s tebou a mam uzatvorit.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano, můžeme"
+    }
+  ]
+}

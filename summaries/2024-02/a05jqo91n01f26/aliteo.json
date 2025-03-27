@@ -1,0 +1,55 @@
+{
+  "id": "a05jqo91n01f26",
+  "created": "2024-02-26T19:54:00.14Z",
+  "closed": "2024-02-28T11:58:48.836Z",
+  "duration_minutes": 2404,
+  "first_response_minutes": 653,
+  "name": "Drobnosti",
+  "description": "Dobrý den,\r\nMám následující dotazy:\r\n\r\n  *   Máme u úkolu nějaký excel. Lze ho editovat v místě? Nebo se musí vždy stáhnout? Pokud nejde editovat v místě, lze tam udělat integraci s nějakým úložištěm jako je onedrive?\r\n  *   Jde nějak zajistit vyhledávání podle názvů příloh? Případně podle obsahu přílohy?\r\n  *   Je v plánu mobilní aplikace?\r\nMoc díky za informace a přeji pěkný den\r\nJirka Dvořák",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 4,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, 1. aktualne je mozne editovat prilohu ako docx alebo xlsx v dokumentoch projektu. Takze by ste si museli dat odkaz na tuto prilohu do ulohy. Ale tuto funkcnost budeme mat uz aj v ulohach v niektorej s najblizsich verzii. 2. zatial vyhladavanie priloh podla ich nazvu nie je mozne, ale je to dobry podnet preberiem s kolegami ci nezaradime do vyvoja 3. na mobilnej aplikacii intenzivne pracujeme aby sme ju priniesli v najlepsom stave"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, díky moc za rychlou odezvu.\r\n\r\n1. aktualne je mozne editovat prilohu ako docx alebo xlsx v dokumentoch projektu. Takze by ste si museli dat odkaz na tuto prilohu do ulohy. Ale tuto funkcnost budeme mat uz aj v ulohach v niektorej s najblizsich verzii.\r\n\r\n- Super. Jak se nějak elegantně vytvoří link na soubor v dokumentech?\r\n\r\n2. zatial vyhladavanie priloh podla ich nazvu nie je mozne, ale je to dobry podnet preberiem s kolegami ci nezaradime do vyvoja\r\n\r\n- to jsem moc rád. Bavíme se, kam dávat přílohy, zda k úkolům nebo k dokumentům a tak bych byl rád, pokud by podle toho šlo i vyhledávat.\r\n\r\n3. na mobilnej aplikacii intenzivne pracujeme aby sme ju priniesli v najlepsom stave\r\n\r\n- a nějaký časový odhad?\r\nHezký den a děkuji\r\nJirka Dvořák"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "1. je to mozne - ak urobit hover nad prilohou, resp podrzite nad nou kurzor, objavi sa tooltip kde je v spodnej casti moznost \"ziskat odkaz\": 3. zatial Vam neviem povedat datum, pokusim sa zistit aspon orientacny.."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Super, díky moc, funguje to skvěle.\r\nJeště rychlý dotaz - Export do Excelu bude kdy? Nebo už tam je, jen ho nevidím?\r\nJirka Dvořák"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "2. prehodnotili sme hladanie v prilohach a zaradili sme do planu vyvoja - primarne hladanie v nazvoch priloh 3. mobilna aplikacia - orientacne som zistil ze by sme chceli aplikaciu v najblizsich mesiacoch dokoncit 4. export este v aplikacii nie je, ale je zaplanovany v jednom z najblizsich sprintov.. teoreticky Vam moze pomoct API, ak by ste potrebovali vydolovat data"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "2. super - to je cca kdy? Orientačně.\r\nJinak díky za vše.\r\nJirka Dvořák"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "2. podobne ako export - v najblizsich sprintoch.."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Díky, můžete to uzavřít\r\nJirka Dvořák"
+    }
+  ]
+}

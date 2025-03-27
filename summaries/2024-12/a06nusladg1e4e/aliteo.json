@@ -1,0 +1,39 @@
+{
+  "id": "a06nusladg1e4e",
+  "created": "2024-12-03T10:53:10.032Z",
+  "closed": "2024-12-06T11:17:01.212Z",
+  "duration_minutes": 4343,
+  "first_response_minutes": 14,
+  "name": "Uživatel neexistuje",
+  "description": "viz ID #305427 Přidání uživatele do Alitea",
+  "owner": "Radek Zatloukal",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, odpisal som priamo vo vasom pripade, kedze tu pan nema pristup.. lebo tento prioad nezakladal.. uvidime.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Opravili sme nieco, uz vidim toho uzivatela, uz by malo byt mozne sa aj prihlasit.. napisal som do KA tak uvidime.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Radek Zatloukal (radek.zatloukal@karatsoftware.cz) pani sa rpihlasila, este ma nejak problemy s pripojenim, ale to nie je na nasej strane asi. AJ som sa prihlasil ppod jej udajmi, ako nam poslali a tu hlasku som nedostal. Takisto nevidi projekt ale to je asi vasa vec skor. ja by som tento pripad uz zatvoril asi, co myslis?"
+    },
+    {
+      "creator": "Radek Zatloukal",
+      "comment": "##3 OK, díky. Projekt má nastavený, tohle je za mě o tom propojení s pozvánkou, ke kterému nejspíš nedošlo. Ty technické problémy se ztrátou připojenítaké nevím, uvidíme. Tohle klidně uzavřeme."
+    }
+  ]
+}

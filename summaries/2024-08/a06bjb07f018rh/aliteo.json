@@ -1,0 +1,47 @@
+{
+  "id": "a06bjb07f018rh",
+  "created": "2024-08-29T10:37:46.549Z",
+  "closed": "2024-08-30T09:51:21.398Z",
+  "duration_minutes": 1393,
+  "first_response_minutes": 1351,
+  "name": "po smazání notifikací zůstává hlavička z nepřečtených notifikací",
+  "description": "Měl jsem notifikace k případu. Rozbalil jsem levý panel a sbalil, tedy všechny notifikace jako přečtené (staré). Pak někdo napsal do případu a měl jsem tedy stejný úkol rozhozen do nepřečtených (nová) i přečtených (stará). Vyřešil jsem jej, dal v úkole smazat všechny notifikace, ale v nepřečtených zůstala informace o tom úkole. Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik, ano viem presne o tom hvoris, chcel som to nahlasit, ale nevedel nasimulovat. Dakujem posuvam na vyvoj.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "děkuji"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "nechavam otvorene alebo zatvorit?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "zavřít"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) vraj to je uz aj opravene"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "akorát jsem to chtěl zkusit, jak se to navrhne k uzavření, dneska jsem ještě takový případ neměl a ano, nyní to vypadá, že to je OK"
+    }
+  ]
+}

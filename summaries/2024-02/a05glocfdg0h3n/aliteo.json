@@ -1,0 +1,27 @@
+{
+  "id": "a05glocfdg0h3n",
+  "created": "2024-02-02T07:33:06.836Z",
+  "closed": "2024-02-08T13:20:37.819Z",
+  "duration_minutes": 8987,
+  "first_response_minutes": 346,
+  "name": "Jiné zobrazení výchozí hodnoty atributu u dvou lidí na VP.",
+  "description": "na případu: #284504 Pokus s odvodem FA dělám odvod viz obrázek: a já tam mám předbídnuto Fakturční práci a MLA tam má nefakturační práci. - nemáme to oblíbené ani jeden tu FA/NEFA - máme to ve stejném prohlížeči. Proč to každý vidí jinak? Čím je to ovlivněno?",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Výkazy práce",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Petr, skuste sa na to pozriet znova. Skusal som to a mate to tam rovnako."
+    }
+  ]
+}

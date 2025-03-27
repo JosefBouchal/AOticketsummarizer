@@ -1,0 +1,51 @@
+{
+  "id": "a05ms8di500gt9",
+  "created": "2024-03-21T11:54:15.788Z",
+  "closed": "2024-04-03T16:28:07.829Z",
+  "duration_minutes": 18993,
+  "first_response_minutes": 94,
+  "name": "Ikonka kufříku?",
+  "description": "Všiml jsem si, že se ve verzi 24 začala u některých úkolů objevovat v seznamu ikonka nějakého kufříku . Nad ikonou není žádný tooltip, při kliknutí nic nedělá. K čemu teda je?",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 2,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ide o ikonu portfolia, ktore sme pridali do drobkovej naviagacie. Neviem ci s portfoliami nejako pracujete ale mohli by ste si to nastavit a potom by tam mohol byt napriklad nazov zakaznika. Je tam Cislo 1 teda projekt je priradeny jednemu portfoliu. Nazov nie je vidiet - treba to nastavit. Kliknut na to nemozes len na Portfolio asi nemas pravo.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "A bylo by možné tam přidat aspoň nějaký tooltip, který by napověděl, o co jde? Chápu, že asi někde něco není nastaveno, ale mohl by se objevit alespoň nějaký základní tooltip, který řekne, že jde o portfolia. Podobně jako je to vlastně u všech ostatních těchto typů informací ."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "My tooltip na portfolio mame: ale to ma fungovat na inych miestach a hlavne na mieste kde je to portoflio jedno. Ale v tomto pripade by to malo byzerat takto: Takze tebe nejde klik na portfolio a teda nevies co to je, je tak? Potom sa budeme musiet pobavit aj o pravach.. Podla mna aj LBE alebo admin nastavi ze sa ma Vam zobrazovat to ktore tam je tak uz by ti klik mal fungovat.. mozes preverit?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Beriem si to na poradu a dam vediet ako sme sa dohodli... Edit: Chyba bola opravena, teraz sa uz objavuju dostupne portfolia"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Za mě OK, ty si prý chceš ještě něco na poradě ohledně tohoto probrat, takže necháme otevřeno, pak klidně navrhni k uzavření. Díky."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Ostava ako to je, moznost, ze nemam vybrane ziade."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, my sme si to vykomunikovali, takze mozeme zatvarat."
+    }
+  ]
+}

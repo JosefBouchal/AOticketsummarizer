@@ -1,0 +1,27 @@
+{
+  "id": "a05rsubpo00svn",
+  "created": "2024-04-29T11:58:00.805Z",
+  "closed": "2024-05-05T13:38:00.826Z",
+  "duration_minutes": 8740,
+  "first_response_minutes": 99,
+  "name": "Porada",
+  "description": "Dobrý den, tak ještě jeden malý dotaz ohledně porad: jak rozkopírovat body, které se neustále opakují. A jak to pak řešit, když se opakovat přestanou. Lze s tím nějak pracovat?\r\nDíky moc\r\nJirka Dvořák",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, standardne je to tak, ze sa opakujuce body vypisuju do \"Radu porad\". Pri aktivacii jednotlivych vyskytov sa potom tieto body kopiruju. Ak ale tuto radu porad ukoncite, potom je treba v novej rade porad treba definovat znova tieto body. V plane vyvoja ale mame funkcionalitu kopirovania bodov porad. Tam by sme teoreticky mohli diskutovat aj na kopirovanie do inych alebo do inych rad porad."
+    }
+  ]
+}

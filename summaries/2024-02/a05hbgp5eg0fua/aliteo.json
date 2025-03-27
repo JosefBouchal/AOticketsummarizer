@@ -1,0 +1,59 @@
+{
+  "id": "a05hbgp5eg0fua",
+  "created": "2024-02-07T14:19:37.254Z",
+  "closed": "2024-02-20T09:54:29.274Z",
+  "duration_minutes": 18454,
+  "first_response_minutes": 999,
+  "name": "Vyjádření na případu - umožnit \"schovat\"",
+  "description": "například viz vyjádření od zákazníka: je jich spousty a většinu vyřeším jedním vyjádřením, ale některé ne a když jsem pak u 110 vyjádření, tak vlastně nevím, co je dořešeno a co ne. Někdy by mi tedy vážně pomohlo, abych mohl vyjádření označit jako \"Přečtené\" nebo vyjádření prostě \"Skrýt\". Nesnažím se prosadit \"Štítky\" jak jsem chtěl dříve, protože to datově bylo nenosné, ale  mít možnost pro daného uživatele to schovat, by mohla být cesta. Tedy na vyjádření mít možnost to konkrétní \"Skrýt/Zobrazit\" případně Všechny předcházející \"Skrýt/Zobrazit\" (nastoupím do požadavku, je tam 300 vyjádření, zjistím co se ode mně chce a zbytek si skryji (jsou již vyřešené).",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, rozumiem problemu, chcel by si - bud oznacovat dolezite - a nejako ich samozrejem filtrovat - alebo skryvat nepodstatne Mam k tomu doplnujucu otazku, tak ci onak, ocakaval by si ze sa to bude pamatat na kazdom uzivatelovi?  teda ze kazdy si moze oznacit resp skryt pre neho dolezite komentare?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "prošli jsme si na teamsech, Dan doplní výsledek."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Prebrali sme s Petrom aktualne problemy a rozdelil by som ich nasledovne: - stitky na komentaroch by sa tak ci tak chceli - neviem nakolko je to narocne - vysvetlene to-do aby sa do nich pisali kroky riesenia ulohy - Petr to prijal a skusi to - napad DDZ - prevodu komentara na to-do s odkazom na komentar - to by podporilo to-do ako osnovu prace (ktory ide z komentara) - komentare ako zadanie - toto sme uz davnejsie konzultovali a ak by sme pridali pole interny popis ulohy, klesol by trochu, aby sa nemuseli oznacovat a hladat podstatne komentare @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) prejdeme si to na porade a potom zatvorime ok? daj potom vediet spatnu vazbu na tie to do ci su pouzitelne ako sme sa rozpravali.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Toro si zkusím, zbytek projděte na poradě."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ako dalej programovat:"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Problem od PMS je mozne rieist skrz skryvanie komentarov. Vytvorenie to-do z komentara je dalsia funkcnost (vidiet na to do, ze je z komentara a aj opacne) @ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) vytvor do vyvoja pls."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) takze ako vidis vyssie: - do planu vyvoja pridame funkcnost skryvania komentarov - do planu vyvoja pridame moznost generovania To-do z komentarov"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, díky, pls o vazbu na vývojové a já si nastavím upozornění a toto můžeme uzavřít."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "vazby su pridane, mozes si dat upozornenia.. dakujem"
+    }
+  ]
+}

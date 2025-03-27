@@ -1,0 +1,27 @@
+{
+  "id": "a06k8eq2d00noq",
+  "created": "2024-11-04T16:57:52.901Z",
+  "closed": "2024-11-12T06:02:14.715Z",
+  "duration_minutes": 10864,
+  "first_response_minutes": 782,
+  "name": "Dlouhodobé vady v Aliteu",
+  "description": "Dobrý den, Mám pár bolístek co mě a věřím, že nejen mě v Aliteu velmi omezují. 1.  Přílohy se často nezobrazí (hlavně u nových případů). Nejde ani otevřít v novém okně nebo stáhnout. Čekat a zkoušet co hodinu jestli už půjde otevřít příloha, ne které ten případ často stojí je dost otrava. 1.  V mobilním telefonu je Aliteo nepoužitelné ještě více než při spuštění před dvěma lety. Aplikace je již dlouho slibovaná a v posledních KARAT News i inzerovaná. Je v plánu nějaký postup, víte o těchto problémech? Děkuji Martin Nechvátal mobil: +420 725 660 810 | martin.nechvatal@karatsolution.cz< mailto:martin.nechvatal@karatsolution.cz > |",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za zalozenie ticketu. Viete mi prosim napisat, akym sposobom je dany pripad zalozeny? Pripadne aj do akej spolocnosti a kym. Podla obrazku sudim, ze ide o obrazok komentara. Teda je to zalozenie pripadu alebo odpoved na komentar. Co sa tyka mobilnej aplikacie, na nej pracujeme a mozem Vam zistit termin, kedy je v plane jej spustenie. Aktualne je mozne ALITEO vyuzit vo webovom prehliadaci, avsak je treba si upravit priblizenie stranky, resp oddialit ju. Dakujem vopred"
+    }
+  ]
+}

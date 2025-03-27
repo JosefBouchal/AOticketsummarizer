@@ -1,0 +1,35 @@
+{
+  "id": "a06or6fiq00va4",
+  "created": "2024-12-10T07:47:08.686Z",
+  "closed": "2024-12-12T16:54:07.965Z",
+  "duration_minutes": 3426,
+  "first_response_minutes": 5,
+  "name": "FW: ALITEO - prodloužení licence se nezdařilo",
+  "description": "Dobrý den, zase nás zlobí licence, viz email níže. Díval jsem se do nastavení a píše se tam platba zrušeno (viz printscreen), což nevím proč. Karta vypadá, že je ok a stále platná. Co s tím nyní můžu udělat? Dík moc Jirka Dvořák From: notifications@aliteo.com Sent: Tuesday, December 10, 2024 3:01 AM To: dvorak@ncline.cz Subject: ALITEO - prodloužení licence se nezdařilo [Logo Aliteo] Co nejdříve proveďte kroky k vyřešení Prodloužení licence pro společnost NC Line a.s. se nezdařilo Nezdařila se automatická platba na další období pro společnost NC Line a.s.. Zkontrolujte prosím, zda je zadaná platební metoda správná. Platbu je nutno uhradit do 0 dnů, jinak bude licence změněna na tarif Basic. Zobrazit licenci     < https://app.aliteo.com/license/a04gqfgqh00vtk > [Logo Aliteo] Copyright 2022 ALITEO • Powered by KARAT Software",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, takze vravite ze karta je v poriadku? Primarne asi ide o platnost a zostatok na ucte. Primarne skontrolujte aj inak kartu a ja skusim zistit viac. Dakujem"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "chyba u nás. Karta sice platná do termínu, ale kolega odešel, tak ji zrušili. Moc se omlouvám, dám tam jinou a zkusím, zda to projde. Tím pádem to asi můžete uzavřít. A ještě jednou omluva."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "My sme uz medzitym zistovali a problem problem s overenim ale blizsie info sme nevedeli ziskat. Nechcel som pisat update kym nebudem mat detailnejsie info. Kazdopadne je fajn ze ss to vyriesilo. Dakujem"
+    }
+  ]
+}

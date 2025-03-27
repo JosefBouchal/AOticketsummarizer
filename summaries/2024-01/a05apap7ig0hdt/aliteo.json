@@ -1,0 +1,71 @@
+{
+  "id": "a05apap7ig0hdt",
+  "created": "2023-12-18T13:53:47.251Z",
+  "closed": "2024-01-05T11:51:17.144Z",
+  "duration_minutes": 25797,
+  "first_response_minutes": 12,
+  "name": "Pridanie externého člena",
+  "description": "Dobrý deň, snažím sa pridať externého člena, ale Aliteo mi vypisuje túto hlášku, viď príloha. Skúšal som aj nejakých členov zneplatniť ale nepomohlo to.",
+  "owner": "Lukáš Zadžora",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 6,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, o tejto chybe vieme, budeme nasadzovat opravu. Problem bol v tom, ze pri pridani externych uzivatelov sa automaticky zapinalo aj licencovanie co sposobilo ten problem ze ak boli vsetky licencie zabrate inymi uzivatelmi, potom nebolo mozne tohto uzivatela pridat. Zatial, ak Vam mozem poradit, vyskusajte pridat uzivatela cez API, tam vyslovene mozete uviest konkretny typ aj bez licencovania, to by malo ist. Budem vas informovat, hned ako bude oprava nasadena. Dakujem a ospravedlnujeme sa za neprijemnosti."
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "Dobrý deň pán Dzuro, v akom je to stave prosím Vás? Snažím sa momentálne pridať interného užívateľa, ale padá mi to do rovnakej chyby."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, toto uz bolo opravene. Vo Vasom pripade ste mali skutocne iba 46 licencii a chceli ste pridat 47. uzivatela, preto Vas to nepustilo. Chcem ze je teraz uz vsetko v poriadku? Dakujem"
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "dobrý deň, stále to nefunguje."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nerozumiem velmi co nefunguje. Mate zakupeny isty pocet licencii, tieto vsetky licencie uz mate rozdane medzi internych uzivatelov. Idete pridat dalsieho pre ktoreho chcete takisto licenciu - to nepojde, lebo nemate uz volnu. V nastaveni spolocnosti -> Licencie by ste mali mat zobrazeny zakupeny pocet a zaroven vyuzitie. Skuste mi to prosim poslat. Dakujem"
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "Ako jasné rozumiem. Ale pán Šeliga spomínal, že dal rozšíriť počet licencií na 50."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Takze  potom je problem ten, ze to este nemate rozsirene? A nie ten ze to mate rozsirene a nejde to pridat?"
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "Problém je ten že to ešte nemáme rozšírené. Ospravedlňujem sa, ja som sa zle vyjadril."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Komunikoval som s kolegom Durcakom a spominal, ze to nejako riesil s p. Seligom. Mozeme tento pripad teda uzatvorit ako vyrieseny a vec tykajucu sa rozsirenia licencii zalozit ako novy pripad prosim?"
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "jasné môžeme uzavrieť. Nemusíme ani otvárať nový prípad. Necháme nech si to doriešia pán Šeliga s pánom Ďurčákom."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, uzatvaram. Prajem pekny den"
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "ďakujem aj Vám."
+    }
+  ]
+}

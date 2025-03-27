@@ -1,0 +1,31 @@
+{
+  "id": "a05ecbnjng02bl",
+  "created": "2024-01-15T11:59:34.238Z",
+  "closed": "2024-02-01T12:14:55.076Z",
+  "duration_minutes": 24495,
+  "first_response_minutes": 15,
+  "name": "Jako externí s licencováním nevidím sebe ve výběru uživatelů",
+  "description": "Jsem ve společnosti: ALITEO - projekt Vývoj a jdu upravit atribut \"otestoval\" (typ uživatel). Chci najít sebe, protože jsem to otestoval a jsem externí, ale nemůžu. Přitom DZU mě tam vidí jako externího uživatele. Ve společnosti jsem jako - Externí s licencováním jako interní",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik, predal som na vyvoj"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "vyřešené"
+    }
+  ]
+}

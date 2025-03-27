@@ -1,0 +1,39 @@
+{
+  "id": "a06b3r646g17ln",
+  "created": "2024-08-25T16:22:08.771Z",
+  "closed": "2024-08-26T07:21:52.3Z",
+  "duration_minutes": 899,
+  "first_response_minutes": 100,
+  "name": "Po nové verzi mám všechny porady 2x",
+  "description": "viz. můj kalendář - jedna z nich má íčko - nepřipojená událost Ta co íčko nemá, má po rozbalení dole chybnou velikost prvku pro potvrzení účasti",
+  "owner": "Bahula Michal",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Bahula Michal",
+      "comment": "Allane, dal jsem přímo na tebe, kdyby to byl nějako obecnější problém, co je potřeba opravit"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Snad opraveno. Po nasazení."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Michal Bahula (michal.bahula@karatsoftware.cz) uz som reportoval tu: #5285 Zdvojenie udalosti"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Nasazeno."
+    }
+  ]
+}

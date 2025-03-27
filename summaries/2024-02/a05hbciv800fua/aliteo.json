@@ -1,0 +1,63 @@
+{
+  "id": "a05hbciv800fua",
+  "created": "2024-02-07T13:33:48.962Z",
+  "closed": "2024-02-12T13:55:25.086Z",
+  "duration_minutes": 7221,
+  "first_response_minutes": 22,
+  "name": "Porady - nechodí oznámení o pozvánce na poradu",
+  "description": "Mám hlášeno od více lidí, že jim nechodí pozvánky/upozornění na to, když jsou pozváni na poradu. Díval jsem se do nastavení a tam je možnost si zaslat něco z porady, ale pozvánka na poradu by asi mělo být vždy? Domněnky: - mě to přijde, protože si to ještě zasíláme e-mailem sami a do schůzky dáváme ten odkaz, proto jsme neřešili - možná chodí notifikace, ale ti co nepoužívají notifikace, se to nedozví (v nastavení to nejde vyžádat aby to přišlo e-mailem - možná je to tím, že mám napárován účet kalendáře a proto mi to třeba přišlo? Já na porady chodím tak málo, že fakt nevím.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Nastavení uživatele",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 5,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, primarne to byva spojene s tym, ze nema niektora zo stran sync s kalendarom. Ak organizator nema sync, v tomto pripade ty, potom nema kto by organizatorom tej udalosti a preto im pozvanka do emailu nepride. Ta ja podmienkou aby vobec nieco dostali. Skus to preverit a daj vediet.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ahoj, mají server Kerio takže s tou synchronizací bude asi problém. Prosím tedy přidat na poradu aby v nastavení bylo možné nastavit, že když jsem pozván na poradu, tak mi přijde e-mail."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nie som si isty ci rozumiem? Chces aby ked aj nikto nesynchronizuje, aby chodili email s tym ze si pozvany na poradu?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano, protože již dnes si zašleš informace o změnu bodu porady: ale o tom, že jsem na nějakou poradu přizvaný už nepošleme. Rozumím, že to máte tak, že porada je událost a bod už se nikde nenotifikuje, ale ne všichni to mají synchronizované (protože i kdyby tak to aliteo nyní neumí). Ale chápu, že těmto lidem bych stejně musel ručně poslat pozvánku do kalendáře aby tam měli ten link, protože nikde nemáme seznam porad, kde bych věděl jaké máme porady a nebo nechodí informace o tom že porada začíná atd."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pozri ulohu #2226 Nepríde e-mail o vytvorení porady Uz to zakaznik hlasil - ze je divne ue email o bode porady pride ale pozvanka nie. Ked som to riesil na porade, vznikol uplny opak ako zakaznik predpokladal - Nemal prist ani email o bode porady. Inou otazkou je evidencia porad na separatnej obrazovke. Teoreticky aj pre tych ktori nesynchronizuju. K tomu je tato uloha vo vyvoji: #1892 Objekt PORADY Mal si uz k tomu jeden pripad: #3297 Porady - cybí místo, kde by byly všechny dohromady"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "#2226 Nepríde e-mail o vytvorení porady no zde to asi není správně, že to jen tak \"zrušíte\" asi by to nemělo jít zatrhnout  pokud nesynchronizuji. tím se to vyřeší (zároveň by to mělo být zdokumentované). No ale pro mě ve výsledku se to pak nedá rozumně použít jak by člověk čekal, neber jako kritiku, ale konstatování. Místo toho aby to chodilo obojí a dalo se to použít, tak nepřijde ani jedno. Takže nyní Aximě můžu říci, že ať na porady zapomenou, protože to chodit nebude. K tomu místu, kde to má být pohromadě. Toto tedy uzavřeme. Jen poznamenám, že jsem na telefonu zkoušel Alfu a tam jsem našel, že je tlačítko \"Program\" v kalendáři a to mi zobrazilo porady které byly ve více dnech (bohužel jen  hlavního menu a ne z té spodní ikony) - tedy přesně to, co jsem potřeboval. Na velkém PC ale tlačítko \"program\" nemám - tak nevím jak mělo fungovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) - asi ano, trebalo by to previazat, ale obavam sa ze tych miest kde by to trebalo previazat je vela - vies ak mu nedojde pozvanka na poradu, lebo nesynchronizuje.. tak mame ci nemame dovolit pozyvat (ked vieme ze pozvanka nepride) ? - preco? Ved ty synchronizujes, a pozves ich, dojdem im pozvanka aj do emailu aj do ALITEO.. - s tymi poradami OK - nie je to tak, ze dnes ti ma zobrazit len veci Dnes - dnesny program? Ale ked das vo velkom kalendari \"Program\" tak tam vidis za sebou ako nasleduju udalosti po sebe ale ako keby infinity scroll??"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "tak přeci i když nesynchronizuji, tak není problém poslat ical nebo jak je ta pozvánka co chodí i z googlu či z čeho a když to bude chtít, tak si na to kliknu a přidám do kalendáře. takže zaslat mail s tou přílohou a vyřešeno. Partneři nesynchronizují, protože mají Kerio = nemohou. Takže proto píšu, že to pak nemá význam, když to jde jen s exchange a O365. Program nechme na jiné úko."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "1. ical je dostupny, ak mas nejaky postovy server, pokial viem, neda sa len tak urobit prazdna udalosti 2. snazzim sa ti vysvetlit, ze oni nemusia - staci ze synchronizujes ty s exchange, vytvoris udalosti a im realne pride pozvanka - skusal som to na seznam.cz. Testersky ucet nesynchronizuje a napriek tomu v kalendari pozvanku na porady dostal 3. ok"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, uzavřeme, vysvštleno."
+    }
+  ]
+}
