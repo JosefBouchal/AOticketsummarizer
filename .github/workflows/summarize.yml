@@ -2,7 +2,7 @@ name: Aliteo Support Summary
 
 on:
   schedule:
-    - cron: "35 10 * * *" # každý den v 11:35
+    - cron: "0 7 1 * *" # První den v měsící v 7:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -34,10 +34,24 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scripts/generate_summaries.py
 
+      - name: Generate monthly HTML report
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/generate_monthly_report.py
+
+      - name: Upload final monthly report to Aliteo
+        env:
+          ALITEO_API_KEY: ${{ secrets.ALITEO_JBO_API_KEY }}
+          ALITEO_COMPANY: ${{ secrets.ALITEO_JBO_COMPANY }}
+          ALITEO_PROJECT: ${{ secrets.ALITEO_JBO_PROJECT }}
+          ALITEO_EMAIL: ${{ secrest.ALITEO_EMAIL}}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/upload_monthly_report.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add summaries/
-          git diff --cached --quiet || git commit -m "📝 Auto update summaries from scheduled run"
+          git add summaries/ reports/
+          git diff --cached --quiet || git commit -m "📝 Auto update summaries and reports"
           git push
