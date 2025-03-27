@@ -78,7 +78,7 @@ payload_filtered = {
 
 response = requests.post(FILTERED_TASKS_URL, headers=HEADERS, json=payload_filtered)
 tasks_data = response.json()
-
+#print(tasks_data)
 if not tasks_data.get("tasks"):
     print("❌ Response data:", json.dumps(tasks_data, indent=2))
     raise Exception("No tasks found")
@@ -86,18 +86,30 @@ if not tasks_data.get("tasks"):
 task_ids = [task["id"] for task in tasks_data["tasks"]]
 
 # Step 2: Get task details
-payload_detail = {
-    "company": COMPANY,
-    "ids": task_ids
-}
+def fetch_details_in_batches(task_ids, batch_size=100):
+    all_details = []
+    for i in range(0, len(task_ids), batch_size):
+        batch_ids = task_ids[i:i + batch_size]
+        payload_detail = {
+            "company": COMPANY,
+            "ids": batch_ids
+        }
+        response = requests.post(DETAIL_TASK_URL, headers=HEADERS, json=payload_detail)
+        data = response.json()
+        if data.get("iserror"):
+            print(f"❌ Error in batch {i//batch_size + 1}: {data}")
+            continue
+        all_details.extend(data.get("data", []))
+    print(f"✅ Celkem načteno {len(all_details)} detailních ticketů z {len(task_ids)} ID.")
+    return all_details
 
-detail_response = requests.post(DETAIL_TASK_URL, headers=HEADERS, json=payload_detail)
-detail_data = detail_response.json()
-
+# Call and store all detailed tasks
+detailed_tasks = fetch_details_in_batches(task_ids)
+# print(detailed_tasks)
 # Step 3: Preprocess and save individually
 os.makedirs("summaries", exist_ok=True)
 
-for task in detail_data.get("data", []):
+for task in detailed_tasks:
     created = task.get("created")
     closed = task.get("closedate")
     created_dt = parser.isoparse(created) if created else None

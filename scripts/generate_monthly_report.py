@@ -1,7 +1,7 @@
 import os
 import json
 import markdown
-from datetime import datetime
+from datetime import datetime, timedelta
 from collections import Counter
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
@@ -13,8 +13,12 @@ from dateutil import parser
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# ====== Nastavení ======
-REPORT_MONTH = "2025-02"
+# ====== Automatický výpočet předchozího měsíce ======
+today = datetime.today()
+first_day_this_month = datetime(today.year, today.month, 1)
+last_month = first_day_this_month - timedelta(days=1)
+REPORT_MONTH = last_month.strftime("%Y-%m")
+#REPORT_MONTH = "2025-02"
 SUMMARIES_DIR = os.path.join("summaries", REPORT_MONTH)
 REPORT_DIR = os.path.join("reports", REPORT_MONTH)
 os.makedirs(REPORT_DIR, exist_ok=True)
