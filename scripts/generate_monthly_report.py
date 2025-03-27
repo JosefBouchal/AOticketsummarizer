@@ -13,16 +13,6 @@ from dateutil import parser
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# ====== Automatický výpočet předchozího měsíce ======
-today = datetime.today()
-first_day_this_month = datetime(today.year, today.month, 1)
-last_month = first_day_this_month - timedelta(days=1)
-REPORT_MONTH = last_month.strftime("%Y-%m")
-#REPORT_MONTH = "2025-02"
-SUMMARIES_DIR = os.path.join("summaries", REPORT_MONTH)
-REPORT_DIR = os.path.join("reports", REPORT_MONTH)
-os.makedirs(REPORT_DIR, exist_ok=True)
-
 SATISFACTION_TRANSLATION = {
     "Lowest": "Nejnižší",
     "Low": "Nízká",
@@ -33,7 +23,6 @@ SATISFACTION_TRANSLATION = {
     "": "Nevyplněno",
     None: "Nevyplněno"
 }
-
 
 def format_datetime(date_str):
     try:
@@ -104,20 +93,17 @@ def load_tickets(base_path):
             with open(summary_path, "r", encoding="utf-8") as f:
                 summary_raw = f.read()
 
-                # 🔧 Oprava: rozbij nadpis a seznam do samostatných odstavců
                 lines = summary_raw.splitlines()
                 fixed_lines = []
                 for i, line in enumerate(lines):
-                    # Pokud je to číslovaný bod s tučným názvem
                     if line.strip().startswith(("1.", "2.", "3.", "4.", "5.")) and "**" in line:
-                        fixed_lines.append(line)  # nech řádek
-                        fixed_lines.append("")    # přidej prázdný řádek – nový odstavec
+                        fixed_lines.append(line)
+                        fixed_lines.append("")
                     else:
                         fixed_lines.append(line)
 
                 summary_fixed = "\n".join(fixed_lines)
 
-                # Markdown na HTML s podporou seznamů
                 summary_html = markdown.markdown(
                     summary_fixed,
                     extensions=["extra", "sane_lists"],
@@ -128,8 +114,6 @@ def load_tickets(base_path):
             tickets.append(data)
     return tickets
 
-
-# ====== Statistika ======
 def group_and_count(tickets, key):
     return Counter(t.get(key) or "Neznámé" for t in tickets)
 
@@ -147,8 +131,6 @@ def count_task_owners(tickets):
         owners[owner] += 1
     return owners
 
-
-# ====== Vykreslení grafů ======
 def generate_plotly_graphs(tickets):
     durations = [t["duration_minutes"] / 1440 for t in tickets if t.get("duration_minutes")]
     comments = [t["comment_stats"]["total"] for t in tickets if "comment_stats" in t]
@@ -199,7 +181,6 @@ def generate_plotly_graphs(tickets):
 
     return plot(fig, include_plotlyjs='cdn', output_type='div')
 
-# ====== Hledání extrémů (nejrychlejší a nejpomalejší) ======
 def find_extremes(tickets):
     fastest = min((t for t in tickets if t.get("duration_minutes")), key=lambda t: t["duration_minutes"], default=None)
     slowest = max((t for t in tickets if t.get("duration_minutes")), key=lambda t: t["duration_minutes"], default=None)
@@ -371,7 +352,36 @@ def generate_html_report(tickets, graph_html):
 
 # ====== Main ======
 if __name__ == "__main__":
-    tickets = load_tickets(SUMMARIES_DIR)
-    graph_html = generate_plotly_graphs(tickets)
-    monthly_summary_html = generate_chatgpt_summary(tickets)
-    generate_html_report(tickets, graph_html)
+    summaries_root = "summaries"
+    reports_root = "reports"
+    
+    today = datetime.today()
+    current_month = today.strftime("%Y-%m")
+
+    for month_folder in sorted(os.listdir(summaries_root)):
+        month_path = os.path.join(summaries_root, month_folder)
+        if not os.path.isdir(month_path):
+            continue
+
+        if month_folder >= current_month:
+            continue
+
+        report_path = os.path.join(reports_root, month_folder, "monthly_summary.html")
+        if os.path.exists(report_path):
+            print(f"🔁 Report pro {month_folder} již existuje – přeskočeno.")
+            continue
+
+        print(f"📅 Zpracovávám měsíc: {month_folder}")
+        REPORT_MONTH = month_folder
+        SUMMARIES_DIR = os.path.join("summaries", REPORT_MONTH)
+        REPORT_DIR = os.path.join("reports", REPORT_MONTH)
+        os.makedirs(REPORT_DIR, exist_ok=True)
+
+        tickets = load_tickets(SUMMARIES_DIR)
+        if not tickets:
+            print(f"⚠️  Žádné platné tickety pro {REPORT_MONTH}, přeskočeno.")
+            continue
+
+        graph_html = generate_plotly_graphs(tickets)
+        monthly_summary_html = generate_chatgpt_summary(tickets)
+        generate_html_report(tickets, graph_html)

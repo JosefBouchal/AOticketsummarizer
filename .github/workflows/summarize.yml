@@ -48,10 +48,13 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scripts/upload_monthly_report.py
 
+      - name: Generate index.html with links to all reports
+          run: python scripts/generate_index_page.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add summaries/ reports/
-          git diff --cached --quiet || git commit -m "📝 Auto update summaries and reports"
+          git add summaries/ reports/ index.html
+          git diff --cached --quiet || git commit -m "📝 Auto update summaries, reports and index"
           git push
