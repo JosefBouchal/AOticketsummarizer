@@ -49,7 +49,7 @@ jobs:
         run: python scripts/upload_monthly_report.py
 
       - name: Generate index.html with links to all reports
-          run: python scripts/generate_index_page.py
+        run: python scripts/generate_index_page.py
 
       - name: Commit and push changes
         run: |
