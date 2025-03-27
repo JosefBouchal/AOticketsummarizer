@@ -1,21 +1,101 @@
+
 <!DOCTYPE html>
 <html lang="cs">
 <head>
-  <meta charset="UTF-8" />
-  <title>Měsíční support reporty</title>
-  <style>
-    body { font-family: sans-serif; padding: 2em; background: #f7f7f7; }
-    h1 { color: #333; }
-    ul { list-style-type: none; padding: 0; }
-    li { margin-bottom: 10px; }
-    a { text-decoration: none; color: #0066cc; }
-    a:hover { text-decoration: underline; }
-  </style>
+    <meta charset="UTF-8">
+    <title>📁 Přehled měsíčních reportů</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f9fa;
+            padding: 30px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 40px;
+            color: #343a40;
+        }
+        .month-link {
+            padding: 20px;
+            margin-bottom: 15px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: all 0.3s ease-in-out;
+            text-decoration: none;
+            color: #212529;
+            font-size: 1.2rem;
+        }
+        .month-link:hover {
+            background-color: #e9ecef;
+            transform: scale(1.02);
+        }
+    </style>
 </head>
 <body>
-  <h1>📊 Měsíční reporty supportu</h1>
-  <ul>
-    <li><a href="reports/2024-01/monthly_summary.html">2024-01</a></li><li><a href="reports/2024-02/monthly_summary.html">2024-02</a></li><li><a href="reports/2024-03/monthly_summary.html">2024-03</a></li><li><a href="reports/2024-04/monthly_summary.html">2024-04</a></li><li><a href="reports/2024-05/monthly_summary.html">2024-05</a></li><li><a href="reports/2024-06/monthly_summary.html">2024-06</a></li><li><a href="reports/2024-07/monthly_summary.html">2024-07</a></li><li><a href="reports/2024-08/monthly_summary.html">2024-08</a></li><li><a href="reports/2024-09/monthly_summary.html">2024-09</a></li><li><a href="reports/2024-10/monthly_summary.html">2024-10</a></li><li><a href="reports/2024-11/monthly_summary.html">2024-11</a></li><li><a href="reports/2024-12/monthly_summary.html">2024-12</a></li><li><a href="reports/2025-01/monthly_summary.html">2025-01</a></li><li><a href="reports/2025-02/monthly_summary.html">2025-02</a></li>
-  </ul>
+    <h1>📊 Měsíční reporty support ticketů</h1>
+    <div class="container">
+
+        <a class="month-link d-block" href="reports/2025-02/monthly_summary.html">
+            📅 Únor (Február) 2025
+        </a>
+    
+        <a class="month-link d-block" href="reports/2025-01/monthly_summary.html">
+            📅 Leden (Január) 2025
+        </a>
+    
+        <a class="month-link d-block" href="reports/2024-12/monthly_summary.html">
+            📅 Prosinec (December) 2024
+        </a>
+    
+        <a class="month-link d-block" href="reports/2024-11/monthly_summary.html">
+            📅 Listopad (November) 2024
+        </a>
+    
+        <a class="month-link d-block" href="reports/2024-10/monthly_summary.html">
+            📅 Říjen (Október) 2024
+        </a>
+    
+        <a class="month-link d-block" href="reports/2024-09/monthly_summary.html">
+            📅 Září (September) 2024
+        </a>
+    
+        <a class="month-link d-block" href="reports/2024-08/monthly_summary.html">
+            📅 Srpen (August) 2024
+        </a>
+    
+        <a class="month-link d-block" href="reports/2024-07/monthly_summary.html">
+            📅 Červenec (Júl) 2024
+        </a>
+    
+        <a class="month-link d-block" href="reports/2024-06/monthly_summary.html">
+            📅 Červen (Jún) 2024
+        </a>
+    
+        <a class="month-link d-block" href="reports/2024-05/monthly_summary.html">
+            📅 Květen (Máj) 2024
+        </a>
+    
+        <a class="month-link d-block" href="reports/2024-04/monthly_summary.html">
+            📅 Duben (Apríl) 2024
+        </a>
+    
+        <a class="month-link d-block" href="reports/2024-03/monthly_summary.html">
+            📅 Březen (Marec) 2024
+        </a>
+    
+        <a class="month-link d-block" href="reports/2024-02/monthly_summary.html">
+            📅 Únor (Február) 2024
+        </a>
+    
+        <a class="month-link d-block" href="reports/2024-01/monthly_summary.html">
+            📅 Leden (Január) 2024
+        </a>
+    
+    </div>
+    <footer class="text-center mt-5 text-muted">
+        <p>Generováno automaticky – <a href="https://github.com/JosefBouchal/AOticketsummarizer" target="_blank">AO ticket summarizer</a></p>
+    </footer>
 </body>
 </html>
