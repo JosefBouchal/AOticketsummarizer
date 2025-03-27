@@ -356,7 +356,7 @@ def generate_html_report(tickets, graph_html):
 
     html_content += """
         <footer class="mt-5 text-center text-muted">
-            <p>Generováno automaticky – AO ticket Summarizer - {REPORT_MONTH}</p>
+            <p>Generováno automaticky – <a href="https://github.com/JosefBouchal/AOticketsummarizer.git">AO ticket Summarizer</a></p>
         </footer>
     </body>
     </html>

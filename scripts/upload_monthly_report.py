@@ -98,9 +98,19 @@ payload = {
     ]
 }
 
+print("📤 ODESÍLANÝ REQUEST:")
+print(json.dumps(payload, indent=2, ensure_ascii=False))
+
 response = requests.post(API_URL, headers=headers, json=payload)
+
+print("📥 ODPOVĚĎ API:")
+print(f"Status code: {response.status_code}")
+try:
+    print(json.dumps(response.json(), indent=2, ensure_ascii=False))
+except Exception:
+    print(response.text)
 
 if response.ok:
     print("✅ Úkol byl úspěšně vytvořen v Aliteo.")
 else:
-    print("❌ Chyba při vytváření úkolu:", response.status_code, response.text)
+    print("❌ Chyba při vytváření úkolu.")
