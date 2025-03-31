@@ -1,0 +1,51 @@
+name: Generate Report from Issue
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Extract dates from issue
+        id: extract_dates
+        run: |
+          FROM_MONTH=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=From: ).*')
+          TO_MONTH=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=To: ).*')
+          echo "from_month=$FROM_MONTH" >> $GITHUB_ENV
+          echo "to_month=$TO_MONTH" >> $GITHUB_ENV
+
+      - name: Check if dates are present
+        run: |
+          if [[ -z "${{ env.from_month }}" || -z "${{ env.to_month }}" ]]; then
+            echo "❌ Chybí data (From nebo To)"
+            exit 1
+          fi
+
+      - name: Generate Custom Report
+        env:
+          FROM_MONTH: ${{ env.from_month }}
+          TO_MONTH: ${{ env.to_month }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/generate_custom_report.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add summaries/ reports/ index.html
+          git diff --cached --quiet || git commit -m "📝 Auto update reports"
+          git push

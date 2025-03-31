@@ -58,6 +58,38 @@ html = """
             transform: scale(1.02);
         }
     </style>
+    <script>
+    async function generateCustomReport() {
+        const fromMonth = document.getElementById("fromMonth").value;
+        const toMonth = document.getElementById("toMonth").value;
+
+        const issueData = {
+            title: "Generate Custom Report",
+            body: `From: ${fromMonth}\nTo: ${toMonth}`
+        };
+
+        try {
+            const response = await fetch("https://api.github.com/repos/JosefBouchal/AOticketsummarizer/issues", {
+                method: "POST",
+                headers: {
+                    "Accept": "application/vnd.github+json",
+                    "Content-Type": "application/json",
+                    "Authorization": "Bearer GITHUB_TOKEN"
+                },
+                body: JSON.stringify(issueData)
+            });
+
+            if (response.ok) {
+                alert("✅ Report úspěšně spuštěn!");
+            } else {
+                const errorData = await response.json();
+                alert("❌ Chyba při vytvoření issue: " + JSON.stringify(errorData));
+            }
+        } catch (error) {
+            alert("❌ Chyba při připojení: " + error.message);
+        }
+    }
+</script>
 </head>
 <body>
     <h1>📊 Měsíční reporty support ticketů</h1>
@@ -79,6 +111,16 @@ for folder in report_folders:
     """
 
 html += """
+        <h3 class="mt-5">📝 Vytvořit vlastní report</h3>
+        <div class="form-group">
+    <label>Od měsíce (YYYY-MM):</label>
+    <input type="text" id="fromMonth" class="form-control" placeholder="2024-01">
+</div>
+<div class="form-group">
+    <label>Do měsíce (YYYY-MM):</label>
+    <input type="text" id="toMonth" class="form-control" placeholder="2024-12">
+</div>
+<button onclick="generateCustomReport()" class="btn btn-primary">Vytvořit report</button>
     </div>
     <footer class="text-center mt-5 text-muted">
         <p>Generováno automaticky – <a href="https://github.com/JosefBouchal/AOticketsummarizer" target="_blank">AO ticket summarizer</a></p>
