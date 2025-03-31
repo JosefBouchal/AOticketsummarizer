@@ -49,3 +49,12 @@ jobs:
           git add summaries/ reports/ index.html
           git diff --cached --quiet || git commit -m "📝 Auto update reports"
           git push
+
+      - name: Close the issue
+        if: success()
+        run: |
+          curl -X PATCH \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.PERSONAL_ACCESS_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }} \
+            -d '{"state": "closed"}'

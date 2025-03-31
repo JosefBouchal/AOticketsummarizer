@@ -74,7 +74,7 @@ html = """
                 headers: {
                     "Accept": "application/vnd.github+json",
                     "Content-Type": "application/json",
-                    "Authorization": "Bearer GITHUB_TOKEN"
+                    "Authorization": "Bearer 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"
                 },
                 body: JSON.stringify(issueData)
             });
