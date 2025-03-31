@@ -369,7 +369,7 @@ def generate_html_report(tickets, graph_html, from_month, to_month):
     </html>
     """
 
-    report_dir = f"reports/report_{from_month}_to_{to_month}"
+    report_dir = f"reports/custom/report_{from_month}_to_{to_month}"
     os.makedirs(report_dir, exist_ok=True)
     output_path = os.path.join(report_dir, "summary.html")
 
