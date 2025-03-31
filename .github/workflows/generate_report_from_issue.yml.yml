@@ -25,22 +25,22 @@ jobs:
         run: |
           FROM_MONTH=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=From: ).*')
           TO_MONTH=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=To: ).*')
-          echo "from_month=$FROM_MONTH" >> $GITHUB_ENV
-          echo "to_month=$TO_MONTH" >> $GITHUB_ENV
+          echo "FROM_MONTH=$FROM_MONTH" >> $GITHUB_ENV
+          echo "TO_MONTH=$TO_MONTH" >> $GITHUB_ENV
 
       - name: Check if dates are present
         run: |
-          if [[ -z "${{ env.from_month }}" || -z "${{ env.to_month }}" ]]; then
+          if [[ -z "${{ env.FROM_MONTH }}" || -z "${{ env.TO_MONTH }}" ]]; then
             echo "❌ Chybí data (From nebo To)"
             exit 1
           fi
 
       - name: Generate Custom Report
         env:
-          FROM_MONTH: ${{ env.from_month }}
-          TO_MONTH: ${{ env.to_month }}
+          FROM_MONTH: ${{ env.FROM_MONTH }}
+          TO_MONTH: ${{ env.TO_MONTH }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scripts/generate_custom_report.py
+        run: python scripts/generate_custom_report.py $FROM_MONTH $TO_MONTH
 
       - name: Commit and push changes
         run: |
