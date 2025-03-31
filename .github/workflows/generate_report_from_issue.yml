@@ -50,6 +50,9 @@ jobs:
           git diff --cached --quiet || git commit -m "📝 Auto update reports"
           git push
 
+      - name: Generate index.html with links to all reports
+        run: python scripts/generate_index_page.py
+
       - name: Close the issue
         if: success()
         run: |

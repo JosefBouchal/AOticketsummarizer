@@ -90,7 +90,7 @@ html = """
             });
 
             if (response.ok) {
-                alert("✅ Report úspěšně spuštěn!");
+                alert("✅ Report byl úspěšně zadán k vytvoření! (Generování může trvat několik minut.. Následně je potřeba znovu načíst stránku)");
             } else {
                 const errorData = await response.json();
                 alert("❌ Chyba při vytvoření issue: " + JSON.stringify(errorData));
