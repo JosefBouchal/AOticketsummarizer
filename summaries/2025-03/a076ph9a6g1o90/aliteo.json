@@ -1,0 +1,47 @@
+{
+  "id": "a076ph9a6g1o90",
+  "created": "2025-03-28T15:53:27.175Z",
+  "closed": "2025-03-31T14:24:34.6Z",
+  "duration_minutes": 4231,
+  "first_response_minutes": 81,
+  "name": "Dokola vyskakující upozornění na problém s kalendářem",
+  "description": "Ahojte... nevím, co se dnes děje a co je důvodem, předpokládám, že to ani neumím řešit a tak jsem dnes trošku frustrovaný z toho, jak mě tento oranžový pruh terorizuje s velkou pravidelností, přičemž i v momentě, kdy jsem v té části potřeboval číst informace pod ním. Verifikované napojení na kalendář mám. Obecně i to hlášení při špatné konektivitě je takové hodně citlivé a myslím si, že ta hystereze by měla být výrazně vyšší, nebo třeba by si to mohlo pamatovat, že už se mi to během nějaké doby ukázalo. Ale nechci radit a jen hlásím, že je to značně otravné ;-) Děkuji.",
+  "owner": "Lukáš Trunečka",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "David Kočíř",
+      "comment": "Lukáš mi psal a tak jsem se rychle podíval v čem je problém a je to událostí v kalendáři Předpokládám, že zítra (29.3.) už mu to dělat nebude, jelikož ta událost se načítá dnes (28.3.) Souvisí s errors: Microsoft.Exchange.WebServices.Data.ServiceObjectPropertyException: This property was requested, but it wasn't returned by the server. at Aliteo.CalProviderExchange.getFindAppointmentItem(Appointment xapp) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Calendar\\CalProviderExchange.cs:line 1595 at Aliteo.CalProviderExchange.GetData(DateTime utcFrom, DateTime utcTo) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Calendar\\CalProviderExchange.cs:line 107 Tj. čtou se nějaké vlastnosti, které ta událost nemá: Microsoft.Exchange.WebServices.Data.ServiceObjectPropertyException HResult=0x80131500 Message=This property was requested, but it wasn't returned by the server. Source=Microsoft.Exchange.WebServices.NETStandard StackTrace: at Microsoft.Exchange.WebServices.Data.PropertyBag.get_Item(PropertyDefinition propertyDefinition) v private QueryUserCalendarItem getFindAppointmentItem(Appointment xapp)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "David, Takže netreba nič opravovať?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lukáš, vraj sa dana vec deje kvôli nejakej konkrétnej udalosti v tvojom kalendári. Zisťujeme či bude treba niečo upravovať ale už zajtra by si tento problém mať nemal"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Ahoj Dane, ok, klidně pak napište co konkrétně tam mám zlého... to mě zajímá :-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pochopil som tvoj vysmech, ale nebudem na neho reagovat. Naco? Nic zleho tam Lukas nemas, ale kombinacia nasej chybky v kode a dat (v tvojom pripade udalost) sposobila ze to nefungovalo spravne. Dnes by sa ti ta chyba uz nemala zobrazovat. Chybu sme vo vyvojovej odstranili."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Nepochopil, Dane. Nebyl to výsměch, byla to regulerní nabídka spolupráce. Mrzí mě, že si o nás apriory myslíš, že vás nemáme rádi. David za mnou byl, koukli jsme na to a našli to, co potenciálně problém způsobilo. Je to opakovaná událost, která má nějakou chybku, takže jsme se domluvili, že si ji tam nechám a za rok zjistíme, jestli je problém vyřešený. Děkuji za řešení."
+    }
+  ]
+}

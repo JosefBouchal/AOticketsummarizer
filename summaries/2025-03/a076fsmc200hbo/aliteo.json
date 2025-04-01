@@ -1,0 +1,55 @@
+{
+  "id": "a076fsmc200hbo",
+  "created": "2025-03-26T07:42:48.361Z",
+  "closed": "2025-03-30T14:41:05.884Z",
+  "duration_minutes": 6178,
+  "first_response_minutes": 204,
+  "name": "Nefunguje příjem požadavků na task.a073upg3500l7p@aliteo.com",
+  "description": "nezakládají se tikety poslané na adresu task.a073upg3500l7p@aliteo.com Urgentní",
+  "owner": "Josef Blažek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 2,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pride od ALITEO nejaka spatna odpoved. Ze nebolo mozne pripad zalozit? O ktory projekt ide? Dakujem"
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "nic nechodí zpět: #97 Chci řešení"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, dakujem predam na vyvoj..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vedel by si mi prosim poradit? Skusal som na dany email poslat zo svojho firemneho emailu spravu, ale nedostal som ziadnu odpovedt - ani o zalozeni ani o odmietnuti.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "1. Projekt a073upg3500l7p nemá nastavenu výchozí sekci pro přidání úkolu - to je chyba na kterou to spadlo, což lze zjistit v inboxu 2. Jelikož je na projektu zastaveno odesílání emailů, nepřichází chybový email (neodejde ani potvrzující email o založení úkolu) Tady řešení: - v nastavení projektu určit výchozí sekci - v nastavení projektu vypnout zastavení odesílání emailů Pro nás: Nastavení blokace emailů na projektu či společnosti je nebezpečné... co s tím? Mělo sloužit spíše pro import dat než pro běžný provoz..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) dakujem, nejak som nevedel cez data a inbox zistit kde nastal problem - asi som hladal zle Dakujem za navod a vyriesenie Za mna blokacia emailu nie je nebezpecna - len si to musim uvedomit. A msui tam byt nakolko respect potom posiela z automatov spravy a potom by im to mohlo narobit problemy a zacyklit. Kazdopadne dakujem."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "1. Projekt a073upg3500l7p nemá nastavenu výchozí sekci pro přidání úkolu - to je chyba na kterou to spadlo 2. Jelikož je na projektu zastaveno odesílání emailů, nepřichází chybový email (neodejde ani potvrzující email o založení úkolu) Tady řešení: - v nastavení projektu určit výchozí sekci - v nastavení projektu vypnout zastavení odesílání emailů"
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "Sekci smazal kolega upravil jsem nastavení a co se týká odesílání emailů tak to je protože nemůžeme odstraňovat vlastníky u anonymních tiketů , Tiket můžete zavřít. Děkuji"
+    }
+  ]
+}

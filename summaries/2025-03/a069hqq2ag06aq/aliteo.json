@@ -1,0 +1,67 @@
+{
+  "id": "a069hqq2ag06aq",
+  "created": "2024-08-13T13:01:45.81Z",
+  "closed": "2025-03-31T09:59:00.929Z",
+  "duration_minutes": 331017,
+  "first_response_minutes": 7,
+  "name": "zadání KA z KARATu, respektive přenos HTML tagů do Alitea končí tak, že ty html tagy zruší",
+  "description": "Ahoj,\r\n\r\nNevím, zda je to na vás, kluci, ale když z KARATU zadám KA do alitea, a použiju html tagy, respektive tvar text tak mi to dopadne jako text bez tagů, a to je protivny.\r\n\r\nPro test vám sem odložím textace, které jsem poslal do alitea  z karatu, a dopadly bez...\r\n\r\nOmlouvám se za mrdu textu, ale nechce se mi to trhat z kontextu a přehrabovat se v tom.\r\n\r\nViz níže:\r\n\r\n\r\n\r\n\r\nahoj,\r\n\r\npodle ORIONu máme chybnou definici pro export jak hlavičky, tak položek faktur vydaných, a to pro zahraničního partnera, nebo zřejmě pro partnera, na kterého se neaplikuje DPH, nebo jak se tato věc správně jmenuje.\r\nPříkladem to je Slovenský partner, který ve své krajině DPH platí nebo uplatňuje. Já popíšu problém, vy si z toho už vezmete, co potřebujete.\r\n\r\ntedy jestliže je prodej s 0% DPH..\r\n\r\ntýká se to těchto segmentů:\r\n\r\n1) 12.0 - var_rate položky:\r\n- protože je to akce s 0% DPH, na obrázku HOTLINE 24.002 PEZ00 - zboží v EU s 0% DPH, což je patrné z položky dokladu, tak mi v ORIONu sdělili, že položková vat_rate má být 0, ne 12, 10 nebo 21 (tedy asi nastavení DPH položky/nomenklatury)...\r\n- zde se očekává 0\r\nKonečně v následujícím segmentu - vat_total - celkem DPH za položku, již informace o 0 je... viz soubor\r\n\r\n\r\n2) hlavičkový údaj TAX_DETAILS.\r\n- zde posíláma skoro čisté nic 0 0 My tam podle požadavků ORIONu musíme posílat rozpis, jako tomu je u běžné faktury pro čecha s DPH, a mělo by to mít tvar asi takový: 0 4009.98 0 tedy vat_group 0 (tou nulou si tak docela jistý nejsemú\r\nvat_basis = základ daně\r\nvat_rate za doklad = 0\r\n\r\nje to analogie k běžném dokladu - v případě českého dokladu bys tam měl vat_group 1 , vat rate = 21, ....\r\n\r\n\r\npak je tu ještě jedna věc, kterou teprve vyzkousím a případně toto KA modifikuji (doplním):\r\na to je přepočet do lokální měny v případě ,že tomu Slovákovi prodám v CZK a jeho lokální měna je EUR 0 4009.98 0 A toto jsem však nezkoušel, a teprve to prubnu na dalšším dokladu a do tohoto KA napíšu.\r\n\r\n\r\njá to hodnotím jako chybu standardu a byl bych rád, kdybys to Dejve DFA vzal, a s orionem to raději zkontultovatl.\r\naktuálně to řeším na Mogadoru, kteří posílají fáčka na slovensko, viz partner Phoenix (je to kopie z Mogadoru) a díky této vadě to nedovedu řádně odesílat...\r\nprosím také o informaci, kdy se tomu budeš věnovat, protože já ty faktury na mogadoru nemohu odeslat a musím jim něco říct, případně nefa opravit..\r\n\r\npřikládám také guideline k INVOICES\r\n\r\ndíkes, filipp\r\n\r\n\r\nFilip Pražák\r\nconsultant\r\n\r\ntel.: +420 581 737 184 | mobil: +420 607 082 393 | filip.prazak@karatsoftware.cz< mailto:filip.prazak@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Filip Pražák",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 4,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report, preberiem s vyvojom, takze ty chces aby tie tagy ostali sucastou popisu ulohy.."
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": ":D dokonce to rozjede i ten emailovej reporter. ahoj, podle ORIONu máme chybnou definici pro export jak hlavičky, tak položek faktur vydaných, a to pro zahraničního partnera, nebo zřejmě pro partnera, na kterého se neaplikuje DPH, nebo jak se tato věc správně jmenuje. Příkladem to je Slovenský partner, který ve své krajině DPH platí nebo uplatňuje. Já popíšu problém, vy si z toho už vezmete, co potřebujete. tedy jestliže je prodej s 0% DPH.. týká se to těchto segmentů: 1)  <vat_rate>12.0</vat_rate> - var_rate položky: - protože je to akce s 0% DPH, na obrázku HOTLINE 24.002 PEZ00 - zboží v EU s 0% DPH, což je patrné z položky dokladu, tak mi v ORIONu sdělili, že položková vat_rate má být 0, ne 12, 10 nebo 21 (tedy asi nastavení DPH položky/nomenklatury)... - zde se očekává 0 Konečně v následujícím segmentu - vat_total - celkem DPH za položku, již informace o 0 je... viz soubor 2) hlavičkový údaj TAX_DETAILS. - zde posíláma skoro čisté nic <tax_details> <vat_total>0</vat_total> <excise_duty>0</excise_duty> </tax_details> My tam podle požadavků ORIONu musíme posílat rozpis, jako tomu je u běžné faktury pro čecha s DPH, a mělo by to mít tvar asi takový: <tax_details> <vat> <vat_group>0</vat_group> <vat_basis>4009.98</vat_basis> <vat_rate>0</vat_rate> </vat> tedy vat_group 0 (tou nulou si tak docela jistý nejsemú vat_basis = základ daně vat_rate za doklad = 0 je to analogie k běžném dokladu - v případě českého dokladu bys tam měl vat_group 1 , vat rate = 21, .... pak je tu ještě jedna věc, kterou teprve vyzkousím a případně toto KA modifikuji (doplním): a to je přepočet do lokální měny v případě ,že tomu Slovákovi prodám v CZK a jeho lokální měna je EUR <vat> <vat_group>0</vat_group> <vat_basis>4009.98</vat_basis> <vat_rate>0</vat_rate> <local_currency>A</local_currency> </vat> toto jsem však nezkoušel, a teprve to prubnu na dalšším dokladu a do tohoto KA napíšu. já to hodnotím jako chybu standardu a byl bych rád, kdybys to Dejve DFA vzal, a s orionem to raději zkontultovatl. aktuálně to řeším na Mogadoru, kteří posílají fáčka na slovensko, viz partner Phoenix (je to kopie z Mogadoru) a díky této vadě to nedovedu řádně odesílat... prosím také o informaci, kdy se tomu budeš věnovat, protože já ty faktury na mogadoru nemohu odeslat a musím jim něco říct, případně nefa opravit.. přikládám také guideline k INVOICES díkes, filipp"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "plus email report od vas k nam"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "ahoj ##1 - ano, chci, aby tagy zadané z KARATu při vytvoření KAčka zůstaly v popisu úlohy. děkuji"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Dušan Kovář (dusan.kovar@karatsoftware.cz) vedeli by sme to nejako vyriesit? viem ze blokujeme tagy ktore neumoznuje nas formatovany text. Dalo by sa to tak spravit aby tieto tagy presli rovnako ako to zobrazuje email v prilohe?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane ano uměli bychom to (nějak), a podle mne je na zachování tagů, které ve formátovaném textu podporujeme, jiný případ v plánu vývoje,"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) co sa tyka html tagov nasiel som len toto: #2388 Rozsirit API o moznosti formatovania textu a priloh teda tyka sa to API Teda nie je to vyslovene zadanie pripadu cez stranku ale API, tak zadam na to novy pripad, alebo to mam nbapisat do toho pripadu co som tu dal?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Ano, založ nový případ a klidně oba provaž vazbou."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Filip Pražák (filip.prazak@karatsoftware.cz) hodili sme do planu vyvoja, ale neviem ti povedat kedy sa to bude realizovat..."
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "tak jo. dlouho me to zas nenasralo, takze za m eok"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "nechame to otvorene?"
+    }
+  ]
+}
