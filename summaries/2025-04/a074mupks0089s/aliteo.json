@@ -1,0 +1,63 @@
+{
+  "id": "a074mupks0089s",
+  "created": "2025-03-12T12:02:49.522Z",
+  "closed": "2025-04-09T10:32:54.504Z",
+  "duration_minutes": 40230,
+  "first_response_minutes": 11,
+  "name": "Aliteo - Dotaz - ToDo / zavření úkolu",
+  "description": "Dobrý den, měla bych malou poznámku, pokud si v úkolech vedu ToDo a chci zavřít úkol, úkol je možno uzavřít bez upozornění, že není ToDo splněno. Z mého pohledu by bylo lepší, pokud by to bylo omezeno, že nelze zavřít úkol, pokud je nesplněno ToDo nebo alespoň pokud by byla hláška: pozor – otevřené úkolu ToDo Předem moc děkuji za pomoc. S pozdravem a přáním pěkného dne Ilona Remešová Nákupní manažerka [Image001]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 4,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, standarne je to tak, ze ak je to vyznamnejsia vec, tak sa pouzivaju na to Dielcie ulohy. Na tie je potom mozne zapnut nastavenie ktore blokuje uzatvorenie master ulohy ak nie su uzatvorene dielcie ulohy. Podobne aj s terminom splnenie. Teda ze nie je mozne posunut termin dielcej ulohy cez termin splnenia master ulohy."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Krásný den přeji. Děkuji za zprávu, dílčí úlohy využívám, ale ToDo by byla rychlejší varianta ještě další evidence. Teď jsem ještě vymyslela, že by bylo úžasné kdyby šel jednoduše označit komentář, aby se zobrazilo ToDo. Já radši nebudu vymýšlet ... IR:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim, rozumiem, takze by ste chceli aby nejakym nastavenim slo urobit to aby sa nedala zatvorit akakolvek uloha ak su otvorene to-do? co sa tyka komentar -> to-do: to mame v plane vyvoja aby sa na tri body na komentari dalo vytvorit to  kedze chapeme ze komentare su vela krat zadanim a clovek by to chcel mat nejako poznacene, takze to v buducnosti bude."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Zdravím, rozumiem, takze by ste chceli aby nejakym nastavenim slo urobit to aby sa nedala zatvorit akakolvek uloha ak su otvorene to-do? - byla bych vděčna, pokud nebude pro Vás zbytečně časově náročné, vidím to u nás jako užitečné a uživatelsky více \"blbuvzdorné\" co sa tyka komentar -> to-do: to mame v plane vyvoja aby sa na tri body na komentari dalo vytvorit to  kedze chapeme ze komentare su vela krat zadanim a clovek by to chcel mat nejako poznacene, takze to v buducnosti bude. - moc děkuji, vizuální označení komentáře vlaječkou a hvězdičkou jsem zmiňovala panu Ďurčákovi a bude moc užitečné když si potřebuji něco zvýraznit, k čemu se občas potřebuji vrátit, v množství komentářů se bude lépe hledat  a mít ještě možnost přiřadit do to-do je další  level vylepšení :-) Teď když píši, další nápad , že možnost použití barev, případně zvýraznění v textu by se hodilo... IR:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu: - blokovat zatvorenie ulohy ak su otvorene to-do (podobne ako dielcie ulohy) - farba (asi format pisma) v komentaroch - nedopatral som sa ze ci vobec planujeme  alebo vobec"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Z porady: - blokovanie to-do by islo do rovnakeho nastavenia ako blokovanie - format komentara: treba blizsie analyzovat"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, mam pre Vas informacie: - co sa tyka to.do - zaradili sme do planu vyvoja - teda uz do existujucej moznosti ktora bolkuje uzatvorenie ulohy ak nie su uzatvorene dielcie ulohy pridame aj to.do. Teda bude to fungovat tak ako chcete - co sa tyka farieb textu v komentari - nejde o jednoduchu vec preto to budeme este analyzovat."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Moc děkuji za update. Krásný den přeji"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, Vam takisto pekny den. Mouzeme tento pripad uzatvorit?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Úkol možné uzavřít a budu se těšit až bude realizováno."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "a078u69lf0134e",
+  "created": "2025-04-14T07:50:40.301Z",
+  "closed": "2025-04-21T09:17:31.229Z",
+  "duration_minutes": 10166,
+  "first_response_minutes": 39,
+  "name": "Automatické přidělování řešitele /kategorie",
+  "description": "Dobrý den, dokáži nějak na projektu nastavit, že se ukoly automaticky přidělují dle názvu úkolu? Chceme vytvořit nový projekt ( frontu) kam budou padat úkoly, kde bude vždy v textu  ( \"Vozidla\" nebo \" \"Ostatní\") Podle tohoto klíče, bych chtěl přidělovat řešitele. Případně Idealně nastavit kategorii a podle toho nastavit řešitele. děkuji MIchal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, bohuzial nie je mozne definovat takuto podmienku na zaklade nejakeho retazca."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "ok. díky za info. Není to asi \"must have\", ale za mě celkem pěkná features. můžete zavřít"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dakujem, ale mozem zaradit do podnetov.. este mi napiste v com by sme to hladali... nazov? popis? aj aj? dakujem"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "No v mém přípaě bych hledal v názvu. Ale obecně, bych šel dál.  Ideálěn nasadit AI  na popis a třeba najít miulého řešitele 🙂"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, AI uz mame v nejakej miere a budeme ho testovat na ostrych datach. Navrhovat riesitelov, pripadne dalsie informacie je nasim cielom. Ono problem je trochu v datach, vacsinou tie modely nemaju vlastnu databazu, takze im data musite vzdy na syntezu posielat a teda tisice uloh a dat.. co moze byt problem. To len mala vsuvka k tomu ako to funguje."
+    }
+  ]
+}

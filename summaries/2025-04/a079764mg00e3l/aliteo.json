@@ -1,0 +1,47 @@
+{
+  "id": "a079764mg00e3l",
+  "created": "2025-04-16T12:14:42.24Z",
+  "closed": "2025-04-17T10:03:53.015Z",
+  "duration_minutes": 1309,
+  "first_response_minutes": 6,
+  "name": "nejsou vidět porady v projektu",
+  "description": "V projektu #72 Porady provoz se za rok 2005 nezobrazují proběhlé porady a ani plánované  organizátor je pan Truxa",
+  "owner": "Josef Blažek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, nezobrazuju sa organizatorovi alebo Vam alebo obom? mozete mi prosim poslat screen porad v porovnani s outlookom ? dakujem"
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "Nevidí to ani pan Truxa  ani Josef Kujal který byl a je účastníkem žádost o screen předám"
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "screen RE_ ALITEO - #6640 - nový komentář úkolu_ nejsou vidět porady v projektu.msg"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "pravdepodobne pojde tzobrazit poradu pomocou prepinaca: Porada sa zrusi vtedy ak sa k nej zrusi udalost.. pokusime sa zistit co sa tam mohlo stat a preco je udalost zrusena"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "https://app.aliteo.com/project/a05umr24jg1eg0/?debuguseremail=michal.truxa@respect.cz&view=meetings"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim Vas, chyba bola opravena, p. Truxa by uz porady mal vidiet. prosim o kontrolu a ospravedlnujem sa za neprijemnosti"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a0789qpnm00ort",
+  "created": "2025-04-09T09:14:34.685Z",
+  "closed": "2025-04-13T15:36:10.04Z",
+  "duration_minutes": 6141,
+  "first_response_minutes": 63,
+  "name": "FW: Výpadky systému za RESPECT a.s.",
+  "description": "Dobrý den,\r\n\r\nOd včerejšího odpoledne nás trápí výpadky systému Aliteo, kdy se buď přeruší spojení se serverem a je třeba několikrát aktualizovat stránku, nebo se není možné do aplikace několik minut dostat. Mohu Vás požádat o prověření, jestli není na serveru problém?\r\n\r\nDěkuji, a přeji příjemný den,\r\n\r\nVeronika Dufková\r\nIT admin support\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 242\r\nmobil +420 734 418 436\r\nveronika.dufkova@respect.cz< mailto:veronika.dufkova@respect.cz >\r\nwww.respect.cz< http://www.respect.cz/ >\r\n●\r\n[Obsah obrázku Písmo, Grafika, snímek obrazovky, text  Popis byl vytvořen automaticky]\r\n[Image002][Obsah obrázku kreslení  Popis byl vytvořen automaticky]< https://www.linkedin.com/company/respect/?viewAsMember=true >[Obsah obrázku objekt, kreslení  Popis byl vytvořen automaticky]< https://www.facebook.com/respect.cz/?ref=aymt_homepage_panel&eid=ARBashmESIrERXmDJpT0t97I7V9wdocqHbHCJfEeCDAaJ6ThVgeV0T-MRwH4-T2g9b4x_WeS21mT85Qt >[Obsah obrázku hodiny  Popis byl vytvořen automaticky]< https://www.youtube.com/channel/UCxqJd7Sv6VDivvM-aTc9x6w?view_as=subscriber >[Image006]< https://www.instagram.com/respect_pojistovaci_makler/ >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas Ospravedlnujeme sa za neprijemnosti, o vypadku vieme, snazime sa analyzovat kde problem vznikol. Prosim Vas o info, deje sa to opakovanie v ramci dna, alebo sa to stalo raz na niekolko minut?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím, posielam malý update: Zaznamenali sme zvýšený výskyt podobných hlásení, a podľa našej predbežnej analýzy mohla situácia súvisieť s kombináciou vyššieho zaťaženia nášho modulu kapacitného plánovania a spomalených odoziev z kalendárových dát integrovaných cez platformu Microsoft Azure. Aktuálne prebieha optimalizácia dotknutých častí systému a zároveň úzka spolupráca s technickou podporou Azure, aby sme získali podrobnejšie dáta o možných výkyvoch na ich strane. Je však možné, že sa podobný problém ešte výnimočne objaví – preto naďalej monitorujeme výkon systému a pracujeme na trvalom riešení. Ospravedlňujeme sa za vzniknuté komplikácie a ďakujeme za pochopenie a trpezlivosť."
+    }
+  ]
+}

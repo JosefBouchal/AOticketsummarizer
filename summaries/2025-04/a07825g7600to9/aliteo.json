@@ -1,0 +1,71 @@
+{
+  "id": "a07825g7600to9",
+  "created": "2025-04-07T12:35:16.6Z",
+  "closed": "2025-04-11T10:08:30.351Z",
+  "duration_minutes": 5613,
+  "first_response_minutes": 59,
+  "name": "nejde vidět porada tymu",
+  "description": "Ahoj Mohl bych poprosit o pomoc? Nevidím poradu na květem pro tym #23, viz první obrázek Ale! Odkaz z mejlu https://app.aliteo.com/meeting/a05stecb0011lq/ funguje... Díky Filip Pražák consultant",
+  "owner": "Filip Pražák",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 3,
+    "from_others": 9,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, nevidis ju na zalozke porady a nevidis ju ani v kalendari ALITEO ani Outlook?"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "hoj, v kalendářu aliteo ju vidím v outlooku ji mám poslanou (přes tento odkaz jsem se do porady dostal) nevidí ji ale NIKDO v týmu (ani MLA, ani PMS)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, dik, skusim predat  na vyvoj, ale myslim ze oprava nepride hned, lebo uz mame nejake opravy na bete a tie sa testuju.. mozno az s prichodom novej verzie.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) mam pravdu s komentarom ##3 ? Asi toto uz riesit nechces vsak?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "nechci, aktuálně nemám žádné kalendářové případy, chci se zítra domluvit na nasazení co nejdříve."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Situácia je taká že na bete už máme nejaké opravy kalendárov a je možné že tieto opravy riešia aj tvoj problém. Dotestujeme nejaké posledné úlohy a nasadíme betu na ostrú a následne sa uvidí či tvoj problém bude pretrvávať alebo nie. Dovtedy by som to túto postavil ak súhlasíš?"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "jo jo"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) mozes sa prosim na to potzriet, vraj problem u Filipa pretrvava.. Akl bude treba vytvorim ti na to navazny do vyvoja"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Podle mne porada na 7.5. má špatné datum - je tam rok 2024."
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "poradu v květnu stále nevidím... nevím, zda to může být chyba uživsatele, nevidí ji ani Masař, ani Ladýřek, ani Ja"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Opakuji: Podle mne porada na 7.5. má špatné datum - je tam rok 2024."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Na tom linku https://app.aliteo.com/meeting/a05stecb0011lq/ je 7-5-2024. Nechť organizátor opraví."
+    }
+  ]
+}

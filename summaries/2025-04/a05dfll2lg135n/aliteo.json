@@ -1,0 +1,55 @@
+{
+  "id": "a05dfll2lg135n",
+  "created": "2024-01-08T12:51:41.876Z",
+  "closed": "2025-04-25T10:39:24.154Z",
+  "duration_minutes": 680987,
+  "first_response_minutes": 41,
+  "name": "Dashboard - práce s Portfolii",
+  "description": "potřeboval bych vyhodnotit data za koncového zákazníka který u nás má hodně projektů (tedy zakázek na co je smluví vztah), ale pro nás to je vždy jen jeden zákazník. nebo se dívat na data jako VIP/NEVIP atd. na to bych mohl použít portfolia. Problém je ten, že na Dashboardech není možné sledovat data za portfolia: - jedná se mi o osu X (vodorovnou) kde bych měl ty koncové zákazníka atd.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": null,
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 2,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Petr, takze co ma byt na tom grafe? - Y os - pocet uloh - X os - projekty  (nejakeho portoflia) ? Kludne si zavolajme k tomu.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano přesně, jde o to, že Gemini je složeno z 15 projektů, EGE ze 4 atd. a já to chci po zákaznících - tedy Zákazník = portfolio."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "sumarizujem na zaklade callu: - Y os - pocet uloh (projektov) - X os - portfolia (pri vybere portfolia je treba zadat typ, aby sa nemiesali rozne typy portfolii) mysliet aj na to, ze mozem chciet pridat rady, v ktorych budu projekty"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zapis z porady: - vytvorit ulohu na: - moznost doplnit do osy X portfolia - pridat filter na typ portfolia aby sme mohli predist zdvojeniu uloh"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) nasiel som starsiu ulohu a zistil som ze to co si chcel uz v alfe je: X - os portfolia a cez rady rozdelit este do projektov. To je to co si povodne chcel nie?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "zkouším na Betě kde je již verze 25.1 vidím to tam a vypadá to dobře. Ale narážím na jiný problém. Mám tam 3 společnosti ale portfolia mám druhá a třetí. Ale když dám vytvořit Widget, tak tam je ve filtru Společnost KSWPMS - což je první která nemá portfolia. nepřišel jsem na to, kde si mám změnit tu společnost. Protože v podmínkách to není: Jediné co pomohlo bylo vypnout společnost a vytvořit widget. - toto je Vlastnost nebo chyba? Dále jsem zjistil, že při definici Oblasti úkolů - projektové -> se správně zobrazí Portfolia a prac. prostory: ale když dám aplikovat a pak to znovu otevřu, tak se to nenačte: musím dát \"Oblasti úkolů\" a vrátit se aby se to načetlo. tedy toto uzavřeme a na zbytek si když tak vytvoříš požadavky na standard (ať jako požadavek, nebo hlášení chyby, ju?)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "- Prepinanie spolocnosti najdes tu: - portfolia v kriteriach pohladu (ze sa nezobrazia pri uprave, ale je treba prepnut prepinac na oblast ukolu na \"vsetky\") nahlasene do vyvoja.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) chyba v kriteriach pri uprave widgetu bola opravena vo verzii 25.1"
+    }
+  ]
+}

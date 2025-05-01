@@ -1,0 +1,51 @@
+{
+  "id": "a074mpua3g18c3",
+  "created": "2025-03-12T11:09:48.232Z",
+  "closed": "2025-04-24T06:40:08.49Z",
+  "duration_minutes": 61650,
+  "first_response_minutes": 61,
+  "name": "Výpadky ",
+  "description": "Nyní se mi často stává že je výpadek připojení když píšu (na telefonu) nový případ nebo vyjádření. Občas se mi stane, že začnou skákat chyby a je to červené od shora až dolů viz obrázek a za pár vteřin začnou mizet. Stačí obnovit stránku a je to ok, ale je to divné chování. Viz přílohy.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 2,
+    "from_others": 5,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano je to na ostrej teraz nie uplne v poriadku.. @ Dušan Kovář (dusan.kovar@karatsoftware.cz) je toto vyriesene v alfe?"
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Nepodařilo se mi nasimulovat, nicméně dávám na poradu, jak řešit výpis chyb, který na desktopu mám v konzoli, ale na mobilu není, kde se na něj podívat. Pro administrátory a testery by mohl být aspoň někde v administrativním okně, ať lze dohledat a ladit."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "teď se výpadky již zlepšili. Ano něco, co by si odchytilo chyby by bylo fajn."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Nateraz pozastavujeme, budeme riesit ked sa to nezlepsi po vydani aplikacie. - vyriesit logovanie chyb aj na mobile"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) pred nedavnom sme nasadli opravny patch kvoli pomerne velkym vypadkom. Je to uz mozno viac ako tyzden. Deju sa ti stale vypadky o ktorych pises v popise?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "myslím si, že je to lepší - na produkci. na betě kde se tento týden dala nová verze tak tam naopak výpadků nebo chyb přibylo, ale to beru, že se ještě bude ladit. takže toto uzavřeme a uvidíme s novou verzí?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) prosim ak su vypadky na bete, hned to hlas, ja tam nie som vacsinu casu. Radsej nech nam potvrdi AKO ze to bude odladene ako by sme mali to preniest na ostru a riesit az potom.."
+    }
+  ]
+}

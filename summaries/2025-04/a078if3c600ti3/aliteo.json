@@ -1,0 +1,35 @@
+{
+  "id": "a078if3c600ti3",
+  "created": "2025-04-11T11:32:31.482Z",
+  "closed": "2025-04-24T17:00:51.638Z",
+  "duration_minutes": 19048,
+  "first_response_minutes": 83,
+  "name": "Nefunkční odkaz na komentář hned za zmínkou",
+  "description": "Když do komentáře uvedu zmínku (@) a hned za ni napíšu odkaz na komentář (##), tak odkaz nefunguje. Musím mezi ně vložit mezeru .",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ďakujem za report, preposlal som na vývoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) chyba je opravena v novej verzii ktora coskoro vyjde. mozeme pripad uzatvorit?"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Jo, věřím, díky."
+    }
+  ]
+}

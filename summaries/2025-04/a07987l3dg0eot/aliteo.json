@@ -1,0 +1,27 @@
+{
+  "id": "a07987l3dg0eot",
+  "created": "2025-04-16T18:20:45.07Z",
+  "closed": "2025-04-22T07:07:01.538Z",
+  "duration_minutes": 7966,
+  "first_response_minutes": 95,
+  "name": "Načítání při loginu",
+  "description": "Dobrý den, evidujeme značně dlouhé načítání při loginu: Nyní čekám již několik minut. Update pro Noviko: máme tam nyní projekt i pro komplet sklady po stránce facility, výpadky nám tak provoz můžou komplikovat. Půjde prosím ošetřit? To dlouhé načítání stránek jsem již zmiňoval. Díky moc Tomáš Novák Vedoucí výdeje  | Head of outgoing NOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700 M: +420 720 061 074 tomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com > www.noviko.cz< http://www.noviko.cz/ > [A blue text on a black background  Description automatically generated with low confidence]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, je mozne to dlhe nacitanie nejako nasimulovat? Testovali sme prave odozvu pri logine a zda sa byt standardna. Skusali ste pi dlho nacitane pouzit refresh (F5)? Dakujem"
+    }
+  ]
+}

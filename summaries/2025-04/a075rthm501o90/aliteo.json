@@ -1,0 +1,31 @@
+{
+  "id": "a075rthm501o90",
+  "created": "2025-03-21T11:21:37.386Z",
+  "closed": "2025-04-04T09:57:25.914Z",
+  "duration_minutes": 20075,
+  "first_response_minutes": 43,
+  "name": "proklik na úkol hyperlinkem - chyba v konzoli",
+  "description": "na testovacím nám vznikají úkoly kde je v zadání případu odkaz na případ. Přikliknutí se to chová: 1. Firefox - vyskočí ztráta komunikace, červená hláška a pak se zobrazí správně požadovaný úkol 2. Edge - vyskočí okno s úkolem a během okamžiku se otevře ve stejné záložce požadovaný úkol. Máme nějak upravit ten odkaz aby to nehlásilo chybu? když jsem to otevřel přes pravé tlačítko v nové záložce, tak to bylo ok. Ale raději bych vyřešil proč to padá do chyby. Zmiňované KA je: #312571 PROJE 25.002.021 - Testovani patche a proklikáváme se sem: #311971 Chybějící #SAVEFILE - PROJE Z karatu to podle mě zakládáme přes tento text: (nebo to je ten, který vrátí Aliteo) tedy konkrétně: PROJE 25.002.021 - Testovani patche<br><br><br>Změna č. 1, Stav: Netestováno<br>Servisní skript pro převod ID save po změně modulu ukládání.<br><b>Původní zadání: </b><a href=\"https://app.aliteo.com/task/a074s6qe3g1s9d\">TA 311971</a>",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, nie som si isty, preto prosim @ Allan Konečný (allan.konecny@karatsoftware.cz) vies sa k tomu nejako vyjadrit? zalozim pripad do vyvoja, len daj vediet prosim"
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Ahoj, zkoušel jsem otevřít link přímo v prohlížeči. Pak jsem si udělal stránku s tím linkem odkazzkaratu.html . Vždy to dopadlo v pořádku. I v případě toho prokliku z případu #312571 PROJE 25.002.021 - Testovani patche to dopadlo dobře. Tak nevím, na co mám reagovat."
+    }
+  ]
+}

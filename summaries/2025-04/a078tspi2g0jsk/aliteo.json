@@ -1,0 +1,51 @@
+{
+  "id": "a078tspi2g0jsk",
+  "created": "2025-04-14T06:06:52.217Z",
+  "closed": "2025-04-14T14:06:25.926Z",
+  "duration_minutes": 479,
+  "first_response_minutes": 138,
+  "name": "Zase FV z AO má sazbu 23%",
+  "description": "Viz příloha, faktura má stále špatně data.xml ☹ už ani nevím co na to napsat\r\n\r\n\r\n\r\nLubomír Bednář\r\nsystem analyst\r\n\r\ntel.: +420 581 737 148 | lubomir.bednar@karatsoftware.cz< mailto:lubomir.bednar@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Lowest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, rozumiem Ti.. predal som na vyvoj"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "jen pro info, dle úhrady i pán uhradil 23% sazbu daně, tedy stále platí něco jiného, než na co má fakturu, to je tak aby brzo došla kontrola FU či úřadu pro ochranu spotřebitele"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, Allan toto uz riesil v ulohe #313921 faktura za Aliteo , je treba vydrzat do nasadenia novej verzie.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "kdo má vydržet, zákazník, finanční úřad nebo já? nebo Zdeňka, že ji to vždy musím updatnout? odpověď nečekám, klidně úkol zrušte, já už nemám sil"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, len sa snazim komunikovat a vies pripad k nejakemu koncu. Ostra je uz celkom inde nez vyvojova a ak daju tieto jednotky pripadov vyriesit jednotlivo, potom sa to do ostrej neopravuje. Mozeme teda uzatvorit (nejde mi primarne o ciel vsetko uzatvarat len rozmyslam ci je iny postup)? Pisal si ze zrusit, ale korektne sa pytam."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Ano Dane, já jsem myslel zrušit, jelikož v tomto úkole se nic neudělalo, jen se konstatovalo, že je to v alfě, ale klidně dej Žádost o zrušení a narovinu, nechápu stav, že to nechcete vyřešit než se dostane alfa na ostrou, ale neřeším"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "chapem, info pre @ Peter Ďurčák (peter.durcak@karatsoftware.sk) zatvaram - mam na tom nejaky vykazy prace..."
+    }
+  ]
+}

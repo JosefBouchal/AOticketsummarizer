@@ -1,0 +1,51 @@
+{
+  "id": "a07813vv3g0to9",
+  "created": "2025-04-07T06:29:16.878Z",
+  "closed": "2025-04-07T13:39:22.636Z",
+  "duration_minutes": 430,
+  "first_response_minutes": 76,
+  "name": "GetChanges, stejné eid a 2x záznam?",
+  "description": "Dneska v komunikaci:\r\n\r\n{\r\n        \"iserror\": false,\r\n        \"isrepeatable\": false,\r\n        \"lasttranid\": \"a07812aup03qhq\",\r\n        \"moredata\": false,\r\n        \"trans\": [\r\n               {\r\n                       \"tranid\": \"a07812au305ir4\",\r\n                       \"ts\": \"2025-04-07T06:11:10Z\",\r\n                       \"usercompany\": \"a015g173q016cv\",\r\n                       \"changes\": [\r\n                               {\r\n                                      \"type\": \"Modify\",\r\n                                      \"simple\": true,\r\n                                      \"def\": \"Task\",\r\n                                      \"id\": \"a07812arq01ir4\",\r\n                                      \"eid\": \"8704928\",\r\n                                      \"creator\": \"a01u43tg5g10ln\",\r\n                                      \"created\": \"2025-04-07T06:11:07.843Z\",\r\n                                      \"fields\": [\r\n                                              {\r\n                                                     \"name\": \"NumberId\",\r\n                                                     \"type\": \"Number\",\r\n                                                     \"value\": \"313555\"\r\n                                              },\r\n                                              {\r\n                                                     \"name\": \"FirstSolver\",\r\n                                                     \"type\": \"UserCompany\",\r\n                                                     \"value\": \"a025f7k1sg0vmr\"\r\n                                              },\r\n                                              {\r\n                                                     \"name\": \"FirstSolverDate\",\r\n                                                      \"type\": \"DateTime\",\r\n                                                     \"value\": \"2025-04-07T06:11:10.604Z\"\r\n                                              }\r\n                                      ]\r\n                               }\r\n                       ]\r\n               },\r\n               {\r\n                       \"tranid\": \"a07812aup03qhq\",\r\n                       \"ts\": \"2025-04-07T06:11:11Z\",\r\n                       \"usercompany\": \"a015g173q016cv\",\r\n                       \"changes\": [\r\n                               {\r\n                                      \"type\": \"Modify\",\r\n                                      \"simple\": true,\r\n                                      \"def\": \"Task\",\r\n                                      \"id\": \"a07812ask01qhq\",\r\n                                      \"eid\": \"8704928\",\r\n                                      \"creator\": \"a01u43tg5g10ln\",\r\n                                      \"created\": \"2025-04-07T06:11:07.843Z\",\r\n                                      \"fields\": [\r\n                                              {\r\n                                                     \"name\": \"NumberId\",\r\n                                                     \"type\": \"Number\",\r\n                                                     \"value\": \"313556\"\r\n                                              }\r\n                                      ]\r\n                               },\r\n                               {\r\n                                      \"type\": \"Create\",\r\n                                      \"simple\": true,\r\n                                      \"def\": \"MemberTask\",\r\n                                      \"id\": \"a07812auk01qhq\",\r\n                                      \"parent\": {\r\n                                              \"id\": \"a07812ask01qhq\",\r\n                                              \"field\": \"Members\",\r\n                                              \"def\": \"Task\",\r\n                                              \"eid\": \"8704928\"\r\n                                       },\r\n                                      \"created\": \"2025-04-07T06:11:08.147Z\",\r\n                                      \"fields\": [\r\n                                              {\r\n                                                     \"name\": \"UserCompany\",\r\n                                                     \"type\": \"UserCompany\",\r\n                                                     \"value\": \"a01u43tg5g10ln\"\r\n                                              }\r\n                                      ]\r\n                               }\r\n                       ]\r\n               }\r\n        ]\r\n}\r\n\r\n\r\nTedy furt stejné eid  ale řečeno 2x vytvořen záznam, ale my máme jen jeden a k jednomu 2x data (aliteoID) naplnit nemůžu a tedy spadla synchronizace.\r\n\r\n\r\n\r\nLubomír Bednář\r\nsystem analyst\r\n\r\ntel.: +420 581 737 148 | lubomir.bednar@karatsoftware.cz< mailto:lubomir.bednar@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Lubomír Bednář",
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 4,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "jen pro informaci, synchronizace stojí, jelikož to není moc jak vyřešit, pokud k našemu jednomu eid máte vytvořené dvě komponenty a07812arq01ir4 a a07812ask01qhq"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj Lubos, posielam na vyvoj.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "zatím prosím tento update a07812ask01qhq eid 8704954"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "je to updatnuté"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "nyní už to jede a je vše staré z fronty vyřešeno"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, mam rovnake info od Allana. Mozeme teda uzatvorit?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano"
+    }
+  ]
+}

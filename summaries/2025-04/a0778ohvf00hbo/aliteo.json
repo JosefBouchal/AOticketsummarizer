@@ -1,0 +1,51 @@
+{
+  "id": "a0778ohvf00hbo",
+  "created": "2025-04-01T08:35:44.946Z",
+  "closed": "2025-04-08T12:36:26.435Z",
+  "duration_minutes": 10320,
+  "first_response_minutes": 225,
+  "name": "Zmena väzby pridanej iným užívateľom",
+  "description": "Kolega pridal jednostrannú väzbu na úlohu. Chcela som ju opraviť na obojstrannú, ale nedovoľuje mi to. Nedovoľuje mi ani pridať novú väzbu na tú istú úlohu, lebo mi napíše, že väzba už existuje. Jeho väzbu nemôžem ani zrušiť a založiť ju nanovo.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano, tak je funkcia urobena: - nie je mozne zmenit vazbu - zrusit vazbu moze len jej vlastnik - nie je mozne mat viac vazieb na tu istu Ake by si navrhovala riesenie?"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "spravca spolocnosti ma mat pravo na vsetko, co ked je vlastnik vazby na PN, dovolenke alebo uz u nas nepracuje?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Asi to bude kombinacia administratora a supervizora, ale zoberiem na poradu a dam vediet.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vyvojari ma upozornili, ze by malo byt mozne pridat jednostrannu vazbu z druhej strany a tym by malo vzniknut prepojenie."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "ok, to mi nenapadlo, nabuduce vyskusam, tento pripad sme vyriesili tym, ze to opravil zadavatel vazby"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Super, som rad ze sa vyriesilo. Mozeme uzavriet?"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "ano"
+    }
+  ]
+}

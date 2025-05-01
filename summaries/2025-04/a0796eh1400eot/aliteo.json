@@ -1,0 +1,63 @@
+{
+  "id": "a0796eh1400eot",
+  "created": "2025-04-16T07:56:46.16Z",
+  "closed": "2025-04-16T13:47:26.441Z",
+  "duration_minutes": 350,
+  "first_response_minutes": 10,
+  "name": "ALIEO alfa - prosím zapnout možnost synchronizace pro a02fb4h4d01g7n",
+  "description": "Prosím pro společnost a02fb4h4d01g7n na Alfě zapnout možnost synchronizace, tedy vyřešit Company a02fb4h4d01g7n: Basic plan does not support API interface - it is supported from Premium plan\r\n\r\n Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 5,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, chapem spravne ze potrebujete zmnit licencovanie aby Vam islo API?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Ano, abych mohl otestovat patch karatu pro API verzi 2"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nastavil som ti to, skus pozriet ci je to ok.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "jede, díky moc!!!! můžeme uzavřít"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Tak ještě asi ne, jelikož mám problém, že asi Alfa vznikla kopíí z něčeho a já bych potřeboval abych v Alfě ve společnosti neměl naplněno žádné eid, jelikož to je pro mě nová společnost z pohledu synchronizace"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "doplnění k ##5 například má eid a tedy mě nebylo zasláno v inicializaci a pak je problém"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Toto uz asi ja nevyriesim ci ano? Prosim o info ako, pripadne ci mam predat na AKO."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "prosím AKO předat, ať v té společnosti a02fb4h4d01g7n na alfě smazat všechny EID"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) je tu poziadavka na Teba... ak treba pripad do vyvoja lebo budes davat patchovat nieco daj mi vediet.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Sice nechápu jak to vzniklo, protože společnost se nekopíruje, nicméně smazal jsem servisně všechna externalid."
+    }
+  ]
+}

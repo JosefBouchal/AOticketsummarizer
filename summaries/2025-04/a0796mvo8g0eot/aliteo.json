@@ -1,0 +1,83 @@
+{
+  "id": "a0796mvo8g0eot",
+  "created": "2025-04-16T09:29:10.577Z",
+  "closed": "2025-04-17T10:06:06.6Z",
+  "duration_minutes": 1476,
+  "first_response_minutes": 107,
+  "name": "API version 2 nepadá na chybu, když pošlu version menší",
+  "description": "Nyní jsem zkusil poslat na ALFU požadavek, na inicializaci databázi, kde jsem dal version: 0 a synchronizace mě ze strany AO nespadla na to, že tato verze již není podporována. Máte to už zapracováno? Já bych potřeboval odchytit tu chybu, abych mohl nastavit automatickou opravu.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 15,
+    "from_owner": 6,
+    "from_others": 9,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predam na AKO.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "od @ Allan Konečný (allan.konecny@karatsoftware.cz) : version 0 skutečně nepadá, pokud dáš version 1, spadne to. 0 = neuvedeno v json jsem ponechal z důvodu kompatibility - nevím  jak zajistit, aby nezačalo padat založení úkolů z IS KARAT, dokud se všude nedostane verze s version."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tak za mě volání bez version = version null a né 0 tedy buď neuvedu version a nemůže padat a nebo uvedu version a pak musí podporovat min. definovanou"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "ne že by to bylo důležité, ale měním version na nullable int - null nekontroluji, uvedenou hodnotu kontroluji včetně 0."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane reagoval jsem i v případu ve vývoji a je k patchování."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "aha, my už orpavili, že bude mít verzi 1, ono moc není šikovné to řešení ve více případech o kterých nic nevím"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo myslis ze mame viac pripadov na jednu vec? v tomto pripade v supporte a druhu vo vyvoji.. ono vo vyvoji nie je nic viac nez co dam sem.. ale vo vyvoji mame etapy na patchovanie, aby som vedel dat vediet na supprote ked uz je dana vec nasadena a tato este nebola.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane, myslel jsem jen, že Allan psal, že reagoval i v případu ve vývoji a dal k patchování. Jinak nevýhodu dvou případů vidím například i v tom, že já napíšu komentář, řešitel zde jsi ty či support tým nebo kdo to byl a Allan mě na to nereagoval až když jsem za ním došel, zda by to mohl udělat (tehdy promazat eid, když jste naimportovali jednu 2x stejný úkol se stejným eid), jelikož my stojíme tak byl překvapen, že jsem někde já něco napsal a říkal, že on má na to jiný případ, ale na rovinu toto já řešit nechci, to je váš proces, ale asi by bylo vhodné pak ty komentáře co se dávají v tomto prostoru (projektu) kopírovat i do těch vývojových. Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mali sme to jeden cas tak, ze som zakladal pripad do vyvoja a teba som dal potom ako riesitela alebo vlastnika kvoli uzatvoreniu (nepamatam presne) a ked sa spravne pamatam bol tam nejaky problem. Tak som to rozdelil a drzim to takto. Takisto ak sme v jednom pripade a AKO opravi, tak tu len napise ze nema tu etapu \"patchovanie\" co je logicke kedze sme v priestore supprot nie vyvoj takze potom je tazke vediet kedy to uz je nasadene a podobne. Bohuzial nedokazem byt rychlejsi ako ty ked sa postavis zo stolicky a pojdes za Allanom. Ja som komentare a reakcie kopiroval pozri sa sam: #6639 API version 2 nepadá na chybu, když pošlu version menší"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane, jednalo se o vyjádření #6531 GetChanges, stejné eid a 2x záznam? ##3 a za Allanem jsem došel cca po 30min. zda by byl tak laskavý a konečně to udělal, že stále stojíme, nesychronizujeme, tedy nedělo se co uvádíš v ##9 , ale to je jedno, prostě takto jak to máte a někteří pracují jak pracují (nemyslím Tebe, mě je jasné, že nemůžeš být 24h a překopírovávat komentáře), ale prostě tvůrce toho programu nečte vyjádření, jen kde je zmíněn, pak se už nyní zmiňují všichni všechny i když jej dají jako řešitele (hrůza děs), ale to jsme jinde, já chtěl upozornit jen na to, že váš proces není úplně šťastný, jelikož já urguju, ale dokud mu to nezkopíruješ, tak to nemá příjemce. Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "aha tak to bola moja chyba, som si neuvedomil.. Neviem bohuzial ako to inak riesit, v jednem sa neda a v dvoch sa mozu stratit informacie.. No nic.. budem si davat pozor.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane, asi si nerozumíme. Já píšu špatně proces nikoliv Tvá chyba, přeci není možné, že si nemůžeš odskočit řešit něco (zabřednout do něčeho a být 100x vyrušován překopírováváním vyjádření), toto je neudržitelné a věřím, že chápeš jako tvůrce sw, že to je koncepčně špatně. Ano já bych si to uměl vyřešit přes synchronizaci. Jinak můžeme uzavřít. --jinak není v SK dneska svátek? tedy si na druhé straně opravdu Dan nebo nějaký stroj? :-) Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Som zivy Dan a volno nemame :) az zajtra Chapem, no proces si navrhujem a menim ja, takze je to moja chyba 🙂 No porozmyslam ako to spravit lepsie ale pracujem s tymto: - nechcem aby boli programatori otravovany supportom (musim si to sledovat ja - mam na to cez make aj pushky do telefonu zatial kazdu hodinu ale mozem to teoreticky skratit) - ak vyssie uvedene prezujeme tak neviem ci dosiahnem to ze ulohu prelozim na programatora a ci chcem aby si sami zakladali pripady do vyvoja - ak by to chceli uz by to robili a nepisali by mi tu ze \"nemam tu patchovat\", co je logicke lebo sme v inom procese (service desk a nie vyvoj) Jedine tak, ze komunikaciu budeme robit vzdy tu (opat musia pochopit vyvojari a to nie je vzdy zrejem ked nieco opravuju ci to je zo supportu alebo nie) a stav nasadenia a vykazovanie tam. Druha vec, nie menej podstatna je ta, ze niekedy nechcem aby sa tu Allan vyjadroval ak hrozi ze sa napise komentar ktory nechcem aby vlastnik videl. Takze tych veci je vela co treba zohladnit.. snad som ti nezabil vela casu  :)"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "##13 ano pak chápu. klidně můžeš zavřít, ju"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "FYI: měním version na nullable int - null nekontroluji, uvedenou hodnotu kontroluji včetně 0."
+    }
+  ]
+}

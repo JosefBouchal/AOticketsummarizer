@@ -1,0 +1,35 @@
+{
+  "id": "a07a7b9sh001p0",
+  "created": "2025-04-24T07:35:53.942Z",
+  "closed": "2025-04-27T18:45:27.427Z",
+  "duration_minutes": 4989,
+  "first_response_minutes": 44,
+  "name": "Verejný \"mód\"",
+  "description": "V minulosti sa spomínalo, že bude možné ALITEO prepnúť do verejného \"módu\", tj. aby sa mi nezobrazovali Interné komentáre. Momentálne si viem vyfiltrovať verejné/interné komentáre na úlohe, ale ak to  svietim napríklad na projektore so zákazníkom, tak za tú chvíľu môže nejaký interný komentár zahliadnuť, zároveň je to nepraktické preklikávať to na každej úlohe. Momentálne to riešime tak, že máme fiktívneho externého užívateľa Janka Hraška, ktorého na tento účel používame (prihlásim sa ako Janko Hraško a to svietim na projektore). To má však nevýhodu, že nemôžem hned písať komentár. Zaujímalo ma teda, či sa niečo plánuje v tomto smere.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano, mame v plane vyvoja podobnu funkcionalitu, zatial s nazvom prezentacny rezim."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "ďakujem, predpokladám, že sa o tom potom nejakým spôsobom dozviem, môžeme uzavrieť"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, po nasadeni novej verzie sa po prihlaseni uzivatel dozvie priamo z aplikacie ze bola nasadena nova verzia a co obsahovala."
+    }
+  ]
+}

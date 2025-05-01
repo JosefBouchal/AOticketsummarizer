@@ -1,0 +1,27 @@
+{
+  "id": "a07a00vl3006b1",
+  "created": "2025-04-22T12:56:30.142Z",
+  "closed": "2025-04-28T12:27:14.797Z",
+  "duration_minutes": 8610,
+  "first_response_minutes": 317,
+  "name": "HD: šablona úkolu pro všechny v rámci projektu",
+  "description": "Dobrý den, Rád bych využil možnost vytvořit pár šablon nových úkolů pro uživatele v rámci projektu. Zatím jsem našel pouze možnost vytváření šablon ve svém uživatelském profilu, ale tyto šablony nejsou pro ostatní uživatele dostupné. Vidím a použít je mohu pouze já jako autor. Jak lze tyto šablony sdílet resp. jak mohu vytvořit nové šablony úkolů pro všechny uživatele v projektu? Děkuji za pomoc. Martin PŘIKRYL IT Coordinator Lesaffre Česko & Lesaffre Slovensko Mob. +420 739403300 Hodolanská 34, 779 00 Olomouc, Czechia",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, sablony su len sukromne a teda nie je mozne ich zdielat inym uzivatelom. Je to ale dobry postreh, mozme zaradit na posudenie zaradenia do vyvoja. Dakujem"
+    }
+  ]
+}

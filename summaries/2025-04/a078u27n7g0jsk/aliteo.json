@@ -1,0 +1,59 @@
+{
+  "id": "a078u27n7g0jsk",
+  "created": "2025-04-14T07:06:19.033Z",
+  "closed": "2025-04-22T05:39:18.43Z",
+  "duration_minutes": 11432,
+  "first_response_minutes": 81,
+  "name": "API - proč se posílají atributy bez value?",
+  "description": "Proč chodí atributy, když nemají value? Pak to znamená, že to zpracovatel musí ošetřovat, přitom řekl bych, že opačně value, eid či value_eid musí být zasíláno.\r\n\r\n{\r\n        \"iserror\": false,\r\n        \"isrepeatable\": false,\r\n        \"lasttranid\": \"a078f1ifa0175h\",\r\n        \"moredata\": false,\r\n        \"trans\": [\r\n               {\r\n                       \"tranid\": \"a078f1iek0575h\",\r\n                       \"ts\": \"2025-04-10T15:36:10Z\",\r\n                       \"usercompany\": \"a01u7791k010ln\",\r\n                       \"changes\": [\r\n                               {\r\n                                      \"type\": \"Create\",\r\n                                      \"simple\": true,\r\n                                      \"def\": \"Task\",\r\n                                      \"id\": \"a078f1icqg175h\",\r\n                                      \"parent\": {\r\n                                              \"id\": \"a03oitj5ig92mg\",\r\n                                              \"field\": \"Tasks\",\r\n                                              \"def\": \"Section\",\r\n                                              \"eid\": \"2298070\"\r\n                                      },\r\n                                      \"attrs\": [\r\n                                              {\r\n                                                     \"id\": \"a029urgc501hbc\",\r\n                                                     \"type\": \"Enum\",\r\n                                                     \"value\": \"a029urjfb01hbc\",\r\n                                                      \"idapicode\": \"TYP\",\r\n                                                     \"valueapicode\": \"POZ\"\r\n                                              },\r\n                                              {\r\n                                                     \"id\": \"a029urq0kg1hbc\",\r\n                                                     \"type\": \"Enum\"\r\n                                              },\r\n                                              {\r\n                                                     \"id\": \"a029us1n4g1hbc\",\r\n                                                     \"type\": \"Enum\",\r\n                                                     \"idapicode\": \"PRIREKL\"\r\n                                              },\r\n                                              {\r\n                                                     \"id\": \"a029usl4fg1hbc\",\r\n                                                     \"type\": \"Enum\",\r\n                                                     \"idapicode\": \"FA\"\r\n                                              }\r\n                                      ],\r\n                                      \"creator\": \"a01u7791k010ln\",\r\n                                      \"created\": \"2025-04-10T15:36:09.491Z\",\r\n                                      \"fields\": [\r\n                                              {\r\n                                                     \"name\": \"Done\",\r\n                                                     \"type\": \"Enum\",\r\n                                                     \"value\": \"Solving\"\r\n                                              },\r\n                                              {\r\n                                                     \"name\": \"NumberId\",\r\n                                                     \"type\": \"Number\",\r\n                                                     \"value\": \"313839\"\r\n                                              },\r\n                                              {\r\n                                                     \"name\": \"Owner\",\r\n                                                     \"type\": \"UserCompany\",\r\n                                                     \"value\": \"a01u7791k010ln\"\r\n                                              },\r\n                                              {\r\n                                                     \"name\": \"Name\",\r\n                                                     \"type\": \"String\",\r\n                                                     \"value\": \"obnova případů 312526 kopie záloh\"\r\n                                              },\r\n                                              {\r\n                                                     \"name\": \"Description\",\r\n                                                     \"type\": \"FormattedText\",\r\n                                                     \"value\": \"dobrý den, opět chodí panu řediteli chybová hláška ke kopírování záloh. Fw: Scheduled task \\\"Kopie záloh po inkrementální - JPS - JPServis, a.s.\\\" [id=0908041655010060] finished. prosím prověřit. Holičková Martina \"\r\n                                              },\r\n                                              {\r\n                                                     \"name\": \"Phase\",\r\n                                                     \"type\": \"ComponentPointer\",\r\n                                                     \"value\": \"a029uqq1jg1rba\"\r\n                                              }\r\n                                      ]\r\n                               },\r\n                               {\r\n                                      \"type\": \"Create\",\r\n                                      \"simple\": true,\r\n                                      \"def\": \"Attachment\",\r\n                                      \"id\": \"a078f1iefgb75h\",\r\n                                      \"parent\": {\r\n                                              \"id\": \"a078f1icqg175h\",\r\n                                              \"field\": \"Attachments\",\r\n                                              \"def\": \"Task\"\r\n                                      },\r\n                                      \"creator\": \"a01u7791k010ln\",\r\n                                      \"created\": \"2025-04-10T15:36:10.557Z\",\r\n                                      \"fields\": [\r\n                                              {\r\n                                                     \"name\": \"FileName\",\r\n                                                     \"type\": \"String\",\r\n                                                     \"value\": \"KA chybová hláška zálohy.pdf\"\r\n                                              }\r\n                                      ]\r\n                               },\r\n                               {\r\n                                      \"type\": \"Create\",\r\n                                      \"simple\": true,\r\n                                      \"def\": \"MemberTask\",\r\n                                      \"id\": \"a078f1ieg0375h\",\r\n                                      \"parent\": {\r\n                                              \"id\": \"a078f1icqg175h\",\r\n                                              \"field\": \"Members\",\r\n                                              \"def\": \"Task\"\r\n                                      },\r\n                                      \"fields\": [\r\n                                              {\r\n                                                     \"name\": \"UserCompany\",\r\n                                                     \"type\": \"UserCompany\",\r\n                                                     \"value\": \"a01u7791k010ln\"\r\n                                              }\r\n                                      ]\r\n                               }\r\n                       ]\r\n               },\r\n\r\n\r\n\r\n\r\nLubomír Bednář\r\nsystem analyst\r\n\r\ntel.: +420 581 737 148 | lubomir.bednar@karatsoftware.cz< mailto:lubomir.bednar@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vedel by si prosim odpovedat Lubosovi?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Změnil jsem tak, že v synchronizaci neposílám doplněné atributy typu výčet bez zadaného výčtu. Napsal jsem naslepo, vyzkoušet ze strany Karatu - pouze ALFA verze. Bude nasazeno přes noc, nicméně nemám k dispozici Patchovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, info od AKO: Změnil jsem tak, že v synchronizaci neposílám doplněné atributy typu výčet bez zadaného výčtu. Napsal jsem naslepo, vyzkoušet ze strany Karatu - pouze ALFA verze. Bude nasadene v noci. Pozastavime a skusis zajtra?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane, klidně zavřeme, já to testovat nebudu, zítra mám dovolenou a už tak mám toho dost jiného, tedy, pls řádně otestujte vy a pak to má jít ven"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, otestujeme a potom dam vediet.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, dobre ze si pripomenul, testujeme a nasli sme nieco.. zabudol som na to ze to uz vieme testovat.. (synchronizaciu)"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "díky za super zprávu!!!"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "mam spravu od testera ze to otestoval a malo by to byt v poriadku."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "děkuji"
+    }
+  ]
+}

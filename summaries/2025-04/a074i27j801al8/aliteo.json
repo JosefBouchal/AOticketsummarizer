@@ -1,0 +1,119 @@
+{
+  "id": "a074i27j801al8",
+  "created": "2025-03-11T07:32:43.685Z",
+  "closed": "2025-04-10T10:26:43.207Z",
+  "duration_minutes": 43373,
+  "first_response_minutes": 42,
+  "name": "Změna vlastníka tiketu založeného anonymním uživatelem",
+  "description": "Mám založené tikety emailem anonymním uživatelem, při změně vlastníka tiketu, tam zůstává a stále chodí nevyžádané emaily na původního zakladatele. Jak to máme opravit. S pozdravem Josef Blažek",
+  "owner": "Josef Blažek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 24,
+    "from_owner": 3,
+    "from_others": 21,
+    "unique_authors": 4
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dam info na vyvoj a v pripade chyby opravime. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Skřeček (davidskrecek@gmail.com) mohol by si prosim otestovat a potvrdit? Napis mi potom interny komentar na to."
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "Prosím v jakém je to stavu potřebuji to vyřešit. Děkuji"
+    },
+    {
+      "creator": "David Skřeček",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) sorry, byl jsem na te dovolene a musel se zas dostat do rytmu tak na to sedam az ted. omluv se az budes prosim panu blazkovi mym jmenem za dlouhou odezvu. dokonce dostavam error kdyz se pokusim zmenit vlastnika z ananymniho mailu na clena projektu ERROR: System.ApplicationException: CompTask.fieldChangeTrigger: EmailOwner can be changed only when adding task at Aliteo.CompTask.fieldChangeTrigger(CacheTransaction transaction, Field original, Field field) in d:\\_aliteoPublish\\alfa\\Aliteo.Data\\Metadata\\CompTask.cs:line 1240 at Aliteo.Component.fieldChangeWrite(CacheTransaction transaction, Field original, Field field, CacheTransactionItem item, Field original_) in d:\\_aliteoPublish\\alfa\\Aliteo.Cache\\Component.cs:line 722 at Aliteo.CacheTransactionFieldChange.created() in d:\\_aliteoPublish\\alfa\\Aliteo.Cache\\CacheTransaction\\CacheTransactionFieldChange.cs:line 46 at Aliteo.Component.setField(CacheTransaction transaction, FieldDefinition defField, String xstring, Nullable`1 xint, Nullable`1 xdec, Nullable`1 xdate) in d:\\_aliteoPublish\\alfa\\Aliteo.Cache\\Component.cs:line 980 at Aliteo.Component.SetFieldString(CacheTransaction transaction, FieldDefinition defField, String xstring) in d:\\_aliteoPublish\\alfa\\Aliteo.Cache\\Component.cs:line 1161 at Aliteo.QueryTask.<>c__DisplayClass39_0.<<TaskSetOwner>b__0>d.MoveNext() in d:\\_aliteoPublish\\alfa\\Aliteo.Data\\Queries\\QueryTask.cs:line 1868 --- End of stack trace from previous location --- at Aliteo.CacheTransaction.Run(IContext context, Func`2 action) in d:\\_aliteoPublish\\alfa\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 417 at Aliteo.CacheTransaction.Run(IContext context, Func`2 action) in d:\\_aliteoPublish\\alfa\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 422 at Aliteo.QueryTask.TaskSetOwner(QueryInfo qi, QueryParatmTaskOwner xparams) in d:\\_aliteoPublish\\alfa\\Aliteo.Data\\Queries\\QueryTask.cs:line 1857 at Aliteo.QueryTask.TaskSetOwner(QueryInfo qi, String xparams) in d:\\_aliteoPublish\\alfa\\Aliteo.Data\\Queries\\QueryTask.cs:line 1844 at Aliteo.Queries.Execute(Cache cache, CompUser compUser, String applicationId, String querybase, String querydata, String timeZone, String userAgent, String requestData, String addactivity, Int32 cacheId, Int32 requestId, Boolean behalf, String authEmail, String authName, String authClaims, QueryParamsCache clientSocketCache, String requestQuery, String requestPath) in d:\\_aliteoPublish\\alfa\\Aliteo.Data\\Queries\\Queries.cs:line 698 takze teda vytvorim mailem ukol jako anonym a pak chci zmenit vlastnika na clena projektu a dostanu tohle reportoval jsem do vývoje #6396 Změna vlastníka z anonymního na člena projektu chyba je na alfě no a na ostré je to tak že se vybere anonymní vlastník a pokud se mění vlastník tak pořád jako prvotní vlastník zůstane ten s emailem a nejde ho z toho odstranit tak dostává všechna upozornění na mail. Díval jsem se do úkolu ve vazbě kde se k tomu Allan vyjadřoval a jelikož je to teda v alfě jinak a bude to tam vyřešeno tak bych to panu Blažkovi prostě takhle sdělil."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim pan Blazek, na probleme pracujeme - samozrejme je ciel aby uz emaily anonymnemu vlastnikovi nechodili, pokial uz realne nie je vlastnikom pripadu.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "pan Blazek, mam info od kolegov z vyvoja ze ide o zlozitejsi problem, ktory nebolo mozne opravit priamo v produkcnej verzii. Oprava je uz nasadena v aktualnej vyvojovej verzie a bude dostupna niekedy 4-5/2025."
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "jste to schopni vyřešit servisně nyní nám to přináší problémy ne některých tiketech?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) odpoved od p. Blazka vzhladom na urgenciu.. @ Allan Konečný (allan.konecny@karatsoftware.cz) je to mozne vyriesit servisne? predpokladam ze ci je mozne v DB nejak upravit data na konkretnych ulohach aby to problem nebol"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Servisní řešení možní je, jen si nejsem jist jestli to nezpůsobí problém někde kde nečekáme že u úkolu z emailu není emailový vlastník. Pokud mi napíšeš na které úloze chceš vymazat emailového vlastníka, mohu to udělat... a uvidíme co to způsobí, možná nic."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "A ak by sme ho nahradili inym emailom (napriklad p. Blazka alebo niekoho kto by tie notifikacie zuatial dostaval) tam je riziko mensie ze sa nieco nepredvidane stane, nie?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Tam není riziko téměř žádné. Ale řešíme tím pouze jeden úkol."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pan Blazek o kolko ulohy by islo? pre prechdzanie problemov by bolo ale lepsie aktualny email nahradit ako ho odstranit, lebo nevieme predpovedat ci tym neurobime neintegritny stav."
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "potřeboval bych ve všech otevřených tiketech kde  je chci.reseni@respect.cz , nahradit odstranit@respect.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vies sa prosim pozriet o aky velky zasah pojde?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "SELECT id FROM comps WHERE definition = 'Task' AND JSON_VALUE(content, '$.EmailOwner') = ' chci.reseni@respect.cz ' AND JSON_VALUE(content, '$.Done') <> '20' AND JSON_VALUE(content, '$.Done') <> '80' 63 úkolů: a0742d5pcg089s a0742daf60089s a0742ehdvg089s a0742etto0089s a0742gt5o0289s a0742gv600089s a0742hk0q0089s a0742jrfo0089s a0742m16tg089s a0742nntn0089s a0742o53j0089s a0742o6df0089s a0742ov7s0a89s a0742q19m0089s a0742q19m0289s a0742q1tu0089s a0742q471g089s a0742q471g289s a0742q4s7g089s a0742q9eqg089s a0742q9er0089s a0742qf8d0089s a0742qv6pg089s a0742r2c10089s a0742r2c1g089s a0742r6vig089s a0742r7a60089s a0742r7vm0089s a0742rccfg089s a0742rjp8g089s a0742rq86g089s a0742rq86g289s a0742rrgtg089s a0742rrr7g089s a0742rvc6g089s a074doqur0089s a074dorm3g089s a074dorm40089s a074dorm5ga89s a074dot5dg089s a074dot5dg289s a074doug2g089s a074dough0089s a074doula0089s a074dovavg289s a074dp0ptg089s a074dp305g089s a074dpbv5g089s a074dpbv6g089s a074dq014g089s a074dq0d50289s a074dq13o0089s a074dq5ik0089s a074dqdjsg089s a074dqhs30089s a074dql8jg089s a074dqqndg089s a074dqtj2g089s a074dr0c10889s a074dr0idg089s a074dr7oa0289s a074s8s8501kbs a0779j09tg1o90"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane jde o 63 úkolů napíšu to do 30 minut."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) suhlasis s tym? v skratke jeine riesenie ako pomoct respektu je prepisanie dat na tvrdo, vieme ako a vieme aj kolko, vid komentare nad. Suhlasis aby to Allan urobil?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "jj ak je s tym AKO ok."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) zadam ti na to nejaky pripad do vyvoja alebo to spravis v ramci tohto?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Provedeno."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pan Blazek, upravy kolegovia previedli, mohli by ste prosim skontrolovat?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) dakujem"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "a078urjnu00jsk",
+  "created": "2025-04-14T11:43:29.246Z",
+  "closed": "2025-04-15T06:49:15.94Z",
+  "duration_minutes": 1145,
+  "first_response_minutes": 18,
+  "name": "registrace přes pozvánku",
+  "description": "Dobrý den,\r\n\r\nu pozvánky na e-mail\r\n\r\ntomas.lipensky@covetrus.com< mailto:tomas.lipensky@covetrus.com >\r\n\r\nevidujeme problém s registrací, stránka se mu opakovaně načítá (vyzkoušeny jiné pc, prohlížeče, atp,) bez úspechu.\r\n\r\nV příloze.\r\n\r\n\r\nDíky za pořešení\r\n\r\nTomáš Novák\r\nVedoucí výdeje  | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nM: +420 720 061 074\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n\r\n[A blue text on a black background  Description automatically generated with low confidence]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 5,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, posuniem na vyvoj a budem Vas informovat. Dakujem"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Úplně stejně se to děje i v tomto případě, kdy chci přidat komentář ale stránka se pořád aktualizuje.\r\n\r\nDíky\r\n\r\nTomáš Novák\r\nVedoucí výdeje  | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nM: +420 720 061 074\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n\r\n[A blue text on a black background  Description automatically generated with low confidence]"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem, tak to bude asi v niecom inom. Prosim Vas deje sa to viacerym uzivatelom alebo len Vam?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Děje se mě a zároveň i p. Lipenský, minimálně.\r\n\r\nJe ale možné, že to bude u více lidí.\r\n\r\nDíky za pořešení.\r\n\r\nTomáš Novák\r\nVedoucí výdeje  | Head of outgoing\r\n\r\nNOVIKO s.r.o. – Letiště Brno – Tuřany  964/13 - 62700\r\nM: +420 720 061 074\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n\r\n[A blue text on a black background  Description automatically generated with low confidence]"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Doplňuji, že stejný problém (také u pozvánky) mám u vojtech.lukasek@covetrus.com< mailto:vojtech.lukasek@covetrus.com > https://app.aliteo.com/invitation/a078ut3umg134e/6662fa8b-4a2a-40d2-81a0-4e5fde430591 T.\r\n\r\nTomáš Novák\r\nVedoucí výdeje  | Head of outgoing\r\n\r\nNOVIKO s.r.o. – Letiště Brno – Tuřany  964/13 - 62700\r\nM: +420 720 061 074\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n\r\n[A blue text on a black background  Description automatically generated with low confidence]\r\n\r\nFrom: Tomáš Novák\r\nSent: Monday, April 14, 2025 2:39 PM\r\nTo: comment.a078urjnu00jsk@aliteo.com\r\nSubject: RE: ALITEO - #6612 - odpověď na požadavek: registrace přes pozvánku\r\n\r\nDěje se mě a zároveň i p. Lipenský, minimálně.\r\n\r\nJe ale možné, že to bude u více lidí.\r\n\r\nDíky za pořešení.\r\n\r\nTomáš Novák\r\nVedoucí výdeje  | Head of outgoing\r\n\r\nNOVIKO s.r.o. – Letiště Brno – Tuřany  964/13 - 62700\r\nM: +420 720 061 074\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n\r\n[A blue text on a black background  Description automatically generated with low confidence]"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Uživatel tomas.lipensky@covetrus.com není v uživatelích ostré, tedy se  zatím neregistroval. Prosím zjistit nějakou url kde problém nastává, zatím nevím čeho se chytit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "vyborne dakujem za URL, to nam pomoze, chybu sme nasimulovali aj u nas.. ospravedlnujem sa za neprijemnosti, opravime co najskor.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, kolegovia mi hlasia ze by nahlaseny problem mal byt opraveny. Mozete mi to prosim potvrdit? Mne uz odkaz od Vas neblika. Dakujem"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, ano, zdá se již ok. Díky moc za rychlé pořešení. Hezký den"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, zamietli ste uzatvorenie ulohy. Potrebujete este nieco vyriesit?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Jen jsem se překlikl 🙂 pardon"
+    }
+  ]
+}

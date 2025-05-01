@@ -1,0 +1,43 @@
+{
+  "id": "a07650d3vg1nqm",
+  "created": "2025-03-23T16:18:33.596Z",
+  "closed": "2025-04-24T08:35:37.969Z",
+  "duration_minutes": 45617,
+  "first_response_minutes": 1007,
+  "name": "FW: RE: ALITEO - #6394 - žádost o uzavření požadavku: Dotaz - úkol #3518 - doručení email",
+  "description": "From: Remešová Ilona Sent: Sunday, March 23, 2025 5:15 PM To: comment.a074v09akg1tlh@aliteo.com Subject: RE: ALITEO - #6394 - žádost o uzavření požadavku: Dotaz - úkol #3518 - doručení email Dobrý den, omlouvám se za nereagování, ale bylo více důležitějších úkolů. Nikdo se zahraničních dodavatelů mi na zadané úkoly nereagoval. Všem jsem posílala informaci emailem, kde jsem psala, že není nutná registrace, na tento email reagovali. Nevím, jestli teda postupuji správně. V daném projektu je emailová adresa přidána jako externí člen, v daném úkolu je přidán jako sledující a v daném komentáři jsem vždy zadala @ a vybrala. Jak to funguje v případě, že u jednoho úkolu je potřeba více kontaktů z dané externí firmy. Já všechny kontakty dám do sledujících úkolu, zároveň uvedu @ v komentáři. Jak druhý externí uživatel vidí, zaslaní komentáře od svého externího kolegy ? S pozdravem a přáním pěkného dne Ilona Remešová Nákupní manažerka",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, to prave Testujeme ako sa správajú upozornenia pre užívateľov ktoré sú v pozvánke na základe toho či sa registrovali alebo nie. Skúšame či sa tam nenachádza nejaká chyba, resp. ako by to malo fungovať. Budem vás informovať hneď ako budem mať nové informácie."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) s ohladom ako to dnes dopadlo (vid uloha vo vazbe) co dame vediet p. Remesovej? ze to nejde tak ako sme to navrhli?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Allan to ma zaplanovane v sucasnom sprinte a tak nejak tusim, ze sa to stihne. Cize to riesenie by jej malo fungovat od nevej verzie. Asi jej to moze dat takto vediet, ak suhlasis."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim  Vas, posielam maly update. Narazili sme na niekolko nezrovnalosti, ktore prave zapracuvame do aktualneho vyvojoveho sprintu. Po nasadeni novej verzie, ktora by mala byt cca do mesiaca by sa to malo spravat tak ako pisete a jednotlivy uzivatelia budu dostavat notifikacne upozornenia."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, děkuji za update. Následně znovu vyzkouším komunikaci s dodavateli. Krásný den přeji."
+    }
+  ]
+}

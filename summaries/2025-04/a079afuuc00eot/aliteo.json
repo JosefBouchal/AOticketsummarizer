@@ -1,0 +1,35 @@
+{
+  "id": "a079afuuc00eot",
+  "created": "2025-04-17T07:30:32.563Z",
+  "closed": "2025-04-17T09:12:35.224Z",
+  "duration_minutes": 102,
+  "first_response_minutes": 95,
+  "name": "Lesaffre: nedostupnost portalu Aliteo HD",
+  "description": "Dobrý den,\r\n\r\nJiž od včerejška (16.4.) evidujeme pomalou odezvu resp. nedostupnost služby.\r\nCo je příčinou a kdy bude služba opět plně funkční?\r\n\r\nDíky za info.\r\n\r\n\r\nMartin PŘIKRYL\r\nIT Coordinator\r\nLesaffre Česko & Lesaffre Slovensko\r\n\r\nMob. +420 739403300\r\nHodolanská 34, 779 00 Olomouc, Czechia\r\n\r\n[Image001]\r\n\r\n[Image002]< https://www.linkedin.com/company/lesaffre/ >  [Image003] < https://twitter.com/Lesaffre_Group >   [Image004] < https://www.facebook.com/lesaffrecorporate/ >   [Image005] < https://www.youtube.com/channel/UCSZZ6JDb7dvgzSRcbtubisA >\r\n\r\nm.prikryl@lesaffre.com< mailto:m.prikryl@lesaffre.com > - www.lesaffre.cz - www.lesaffre.sk< http://www.lesaffre.sk/ > - www.lesaffre.com\r\n\r\nZvažte, je-li nutné tento e-mail vytisknout. - Please only print this email if it is necessary.\r\n\r\n[Image006]< https://www.lesaffre.cz/jste-pripraveni-na-udrzitelnou-budoucnost/ >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano o vypadkoch vieme, za poslednych niekolko dni sa to par krat stalo a mame o tom zaznamy. Analyzovali sme a pred niekolkymi minutami sme nasadili opravny patch, ktory by dnesny problem mal vyriesit. Nadalej sledujeme stav komunikacie. Ospravedlnujeme sa za neprijemnosti sposobene tymito vypadkami. Dakujem."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "V poradku, dekuji za info. Hezke svatky. MP"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, aj Vam pekne sviatky"
+    }
+  ]
+}

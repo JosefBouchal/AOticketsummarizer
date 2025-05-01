@@ -1,0 +1,63 @@
+{
+  "id": "a06sbetl8g1mgd",
+  "created": "2025-01-06T13:46:10.094Z",
+  "closed": "2025-04-24T08:24:07.237Z",
+  "duration_minutes": 155197,
+  "first_response_minutes": 1036,
+  "name": "API - podpořit stahování obsahu přílohy přes API",
+  "description": "Dodneška byly odesílány obsahy přílohu rovnou přes API u nás to padlo na Max memory, tedy nyní AllanK zrušil odesílání obsahu přílohy. Proto by bylo vhodné udělat podporu, která vrátí obsah přílohy (vstupní parametr asi bude ID ALITEO?)\r\n\r\nDěkuji\r\n\r\nLubomír Bednář\r\nsystem analyst\r\n\r\ntel.: +420 581 737 148 | lubomir.bednar@karatsoftware.cz< mailto:lubomir.bednar@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 5,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubo, vsetko dobre v Novom roku. Chapem spravne ze hovoris o dotaze ktory vrati prilohu, takze ti nejde o dotaz /detailTask, ktory v response obsahuje atachment ale vyslovene chces poslat ID prilohy a nech ti vrati base64 ??"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Já chci umět dostat přes API tu přílohu k sobě, ono do dovčera šlo rovnou s komponentou Attachment, ale padalo to na memory, takže Allan to odebral vracení i obsahu přílohy a já chci, aby to uměl  stáhnout aspoň samostatným voláním"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Jinak Dane i já Ti přeji taky všechno nejlepší v novém roce a přeju zdraví a pohodu a to nejen už v tomto začatém roku"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, hodil som do vyvoja na AKO.. budem ta informovat"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "děkuji, jen pro info, já osobně na toto nespěchám, tedy by se dalo klidně i počkat, dokud nedojde reálná požadavka od zákazníka, ale pak by se to muselo udělat relativně rychle. (já to zadával, jelikož jsem se s AllanemK včera tak domluvil, řekl založ :-))"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "hej, zalozene prehodil som na neho.. len je skoda, ze v principe on odstrani nejaku funkcnost a o tom neviem, ale kto vie, mozno som prehliadol nieco"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "to bylo včera na rychlo telefonem a on se rozhodl tak vyřešit, kdyby řekl, založ případ i na to, mohl jsem, příště asi to udělám rovnou, za to se omlouvám"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nic sa nedeje Lubos, bolo to narychlo a nebol asi dovod sa nejak o tom bavit, mozno to medzi tym AKO vyriesi nejako"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, takisto starsia uloha, ale toto mame uz zaplanovane ze to doplnime..."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ok, klidně zavřeme"
+    }
+  ]
+}

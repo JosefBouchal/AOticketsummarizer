@@ -1,0 +1,35 @@
+{
+  "id": "a079aadibg0eot",
+  "created": "2025-04-17T06:29:59.91Z",
+  "closed": "2025-04-17T09:58:11.258Z",
+  "duration_minutes": 208,
+  "first_response_minutes": 34,
+  "name": "API ALFA - přidání sekce pod tým, v hlášce je projekt",
+  "description": "Přidávám přes API sekci pod tým\r\n\r\n{\r\n        \"company\": \"a02fb4h4d01g7n\",\r\n        \"usercompany\": \"a03b63rpbg1cqq\",\r\n        \"ts\": \"2025-04-17T05:39:40.890Z\",\r\n        \"changes\": [\r\n               {\r\n                       \"type\": \"Create\",\r\n                       \"simple\": true,\r\n                       \"def\": \"Section\",\r\n                       \"eid\": \"926\",\r\n                       \"parent\": {\r\n                               \"id\": \"a079a51sf013je\",\r\n                               \"field\": \"Sections\",\r\n                               \"def\": \"Team\"\r\n                       },\r\n                       \"archived\": false,\r\n                       \"fields\": [\r\n                               {\r\n                                      \"name\": \"CanAddTask\",\r\n                                      \"type\": \"Logical\",\r\n                                      \"value\": \"1\"\r\n                               },\r\n                               {\r\n                                      \"name\": \"CanAddTaskExternal\",\r\n                                      \"type\": \"Logical\",\r\n                                      \"value\": \"1\"\r\n                               },\r\n                               {\r\n                                      \"name\": \"CanPlaceTask\",\r\n                                      \"type\": \"Logical\",\r\n                                      \"value\": \"1\"\r\n                               },\r\n                               {\r\n                                      \"name\": \"DueDate\",\r\n                                      \"type\": \"Date\",\r\n                                      \"value\": \"9999-01-01T00:00:00.000Z\"\r\n                               },\r\n                               {\r\n                                      \"name\": \"IsDefaultForAddingTask\",\r\n                                      \"type\": \"Logical\",\r\n                                      \"value\": \"0\"\r\n                               },\r\n                               {\r\n                                      \"name\": \"Name\",\r\n                                      \"type\": \"String\",\r\n                                      \"value\": \"Sekce co bude mít podsekce\"\r\n                               },\r\n                               {\r\n                                      \"name\": \"StartDate\",\r\n                                      \"type\": \"Date\",\r\n                                      \"value\": \"1901-01-01T00:00:00.000Z\"\r\n                               }\r\n                       ]\r\n               }\r\n        ]\r\n}\r\n\r\nA pád\r\n ALITEO API ERROR: /SyncSetChanges\r\nCompSection.componentAddTrigger: project do not use sections, cannot add section\r\n\r\nAle parent není project, ale team\r\n\r\nLubomír Bednář\r\nsystem analyst\r\n\r\ntel.: +420 581 737 148 | lubomir.bednar@karatsoftware.cz< mailto:lubomir.bednar@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predal som na vyvoj.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "pak můžeme uzavřít, toto je prkotina, nechci čekat na vyřešení. díky moc"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, mam info ze AKO u seba opravil, po patchi bude na ostrej, dakujem"
+    }
+  ]
+}

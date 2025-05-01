@@ -1,0 +1,99 @@
+{
+  "id": "a05mtiaaf01o7u",
+  "created": "2024-03-21T19:31:54.548Z",
+  "closed": "2025-04-07T07:12:13.639Z",
+  "duration_minutes": 549340,
+  "first_response_minutes": 1085,
+  "name": "Chyby mobilna verzia-PMS",
+  "description": "1.) Na ostré Zkouším z mobilu a nejde rolovat v seznamu projektů na úvodní stránce. Občas mám problém i v detailu úkolů kde jsou vyjádření. 2.) V detailu úkolů nejde smazat upozornění. Prosím přidat tu možnost. 3.) Na telefonu nejde v seznamu úkolů změnit nebo vytvořit nový pohled, prosím umožnit. 4.) V seznamu úkolů nejsou klientské filtry 5.) Na telefonu když si zobrazíme dashboardy a \"sjedu dolů\" tak se zobrazí další Widget a s ním chyba viz obrázek",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Projekty",
+  "comment_stats": {
+    "total": 19,
+    "from_owner": 9,
+    "from_others": 10,
+    "unique_authors": 4
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) Ak najdes dalsiu chybu, kludne ju doplnaj v ramci tohoto pripadu prosim."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zavolajme si k tomu, chcem to s tebou prebrat. @ Daniel Dzuro (daniel.dzuro@karatsoftware.sk)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) kludne volaj, ked bude moct.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "doplňuji jako další komentáře, aby bylo možné se na to odkázat: 6. na telefonu není možné \"zapnout\" upozornění. Dal bych to pod 3 tečky i s tím smazáním - nebo nový objekt?) 7. psaní komentáře: vždy je to \"roztažené\" - ale nevidím na co reaguji a nemohu to zmenšit, to bych potřeboval, takto to musím napsat na první dobrou nebo si to psát do soukromého a neustále měnit. 8. když jezdím v detailu úkolu nahoru a dolů, tak to \"poskakuje\" nahoru a dolů když to dojede na konec (nahoru nebo dolů). 9. Délka názvu případu - je to useknuté i když to dám na ležato . 10. nejde v detailu úkolu při vyjádření zapnout \"TT\" - tedy formátování textu."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "11. V dílčím úkolů se jí schovají možnosti a nejde předat atd."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "12. Při kliku v komentáři na dolní panel kde je přiložení přílohy se vybali  klávesnice a překryje dialog přiložení souboru - chyba 13. Nedaří se mi přiložit přílohu v komentáři aby skončila v přílohách. Přiložit ke komentáři mi jde."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "- chyby v konzole pocas videohovoru - stav porady v mobilnej apke nie je mozne nastavit"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "14. Není možné přepínat stavy = např. Navrhnout jako vyřešeno. Upravuji - nebylo to možné a nyní jsem v té stejné úloze a mám tu možnost, i 3 tečky. A VP. Takže toto beru jako vyřešeno a dám archivovat"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) skusal si to aj v inych ulohach (spolocnosti) lebo mne prepinat etapy riesenie a stavy ulohy ide... na zaklade upravy komentara ##8 aj ja upravujem a archivujem.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "14. v seznamu VP není vidět kdo daný VP pořídil (a protože tam není ani klientský filtr, tak to vůbec netuším:"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "15. pozastavení pokud je na případu a to se rozroluje, tak kalendář pak není celý vidět viz obrázek: 16. v seznamu případu jsou vidět již pohledy, super, ale podle mě se nezobrazují správně: Na seznamu by se podle mě měly zobrazovat jen: K reakce, řeším, Vlastním + oblíbené pohledy Nyní se zobrazují i neoblíbené. - když jich tam mám hodně, tak to je nekonečné Nezobrazují se celé názvy pohledů (ale to možná není problém) Nezobrazují se ty co jsou pod \"MY\" a jsou i jako oblíbené. tedy proč je tam MY a ne moje proč se nezobrazují? nejde vytvářet pohled, ale to nevnímám jako chybu, ale jako aktuální vlastnost."
+    },
+    {
+      "creator": "Josef Bouchal",
+      "comment": "17. Na telefonu/tabletu vyskakuje hláška o ztrátě komunikace při přechodu ze safari do jiné aplikace, případně například na plochu. Děje se tak již po pár sekundách a následně je potřeba znovu načíst stránku."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "18. na telefonu nejde dát \"Přidat vazbu\" z detailu případu - padá to do červené chyby o Admin:script error"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) prosim dalsie chyby zakladaj ako dielcie ulohy sem: #6431 Mobilna aplikacia chyby Tento support pripad uzatvorime.. ok?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "A nahlášené chyby 1-18 jsou tedy vyřešeny na Alfě? Pokud nao, tak uzavřeme"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) nie su vyriesene, ale ked na nich  bude robit Dusan, tak chce robit vo vyvoji.. Teda problem odtial sa prevedu ako dielcie ulohy do vyvoja a tam sa posupne budu riesit"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Filip Šajna (fpsajna@gmail.com) prosim podla dohody, skontrolovat a prehodit chyby z tohto pripadu ako dielcie ulohy do pripadu #6431 Mobilna aplikacia chyby - prehliadac v telefonu ako riesitelov nastav @ Dušan Kovář (dusan.kovar@karatsoftware.cz) a @ David Kočíř (david.kocir@karatsoftware.cz) nasledne uzatvorime"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok"
+    },
+    {
+      "creator": "Filip Šajna",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) ##16 - chyby skontrolované, pretestované, reportované a riešitelia nastavený. Môžeme uzavrieť."
+    }
+  ]
+}

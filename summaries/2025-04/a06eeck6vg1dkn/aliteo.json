@@ -1,0 +1,47 @@
+{
+  "id": "a06eeck6vg1dkn",
+  "created": "2024-09-20T13:02:19.513Z",
+  "closed": "2025-04-27T07:24:00.267Z",
+  "duration_minutes": 315021,
+  "first_response_minutes": 33,
+  "name": "Vytvoření komentáře v úkolu přetažením mailu",
+  "description": "Po konzultaci s Allanem dávám na zvážení (Allan říkal, že by to šlo a\r\nnemuselo by to být pracné) možnost založení komentáře tak, že na určené\r\nmísto přetáhnu email. Ten se mi nepřipojí jako příloha, ale provede se:\r\n\r\n \r\n\r\nDo komentáře se vloží text odpovídající tomu, když dám přeposlat a vidím\r\nvšechny informace o emailu:\r\n\r\n \r\n\r\nFrom: Válek Martin - KARAT Software a.s. \r\nSent: Friday, September 20, 2024 2:16 PM\r\nTo: 'sekanina@pells.eu' Subject: RE: Kontakt Válek\r\n\r\n \r\n\r\nDobrý den pane Sekanino,\r\n\r\n \r\n\r\npodařilo se mi sehnat rám, který má tappered sloupek a vzadu rychloupínák =\r\npoužiji vše, včetně kol.\r\n\r\n \r\n\r\nDěkuji Vám za ochotu a přeji hezký víkend,\r\n\r\n \r\n\r\nVálek\r\n\r\n \r\n\r\nPokud email obsahuje přílohy, ty se uloží jako přílohy daného komentáře.\r\n\r\n \r\n\r\nDěkuji, Martin\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nIng. Martin Válek\r\n\r\ngeneral director\r\n\r\n \r\n\r\ntel.: +420 581 737 111 | mobil: +420 602 770 824 |\r\n< mailto:martin.valek@karatsoftware.cz > martin.valek@karatsoftware.cz\r\n\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov |\r\n< http://www.karatsoftware.cz/ > www.karatsoftware.cz\r\n\r\n \r\n\r\n < https://www.facebook.com/karatsoftware >\r\n< https://www.facebook.com/karatsoftware > Facebook\r\n< https://www.linkedin.com/company/karat-software-a.s. >\r\n< https://www.linkedin.com/company/karat-software-a.s. > LinkedIn\r\n< https://www.youtube.com/@karat_software >\r\n< https://www.youtube.com/@karat_software > YouTube\r\n\r\n \r\n\r\n < http://www.karatsoftware.cz/outlook >",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, videl by som to pretoahnutir emailu do oblasti komentara ALE co ak chcem pisat svoj text a cely email dat ako prilohu. Museli by sme sa pytat ci chce uzivatel prebrat telo emailu a prilohy v nom prilozit alebo prilozit email ako prilohu. Nebude to velmi komplikovane pre uzivatela?"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Tak přílohu by to udělalo v případě, že přejdeš standardně na vkládání příloh..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zaver z porady: - navrhujeme pri pusteni emailu do preistoru noveho komentara otvorit dialog s vyberom: - prilozit ako subor - vlozite mail ako text zalozit do vyvoja a do backlogu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Martin Válek (martin.valek@karatsoftware.cz) tuto ulohu sme zaradili do backlogu, chces nechat otvorene alebo mozeme uzatvorit?"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "dávám uzavřít"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Martin Válek (martin.valek@karatsoftware.cz) musis si aj potvrdit.. 🙂 dik"
+    }
+  ]
+}

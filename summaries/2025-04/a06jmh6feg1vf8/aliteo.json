@@ -1,0 +1,35 @@
+{
+  "id": "a06jmh6feg1vf8",
+  "created": "2024-10-31T08:32:30.375Z",
+  "closed": "2025-04-24T06:49:47.982Z",
+  "duration_minutes": 251897,
+  "first_response_minutes": 62,
+  "name": "zpomalení ALITEO",
+  "description": "Toto se stalo již dříve, tipujeme přechodem na jinou DB, ale zpomalilo se fultextové vyhledávání, když kliknu na aktivity, předuložené filtry na ukoly, ……. Případ zakládám, jelikož včera AllanK říkal, nemám úkol nevím o tom.\r\n\r\n[Image001]\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Support pomocník",
+      "comment": "Ahoj Lubo, diky za info posuvam dalej na vyvoj."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubo, deje sa ti stale spomalenie? Po nasadeni opravneho patchu pred viac ako tyzdnom, kedy sme mali uplne a zavazne vypadky som sa ja s vypadkami alebo spomalenim nestretol. Deje sa ti to stalo? Mam pocit ze celkovo aplikacia je o nieco sviznejsia.. co myslis?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ahoj Dane, toto je z konce října 2024, jinak nyní bych řekl že to běží, zda rychle úplně nevím, je otázka co, hledání úplně nefrčí, ale jinak je to na dobré úrovni, můžeme zavřít, ju Luboš"
+    }
+  ]
+}

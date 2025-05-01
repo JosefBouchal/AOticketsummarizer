@@ -1,0 +1,39 @@
+{
+  "id": "a0789rjdvg0s4p",
+  "created": "2025-04-09T09:23:20.956Z",
+  "closed": "2025-04-13T13:34:50.933Z",
+  "duration_minutes": 6011,
+  "first_response_minutes": 51,
+  "name": "RE: Dlouhé načítání + výpadky",
+  "description": "Dobrý den,\r\n\r\ndnes opět ten stejný problém, i téměř kolem stejné doby.\r\n\r\nAktuálně nelze načíst aktivní projekty.\r\n\r\nDíky za prověření\r\n\r\nTomáš Novák\r\nVedoucí výdeje  | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nM: +420 720 061 074\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n\r\n[A blue text on a black background  Description automatically generated with low confidence]\r\n\r\nFrom: Tomáš Novák\r\nSent: Tuesday, April 8, 2025 11:01 AM\r\nTo: support@aliteo.com\r\nSubject: Dlouhé načítání + výpadky\r\n\r\nDobrý den,\r\n\r\ndnes v posledních cca 15-20 evidujeme výpadky:\r\n\r\n[Image002]\r\n\r\nInternet máme v pořádku, ostatní stránky běží. Vyskytlo se na několika PC.\r\n\r\nDíky za zpětnou vazbu\r\n\r\nTomáš Novák\r\nVedoucí výdeje  | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nM: +420 720 061 074\r\ntomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com >\r\nwww.noviko.cz< http://www.noviko.cz/ >\r\n\r\n[A blue text on a black background  Description automatically generated with low confidence]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, Ospravedlnujeme sa za neprijemnosti, vypadok sme zaregistrovali a snazime sa zistit pricinu. Hovorite, ze je to v rovnaku dobu stale?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, včera + dnes okolo cca 10:45-11:15 Aliteo komplet značně zamrzá. Vyzkoušeno na několika PC vč. tabletu, internetové připojení a jiné stránky nám běží v pořádku. Můžu mrknout ještě třeba zítra, jestli to udělá stejně a dát vědět. Po 11:15 už pak ok bez problémů."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Aktuálně se to děje opět. Díky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím, posielam malý update: Zaznamenali sme zvýšený výskyt podobných hlásení, a podľa našej predbežnej analýzy mohla situácia súvisieť s kombináciou vyššieho zaťaženia nášho modulu kapacitného plánovania a spomalených odoziev z kalendárových dát integrovaných cez platformu Microsoft Azure. Aktuálne prebieha optimalizácia dotknutých častí systému a zároveň úzka spolupráca s technickou podporou Azure, aby sme získali podrobnejšie dáta o možných výkyvoch na ich strane. Je však možné, že sa podobný problém ešte výnimočne objaví – preto naďalej monitorujeme výkon systému a pracujeme na trvalom riešení. Ospravedlňujeme sa za vzniknuté komplikácie a ďakujeme za pochopenie a trpezlivosť."
+    }
+  ]
+}

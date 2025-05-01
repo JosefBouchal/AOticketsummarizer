@@ -1,0 +1,39 @@
+{
+  "id": "a0717qrupg1vu6",
+  "created": "2025-02-13T12:42:36.672Z",
+  "closed": "2025-04-28T14:31:57.881Z",
+  "duration_minutes": 106669,
+  "first_response_minutes": 124,
+  "name": "Přesun bodů porady (v rámci jedná porady)",
+  "description": "Přesun bodů porady (v rámci porady změna pořadí) - blbne, jakoby není refresh změny. Když udělám refresh ručně, potom již OK) Ing. Martin Válek general director",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report.. Skusal som si a mozes mi potvrdit ze je problem len ked presuvas zhora nadol? Lebo ked to robim opacne mne to ide.."
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Ano, je to jak píšeš, teď jsem zkoušel"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, posuvam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Martin Válek (martin.valek@karatsoftware.cz) nahlasena chyba bola opravena.."
+    }
+  ]
+}

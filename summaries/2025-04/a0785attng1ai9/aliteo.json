@@ -1,0 +1,43 @@
+{
+  "id": "a0785attng1ai9",
+  "created": "2025-04-08T07:03:08.638Z",
+  "closed": "2025-04-14T11:12:59.75Z",
+  "duration_minutes": 8889,
+  "first_response_minutes": 329,
+  "name": "Povolená registrácia bez pozvánky",
+  "description": "Chcela som sa opýtať, čo znamená nastavenie Povolená registrácia bez pozvánky . Nemáme to zapnuté, tj. nového užívateľa pridávam tak, že mu pošlem pozvánku, ktorá mu príde na mail a on tam klikne na potvrdenie. Je to teda možné aj bez pozvánky, ale ako? Dôvod je ten, že niektorí užívatelia s tým majú problém a stále ich nemám aktívnych, keby som ich vedela jednoducho povoliť, možno by to šlo ľahšie.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tieto nastavenia su na dvoch miestach - v spolocnosti a na projekte. Aby to fungovalo na projekte, musi to byt povolene na spolocnosti. Ak to je zapnute aj tu aj tu, potom admin spolocnosti suhlasim ze admin projektu (ktory nutne nemusi byt adminom spolocnosti) moze cez link k projektu pozvat uzivatela do spolocnosti. Ale nie je to tak, ze by sa netrebalo registrovat."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "cize tak ci tak musi uzivatel prijat pozvanku, len ju dostane inym sposobom?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, je to tak, bez registracie sa do aplikacie nedostane… ale vy samozrejem mozete ho pozvat a pracovat s nim ako uzivatelom/clenom projektu aj ked neprijme pozvanku.Standardne si ho pomenujete ale pri jeho avatarovi budete vidiet ze je stale v pozvanke. Nejaky emaily dostane ale samozrejem obmedzene."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "OK dakujem, mozeme uzavriet Ja len som hladala sposob ako preskocit pozvanku, nakolko mam klienta, ktoremu som posielala pozvanku uz 4krat a stale mu to nejde... stalo sa mi to uz aj v minulosti... budem to riesit individualne."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vieme spisat kde presnesa to zasekne? Lebo moznosti je viac. Nedostanu email, dostanu ale neregistruju sa, alebo je problem v registracii ze ju nedokoncia?"
+    }
+  ]
+}

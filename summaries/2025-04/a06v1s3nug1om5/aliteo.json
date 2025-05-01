@@ -1,0 +1,91 @@
+{
+  "id": "a06v1s3nug1om5",
+  "created": "2025-01-27T13:09:25.092Z",
+  "closed": "2025-04-13T21:15:56.733Z",
+  "duration_minutes": 109926,
+  "first_response_minutes": 14,
+  "name": "Mízející příspěvky, které jsou zadané rychleji za sebou",
+  "description": "Zažil jsem teď v rámci jednoho případu dvě docela strašidelné situace: 1) Šel jsem upravit text příspěvku, slovo \"byly\" jsem upravil na \"nebyly\" .... za chvilku si ten text čtu, a je tam zpět \"byly\". Ale tu si nejsem jistý, že jsem se třeba nějak neuklikl. 2) Strašidelnější je to, že jsem měl rozepsaný nějaký text, ale rozmyslel jsem si to, že ještě vložím jiný příspěvek před tento text, tak jsem ho zkopíroval, smazal, napsal jiný text, odeslal komentář. A hned jsem do editovacího pole vložil předchozí zkopírovaný text, doeditoval ho a odeslal. Přičemž mezitím někdo jiný tm vložil příspěvek. Nyní ale koukám, že ten první příspěvek tam není. Wooooo?!?! :-)",
+  "owner": "Lukáš Trunečka",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 17,
+    "from_owner": 6,
+    "from_others": 11,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Aha.... a teď když jsem se přepnul v tom případu do Aktivit, tak tam jsem ho viděl .... pak jsem se vrátil zpět do komentářů a už tam je! ...."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, dik za podnet, nejak som sa stratil uprimne, co sa reportuje. Vedel by si poslat postup, idealne kroky 1 az N a potom ocakavany vysledok a aktualny vysledok? Nech nejako pochopim co sa chce, resp kde nastal problem."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Uf... Dva problémy: 1) Čtu si po sobě komentář a vidím, že je v něm chyba/překlep. Dám editovat příspěvek, opravím a uložím. Čtu si ten příspěvek znova a vidím, že to tam je pořád špatně, tak to jdu zeditovat znova, uložím a už je to ok. V aktivitách je dokonce vidět, že sjem ten příspěvek dvakrát editoval, ale neumím dokázat, že jsem ho zeditoval napoprvé správně, protože v aktivitách u editací textu nezobrazujete původní znění. 2) - rozepsal jsem komentář - zkopíroval jsem jeho text a text smazal - napsal jsem jiný text a komentář odeslal - mezi tím tam přibyl příspěvek někoho jiného - zkopírovaný text jsem vložil do nového komentáře, dopsal a odeslal - hledím, že ten první příspěvek tam není - po refreshi už se tam objevil (mimochodem v ten moment měly i špatné pořadové číslo, takže pokud bych se v komentáři odkázal na příspěvek kolegy, tak to pak bude nakonec ukazovat na můj příspěvek) .... u obojího si myslím, že obě věci proběhly, uložily se, ale mě se špatně vykreslily, takže jsem je jen dočasně neviděl. Ale u toho zmizelého příspěvku jsem uvažoval, že ho budu muset napsat znova, což by trošku naštvalo ;-) Líp to popsat neumím, jestli to umím nasimulovat, to nevím, protože to byla určitě i shoda okolností... ale dochází tam k nějakému problému s mergem dat, které já odesílám a které přichází."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "ad tu 1) tu bych možná nechal plavat, protože si nejsem jistý, jestli jsem neupravil jiný výskyt slova, než jsem si pak myslel. Ale 2) se opravdu stala."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ad 1 - toto by som pvoedal ze je chyba, reportoval som ako chybu ad 2 - asi chapem, len vies ako, kym neviem nasimulovat presny problem, tak to nemaju ako opravit. Ale teda niekedy v rovnakom case si postol komentar ty a kolega a neuvidel si to hned ako sa to stalo tak (pri tom si pisal svoj komentar), tak?"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Myslím si, že jsem si toho všiml až v momentě, kdy jsem odesílal ten druhý komentář, že tam ten první není. Já se soustředil na ten svůj druhý komentář a jen očkem jsem viděl, že tam něco přiskočilo, což ale byl komentář kolegy. Podle mě tam šlo prostě nějakou souhru v tom, že jsem odeslal svůj komentář v momentě, kdy tam šel jiný nový. Klient to správně nemergnul. Tak jestli simulovat takovou nějakou situaci. Ty máš určitě možnost něco takového zkusit, já to s jedním účtem nedám. Jinak se nasimulováním samozřejmě chápu a když se ti to nepodaří napodobit, tak případ klidně uzavřeme, ale aspoň už to někdo nahlásil a až se to objeví znova, tak to nebude poprvé... popravdě, skoro bych i řekl, že už jsem sám něco takového kdysi zažil."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Dušan Kovář (dusan.kovar@karatsoftware.cz) mohol by si pozriet na tento pripad.. neviem ci celkovo nesuvisi aj s tymi komentarmi nejako, co riesime v inej ulohy a ich aktivitami. Mozno nie, lebo tu ide o zobrazenie komentarov ktore su vkladane v podobnom case.."
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) S těmi aktivitami to může souviset pouze tak, že aktivity si správně neaktualizují, pokud se komentář upraví a pak se teprve otevřou aktivity - viz #6208 Zmena komentara sa prejavi do minulosti Možná se něco stalo během současného odeslání komentáře dvou lidí - zatím nedokážu posoudit."
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Závěr z ##3 ad 1  - je v řešení  viz ##8 ad 2 - obecně může nastávat, že během psaní nebo dokonce odeslání komentáře může přiskočit komentář od jiného uživatele a že se uživatel může leknout. Zkusím dát na UIX poradu s tím, že během přiskakování komentáře od jiného uživatele by se současně mohlo zobrazit zelené hlášení nahoře, že přibyl komentář."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady Zaplanovana, informacia o tom, ze pribudol komentar."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lukas, ako vidis vyssie, zaplanovali sme do vyvoja informaciu o tom ze komentar pribudol aby sa lepsie rozpoznavali novo pridane komentare. Mozeme uzatvorit?"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "No, tak jako informace o tom, že přibyl komentář je určitě fajn věc, ale nevím jak řeší můj problém z bodu 2) ;-) Pro jistotu ale nějak polopatě zopakuji to, co se stalo mě: Napsal jsem komentář a pravděpodobně ve stejný moment, kdy jsem svůj komentář odeslal, tam přiskočil komentáře někoho jiného, což způsoblo to, že jsem tam viděl jeho komentář, ale ne svůj. Můj se tam neobjevil ani po té, co jsem odelal další svůj komentář. Objevil se až po té, co jsem se přepl do záložek s Aktivitou na případu (kde jsem viděl, že jsem ten svůj komentář opravdu odeslal) a zpět na Komentáře."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Dušan Kovář (dusan.kovar@karatsoftware.cz) citam si este raz co pise Lukas a ked osm spravne pochopil on pise, ze ten komentar sa mu tam nezobrazil. Az potom co presiel do aktivit a spat. Ale nezda sa mi to, lebo to nacitanie uz zbehlo. Co myslis?"
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) , zkusím si nasimulovat."
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Nenasimuloval jsem, ale pravděpodobně souvisí s async/await řešením požadavků na backend a následné zpracování notifikcaí na frontendu. Allan toto řešení do alfy optimalizoval. Mělo by tím být vyřešeno."
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Nevím, jak dát patchovat."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Oukej, Dušo.... byla to krkolomá situace a něco se synchronitou by to být mohlo. Klidně můžeš uzavřít."
+    }
+  ]
+}

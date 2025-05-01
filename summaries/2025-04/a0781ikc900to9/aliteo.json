@@ -1,0 +1,39 @@
+{
+  "id": "a0781ikc900to9",
+  "created": "2025-04-07T09:09:09.942Z",
+  "closed": "2025-04-09T13:45:19.678Z",
+  "duration_minutes": 3156,
+  "first_response_minutes": 40,
+  "name": "nechodi z alitea upozorneni na komunikaci",
+  "description": "Dobry den, muzte mi sdelit, kde je chyba ze nechodi upozorneni z alitea, konkretne: viz. priloha, dnes 10:04 pan Chalupek vytvoril komentar, kde neodeslo upozorneni na email sledujici ukol Renata Vainertova? Kde je problem? S pozdravem Martin Hanus",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ma pani Vainertova zapnute podrobne upozornenia v ulohe? Ak nie, toto je ten dovod pred upozornenie neprislo."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Jen dotaz, to ona si musi taky vejit na ulohu a zapnout upozorneni, to nestaci ze ji do ukolu pridam ja?\r\n\r\n7. 4. 2025 v 11:49, notifications@aliteo.com:\r\n\r\n[logo3small.png]\r\nOdpověď na požadavek\r\nALITEO  /  Support  /  Support ALITEO  /  m.hanus@rudorfer.pl< mailto:m.hanus@rudorfer.pl >\r\n#6538   m.hanus@rudorfer.pl< mailto:m.hanus@rudorfer.pl >\r\nnechodi z alitea upozorneni na komunikaci\r\n\r\nZdravim Vas,\r\nma pani Vainertova zapnute podrobne upozornenia v ulohe? [Image001.png]\r\n\r\nAk nie, toto je ten dovod pred upozornenie neprislo.\r\n\r\n\r\n    Odpovědět na komentář    < mailto:comment.a0781ikc900to9@aliteo.com ?subject=RE:%20ALITEO%20-%20#6538%20-%20odpov%C4%9B%C4%8F%20na%20po%C5%BEadavek:%20nechodi%20z%20alitea%20upozorneni%20na%20komunikaci>               Zobrazit úkol    < https://app.aliteo.com/anonymoustasks/m.hanus%40rudorfer.pl/a02680eeqg1n4b/7192bbc8-2eec-2366-8d23-2a206d4a73eb/a0781ikc900to9 >\r\n[logo2small.png]\r\nCopyright 2022 ALITEO • Powered by KARAT Software\r\n[Image001.png]"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ide o 2 rozdielny veci: - pridanie do ulohy znamena ze na ulohu ziska pravo - zapnutie upozorneni je na danom uzivatelovi podla toho ako pracuje Niektore upozornenia chodia vzdy (ak sa stane riesitelom, alebo ak ju napriklad zmienite cez @... a iné)  ine upozornenia, podrobne sa nastavuju zvlast. Napriklad ak by ste pridali nejakeho sefa do ulohy, tak on nechce vediet o kazdej malej zmene, tak si to on riadi sam, ktore info je pre neho podstatne a ktore nie. Je to teda vyriesene?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "ano muzete uzavrit"
+    }
+  ]
+}

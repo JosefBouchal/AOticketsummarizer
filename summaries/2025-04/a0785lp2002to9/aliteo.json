@@ -1,0 +1,31 @@
+{
+  "id": "a0785lp2002to9",
+  "created": "2025-04-08T09:01:37.925Z",
+  "closed": "2025-04-13T15:36:17.445Z",
+  "duration_minutes": 7594,
+  "first_response_minutes": 209,
+  "name": "Dlouhé načítání + výpadky",
+  "description": "Dobrý den, dnes v posledních cca 15-20 evidujeme výpadky: Internet máme v pořádku, ostatní stránky běží. Vyskytlo se na několika PC. Díky za zpětnou vazbu Tomáš Novák Vedoucí výdeje  | Head of outgoing NOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700 M: +420 720 061 074 tomas.novak@covetrus.com< mailto:tomas.novak@covetrus.com > www.noviko.cz< http://www.noviko.cz/ > [A blue text on a black background  Description automatically generated with low confidence]",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, stale problem petrvava? Nasadzovali sme opravny patch."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím, posielam malý update: Zaznamenali sme zvýšený výskyt podobných hlásení, a podľa našej predbežnej analýzy mohla situácia súvisieť s kombináciou vyššieho zaťaženia nášho modulu kapacitného plánovania a spomalených odoziev z kalendárových dát integrovaných cez platformu Microsoft Azure. Aktuálne prebieha optimalizácia dotknutých častí systému a zároveň úzka spolupráca s technickou podporou Azure, aby sme získali podrobnejšie dáta o možných výkyvoch na ich strane. Je však možné, že sa podobný problém ešte výnimočne objaví – preto naďalej monitorujeme výkon systému a pracujeme na trvalom riešení. Ospravedlňujeme sa za vzniknuté komplikácie a ďakujeme za pochopenie a trpezlivosť."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "a079bc9mf00eot",
+  "created": "2025-04-17T12:40:02.867Z",
+  "closed": "2025-04-19T14:36:25.529Z",
+  "duration_minutes": 2996,
+  "first_response_minutes": 47,
+  "name": "API Rozdíl mezi výčtem release a Alfa co je pravda?",
+  "description": "Team výčet Visibility, release má TeamMembers vs Alfa ProjectMembers Z toho je pravda? A pak nově přidané do View budou tam mít Team a nebo Project jak je uvedeno v Alfě? Lubomír Bednář system analyst",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 3,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) mozes prosim odpovedat - AK BUDE TREBA ZALOZIM PRIPAD DO VYVOJA, len daj vediet"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "ProjectMembers je správně, ano došlo tam ke změně. Tým je vnitřně odvozený od Project a Visibility dědí. Ano vím že to mělo být nazváno \"MembersOnly\" nebo tak nějak, ale teď nechci měnit."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "nepochopitelné, nepochopitelné, nepochopitelné"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "takže asi nepamatoval toto si nikdo se zdravým rozumem nemůže dovolit, fakt ne"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "zavřeme ten případ a už nechci o ničem slyšet, kašlu na to, Allan nám dal změny, pojedu podle toho, protože toto úplně ale úplně naho...."
+    }
+  ]
+}

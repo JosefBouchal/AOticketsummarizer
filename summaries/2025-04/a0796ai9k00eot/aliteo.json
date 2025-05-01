@@ -1,0 +1,95 @@
+{
+  "id": "a0796ai9k00eot",
+  "created": "2025-04-16T07:13:30.645Z",
+  "closed": "2025-04-17T11:33:22.605Z",
+  "duration_minutes": 1699,
+  "first_response_minutes": 52,
+  "name": "ALITEO Beta - synchronizace interní učastník není interní?",
+  "description": "Společnosti je na Betě!!!\r\n\r\nOdesláno:\r\n\r\n{\"company\":\"a069077mrg06rn\",\"usercompany\":\"a06d063c900m9u\",\"ts\":\"2025-04-16T05:42:00.717Z\",\"changes\":[{\"type\":\"Create\",\"simple\":true,\"def\":\"Team\",\"eid\":\"626\",\"parent\":{\"id\":\"a069077mrg06rn\",\"field\":\"Teams\",\"def\":\"Company\"},\"archived\":false,\"fields\":[{\"name\":\"Description\",\"type\":\"FormattedText\",\"value\":\"hoho jak toto dopadne\"},{\"name\":\"Name\",\"type\":\"String\",\"value\":\"Team KT 25.2.100 AO 24\"},{\"name\":\"Owner\",\"type\":\"UserCompany\",\"value\":\"a069077msg06rn\"}]},{\"type\":\"Create\",\"simple\":true,\"def\":\"MemberTeam\",\"eid\":\"627\",\"parent\":{\"eid\":\"626\",\"field\":\"Members\",\"def\":\"Team\"},\"fields\":[{\"name\":\"Admin\",\"type\":\"Logical\",\"value\":\"1\"},{\"name\":\"CanAddKoop\",\"type\":\"Logical\",\"value\":\"1\"},{\"name\":\"MemberType\",\"type\":\"Enum\",\"value\":\"Internal\"},{\"name\":\"SupervisorM\",\"type\":\"Enum\",\"value\":\"No\"},{\"name\":\"Tools\",\"type\":\"Logical\",\"value\":\"1\"},{\"name\":\"UserCompany\",\"type\":\"UserCompany\",\"value\":\"a069077msg06rn\"}]}]}\r\n\r\nNavráceno:\r\n\r\n{\"iserror\":true,\"error\":\"CompMemberTeam.fieldChangeTrigger: Cannot change Admin for non-internal user\",\"isrepeatable\":false,\"errorchangeindex\":0,\"results\":[{\"type\":\"Error\",\"eid\":\"626\"},null]}\r\n\r\n Což je dost divné, jelikož owner a069077msg06rn je přímo vlastník společnosti a interní je [Image001] , ale je zvláštní, že MemberType v datech nevidím, ale možná to je zase, není vyplněno, tak je default, ale pak tedy musí být daný účastník interní\r\n\r\n[Image002]\r\n\r\n\r\nLubomír Bednář\r\nsystem analyst\r\n\r\ntel.: +420 581 737 148 | lubomir.bednar@karatsoftware.cz< mailto:lubomir.bednar@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 18,
+    "from_owner": 9,
+    "from_others": 9,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, predal som na Allana.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "díky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "od AKO: Proč uživatel a06d063c900m9u , který synchronizaci provádí, je externí? On se při vytvoření týmu zakládá jako člen s právy administrátora a tam to spadne."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Třeba proto, abych jako zákazník za něj nemusel platit? ten účet je tam jen jako pomocník, fyzicky to nemá být žádná osoba a doposud to nevadilo a už vůbec nechápu, proč by se měl uživatel, který provádí synchronizaci dávat mezi účastníky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ak som pochopil, co pise Allan tak sme dovod asi problemu nasli. To ci je spravne  ze to tak je (ze to musi byt interny uzivatel) je asi druha vec alebo som to nepochopil dobre?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Aha, to jsem tak nepochopil, jinak ano, uživatel pod kterým běží sync je externí , ale to si myslím AKO mohl ověřit během 30s tedy by nečekal na odpověď."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "takze si ho prepnes na interneho a vsetko je vyriesene ? dakujem"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "takže si přejete mít synchronizačního uživatele interního? tedy zákazník za něj bude platit, je to tak? jako je to váš produkt, pokud bych měl ale odpovědět, že mám změnit jako interního právě z tohoto důvodu, tak mě to rozum nedává. Na otázku proč? Protože ten uživatel ani neměl zapnuto může zakládat týmy a ten by se vklidu založil jen nemohl vzniknout jako účastník. Ten uživatel vklidu může dávat interní vyjádření, zavírat úkoly, může přidávat projekty a je to logické, jelikož jinak práva by se nedalo dosáhnout aby mohl dělat vše, to synchronizace více padala jak jela. Ale ok, změním si ho, neplatím to, tak neřeším Klidně zavřeme Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Myslis to teda tak, ze zbytocne po nom chceme aby bol interny, ked aj ako externy moze cez API zadavat a vidiet interne veci? Ale ako externy sa nestane adminom a nedostane sa k API takze tam nejaky zasah interneho byt musi aby vobec rozbehol sync ci?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane, já Ti popisoval, co jako uživatel synchronizace může udělat, né kam se dostane, umě dokonce ten uživatel ani nepřijal pozvánku, dokonce jsem to dal na nesmyslný email, já nechci žádného uživatele synchronizace, ale vaše API jej vyžaduje, tak jsem si udělal pseudouživatele, nikdy se nikdo pod ním nikam nepřihlásí a může dělat co jsem popsal i když je externí, ale AKO udělal trigger na kontrolu admina u týmu a hotovo, konec a to já vůbec nechápu proč by tam ten uživatel vůbec měl být, ale ok, změním si, už neřeším. Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dobre, skusime na zaklade toho nieco vylepsit vo vyvoji.. dakujem za podnet"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Tak už to nechápu: vždy přidání Týmu přes API a účastník synchronizace: Externí: ALITEO API ERROR: /SyncSetChanges CompMemberTeam.fieldChangeTrigger: Cannot change Admin for non-internal user Interní - nepovoleno přidávat týmy ALITEO API ERROR: /SyncSetChanges Creating teams is not allowed for user sync@lbetest.cz Interní - povoleno přidávat týmy ALITEO API ERROR: /SyncSetChanges CompTeam.fieldChangeTrigger: cannot set owner to not-member of team přídání projektu uživatel synchronizace externí: normálně vznikl #4 Projekt přidán jako sync externí stačí takto? Luboš"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "a kde v tom projektu vidíte uživatele synchronizace?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Žádný uživatel synchronizace neexistuje. Každou transakci by měl provádět uživatel, který ji fyzicky na druhé straně provedl a měl by na ni mít právo. Externí uživatel nemá mít právo přidat tým."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "to jako bude taková změna? jako vážně, i u projektů? četl sis vůbec ##13 a ##14 ? přestávám rozumnět"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Vracím na Dana, řeším v rámci #6632 LBE: ALITEO Beta - synchronizace interní učastník není interní? ."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "takze pribude uzivatel API ktory bude autorom veci ktora sa tyka API... mozeme teda uzatvorit Lubo?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano"
+    }
+  ]
+}

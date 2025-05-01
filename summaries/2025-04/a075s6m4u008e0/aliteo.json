@@ -1,0 +1,83 @@
+{
+  "id": "a075s6m4u008e0",
+  "created": "2025-03-21T13:01:27Z",
+  "closed": "2025-04-15T08:55:24.857Z",
+  "duration_minutes": 35753,
+  "first_response_minutes": 5,
+  "name": "zmizení porady z Outlooku i když v ALITEO je - až ve verzi 25.1",
+  "description": "Ahoj, mám založenou opakovanou poradu PEPEK takto: Pořeboval jsem tam přidat dalšího člena, což když jsem přidal přes řadu tak nějak ne úplně zafungovalo a tak jsem to pak přidával ješt do jednotlivých schůzek. Při těchto operacích mi ale z Outlooku zmizela poslední porada z 23.6. i kdž v ALITEO ji vidím: Už jsme něco podobného řešili před vánocema. Jen pro doplnění ta červnová porada je oproti řadě pak ručně v ALITEO posunutá o den dřív než by se normálně vygenerovala (protože pondělí 30.6 už jsou prázdniny) Prosím o pomoc jak dostat poradu zpět do outlooku, aby ji tam účastníc měli. Díky R. Mgr. Roman Vajčner senior consultant",
+  "owner": "Roman Vajčner",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 15,
+    "from_owner": 3,
+    "from_others": 12,
+    "unique_authors": 4
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik, pozriem sa na to.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ako zafungovala ta zmena? ak nieco zmenis na porade, je potrebne zmenu odoslat cez tlacidlo ktore je nenapadne dole vlavo.. takisto si prosim skontroluj pripojenei kalendara v nastaveniach uzivatela lebo sa zda byt Unauthorized.."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Ahoj tlačítko „odeslat změny“ už znám delší domu 😊, ale to nezabralo…, resp nezabralo to jen na té červnové poradě na ostatních to zafungovalo:\r\n[Image001]\r\n\r\n\r\nVerifikaci = zadání hesla jsem provedl znovu, ale až tam unauthorized nesvítí, ale jak říkám, i bez toho to fungovalo na jiných poradách v té řadě dobře, jen ta jedna červnová je nějaká rozbitá.\r\n\r\nŘešil jsem v podstatě to stejné v prosinci s Allanem a Dušanem. Duša mě nní odkázal na support, tak nevím jestli nedat Allanovi ke zkoumání??\r\n\r\nR.\r\n\r\n\r\n\r\nMgr. Roman Vajčner\r\nsenior consultant\r\n\r\ntel.: +420 581 737 152 | mobil: +420 723 340 719 | roman.vajcner@karatsoftware.cz< mailto:roman.vajcner@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-twitter.png ] < https://twitter.com/karatsoftware >  Twitter< https://twitter.com/karatsoftware >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "A teda toho cloveka sa ti podarilo dostat vsade?"
+    },
+    {
+      "creator": "Roman Vajčner",
+      "comment": "všude kromě té červnové, jedná se o Fedrová Jana, v té červnové ji přes účastníky přidám, ale pak když dám odeslat změny, tak to problikne podezřele rychle a nic se nestane...po obnovení stránky tam zase mezi účastníky není :-( Navíc tu poradu momentálně nemám ani v outlooku"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Roman Vajčner (roman.vajcner@karatsoftware.cz) no to je dovod preco ju nepridas, lebo pre to neexistuje udalost... @ Allan Konečný (allan.konecny@karatsoftware.cz) je nejaka moznost ako dogenerovat danu instanciu?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Toto navrhuji řešit po nasazení bety s lepšími kalendáři. Zatím odkládám. P.S. momentálně nemám ani jak ladit, protože se releasem nemohu připojit k ostré z důvodu předělaných kalendářů."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Roman Vajčner (roman.vajcner@karatsoftware.cz) podla Allana bohuzial teraz nejde nijako riesit ani ladit, musime pockat na nasadenie bety, kde by mali byt kalendare viac vyladene. Z toho dovodu to pozastavil."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Pravděpodobně došlo k ukončení opakované porady ke dni  SO 28.6.2025. Porada je nastavena jako poslední pondělí v měsíci, což je ale 30.6.2025 - jelikož datum ukončení předchází datumu posledního pondělí, porada za červen tam není. V Karatu existuje ale změna pravidla jej označila jako \"Pravidlo změněno\" (asi vznikla instance ještě před ukončením). Doporučuji založit novou single poradu na 30.6.2025 nebo kdy, pokud má být v kalendáři a tu opakující již nechat jak je. A založit novou opakující se poradu od 1.7.2025."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Roman Vajčner (roman.vajcner@karatsoftware.cz) poislema vyjadrenie ako dovod problemu: Pravděpodobně došlo k ukončení opakované porady ke dni  SO 28.6.2025. Porada je nastavena jako poslední pondělí v měsíci, což je ale 30.6.2025 - jelikož datum ukončení předchází datumu posledního pondělí, porada za červen tam není. V Karatu existuje ale změna pravidla jej označila jako \"Pravidlo změněno\" (asi vznikla instance ještě před ukončením). Doporučuji založit novou single poradu na 30.6.2025 nebo kdy, pokud má být v kalendáři a tu opakující již nechat jak je. A založit novou opakující se poradu od 1.7.2025."
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "čau Dane, Porada ale existuje, jen není viditelná v seznamu porad... Podle slov Michala Ladýře ty porady ani nejsou opakované, ale ručně zakládané... Přesvědč mě o tom, že to někde blbě, novou poradu nebudu pro 30 lidí zakládat ..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Filip Pražák (filip.prazak@karatsoftware.cz) tu som sa pomylil, mal som oznacit @ Roman Vajčner (roman.vajcner@karatsoftware.cz) .. zmenim to v komentari, ked tak, ty archivuj prosim ten svoj, nech sa tu nepletieme"
+    },
+    {
+      "creator": "Roman Vajčner",
+      "comment": "Takže jsem založil single poradu a dál to neřeším....ale stalo se mi to i loni, takže někde bude asi zakopaný pes 🙂 R."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ano, je to mozne, ale kalendare presli zmenami a teraz nedavno takisto bola velka uprava... problem je aj v tom ako komunikuje  a pracuje poskytovatel kalendara napriklad pri zumene pravidla a podobne. Mozeme teda uzatvorit?"
+    },
+    {
+      "creator": "Roman Vajčner",
+      "comment": "jj zavřeme"
+    }
+  ]
+}

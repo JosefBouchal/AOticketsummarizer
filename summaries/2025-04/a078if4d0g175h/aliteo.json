@@ -1,0 +1,83 @@
+{
+  "id": "a078if4d0g175h",
+  "created": "2025-04-11T11:32:52.497Z",
+  "closed": "2025-04-25T10:41:28.687Z",
+  "duration_minutes": 20108,
+  "first_response_minutes": 50,
+  "name": "Projekty >Gantt",
+  "description": "Ahoj, píšu souhrnně pár připomínek k používání ganttu projektů, protože se mi tento pohled velmi hodí a nahrazuje zobrazení \"seznamu\". Super je zobrazení dílčích úkolů napřič projekty. Píšu souhrnně, protože nevím co je již v plánu vývoje a co třeba řešit nelze. 1) nezobrazuje se dílčí úkol (jsou dva ve stejném stavu ale zobrazuje se jen jeden ) 2) doplnit otevření náhledu úkolu při najetí kurzoru onmouseover  na gantt (dnes lze jen přes kontextové menu a otevřít, ale nechci opustit gantt jen zobrazit úkol a např. zkopírovat odkaz...) 3) uložení nastavení měřítka/jednotky časové osa zobrazení gantt : dnes vždy startuje na denním. Nebo umožnit výchozí nastavení na měsíce, nebo konfigurovatelně. 4) Doplnit ukládání pohledu na projekt - moc by to pomohlo : Nový vytvořím, ale nelze ukládat jako pohledy úkolů, jen zobrazit.",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Projekty",
+  "comment_stats": {
+    "total": 15,
+    "from_owner": 4,
+    "from_others": 11,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, prejdeme to postupne, ale to prve sa zda ako chyba, preto ju preposlem na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No: 1. Zda sa to ako chyba, takze som oposlal na vyvoj 2. Preberieme na porade 3. Gant sa priblizuje podla datumu projektu tak aby ho zobrazil cely - ak mas teda projekt ktory nekonci tak si urci nejaky jeho termina zaciatku a konca a podla toho sa ti bude projekt zoomovat pri otvoreni 4. Ano pohlady na projekt nejdu ulozit, ale mame to v plane vyvoja - teraz aktualne si spravis filtar na ulohami a projekty preklikavas v kleintskom filtri alebo - vytvoris si pohlad uz s konkretnym projektom V principe podla toho ci to pouzivas pre jeden alebo pre viac.. ale chapem ze ked chces mat zaroven ganta alebo sekcie tak je to nepouzitelne"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "1. opravena 2. preberieme dnes 3. co na to hovoris? 4. bude casom"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "msedge_wxbLHMwCZc.mp4 Ahoj, díky za reakci, projekt nemá začátek ani konec, nemohu to ani změnit (projekt je spíš zakázka, protože se jedná o časově neomezený projekt). Pokud se to váže na délku projektu, očekávám bych spíš ve výchozím stavu časovou osu na \"roky\". To je ale celkem jedno, protože se časová osa a počáteční datum vrací na výchozí hodnotu pouhým nastavením filtru a po každé musím přepínat na požadovanou."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja viem ze je to neobmedzeny projekt, ale tym casom by si dokazal ovplyvnovat okno, na ktore sa ti projekt v gantovi zazoomuje pri otvoreni. Ak to nie je problem, poziadaj admina (asi Lubo) ci by to tam nevedel nastavit. To ze sa to resetne pri nastaveni klientskeho filtra to by som povedal ze je chyba a hlasim to na vyvoj.."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "ok díky. i za bod 1) vyřešeno."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "aktualizacia k bodu 2 - tooltip na ganntovi, ale aky pretoze pri planovani to moze robit problem - natahovanie zaciatku, konca, pripadne presuny by to tam preblikavalo a mohlo by to vadit pri praci, pretoi: - bud dat vacsi delay, ale moze sa to stat nepouzitelny, lebo bude treba dlhsie cakat - na klik (podobne ako v kalendari) sa vybali preview - ale to zas bude behat spolu s obrazovkou kym nekliknem mimo pre zrusenie Preberieme este na UI porade s grafikom.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: 1. Rozlisujeme klik na objekt v Ganntovi a klik na cely riadok 2. Klik na objekt vyvola tooltip k ulohe 3. Tooltip zmizne po kliku na iny objekt."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) pamatam si spravne ze sa bavime o lavom kliku ak klik na ulohu vybali tootlip a klik mimo bublinu ulohy oznaci ten riadok.. tak?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ano jedna sa o lavy klik. Ostatok tak ako pises + moj predchadzajuci komentar."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) nechavame otvoreny tento pripad? V principe sa caka na: - opravenie zoomovania ganta pri zapnuti klienskeho filtra (nahlasene ako chyba) - zapracovanie kliku + tooltipu (zatial v najblizsej verzii zaplanovanie) Obe veci vo vazbach.."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "ahoj, pokud je naplánováno tak já jsem spokojen a můžete uzavřít"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) klik na ulohu otvara tooltip : mozes si vyskusat na alfe napriklad ak mas pristup"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "díky, pokud půjde zkopírovat odkaz úkolu, nebo jej otevřít na nové záložce, tak budu spokojen."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) este to preverim.. aby to slo.. lebo som si vsimol ze tam nieco chyba.. dik"
+    }
+  ]
+}
