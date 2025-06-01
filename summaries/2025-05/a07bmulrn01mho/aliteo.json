@@ -1,0 +1,75 @@
+{
+  "id": "a07bmulrn01mho",
+  "created": "2025-05-05T20:55:12.467Z",
+  "closed": "2025-05-20T20:33:43.287Z",
+  "duration_minutes": 21578,
+  "first_response_minutes": 550,
+  "name": "dotaz \"reply to\"",
+  "description": "Zdravím, pokud je pořízen email od anonymního uživatele, kteří má nastaven nějaký \"reply to\" parametr. Umíte posílat emaily automaticky na tento parametr?Je možné toto příapdně zapracovat ? děkuji Michal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 13,
+    "from_owner": 3,
+    "from_others": 10,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, preberiem s kolegami a budem Vas informovat..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vies mi k tomu nieco povedat? ja neviem uplne presne co mysli.. chapem spravne ze by chcel davat do reply to nejake ID, aby sa mu vsetky emaily k jednej ulohe zgrupovali do jednej konverzacie - ak si to takto nastavis v emailovom klientovi? To sa nezda ako zly napad.. co myslis? Rozumiem tomu spravne?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Reply-to je email, na který se má odeslat odpověď po stisku Odpovědět. Podle mne chce abychom si zapamatovali kromě email i reply-to email  a např. při pořízení komentáře posílali na něj, tedy aby se změnil komunikační email. Je otázkou zda se nemá reply-to email zapamatovat jako anonymní email... ale nevím nakolik je to obecné. Možná jde o situaci, že emaily odesílá automat z jiného emailu a v reply-to je skutečný zadavatel."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mohli by ste mi prosim napisat Vas use case, aby sme lepsie pochopili pouzitie?ň Predpokladam ze reply-to nie je parameter dostupny beznemu uzivatelovi pri odosielani emailu. Dakujem"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Dobrý den, máme externí systém, kde  posíláme do Aliteo tickety přes emaily. Email je odesílán \"neexistující schránkou\", jelikož to neumíme poslat emailem za toho uživatele, ne všichni jsou v naší síti. Nicméně ta adresa co to odesílá má nastaveno , \"reply to parametr\" a při odpovědi na tento mail, můžeme původnímu uživateli díky tomu odpovědět. Michal"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane pak je to jak jsem říkal, i ten use case. Asi vrať na poradu a můžeme se dohodnout, že reply to vezmeme přednostně jako email vlastníka."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Dobr ýden, je to jasné, nebo k tomu ještě něco potřebujete? díky za info MIchal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Je nam to jasne, preberieme podnet na porade a dam Vam vediet.. Dakujem"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Akceptujeme, dopracujeme podla poziadavky. Vytvorme do vyvoja."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím, prebrali sme s kolegami a zaradíme túto požiadavku do vývoja. Sumarizujem: v prípade že prichádzajúci email má vyplnený parameter Reply-to, tento email sa stane vlastníkom úlohy. Mozeme tento pripad uzatvorit?"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "dobrý den, od díky za info a máte představu, kdy by to mohlo být implementováno? děkuji"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pokusim sa zistit podla planu a dam Vam vediet"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravím vás @ Michal Přibyl (Michal.Pribyl@respect.cz) vaša požiadavka je už  zapracovavaná a bude dostupná v najbližšej verzii, ktorú plánujeme vydať do mesiaca. Dáme Vám vedieť, keď bude vonku. Díky za podnet 😉"
+    }
+  ]
+}

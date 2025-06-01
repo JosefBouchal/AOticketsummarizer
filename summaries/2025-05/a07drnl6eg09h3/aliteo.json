@@ -1,0 +1,39 @@
+{
+  "id": "a07drnl6eg09h3",
+  "created": "2025-05-22T13:35:46.219Z",
+  "closed": "2025-05-23T08:53:44.874Z",
+  "duration_minutes": 1157,
+  "first_response_minutes": 179,
+  "name": "HD: rizeni vyvojovych projektu - export",
+  "description": "Dobrý den,\r\n\r\nV navaznosti na naši schůzku ohledne projektového planovani se vyskytl dotaz, jakym zpusobem vyexportovat komunikaci (reakce) z jednotlivých ticketu. Důvodem je tvorba vysledne projektove dokumentace a kopirovat něco z HD přes schránku je seriove nepouzitelne.\r\nPriznam se, ze jsem na nic neprisel. Existuje nejaka moznost exportu?\r\nJaky je rozdil mezi uzavrenym a archivovanym ticketem?\r\n\r\nDíky za info.\r\n\r\n\r\nMartin PŘIKRYL\r\nIT Coordinator\r\nLesaffre Česko & Lesaffre Slovensko\r\n\r\nMob. +420 739403300\r\nHodolanská 34, 779 00 Olomouc, Czechia\r\n\r\n[Image001]\r\n\r\n[Image002]< https://www.linkedin.com/company/lesaffre/ >  [Image003] < https://twitter.com/Lesaffre_Group >   [Image004] < https://www.facebook.com/lesaffrecorporate/ >   [Image005] < https://www.youtube.com/channel/UCSZZ6JDb7dvgzSRcbtubisA >\r\n\r\nm.prikryl@lesaffre.com< mailto:m.prikryl@lesaffre.com > - www.lesaffre.cz - www.lesaffre.sk< http://www.lesaffre.sk/ > - www.lesaffre.com\r\n\r\nZvažte, je-li nutné tento e-mail vytisknout. - Please only print this email if it is necessary.\r\n\r\n[Image006]< https://www.lesaffre.cz/jste-pripraveni-na-udrzitelnou-budoucnost/ >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, skusim postupne odpovedat na Vase otazky. 1. export komentarov k ulohe - aktualne je mozne dostat data z ALITEO prostrednictvom API - dokumentacia k tomu je tu: https://api.aliteo.com/swagger/ui - nie je to teda mozne \"na klik\" v ALITEO - export v ramci aplikacie bude mozny v najblizsej verzii, ale tym ze uloha je zlozita struktura a komentarov moze byt 0 ale 100 tak export komentarov bude mozne ziskat iba vo formate json alebo xml 2. aktivna vs archivovana uloha - aktivne ulohy obsadzuju licenciu, archivovane nie - archivovane nie je mozne menit ale viete ich vyhladavat a robit nad nimi dalsie operacie - metodicky, kazda uloha by sa mala nejakym sposobom ukoncit (tie tlacidla v zahlavi ulohy.. ) - bud za uzatvori - to znemane ze bola uspecne dokoncena - alebo sa zrusi - teda je to stav, kedy Vas ta uloha vobec nezaujima, inymi slovami ani namala vzniknut Je to takto pochopitelne?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "DD, 1. OK, API pro tyto účely není vhodné - uživatelé si potřebují obsloužit sami, počkáme si na novou verzi a uvidíme. Formáty nevadí. 2. Chápu. Je možnost automatické archivace v rámci projektu např. pro úkoly, které jsou uzavřené a starší 6 měsíců? Nenašel jsem, vždy jen ručně. Ani v pravidle není dostupná volba pro archivaci. Díky, MP"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, autoamticka archivacia je mozna v nastavenie pracovneho priestoru: Nastavenie spolocnosti -> Pracovne priestore -> vybrat pracovny priestor -> Prokrocile:"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Bezva, díky za pomoc. Možno zavřít. Klidný den, MP"
+    }
+  ]
+}

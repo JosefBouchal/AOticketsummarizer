@@ -1,0 +1,55 @@
+{
+  "id": "a07c5mnneg0gg4",
+  "created": "2025-05-09T10:51:20.615Z",
+  "closed": "2025-05-19T17:38:32.214Z",
+  "duration_minutes": 14807,
+  "first_response_minutes": 4180,
+  "name": "ToDo - přidání funkčnosti \"odkazu\", datum a zobrazit to někde.",
+  "description": "prosím o zvážení možnosti přidat nějakou funkčnosti z vyjádření i do ToDo nad úkolem. Co by tam mohlo přibýt: 1. udělat provázání vyjádření a ToDo položky: a. v textu ToDo napíšu ##99 a vloží mi to odkaz na vyjádření 99 - takto si to musím psát ručně, k čemu se to váže b. z vyjádření vytvořit ToDo - stou vazbou. 2. mohl by tam být i datum 3. umím si zobrazit někde seznam ToDo - když by tam byl viz 2 datum, tak bych věděl že jsem to chtěl dělat konkrétní datum.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 3,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, sumar: 1a - chces mat moznost previazat existujuce to-do na komentar - zvaz ci to bude treba ak bude platit 1b - skratka zmazas to-do a vytvoris na novo 1b - z komentara vytvorit to-do (toto uz mame niekde vo vyvoji, podobne aj dielciu ulohu) 2 - datum? myslis datum splnenia to-do ? 3 - chcel by si zoznam to-do vsetkych uloh na jednom mieste?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ad všechny - ano."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "treba ale 1b ak bude fungovat 1a?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "nepotřebuji, klidně ručně propojit (ale až to bude, tak někdo přijde s tím, že by to chtěl - ale jde mi o to to alespoň nějak propojit - nebo by mi stačilo aby v tom ToDo bylo možné se prokliknout přes ty dva křížky atd."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "no, prave ze nie rucne, ale ze ked bude mozne generovat to-do z komentara tak ci ma zmysel este rozmyslat funkcionalituá na dodatocne prepojenie.. tu by ti teda stacilo aby sa z oznacenie ##33 stal klikatelny odkaz na komentar v danej ulohe?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ano to by mi stačilo."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dobre tak na poradu beriem teda: 1a previazanie komentara a existujuceho to do - aby bol odkaz na komentar funkcny 1b - toto mam vo vyvoji #5865 Vytvorenie to-do z komentara (a niekde si myslim ze asi mame este jednu kde hovorime aj o vytvoreni dielcej ulohy z komentara - vsetko cez 3 bodky) 2 - datum splnenia todo - toto mi uprimne uz zacina smrdiet - rozsirovanie funkcionalit todo 3 - zoznam todo na jednom mieste - toto sme tu uz asi niekedy mali a neviem ako to dopadlo"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Momentalne neriesime rozsirenie funkcnosti to-do o uvedene poziadavky. Obecne narazame na koncept toho ako by to-do mali zapadat do dalsich mechanizmov radenia, filtrovania a zobrazovania ich v ALITEO. - Co podporime je vytvorenie to-do z komentara."
+    }
+  ]
+}

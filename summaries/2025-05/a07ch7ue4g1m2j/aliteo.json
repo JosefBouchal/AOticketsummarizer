@@ -1,0 +1,55 @@
+{
+  "id": "a07ch7ue4g1m2j",
+  "created": "2025-05-12T06:04:05.858Z",
+  "closed": "2025-05-19T08:44:59.19Z",
+  "duration_minutes": 10240,
+  "first_response_minutes": 130,
+  "name": "A-HD - obnova licence",
+  "description": "Dobrý den, V sobotu 17.5. nám (LCZ) končí platnost licence na HD. Povyšovat z pohledu interních uživatelů či množství projektů zatím nepotřebujeme, takže čistě prodloužit licenci na další rok. Budu ale prodlužovat jako jiný uživatel s jinou platební kartou (dříve řešil pan Nosek). V obsluze licence ale nevidím možnost ruční obnovy licence resp. nevím jak to provést obnovu, když ta automatická neprojde (z důvodu viz. výše). Díky za pomoc. Martin PŘIKRYL IT Coordinator Lesaffre Česko & Lesaffre Slovensko Mob. +420 739403300 Hodolanská 34, 779 00 Olomouc, Czechia",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 3,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pokial ide o zmenu, teda o nulovu platbu, mavaju s tym platobne brany problem, preto to nie je mozne jednoducho zmenit. Teoreticky by malo fungovat nasledujuce. Znizit tarif na Basic (o data nepridete a toto by sa asi malo stat aj vtedy ak platba nedobehne - ze sa tarif sam znizi na basic) k datumu obnovenia a nasledne vratit a zaplatit znova licenciu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "prosim vyckajte este, skusime to otestovat.."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Jasny, otestuje ... muzeme poladit i behem zitrejsi schuzky. Diky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ako sme sa bavili pocas callu, znizte k datumu obnovenia tarif na Basic. V den ked to uz na Basicu bude (budete mat cervene cisla v licencovani), vyskusajte naspat navysit na povodny tarif - malo by to vyzvat na vyplnenie karty a vtedy zmenite na inu kartu. Ja sa budem snazit to sledovat v pocas vikendu a ak bude problem tak intervenovat. Dakujem"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, nechal jsem vypršet licenci, automaticka obnova díky vyexpirované kartě neprošla. Manuální prodloužení proběhlo bez problémů, pouze jsem si musel pro svůj účet povolit supervizora (admin nestacil a platba nebyla dostupná). Díky za pomoc. Možno uzavřít."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, som rad ze to preslo v poriadku. Skuste mi prosim vysvetlit este toho supervizora. Mal by stacit administrator spolocnosti na to aby ste sa dostali do nastaveni a tam robili upravy licencii. Dakujem"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Zdravím, ve správě licence jsem viděl tlačítko Zaplatit, nicmene s opravnením admin bylo zasedle a nepristupne. Přidal jsem si tedy supervizora a uz jsem mohl tlacitko aktivne pouzit a licenci zaplatit. MP"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Uz rozumiem, pozrieme sa na to, kazdoadne by mal stacit admin. Dakujem a zatvaram teda."
+    }
+  ]
+}

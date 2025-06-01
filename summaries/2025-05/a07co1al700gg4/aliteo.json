@@ -1,0 +1,35 @@
+{
+  "id": "a07co1al700gg4",
+  "created": "2025-05-13T21:38:29.264Z",
+  "closed": "2025-05-16T11:26:35.938Z",
+  "duration_minutes": 3708,
+  "first_response_minutes": 678,
+  "name": "pomoc portfolia",
+  "description": "Dobrýden, chi připojit portfolio. Prosím jak funguje ten filter pod tím. proč tam nevidím například projekt #42 Rizikové dotazníky - portál a pár dalších. děkuji za objasnění Michal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 2,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Michal Přibyl",
+      "comment": "aha, už jsem  to asi vyřešil. Jeden projekt jedno portfolio.  :-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, pri portfoliach a projektoch plati, ze projekt moze patrit iba jednemu portfoliu rovnakeko typu. Ak teda mame typ portfolia zakaznik (v nich portfolia coca cola a starbucks) a krajina (nich su portfolia CZ a SK), potom projekt moze z kazdeho typu patrit iba jednemu portfoliu. Teda projekt moze patrit coca cola a SK, ale nemoze patrit coca cola a starbuck alebo sk aj cz. Je to teda pochopene? Mozeme uzatvorit?"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "jj díky"
+    }
+  ]
+}

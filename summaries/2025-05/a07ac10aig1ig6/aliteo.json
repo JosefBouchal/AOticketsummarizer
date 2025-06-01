@@ -1,0 +1,31 @@
+{
+  "id": "a07ac10aig1ig6",
+  "created": "2025-04-25T10:51:02.137Z",
+  "closed": "2025-05-18T12:21:05.201Z",
+  "duration_minutes": 33210,
+  "first_response_minutes": 178,
+  "name": "PWA - v nastvení společnosti je špatně zalomen text",
+  "description": "V těchto menu chybí rozumné zalomení textu - je tam nudlička cca 1cm široká. jak se tam dostat: Nastavení společnosti -> Pracovní prostory -> Pracovní prostor - konkrétní - vybrat -> Pokročilé -> Uzavření úkolu (zrušení úkolu, vlastníci, Spokojenost)",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Nastavení společnosti",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dík za report, predal som na vývoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) vyriesene v najblizsej novej verzii"
+    }
+  ]
+}

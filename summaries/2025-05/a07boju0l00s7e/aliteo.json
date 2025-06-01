@@ -1,0 +1,47 @@
+{
+  "id": "a07boju0l00s7e",
+  "created": "2025-05-06T06:36:53.546Z",
+  "closed": "2025-05-12T11:43:30.033Z",
+  "duration_minutes": 8946,
+  "first_response_minutes": 6,
+  "name": "Odkazy - nepředávají správně parametry do vnořené webové aplikace",
+  "description": "na produkci na projekt např. zde: #9 ALITEO s.r.o. jdu do webového odkazu \"Lidé\" a vidím toto: Lidé - to je správně. ale nyní když se vrátím na projekt a kliknu například na seznam odvedené práce, tak vidím hlavičku z odvedené práce, ale webovou aplikaci z Lidí: odkaz: Odvedená práce vrátím se a kliknu na \"Moduly\" a vidím zase  seznam lidí a na vrchu jsou modulu. Jdu na jiný projekt a otevřu souhrn - v URL to vypadá, že to předává správné parametry, ale zobrazují se informace z původního projektu a záložky: Souhrn Když to otevřu přes pravé tlačítko - tak vše funguje jak má. moduly: seznam práce Problém je tedy když se to otevírá uvnitř aplikace. Jak na FF, tak na Edge to bylo stejně. Tedy - první otevření toho dne (nejspíše toho dne) funguje správně. Druhé a další otevření pak už nefunguje správně a zobrazuje se tam projekt a záložka z prvního otevření. Tedy zavolání URL asi funguje dobře, ale převzetí do vnořené webové aplikace a předání těch parametrů v URL už nefunguje - je to tedy vazba přímo na naše webové aplikace. Nevím, kde je problém a proto prosím zjistit, jestli předáváte správně do Karatu (weboé apliakce) co se má a pokud ano, tak to bude na kluky z ASNETu - aby zjistili proč si webová aplikace pamatuje stále první spuštění.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Projekty",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, myslim ze by takyto popis mohol stacit.. @ Allan Konečný (allan.konecny@karatsoftware.cz) vedel by si sa k tomu vyjadrit? pripadne rpeverit? Ak je treba zalozim vyvojovy pripad.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane založ případ na Dušana... díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Hotovo, pripad zalozeny a prehodeny na Dusana"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) vyjadrenie od Dusana: Nakonec je problém na straně IS Karat. Všechny adresy se předávají správně, ale David Trebi si pamatuje applicationId zobrazeného obsahu uvnitř, kvůli hot reloadu, aby se opět nezobrazil přihlašovací dialog. Takže se po hotreloadu Ctrl+Shift+R již bude vždy zobrazovat ta prvně zobrazená stránka. Tento případ tedy navrhuji k uzavření a založ, prosím, případ do karatu na Trebiho. Bude vědět. Povodne Dusan poziadal ako keby mna o zalozenie pripadu, ale ja som chcel poprosit Teba aby si rovno vedel o jeho rieseni. Je to takto ok?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "díky, založil jsem: #315286 Webové aplikace - applicationId"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, uzavřeme."
+    }
+  ]
+}

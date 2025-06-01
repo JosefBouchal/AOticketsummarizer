@@ -1,0 +1,31 @@
+{
+  "id": "a07dmp3cig0a6v",
+  "created": "2025-05-21T08:43:54.612Z",
+  "closed": "2025-05-24T05:57:25.199Z",
+  "duration_minutes": 4153,
+  "first_response_minutes": 81,
+  "name": "reply to",
+  "description": "ještě k ukolu #6909 dotaz \"reply to\" chápu správně, že je to teda již nasazené? zkoušel jsem to totiž a nefunguje to #37209 test děkuji Michal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ako kolega pisal v #6909 dotaz \"reply to\" ##13 bude to dostupne v najblizsej verzii."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Aha ok, jsem špatně pochopil. děkuji Michal"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "a06vhq8110035s",
+  "created": "2025-01-31T10:01:26.427Z",
+  "closed": "2025-05-02T09:43:40.813Z",
+  "duration_minutes": 131022,
+  "first_response_minutes": 9,
+  "name": "výkazy cez API",
+  "description": "Dobrý deň,\r\npotrebujem cez API pravidelne (napr. 1-2 krát denne) sťahovať nové výkazy vytvorené k úloham (alebo všetky patriace pod projekt). \r\nExistuje na to nejaká funkcia, alebo musím iba prehľadávať výkazy používateľa za obdobie (UserTimescheets) ?\r\n\r\nĎakujem.\r\n\r\nS pozdravomPeter Bučo",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 14,
+    "from_owner": 2,
+    "from_others": 12,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, navrhoval by som najprv v ALITEO vytvorit a ulozit pohlad na vykazy prace ktore potrebujete. Potom by som pouzil dotaz /FilteredTimesheets, ktory by mal vratit zakladne data o vykazoch prace - vid response chema pre tento dotaz. Staci takto? alebo ste mali na mysli nieco ine? Dakujem"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý deň, pohľad na výkazy vytvorené dnešný deň som vytvoril, ale neviem ako definovať projekt, ktorého výkazy by som chcel. Alebo ak by sa sťahovali 2 krát denne, ako pre druhé sťahovanie poslať, aby sa sťahovali už iba tie ďalšie (aby sa minimalizovala množina spracovávaných výkazov) ? Mám iba jedného používateľa (bude sa používať viacero), preto neviem otestovať, či sa výkazy filtrujú pre používateľa, ktorý je v dotaze zadaný (UserCompany) alebo pre všetkých, ak je pohľad pre Vlastník = Bez filtru ? Ďakujem za odpovede. Bučo."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "1. ako vybrat projekt - ked vyberiete pohlad a dat ho upravit, tak ak si vyberiete Pracovny priestor, potom sa Vam ponuknu aj projekty 2. osetrenie duplicit -  vykazy prace na sebe sice maju datum a cas vytvorenia, ale aktualne je mozne vytvorit iba specificky datum s casom a kombinaciou podmienok by sa to dalo, napr. . Problem je ale v tom ze ten cas sa nebude dynamicky a bude to poukazovat stale na ten isty den a cas. Preto aktualne bezudrzbovou variantou je poslat si len podmienku a cez dotaz /DetailTimesheet vytiahnut ku kazdemu vykazu prace \"Created\" a riesit to na Vasej strane. Z ALITEO teda aj po druhy krat dojdu vsetky. Mozem sa pobavit s kolegami, ako tazke by bolo doplnit to co potrebujete. 3. komu patria vykazy prace - vsetko je definovane pohladom - ak budete mat nastavene \"bez filtru\" to znamena ze sa Vam zobrazia vsetky vykazy prace na ktore mate pravo (ak budete mat pravo administratora a supervizora, mali by ste vidiet vsetky - teda kazde uzivatela)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pan Buco, k tomu ma napadla este jedna vec a to je otazka ci sa nebudu vykazy prace upravovat. ALITEO to v obmedzenej miere umoznuje. Ak by sa editovali, potom je treba mysliet aj na tuto variantu, kedy niekto zmeni vykaz prace, ktore sa reportoval vcera na iny cas a vy uz na to teoreticky nepridete, pokial si stahujete len dnesok."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý deň, a akým spôsobom je najrýchlejšie možné získať zoznam zmenených výkazov ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "znovu na poradu: - toto sme nedoriesili asi uplne - vieme nejako doplnit API aby sme pomohli, alebo ho budeme odkazovat na synchronizaciu (co sme asi nechceli)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) prosim ta napamatas sa ako sme sa na tomto dohodli? Bude mozne vytvorit API na zmenene vykazy prace, alebo ako by sa to riesilo?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "1. Vytvářím si na úrovni SQL index Modified (SQL pointer) podle Created/Modified pro všechny komponenty, které podporují Created. 2. Chybí kompatibilní vytvoření alespoň pro výkazy 3. Chybí doplnit to do API a SQL."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane, domlouvali jsme se že podpořím pro výkazy možnost zjištění vytvořených či modifikovaných výkazů po datu. Začal jsem na to pracovat (toto je lepší dělat s verzí), jelikož jde o Support, vytvoř mi prosím případ do vývoje."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vytvoril som ulohu do vyvoja do vazby - len neviem do akeho sprintu to daj.. neviem ci nam bude robit este teraz alebo v inej verzie.. ak chces zaplanovat niekam, hod na poradu aby sa to zaplanovalo"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dále řeším zde #6672 API - zmenene vykazy po datume ."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, ale vysledok je ten, ze bude doplneny endpoint ktorym viem zistit zmenene vykazy prace po nejakom datume.. je tak?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Ano."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, do API bude doplneny endpoint, ktory Vam vrati zmenene vykazy od urciteho datumu."
+    }
+  ]
+}

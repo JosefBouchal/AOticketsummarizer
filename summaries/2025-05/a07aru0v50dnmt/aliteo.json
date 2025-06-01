@@ -1,0 +1,47 @@
+{
+  "id": "a07aru0v50dnmt",
+  "created": "2025-04-29T07:30:53.547Z",
+  "closed": "2025-05-05T09:12:30.943Z",
+  "duration_minutes": 8741,
+  "first_response_minutes": 28,
+  "name": "Není oprávnění na přiloženou přílohu, přitom je dle mě veřejená",
+  "description": "Viz příloha, co vidí Broňa a co vidím já jako  zadavatel komentáře Tedy dle mě je příloha tam vložena jako veřejná, Broňa komentář vidí, ale na přílohu v komentáři to říká e!e, proč? Odkaz na komentář: #298752 ZMĚNY V IMPORTECH SEPA PLATEB A SEPA INKAS ##3< https://app.aliteo.com/comment/a0778csgag1o90/ > Lubomír Bednář system analyst",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, dik zda sa to ako chyba - ak vidi komentar tak by mal vidiet aj prilohu, lebo nie je je mozne asi vlozit verejny komentar a prilohu v nom internu.. zaujimave je ze nemusim ziadat pravo na tu ulohu, v sledujucich nie som, predpokladam ze ani supervizor projektu, prac. priestoru ani spolocnosti.. posuvam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, zaroven som zistil ze v prilohach to asi Brona uvidi.. len je problem s nahladom v komentari.. je tak?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Ano Dane, přílohu v záložce Přílohy vidí, ale to není stejná příloha, tu jsem tam dneska ráno vkládal samostatně (tedy nebylo použito toto )"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "aha, dobre dik za info.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, Dusan prisiel na to ze ta povodna priloha je sukromna a teda ked si na nu zobral odkaz tak ju iny uzivatel nevidi. Ak by mal, musel by si nastavit na tej prilohe ine sukromie alebo ju stiahnut a vlozit na novo do komentara..."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane, Dušan možná došel na to, že to faktu bude díky odkazu na přílohu, ale příloha není soukromá, to už jde vidět na tom co vidím já a je tam packa, ale čéče fakt to byl odkaz na přílohu, která byla v úkole, na kterou Broňa neměl oprávnění, přidal jsme jej do účastníků úkolu a nyní to již vidí. Tedy můžeme uzavřít, je to vysvětleno Luboš"
+    }
+  ]
+}

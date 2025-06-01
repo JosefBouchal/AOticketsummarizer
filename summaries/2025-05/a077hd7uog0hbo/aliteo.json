@@ -1,0 +1,39 @@
+{
+  "id": "a077hd7uog0hbo",
+  "created": "2025-04-03T10:57:54.415Z",
+  "closed": "2025-05-04T08:52:07.463Z",
+  "duration_minutes": 44514,
+  "first_response_minutes": 2,
+  "name": "ztratila se příloha",
+  "description": "viz: je tam problém v příloze - jak k tomu došlo? proč je tam chyba? #310654 Přirážka - online výpočet ceny i do budoucích období - realizace",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Vyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, tazko povedat, mozno problem s nahranim suboru (sietovy problem alebo iny) rozumiem ze to neznie logicky ked vidis nahlad.. ale skusime preverit.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Dušan Kovář (dusan.kovar@karatsoftware.cz) da sa preverit co sa stalo s prilohou v danej ulohe id: a07296s21g4vv5"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "no ona tam ta příloha byla už hodně dlouho - ne že bych ji nahrál nyní."
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Ta příloha se nikdy korektně nenahrála - navíc vznikla kopíí z komentáře , kde také není nahrána."
+    }
+  ]
+}
