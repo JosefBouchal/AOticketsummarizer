@@ -1,0 +1,59 @@
+{
+  "id": "a07gvtubg0089h",
+  "created": "2025-06-15T21:16:57.923Z",
+  "closed": "2025-06-25T15:07:52.022Z",
+  "duration_minutes": 14030,
+  "first_response_minutes": 661,
+  "name": "dotaz opakující se šablony",
+  "description": "Dobrý den, chci se zeptat, k těm opakujím úkolům ( šablony úkolů). Chápu, že jsem dané šablony našel v mém nastavení. Dají se tyto šablony nějak sdílet mezi uživateli ?  jako chápu, pro mě, když si budu chtít vytvořit úkol opakující se. Ale já bych chtěl vytvořti sadu opakujích se úkolů, kde bych rád, aby to bylo na firmě. Například odejdu a nerad bych, aby tím ty šablony skončili. Připadně bych rád, aby dané ukoly někdo zpravoval, a nebyly pouze u mě. nebo jsem to špatně pochopil ? děkuji Michal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, presne rozumiem o co ide, len datovo je to zatial tak, ze je to ulozene na uzivatelovi a len on ich pouziva. Mozem sa pobavit s kolegami ci sa toto planuje nejako zdielat alebo je to vyslovene vec daneho uzivatela. Vas napad mi pride logicky ale samozrejem bude to chciet analyzu kvoli pravam a podobne."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "ok díky, za info začnu tedy používat takto.  Budu rád, když to budoucna zvážíte úpravu, kdyby to nebylo jansé dejte mi vědět. s těmi opakujícími tickety mám relativně dost zkušeností 🙂 ticket asi zavřete,a le dejte do backlogu na vývoj.díky Michal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ono je tam trochu problem s pravami a kde by to malo byt ulozene.. podla dat asi nad pracovnym priestorom.. Pobavim sa s kolegami a uvidime.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zaver z porady: - AKO: pracne, ale dokaze si predstavit, dava to zmysel - sablony uloh sa budu zdielat v ramci pracovneho priestoru (podobne ako pohlady, ktora potom tak ci tak budu prerabat) - @ Peter Ďurčák (peter.durcak@karatsoftware.sk) zalozime do vyvoja?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) kludne to zaloz do vyvoja s popisom ktory to vystihuje a hod to do 25.3. pls."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim, zhodnotili sme, ze je to dobry napad a preto zaradime do vyvoja.. Mozeme teda uzatvorit tento pripad?"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Díky za info. máte nějaký odhad, kdy to asi bude - stačí rámcově?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To je tazko odhadnut, ale myslim ze skor ako do pol roka to nebude.."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "ok, díky za info. Ticekt tedy zavřete"
+    }
+  ]
+}

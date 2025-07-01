@@ -1,0 +1,43 @@
+{
+  "id": "a07gas2f200mv4",
+  "created": "2025-06-10T18:36:29.480Z",
+  "closed": "2025-06-11T14:51:21.514Z",
+  "duration_minutes": 1214,
+  "first_response_minutes": 980,
+  "name": "Export požadavku nebo vyjádření konci chybou",
+  "description": "Na verzi https://aliteotestapp.azurewebsites.net/main/ v PWA na iPhone zkouším export na seznamu úkolů i na vyjádření a dostávám chyby a nic se nevyexportuje.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Testoval som na iphone ja a ide to ok (narychlo som skusil zoznam jednej ulohy do pdf), asi budes musiet byt konkretnejsi... Asi by som najprv skusil do iste na desktope Ak to bude ok, tak to iste na mobile Potom asi poslal nejaky postup ako to nasimulovat s detailmi (ktore data, aky subor atd)"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "zkouším nyní zde: https://aliteotestapp.azurewebsites.net/task/a04imm5p3g1avu/?view=comments a jak na Telefonu, tak na FF mi to hlásí chybu viz:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vies mi prosim povedat na zaklade chyby, ci ide o problem ktory ma riesit David, alebo sa do testovecej nepreviedli niektore data a tie teraz sposobuju chyby.?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Toto souviselo s nedodělaným převodem dat ve verzi, dodělal jsem a mělo by být ok."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, otestováno, funguje."
+    }
+  ]
+}

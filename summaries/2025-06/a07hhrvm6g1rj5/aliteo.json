@@ -1,0 +1,43 @@
+{
+  "id": "a07hhrvm6g1rj5",
+  "created": "2025-06-20T05:47:01.896Z",
+  "closed": "2025-06-20T10:09:53.339Z",
+  "duration_minutes": 262,
+  "first_response_minutes": 207,
+  "name": "Zaplacení licence",
+  "description": "Dobrý den, snažil jsem se vytvořit fakturu jako minulý rok pro zaplacení licence na další rok, ale přes zvolení možnosti: Platební příkaz mi GoPay vypsal, že \"možnosti platby nejsou k dispozici\". Následně zde visí tento záznam (v příloze). Mohu se nějak dostat k faktuře, kterou bych poslal do účtárny? Děkuji,",
+  "owner": "Jakub Trhlík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 3,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "I když v tomto případě to asi řeší pro nás pan Němec? Já nebyl nikde v kopii s ofiko emailem, tak nemám úplně přesné informace."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, Chápem tomu správne že ste išli zaplatiť licenciu prevodom. Prevod nebol možný, neumožnila vám to Platobná brána. Je tak? Tlačidlo na stiahnutie faktúry je v tomto prípade neaktívne? Nachádza sa v pravom hornom rohu na obrázku ktorý ste mi poslali. Ďakujem"
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Ano, rozumíte tomu správně, akorát převod jsem neměl v plánu ihned zaplatit:), chtěl jsem jej využít jen pro vygenerování faktury a tu pak poslat do Karatu v PDF. Tlačítko na stažení vidím, ale v mém případě slouží jen pro náhled a skrytí náhledu (i když byla platba ve stavu \"čekáme na platbu\" a nesvítilo tam \"zrušeno\"): Ale jak jsem psal do komentáře výše, dodatečně jsem dostal informaci, že by to měl řešit pro nás pan Němec, tak bych to nerad nějak zbytečně komplikoval."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Rozumiem, nekomplikujete to, to je v poruiadku, snazil som sa pochopit ciel. A ten teda boél ze ste chceli fakturu bez zaplatenia. Obavam sa ale ze to takto s platobnou branou nefunguje.. platobna brana nevygeneruje fakturu bez platby resp bez zrealizovania prevodu. Mam to teda nejako riesit, alebo pripad uzatvorime a mozno sa ozve p. Nemec?"
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Můžeme uzavřít, necháme to na panu Němcovi a uvidíme, zatím děkuji."
+    }
+  ]
+}

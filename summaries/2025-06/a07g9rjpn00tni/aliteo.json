@@ -1,0 +1,67 @@
+{
+  "id": "a07g9rjpn00tni",
+  "created": "2025-06-10T12:41:57.588Z",
+  "closed": "2025-06-22T09:22:52.706Z",
+  "duration_minutes": 17080,
+  "first_response_minutes": 54,
+  "name": "Rychlost hledání ID případu",
+  "description": "Velice běžně mi kolega nadiktuje ALITEO číslo případu a toto číslo hledám. Po zadání čísla do vyhledávacího pole započne hledání, které ale trvá mnoho sekund, někdy až desítky sekund. Záleží na tom, jak moc jsou data již v cache.\r\nHledání podle čísla je naprosto nejběžnější a to hledací pole k ničemu jinému prakticky nepoužívám. Chtěl bych nějakou možnost pro sebe nastavit, že to má hledat jen čísla případů.\r\nNebo by to mohlo snadno rozpoznat, že jde o číslo a jako první se podívat, zda existuje takový případ a tento výsledek mi nabídnout okamžitě, zbytek vyhledání si může klidně běžet dál. Než hledání doběhne, tak již budu z hledání v případu, hledání se přeruší, ušetří se tím prostředky na serveru a obecně to přispěje lepšímu pocitu z rychlosti aplikace.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Normal",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 5,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) mozes prosim vyskusat kliknut este na “ukoly” o kolko sa zmeni cas vyhladania? Mal by sa podstatne skratit"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Zkusil jsem, ale to prakticky nemá rozdíl v čase, protože v Týmech, Projektech a Výkazech téměř není co hledat (je jich řádově menší objem). Hledání v úkolech je stejně pomalé, jako hledání všude."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) stacil by ti “hack” ze pridanim # pred cislo by hladalo len v cislach objektov?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) skus to teraz uz ci to bude podstatne rychlejsie,.."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "##3 To se celkem blbě píše. Je to lepší, než nic. Nemohl bych tam ten # mít nějak předepsaný trvale? Možná si to pak tak nějak hacknu. ##4 Nezaznamenal jsem rozdíl."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Jinak technicky by mělo být velice snadné se zeptat přes to číslo úkolu. To by ani vnitřně neměla být nějaká vážná komplikace."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) chcel by som Ta poprosit (lebo ja to neviem urobit) ci by sa to dalo nejak exaktnejsie vyhodnotit - vyprazdnit cache a skusit hladania aby sme dosli k nejakemu aj cislo, nech to mozem poslat na vyvoj Dalo by sa nieco take urobit?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Čau. Já můžu vyprázdnit jedině cache prohlížeče, ale to není ta, která odbavuje ten Ajax dotaz. Tam se toho primárně účastní cache v Redis a pak cache MySql (v Azure), které ji nemám šanci jednoduše vyprázdnit. Zkusil jsem nyní opakované hledání stejného čísla případu a to nyní trvalo necelých 6 sekund. Tedy i s cache to není žádná sláva (na to, že hledám ID)."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "a ked pred to cislo hodis # tak to trva rovnako?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "S dvojmříží je to dnes rychlejší, cca 3 sekundy. Včera mi to přišlo časově stejné. Jde nějak zařídit, aby se tam předepsala vždy sama?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) zatial na to nemame nijake nastavenie ktore by to tam nejako vyplnilo # a nastavovali by si to len ti ktori hladaju len podla cisla"
+    }
+  ]
+}

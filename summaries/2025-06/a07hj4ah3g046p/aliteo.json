@@ -1,0 +1,43 @@
+{
+  "id": "a07hj4ah3g046p",
+  "created": "2025-06-20T13:07:38.313Z",
+  "closed": "2025-06-23T18:07:39.135Z",
+  "duration_minutes": 4620,
+  "first_response_minutes": 4,
+  "name": "Projekt - BALENÍ A OSVITI - zobrazení uzavřených úkolů",
+  "description": "Dobrý den,\r\n\r\nprosím o pomoc a radu\r\n\r\nU projektu BALENÍ A OSVITIY #59 . BALENÍ A OSVITY< https://app.aliteo.com/project/a06am6bch00rh1/ >\r\nse nezobrazují uzavřené úkoly, je nějaký problém v nastavení ?\r\n\r\nPři nastaveném filtru\r\n\r\n[Image001]\r\n\r\nPředem děkuji za zprávu.\r\n\r\nS pozdravem a přáním pěkného dne\r\nIlona Remešová\r\nNákupní manažerka\r\n\r\n[Image002]\r\n\r\nELTON hodinářská, a.s.\r\nNáchodská 2105 | 549 01 Nové Město nad Metují\r\nM: (+420) 730 855 366| E: ilona.remesova@prim.cz< mailto:ilona.remesova@prim.cz >\r\nwww.prim.cz< http://www.prim.cz/ > | Facebook< https://www.facebook.com/PRIMManufacture1949/ > | Instagram< https://www.instagram.com/prim_manufacture1949 > | Twitter< https://twitter.com/PRIM_Elton > | YouTube< https://www.youtube.com/channel/UCJodOxcpTeWaR3C_u8WYyQg >\r\n\r\nUPOZORNĚNÍ\r\nInformace obsažené v tomto e-mailu a všech připojených souborech jsou důvěrné, mohou být chráněny zákonem a jsou určené výlučně příjemci. Nejste-li zamýšleným příjemcem, je zakázáno jakékoliv zveřejňování, zprostředkování nebo jiné použití těchto informací. Obdrželi jste e-mail neoprávněně, informujte o tom prosím odesílatele a vymažte neprodleně všechny kopie tohoto e-mailu i všech jeho příloh.",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nemoze to byt tym ze su ulohy uz aj archivovany. V tom nastaveni pohladu uplne dole je \"vratane archivovanych uloh\" len je treba zarolovat kedze je to mimo zobrazenu cast pri istej velkosti obrazovky."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Zdravím,\r\n\r\nDala jsem pohled i včetně archivovaných úkolů a stále nevidím, nebude to tím, že jsem byla k projektu až nyní a tak to staré úkoly nevidím ?\r\n\r\n\r\n[Image001]\r\n\r\nS pozdravem a přáním pěkného dne\r\nIlona Remešová\r\nNákupní manažerka\r\n\r\nELTON hodinářská, a.s.\r\nM: (+420) 730 855 366| E: ilona.remesova@prim.cz< mailto:ilona.remesova@prim.cz >\r\n\r\nUPOZORNĚNÍ\r\nInformace obsažené v tomto e-mailu a všech připojených souborech jsou důvěrné, mohou být chráněny zákonem a jsou určené výlučně příjemci. Nejste-li zamýšleným příjemcem, je zakázáno jakékoliv zveřejňování, zprostředkování nebo jiné použití těchto informací. Obdrželi jste e-mail neoprávněně, informujte o tom prosím odesílatele a vymažte neprodleně všechny kopie tohoto e-mailu i všech jeho příloh."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nie, tym to nebude, skor to moze byt tym ze na tie ulohy skratka nemate pravo, teda bud nie ste sledujuca alebo nemate na ziadnes urovni praco supervizor. Ak ste administrator spolocnosti, chodte na seba ako uzivatela a zapnite si \"supervizor projektovych ukolu\". Nasledne budete mat pravo na vsetky ulohy v spolocnosti ak ked nie ste sledujuca."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Moc děkuji, nastaveno supervize a funguje. Omlouvám se za zdržení."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja dakujem a prajem pekny den."
+    }
+  ]
+}

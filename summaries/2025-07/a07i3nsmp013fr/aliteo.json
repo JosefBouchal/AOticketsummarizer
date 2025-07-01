@@ -1,0 +1,39 @@
+{
+  "id": "a07i3nsmp013fr",
+  "created": "2025-06-24T13:53:46.745Z",
+  "closed": "2025-07-01T05:40:38.331Z",
+  "duration_minutes": 9586,
+  "first_response_minutes": 105,
+  "name": "Formech a Komilo",
+  "description": "Dobrý den.\r\n\r\nProsím o zpřístupnění všech úkolů i pod firmami (projekty) Formech a Komilo.\r\n\r\nDěkuji.\r\n\r\nIng. Tomáš Mašek\r\nIT technik\r\n\r\nPEKASS a.s.\r\nPřátelství 555\r\n104 00 Praha 10\r\nmobil: +420 775850356\r\nemail:  < > tomas.masek@pekass.eu\r\nweb: www.pekass.eu",
+  "owner": null,
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobry den prajem, nepomylili ste si prosim adresata poziadavky? Tento emailu sluzi na technicke otazky tykajuce sa aplikacie ALITEO. Dakujem a prajem pekny den."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den.\r\n\r\nA jaká je tedy adresa na administraci uživatelů v Aliteo ?\r\n\r\nDíky.\r\n\r\nIng. Tomáš Mašek\r\nIT technik\r\n\r\nPEKASS a.s.\r\nPřátelství 555\r\n104 00 Praha 10\r\nmobil: +420 775850356\r\nemail:  < > tomas.masek@pekass.eu\r\nweb: www.pekass.eu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Uzivatelov spravuju administratori, teda ak su vo Vasej spolocnosti projekty s nazvami Formech a Komilo, kontaktujte administratora tychto projektov aby Vas tam pridal"
+    },
+    {
+      "creator": null,
+      "comment": "OK, vyřešeno. Děkuji."
+    }
+  ]
+}

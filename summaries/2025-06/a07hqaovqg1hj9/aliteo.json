@@ -1,0 +1,51 @@
+{
+  "id": "a07hqaovqg1hj9",
+  "created": "2025-06-22T07:04:47.254Z",
+  "closed": "2025-06-23T08:56:50.239Z",
+  "duration_minutes": 1552,
+  "first_response_minutes": 538,
+  "name": "Z karátu nejde založit KA - chybí mail creator",
+  "description": "Viz obrázek tak na verzi 25.1 API není možné založit KA z karátu. Podle mě to není o verzi API, ale o úpravě ASNETu, protože to založení funguje jinak než pak další komunikace. Ale nejsem si jist. Nejlepší řešení je nyní to povolit v Aliteo a pak zapracovat do ASNETu. Protože než se udělá asnet a nasadí u zákazníků tak to bude hodně casu, na úrovni Aliteo můžete pořešit přes víkend. P.s. úkol eskaluji a má svůj obraz i u nás.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Nejvyšší",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Nevím kdo to řeší ale protože je to celkem vážný problém, tak dávám na @ Konečný Allan (allan.konecny@karatsoftware.cz) pokud to dokáže vyřešit na úrovni Aliteo než se to začne plnit na straně Karátu. Protože to by znamenalo nejen udělat patch, ale i ho nasadit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, posunuté na vývoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) podla info od AKO by malo byt opravene"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ok, funguje. Nyní otázka - byla to chyba a na straně Karátu nic neřešíme, nebo je potřeba něco posílat a tedy má dojít v Karátu ke změně a tedy je potřeba založit případ na vývoj pro úpravu ASNET?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "to je otazka na @ Allan Konečný (allan.konecny@karatsoftware.cz)"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Na straně Karatu není důvod něco řešit. Opravil jsem v ALITEO aby bylo kompatibilní s minulým řešením."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, tak to uzavřeme, díky."
+    }
+  ]
+}

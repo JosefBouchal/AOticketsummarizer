@@ -1,0 +1,43 @@
+{
+  "id": "a07hj3pcpg046p",
+  "created": "2025-06-20T13:01:47.394Z",
+  "closed": "2025-06-29T09:05:14.821Z",
+  "duration_minutes": 12723,
+  "first_response_minutes": 5,
+  "name": "Dotaz - #1535 PRIM HORIZONT LE - číselník / luneta - změna termínu",
+  "description": "Dobrý den, měla bych prosbu, u úkolu #1535 PRIM HORIZONT LE - číselník / luneta< https://app.aliteo.com/task/a06mnfe68g1s0j/ > Nelze akceptovat změnu termínu ani nechat původní, případně zadat nový Předem děkuji za zprávu. S pozdravem a přáním pěkného dne Ilona Remešová Nákupní manažerka",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, rozumiem, pokusim sa zistit kde je chyba a budem Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Prisli sme na chybicku, oprava bude nasadena s novou verziou pocas vikendu."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Moc děkuji za ochotu a přeji krásný víkend,"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, dana chyba by mala byt opravena. Mozete prosim overit a potvrdit?"
+    },
+    {
+      "creator": null,
+      "comment": "Ano, již funguje, datum opraven. Děkuji za rychlé vyřešení."
+    }
+  ]
+}

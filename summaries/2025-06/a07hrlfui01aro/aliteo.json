@@ -1,0 +1,75 @@
+{
+  "id": "a07hrlfui01aro",
+  "created": "2025-06-22T14:51:22.601Z",
+  "closed": "2025-06-29T12:13:11.885Z",
+  "duration_minutes": 9921,
+  "first_response_minutes": 272,
+  "name": "Kontrola poctu aktivnych uloh v licencii",
+  "description": "Dobry den, prosim o kontrolu aktivnych uloh v licencii . Po upgrade sa nam nadmerne zvysil pocet - to urcite nie je realny stav.",
+  "owner": "Tomas Vrbican",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 13,
+    "from_owner": 6,
+    "from_others": 7,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nejde o chybu. Toto navysenie sa deje preto, lebo v novej verzii uz neexistuju riadiace ulohy, ktore boli znacne obmedzene a zakaznici mali viac menej problem pochopit rozdiel medzi klasickou (projektovou) ulohou a riadiacou. Preto sme zlepsili funkciu timov (pridali sme zrkadlenie)  a ulohy v nich su timove ulohy, ktore robustnostou ponukaju takmer rovnake moznosti ako projektove ulohy. Povodne riadiace ulohy sa preklopili na tieto “timove” a preto sa pocitaju do licencovania. Chapem ze to mozno sposobuje prekvapenie, avsak verim ze nove moznosti, ktore s tymto prichadzaju odcenite. Dakujem"
+    },
+    {
+      "creator": "Tomas Vrbican",
+      "comment": "Dobry den, je moznost ako zistit ktore ulohy sa preklopili a ktory uzivatelia maju tieto timove ulohy - ich pocet."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, no vsetko ostatne ostalo, riesitela ostali - a su to timove ulohy. Vsetky pracovne skupiny sa preklopili na timy a ulohy v nich (ktore boli len riadiace) sa stali timovymi. Podobne sa udialo s riadiacimi v projektu - v projekte vznikol subtim a v nom su opat timove ulohy."
+    },
+    {
+      "creator": "Tomas Vrbican",
+      "comment": "Viete len mi nejako nesedia pocty uloh. Vytvoril som si dashboard a tam je aktivnych uloh - projektovych aj timovych ovela menej ako to co je v licencii Mozete sa prosim pozriet na nasu spolocnost aby sme si to overili."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja nie som clenom vasej spolocnosti - ale malo by to byt tak ze vytvorit dashboard - zakliknete vsetky stavy a nechate odskrtnute \"archivovane\" (lebo tie sa nepocitaju). Mohl o sa stata ze mate zrusene aj uzatvorene ale nie su archivovane."
+    },
+    {
+      "creator": "Tomas Vrbican",
+      "comment": "Je mozne spustit manualne archivaciu uloh nad Projektom."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Co myslite manualnou archivaciou? kazda uloha ide cez tri bodky archivovat.. Aj timy aj pracovne pristory pre projekty v nich) teraz obsahuju moznost nastavenia automaticku archivaciu.."
+    },
+    {
+      "creator": "Tomas Vrbican",
+      "comment": "Ano, ale keby som chcel hromadne spustit archivaciu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To zatial nejde takto pruiamo aby na to bola moznost, ale mozete to obist takto: - vytvorte sekciu - vsetky ulohy  cez hromadne zmeny presunte do tejto sekcie - v nastaveni projektu/timu archivujte sekciu a aplikacia sa vas opyta ci chcete archivovat vsetky.. to by mohlo pomoct.."
+    },
+    {
+      "creator": "Tomas Vrbican",
+      "comment": "Ulohy v subtimoch sa nedaju vyberat ,"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zaujimave, mne to v mojim time na uzatvorenych ulohach ide  vybrat, skusim preverit kde je chyba.. Ale je pravda ze ak je uloha uzatvorena tak ak by to aj slo, ci to upravy povolia - vacsia uprav je po uzatvoreni ulohy nepristupna.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak este skuste pozriet ci nemate supervizora len na citanie.. potom by to davalo zmysel ze to nemate pristupne - nepojde Vam to ani na aktivinych ulohach. Ak si to aj povolite, tak je otazka ci najprv nebudete musiet tie ulohy zmenit na otvorene, potom presunut potom zatvorit a potom archivovavat sekciu.."
+    },
+    {
+      "creator": "Tomas Vrbican",
+      "comment": "Dobry den, dakujem. Podarilo sa mi znizit pocet uloh."
+    }
+  ]
+}

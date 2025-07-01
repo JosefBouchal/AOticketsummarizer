@@ -1,0 +1,39 @@
+{
+  "id": "a07hu3o4og0urb",
+  "created": "2025-06-23T05:06:08.491Z",
+  "closed": "2025-06-26T06:21:02.306Z",
+  "duration_minutes": 4394,
+  "first_response_minutes": 43,
+  "name": "Zoznam stitkov - scrolovanie",
+  "description": "Dobry den, prosim o kontrolu zoznamu stitkov - nie je tam moznost scrolovania v zozname. V obrazku vidno ze aj posledny stitok - nazov je orezany.",
+  "owner": "Tomas Vrbican",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 0,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, Ďakujem za informáciu, preposlal som na vývoj. Ospravedlňujem sa za nepríjemnosti"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Tomas Vrbican (Tomas.Vrbican@rudos.sk) mozete si zatial pomoc vyhladavacim polom v hornej casti"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) test"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, scrolovanie v stitkoch bolo opravene."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "a07fh7uo3g13cs",
+  "created": "2025-06-04T13:18:38.150Z",
+  "closed": "2025-06-05T08:07:08.396Z",
+  "duration_minutes": 1128,
+  "first_response_minutes": 94,
+  "name": "zaslaný mail - chyba ve slově",
+  "description": "viz obrázek - prý ve slovensky nastaveném a zaslaném e-mailu je chyba a má tam být \"interné\"",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 4,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "a prý ještě zde:"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "reklamuje mi to Slovák, tak mu věřím."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) ad 1 - asi ano, poslem na opravu ad 2 - nie, je to definovane v nastaveni pracovneho priestoru - je to to iste ako nazov atributu - tam nie je mozne riesit preklad (to by muselo znamena ze pre kazde nastavenie ktore mame by sme museli spristupnovat este miesta na zapis prekladu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Opravujem este bod 1 - kedze je to komentar, tak asi by malo byt \"interný komentár\". Ci?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Evim jak ke to správně slovensky, takže asi ano. Ad 2 - etapy - ok A v nastavení - “slovenčina”?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) - slovenčina je spisobne slovo, len ide o to ci by tam nemal byt iny tvar, napriklad Slovensky, ale potom asi aj Česky nie? - inak chyba v emaile je opravena, dostupna oprava bude v dalsej verzii"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "super, tak uzavřeme, já jsem jen posel. Díky"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "a07g4p4il00699",
+  "created": "2025-06-09T07:07:17.542Z",
+  "closed": "2025-06-26T15:47:14.093Z",
+  "duration_minutes": 24999,
+  "first_response_minutes": 44,
+  "name": "HD: moznost citaci komentaru + navyseni licence",
+  "description": "Dobrý den,\r\n\r\n\r\n  1.  Existuje prosím možnost aktivace citací resp. odpovědí s kopií textu, na který odpovídám?\r\nPokud potřebuji reagovat na starší, v historii ticketu výše řazený text, nenašel jsem možnost jak tento text pridat do své nově psané reakce (samo vyjma kopie přes schránku).\r\nStejne tak je to dobrý způsob prevence (a zachování historie), když někdo dodatečně zedituje svůj komentář.\r\n\r\n\r\n  1.  Kdybych výhledově potřeboval navýšit počet interních uživatelů (z pohledu nutnosti navýšení počtu řešitelů) o cca 7 kusů, co bude stát navýšení licence?\r\n\r\nDíky za info,\r\n\r\nMartin PŘIKRYL\r\nIT Coordinator\r\nLesaffre Česko & Lesaffre Slovensko\r\n\r\nMob. +420 739403300\r\nHodolanská 34, 779 00 Olomouc, Czechia\r\n\r\n[Image001]\r\n\r\n[Image002]< https://www.linkedin.com/company/lesaffre/ >  [Image003] < https://twitter.com/Lesaffre_Group >   [Image004] < https://www.facebook.com/lesaffrecorporate/ >   [Image005] < https://www.youtube.com/channel/UCSZZ6JDb7dvgzSRcbtubisA >\r\n\r\nm.prikryl@lesaffre.com< mailto:m.prikryl@lesaffre.com > - www.lesaffre.cz - www.lesaffre.sk< http://www.lesaffre.sk/ > - www.lesaffre.com\r\n\r\nZvažte, je-li nutné tento e-mail vytisknout. - Please only print this email if it is necessary.\r\n\r\n[Image006]< https://www.lesaffre.cz/jste-pripraveni-na-udrzitelnou-budoucnost/ >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 4,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, 1. neviem ci uplne rozumiem otazke - ale pokial sa chcete odkazovat na vyssie uvedeny komentar pouzijete 2x symbol # a za nim cislo komentara, teda napriklad ##5 az toho sa Vam (ak existuje tento komenta) vytvori odkaz. Co sa tyka zachovania historie, na komentari je vidiet ci bol upravovany a v aktitvitach ulohy sa viete dopracovat ku vsetkym zmenam, ktore na ulohe nastavli (aj zmeny komentarov) 2. Zalezi od typu licencie, podla cennika: https://aliteo.com/cenik/ , tam si mozete naklikat kolko Vas dany pocet vyjde, ak mate advance tak takto: (to je cena na rok)"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "1) ano i ne, je to priblizeni tomu co chci, ale nejde o citaci tzn. neni videt obsah puvodniho citovaneho komentare jako napr. v Teamsech a zaroven to neni kopie citovaneho komentare tzn. pokud autor citovaneho komentare udela zmenu, tak nezjistim puvodni zneni jeho komentare. Kdyz ho cituji, vidim diky kopii komentare i jeho zneni pred zmenou (historii). Je to jasnejsi? Zase neni to nic, co bych musel mit. Jen zjistuji moznosti. 2) OK, dekuji"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "1. ano, je mi to jasne a bohuzial toto nie je mozne aktualne - preberiem to este s kolegami na produktovej porade"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Funkcnost nema podporu v inych nastrojoch ako Teams. (Discord, imesage..). Riesenie si vyzaduje aj vyssiu datovu narocnost, vzhladom na nutnost pamatat si stavy komentarov."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, presli sme si s kolegami a trochu zistovali aj v inych tooloch a uprimne to tak ma len Teams, ze ponechava povodnu verziu a ked sa zmeni povodny komentar na ktory sa odvolava citacia tak sa to pri tej odpovedi nemeni. Mozno to ma teams tak, ze je to jednoduchsie. Ale pre porovnanie Discord alebo aj imessage to upravuje. Kazdopadne dakujeme za podnet a budeme radi za dalsie. Este ma napadlo ze sa pohravame s myslienkou vlakien v komentaroch, ale neviem ci by Vam to nejako pomohlo..."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Stejne tak to mely i ruzna diskuzni fora (yabb, phpbb atp.) a uzitecne to bylo celkem dost. Vlakno by asi taky mohla byt cesta, byt ne 100%. U nas se Teamsy pouzivaji intenzivne, cize proto vznikl tento dotaz :-) Mozna by uzivatelum stacilo mít (namisto stavajici dvou znaku # pro vznik odkazu) \"citovaci resp. spravneji z pohledu Alitea odkazovaci\" tlacitko."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No, znak #  je dolezity lebo pomocou neho robime zive odkazy jednak na ulohu alebo aj na komentar. Takze vy by ste chceli nejaky iny znak alebo tlacidlo, za ktory napisete cislo a ked to potvrdite, aby sa Vam cely text daneho komentara nakopiroval v aktualnom stave do tohto komentara ktory pisete.. je tak?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Ano i ne, chci tlacitko u kazdého komentare v ticketu, na ktere kdyz kliknu, tak odpovidam na dotycny komentar s jeho kopii tzn. cituji ho. Číslo komentare tim padem vubec nemusim resit, pamatovat, ani psat. Jednoduchy a uzivatelsky vstricnejsi."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "no vzhladom na to, ze sa ten komentar moze menit (aj v pripade ze nieco zabudnete alebo urobite chybu a chcete opravit) tak sa nejak musi skopirovat aktualny text  daneho komentara do noveho komentara a tam si potom dopisete co chcete... to kopirovanie by bolo napriklad ako jedna z moznosti v troch bodkach v pravom hornom rohu komentara.. takze takto?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "ano"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Vzhladom na to, ze to je nova funkcnost, ktoru sme nenasli v ziadnom inom systeme, ktory je konkurencny, nechceme zavadzat tuto funkcnost, nakolko to prinesie nejasnost pri odpoveduach, kedy dalsi odpovedajuci musi sledovat na ake znenie komentara dany uzivatel odpoveda."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, zatial tento podnet nepresiel produktovym schvalenim.. preto ho nateraz nezaradzujeme do planu vyvoja."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a07iat6o3005pv",
+  "created": "2025-06-26T07:38:29.822Z",
+  "closed": "2025-06-27T14:41:20.037Z",
+  "duration_minutes": 1862,
+  "first_response_minutes": 113,
+  "name": "Export porady vs realita",
+  "description": "Dobrý den, pane Ďurčáku, včera jsem poprvé vyzkoušel generování zápisu z porady do PDF a narazil jsem na zajímavou věc – podle mne chybu. Včerejší IT porada (viz https://app.aliteo.com/meeting/a07gd7t4g00mv4/?view=reaction ) měla 11 bodů, což se zápisem souhlasí. Nesouhlasí ale pořadí bodů – viz příloha zápisu a screen níže: S pozdravem a přáním hezkého dne Michal Truxa",
+  "owner": null,
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Nastavení společnosti",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, zaregistrovali sme Vas problem, ktory sme posunuli na vyvoj. Hned ako budem vediet viac, budem Vas informovat. Dakujem a ospravedlnujem sa za neprijemnosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Prisli sme na chybicku, opravu nasadime dnes v noci. Zajtra by sa mal uz export podarit spravne.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, chyba bola opravena."
+    }
+  ]
+}

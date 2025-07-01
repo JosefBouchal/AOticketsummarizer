@@ -1,0 +1,47 @@
+{
+  "id": "a07g9bscjg0tni",
+  "created": "2025-06-10T09:50:07.759Z",
+  "closed": "2025-06-10T10:32:03.021Z",
+  "duration_minutes": 41,
+  "first_response_minutes": 5,
+  "name": "Přidání nového účastníka do opakované porady",
+  "description": "Dobrý den,\r\nLze nějak editovat opakovaného účastníka porady? Nějak to neumíme udělat, nebo něco děláme blbě ☹\r\nDík moc za radu.\r\nJirka Dvořák",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano, otvorite radu porady (nie vyskyt), tuknete ucastnikov a pridate dalsieho a nezabudnite stlacit \"Odoslat zmeny\". Posielam GIF:"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "díky moc, mohu to upravit já, jako admin, nebo to může jen vlastník?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Moze to upravit iba organizator porady.. Ale aj na Vas podnet (tusim) sme zaradili do vyvoja funkcionalitu, kde bude mozne organizatorom povedat, kto este iny moze menit poradu. Ono tie prava teraz standardne respektuju to ako to funguje standardne na exchange - tam tiez musi len organizator."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Tak se těším, až to vyjde. P.S. kdy vyjde ta mobilní verze, prosím?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No aktualne urputne testujeme, takze pocitam, ze nova verzia s mobilnym zobrazenim by mala vyjst do konca tohto mesiaca, mozno skor... Co sa tyka zmeny porady niekym inym ako organizatorom, tak to je zatial naplanovane v tom dalsom sprinte.."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Díky moc a můžete to tu uzavřít. Hezký den a budu se těšit na obě varianty."
+    }
+  ]
+}

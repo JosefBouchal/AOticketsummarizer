@@ -1,0 +1,31 @@
+{
+  "id": "a07gjbtgfg089h",
+  "created": "2025-06-12T20:05:45.910Z",
+  "closed": "2025-06-19T11:47:14.811Z",
+  "duration_minutes": 9581,
+  "first_response_minutes": 670,
+  "name": "Ve verzi 25.1 - úkol pod tymem nejde přesunout - není na telefonu videt kam (zadáno z testu)",
+  "description": "Viz příloha jsem v týmu, jdu do úkolu a chci jej přesunout - nejde to. Protože na telefonu PWA- nemám viditelný prvek.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "posunul som na Vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) opravene"
+    }
+  ]
+}

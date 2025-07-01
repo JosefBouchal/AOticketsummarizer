@@ -1,0 +1,43 @@
+{
+  "id": "a07f8163ug0fu4",
+  "created": "2025-06-02T07:38:57.895Z",
+  "closed": "2025-06-06T11:27:32.803Z",
+  "duration_minutes": 5988,
+  "first_response_minutes": 0,
+  "name": "cyhba při najetí na stránku a prokliku - firemní karat - testování",
+  "description": "při zobrazení případu: #315671 O_KAL 25.002.150 - Testovani patche se mi zobrazí tyto chyby: a když kliknu na číslo požadavku viz zadání případu na obrázku: tak dostávám chybu: - něco o dynamicky importovaném modulu.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, posuvam na vyvoj"
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Ahoj @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) . Nerozumím zadání, žádné chyby mi nevybíhají. Můžeš upřesnit zadání? Větě \"a když kliknu na číslo požadavku viz zadání případu na obrázku:\" ve spojení s tím obrázkem nerozumím. Kam mám klikat apod. Příp. nahrej video. Díky."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Moje chyba, vložil se mi 2x stejný obrázek. nyní opraveno a tedy obrázek 2: ukazuje na co je potřeba kliknout v případu: #315671 O_KAL 25.002.150 - Testovani patche aby se chyba projevila - nyní jsem zkusil a je tam problém stále."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) ma zmysel mat otvoreny tento pripad ak existuje a uz komunikujes vo vyvojovom?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, uzavřeme"
+    }
+  ]
+}

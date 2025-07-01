@@ -1,0 +1,67 @@
+{
+  "id": "a07hokm0r00ifs",
+  "created": "2025-06-21T21:13:57.024Z",
+  "closed": "2025-06-23T09:34:52.627Z",
+  "duration_minutes": 2180,
+  "first_response_minutes": 1333,
+  "name": "Widgety - při úpravě chybí tlačítko pro zavření ",
+  "description": "Na dashboardu jdu upravit na telefonu widget. Jde to ale nemam vlevo navrchu křížek pro zavření. mohu jen dole uložit.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 5,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) Ide o dashboard, ktory je na domovskej obrazovke alebo dashboard vyvolany z menu vpravo dole?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ak uz mas mobilnu apku, mozes rovno robit aj prinscreeny.. a postnut sem"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Funguje to stejně v obou případech. Při editaci widgetu se tam ten křížek zobrazí, ale pak se schová a není tam:"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "A mimochodem když to mám jako PWA, tak jak mám získat “odkaz” na případ nebo na daném případu provézt znovunačtení?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ad widget - myslim ze widgety nemali byt z domovskej obrazovky editovatelne ad odkaz - bavime sa o mobile alebo desktope ?  v mobile som na to prisiel aj ja, uz sme to dali na poradu, musime tam doplnit niekde aspon na tri bodky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zadal som do vyvoja opravu,. lebo oproti desktopu tam ani nejde o to ze tam nie je krizik ale nie je tam \"zrusit\" ktore je vedla \"ulozit\""
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "widget - ok, tak toto uzavřeme. odkaz - bavíme se o mobile a PWA (kde není dolní lišta - tu jsem dříve využíval). jinak: na desktope mám myš a najedu na Továrnu  společnosti a vidím Datum poslední synchronizace. najedu na text: \"Úkol\"  a mohu si zkopírovat hezký link na ten úkol, naplánovat, dát to do poznámek. V PWA na mobilu nemám možnost - leda jako longpress na dané části?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem, aj mne to robi problem, bdueme to riesit najneskor zajtra na porade - pretoze tooltipy alebo URL adresa v tomto pomahali a teraz tam nie su."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "super, návazné sleduji, toto můžeme zavřít?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) - doplneny krizik - dashboardy na domovskej sa nedaju editovat"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ano funguje."
+    }
+  ]
+}

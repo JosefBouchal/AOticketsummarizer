@@ -1,0 +1,35 @@
+{
+  "id": "a07i81pmdg0mg8",
+  "created": "2025-06-25T15:00:04.757Z",
+  "closed": "2025-06-27T12:32:07.462Z",
+  "duration_minutes": 2732,
+  "first_response_minutes": 1115,
+  "name": "Při minimalizaci komentáře a maximalizace se změní soukromí.",
+  "description": "Na telefonu píšu interní komentář, minimalizuji ho přečtu na co odpovídám a maximalizuji (šipkou) změnil se mi úroveň soukromí - chyba",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "fuha toto celkom problem posuvam na vyvoj dakujem"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Jen doplním, přebírá to z výchozího nastavení soukromí z osoby, ten výchozí by měl být asi jen pro první komentář a ne pro to “rozbalení”"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "opravili sme @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz)"
+    }
+  ]
+}

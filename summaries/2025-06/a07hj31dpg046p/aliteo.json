@@ -1,0 +1,39 @@
+{
+  "id": "a07hj31dpg046p",
+  "created": "2025-06-20T12:53:36.515Z",
+  "closed": "2025-06-27T11:15:46.809Z",
+  "duration_minutes": 9982,
+  "first_response_minutes": 5,
+  "name": "Vytvorenie Event-u",
+  "description": "Dobrý deň,\r\n\r\nReagujem na ticket #317181 Vytvorenie Eventu v projekte< https://app.aliteo.com/task/a07g95k3rg089h/ > kde som identifikoval rozdiel v procese vytvárania Meeting-u\r\n\r\nAk Meeting vytváram cez ikonu (+) v pravom dolnom rohu, systém odo mňa žiada vyplniť projekt a team pre pridanie ďalších účastníkov meetingu.\r\n\r\nAk vstúpim do projektu a vytváram nový meeting z lišty hore (medzi SLA a Documents) systém odo mňa nevyžaduje vypĺňať ani projekt (čo je logické, kedže som v ňom) ale ani team (ktorý v tomto prípade ani nebol vytvorený )\r\n\r\nV prílohe prikaldám GIF.\r\n\r\nTomáš Polák\r\nProject Leader\r\n\r\n[Image001]\r\n\r\n3EC International a.s.\r\nRužová 605/2\r\n920 42 Červeník\r\nSlovenská republika\r\n\r\nMob.:   +421 (0)917 909 353\r\n\r\nwww.3ec.sk< http://www.3ec.sk/ >",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Posledny komentar z pripadu v KARAT: Polák Tomáš, Externý, Verejné: Poslané, plus k druhému komentáru, áno máte pravdu, otestoval som si to aj na EVENTe aj na TASKu, neuvedomil som si že to sú rozdielne spôsoby vytvárania EVENTu, TASKu, ... aaaale :) ak vytváram EVENT (meeting) v rámci projektu, nevyžaduje odo mňa ani Projekt (čo je logické ako ste písali, lebo som v ňom), ale nevyžaduje ani vyplniť pole team (ktorý ani nebol vytvorený). Kďežto ak vytovrím EVENT cez ikonu (+) PLUS, vyžaduje odo mňa vybrať Project (ktorý sa dá vybrať), ale aj Team (ktorý nebol vytvorený žiadny), čiže nemám aký team vybrať, tým pádom nemám ako vytvoriť EVENT."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, dakujem za zalozenie pripadu. V pripade vytvorenia porady cez tlacidlo PLUS vpravo dole, mate predvyplnenu hodnotu v pravom hornom rohu Team a preto Vam to ponuky timy. Ked ju prepnete na Project, budete si moct vybrat z projektov"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "ano v GIF súbore som mal ešte Team Meeting, ale aj keď som to prepol na Project Meeting, nie je možné vybrať TEAM (ktorý v danom projekte neexistuje, čiže to že nejde vybrať je správne ), ale tým pádom mi nejde vytvoriť EVENT (Meeting)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vyzera to tak ze, v spolocnosti KARAT (to je ta prva cast) nemate k dispozicii projekt, kde mate pravo vytvorit meeting. Ak by ste si zmenili KARAT na svoju spolocnost (z prechadzajucich suborov vidim ze 3EC International) tak by bolo mozne v tej druhej casti vybrat projekt (napriklad ten isty v ktoreho detaile sa Vam na zalozke meetings podarilo vytvorit meeting)."
+    }
+  ]
+}

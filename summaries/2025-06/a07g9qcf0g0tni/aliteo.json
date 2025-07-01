@@ -1,0 +1,75 @@
+{
+  "id": "a07g9qcf0g0tni",
+  "created": "2025-06-10T12:28:32.016Z",
+  "closed": "2025-06-24T18:22:26.083Z",
+  "duration_minutes": 20513,
+  "first_response_minutes": 87,
+  "name": "Scroll v textu přílohy",
+  "description": "https://app.aliteo.com/task/a07g55mhdg1iu6/?view=attachments A koukám na přílohu Status.txt, protože hledání informací k případu je má běžná práce.\r\nTen text je dlouhý a potřebuji v něm vertikálně rolovat. Nalezení scroll-baru je výzva a pak i pracovat s ním.\r\nViz obrázek v příloze a případně i ta txt příloha.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 13,
+    "from_owner": 6,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) takze v com je teda problem? scroll bar je prilis uzky alebo co by si zmenik? Mne rolovanie ide v poriadku."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Ano, příliš malinký, je světle šedý, není ani u pravého okraje. Je problém ho najít a pak se na něj myší trefit. Vím, že můžu točit kolečkem, ale bych si ho u těch dlouhých textů ukroutil. Ještě mě napadlo, zda by se dalo nějak nastavit, že by se mi to zobrazilo do nového okna, tam už je scroll normální. Že bych třeba jako měl možnost kliknout nějak jinak a hned to vidět použitelně."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V com je teda nevyhovujuce tlacidlo \"otvorit do noveho okna\" ?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "To tlačítko umím pokaždé zmáčknout. Ostatně i v ##2 píšu, že vybalení přímo do nového okna je pro mě také řešení, když budu mít šanci si to někde nastavit. V čem je problém, aby i to náhledové fungovalo použitelně a byl vidět scroll s nějakou rozumnou velikostí a viditelností? Ale jak jsem psal, tak netrvám na změně toho náhledu, pokud budu mít šanci ten náhled nepoužívat. Jinak si umím styl nebo i funkčnost \"znásilnit\" podle svých potřeb, ale snažím se aplikaci používat v originální podobě a přišlo mi, že toto musí vadit více uživatelům, proto jsem zadal případ. Není to nějaké hnidopišství nebo tak něco."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) vazim si tvojho pristupu ze to vecne komentujes a navrhujes zmeny, ktore by ti mali v originalnej podobe pomoct.. este si upresnim ako myslis tuto vetu: \"pokud budu mít šanci ten náhled nepoužívat\" - hovoris ze by si nic nechcel menit, pokial by klik na prilohu sa rovno otvaral v novom okne?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Nepoužívat náhled jsem myslel tak, že bych si někde ve svém nastavení nastavil, že po kliknutí na tu txt přílohu se mi nevybalí to náhledové okno, ale otevře se mi to rovnou do nového okna v prohlížeči, kde je scrollbar viditelný a lépe použitelný. Jinak řečeno, bych (já a kdo si to nastaví) nikdy neviděl to náhledové okno. Bylo by jedno, jak moc nízký, úzký, průhledný, neumístěný u okraje apod. je tam ten scroll."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To by si chcel mat pre kazdy typ suboru? lebo jedno nastavenie pre vsetko asi tiez na prd ci?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Asi by mi nevadila jediná fakfka pro všechny typy souborů. Nyní to píšu z mobilu, (ještě ve staré verzi) a napadá mě, že by se pak spíše hodilo samostatné nastavení pro PVA. Ono totiž PVA nemá záložky, takže by to muselo dávat jako download a to už by zase byla komplikace to někde hledat a otevírat nějakou aplikací. Než po typech souborů, by to bylo po typu aplikace."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zrhnujem problem: - scroll bar v nahlade je prilis maly navrhujes: - upravit velkost scrol baru ALEBO - nastavenie, aby si si mohol predvolit ze klik na akykolvek subor nebude otvarat nahlad ale priamo do noveho okna (aby si si usetril jeden klik v tooltipe - otvorit do noveh okna) - nastavenie zvlast pre PVA a zvlast pre desktop Tak?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Ano, děkuji."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Zaplanovane #298 Nazov zalozky s prilohou"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) budeme realizovat v buducnosti moznost otvarat prilohu na novej karte cez ctrl+click Mozeme teda uzatvorit?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "ok"
+    }
+  ]
+}

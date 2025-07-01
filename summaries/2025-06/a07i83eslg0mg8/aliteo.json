@@ -1,0 +1,31 @@
+{
+  "id": "a07i83eslg0mg8",
+  "created": "2025-06-25T15:18:14.193Z",
+  "closed": "2025-06-26T08:00:21.718Z",
+  "duration_minutes": 1002,
+  "first_response_minutes": 999,
+  "name": "AI - nejde zkopírovat text odpovědi. ",
+  "description": "Použil jsem AI na reakci a chtěl jsem text odpovědi zkopírovat, ale není tam kurzor a ani dlouhým podržením. Zkouším na telefonu.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahoj Peter, nestihlo sa to dorobit v ramci prveho sprintu, teraz na tom Dusan pracuje."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok"
+    }
+  ]
+}

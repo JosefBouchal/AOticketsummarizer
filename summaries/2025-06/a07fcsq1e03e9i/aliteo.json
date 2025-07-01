@@ -1,0 +1,63 @@
+{
+  "id": "a07fcsq1e03e9i",
+  "created": "2025-06-03T11:58:46.685Z",
+  "closed": "2025-06-16T10:20:13.787Z",
+  "duration_minutes": 18621,
+  "first_response_minutes": 1358,
+  "name": "HD: automaticka pripomenuti",
+  "description": "Dobrý den, Předváděl jsem kolegům možnosti HD pro využití na sledování a schvalování vývojových projektů. V zásadě jsem dokázal předvést a zodpovědět všechno vyjma jednoho dotazu. Když je někdo určen být řešitelem ticketu (je mu rozpracovaný ticket předán) nebo se od něj očekává reakce, jak často se posílají automatická upozornění a kde se případně toto nastavení dá upravit? Díky za info, Martin PŘIKRYL IT Coordinator Lesaffre Česko & Lesaffre Slovensko Mob. +420 739403300 Hodolanská 34, 779 00 Olomouc, Czechia",
+  "owner": "Neregistrovaný užívateľ",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 4,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ide o to o ake upozornenia mate zaujem. Vacsinou sa upozornenie deje standardnym sposobom a teda ked dana aktivita vznikne. Teda ak sa k Vam dostane uloha na riesenie, dostanete hned upozornenie a uloha je vo Vasich reakcnych ulohach. Nie je to teda tak ze sa Vam donekonecna budu generovat upozornenai o tom ze mate reakcnu ulohu. Je to podobne ako v inych nastrojoch - chatovacich alebo facebook, instagram - ak Vas niekto niekde zmieni, pride Vam jedno upozornenie a to tam mate - nechodi Vam kazdy den upozornenie na tu istu aktivitu. Snad som pochopil spravne. Ak nie, kludne mi napiste priklad. Dakujem"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Dobrý den, pochopil jste to správně. Kolegové právě chtějí opakované notifikace, pakliže po někom chtějí aktivitu (splnit předaný úkol, poskytnout vyjádření do úkolu atp.). Vědí, že s některými jinými kolegy je to slabší z pohledu aktivity a je třeba je opakovaně urgovat. Právě tyto urgence by chtěli zautomatizovat. Proto můj dotaz. Tedy tato možnost nyní není a mají smůlu? Návrh pro budoucí vývoj? Díky, MP"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vacsinou urgencia prebieha umyselne, teda nie automaticky a to tak, ze toho cloveka zmienite v komentari a pripomeniete sa mu. Vyhoda tohto riesitenia ze to mate pod kontrolou a vidite aj akysi log toho ako dlho ste mu to pripominali. Skusim k tomu male zamyslenie: Problem toho automatu je mozno pouzitelnost. Ak to chapem spravne, tak vy by ste chceli na ulohe nastavit pravidelne upozornovanie pre konkretneho sledujuceho danej ulohy? Teda napriklad aby sa mu kazdy den vygenerovalo upozornenie k danej ulohe? Predpokladam, ze mu nechcete dovolit aby si tieto upozornenia zrusil a teda nech mu chodia kym ich nezrusite vy sam alebo kym sa uloha neuzatvori alebo nezrusi.. je tak? V pripade ze vy upozornujete to je pochopitelne, horsie to je ked sa to otoci smerom k Vam - nemate pod kontrolou svoje upozornenia, zahltia Vas a prestanete si ich vsimat a stratia zmysel. inymi slovami to moze niekto zneuzit voci Vam a nemate cestu k tomu ako sa tomu vyhnut. Dalej ma napada, to nastavenie upozorneni asi budete chciet mat viditelne pre vsetkych, aby Vas treti kolega nenastavil rovnake upozornenia pre toho isteho kolegu - aby sa mu negenerovali viac krat. Snad som to neprehnal - skuste mi k tomu napisat Vas postoj po zohladneni vyssie uvedenych poznamok. Ja to mozem prebrat s kolegami, ale viem zo skusenosti, ze ak niekto neriesi ulohy nacas, moc mu tie upozornenia nepomozu a treba skusit hladat ine, metodicke riesenie."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "navazuji na  zamysleni: upozorneni na konkretniho uzivatele, který je řešitelem ukolu nebo je zminem v komentari (se zavinacem) tzn. je to uzivatel, který má konat. Trvani do reakce v komentari tzn. ukonceni opakovaneho upozorneni neni zavisle na zmene stavu ticketu. Vicenasobna aktivace upozorneni smerem ke stejne osobe hrozi, to je pravda. Nicmene z pohledu zadavatele: kdyz automat upozornuje sam (treba jednou za den az do ukonceni komentarem urgovaneho kolegy), tak se liknavost neaktivniho kolegy prenasi na zadavatele a vyzaduje se jeho aktivita, coz je proste extremne otravne. Souhlasim, ze by se takoveto pripady mely resit pres jiny procesni postup, ale kolegove se ptali a ja nedokazal odpoveded. Jak tedy dal? Ja na dodani reseni netrvam, ptam se na moznosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Je to na vacsiu analyzu: automaticky pustat opakovane upozornenia ked niekoho zmienim asi nie je cesta, lebo aktualne zmienit mozete akehokolvek sledujuceho alebo aj ineho uzivatela ktory nemusi byt riesitel, napriklad \"@panPrikryl prosim rieste danu ulohu, ak neviete poradte sa s @kolegaPanaPrikryla\". Pobavim sa o tom s kolegami ako by to islo riesit, ale vseobecny popis problemu je skor: \"Ako urgovat cloveka k rieseniu ulohy\" Vas navrh su teda nejake opakujuce sa upozornenia, ktore by sa rusili komentarom daneho uzivatela.."
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Máte pravud, že to muze byt silne dvousecna zbran. Ano, zadani presne jak pisete. Dekuji. Ale lamat pres koleno to nemusite ;-)"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Zistime skutocny problem, notifikacie nevyriesia neaktivitu uzivatela, ktory ulohy aj tak ma vidiet na domovskej obrazovke."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Toto je typický problém, ktorý sa netýka len notifikácií, ale celkového správania používateľov v systémoch ako ALITEO. Aby si to vyriešil analyticky a zároveň systémovo, navrhujem rozdeliť prístup do štyroch oblastí: diagnostika, behaviorálny dizajn, organizačné procesy a analytika správania. Tu je detail: 🔍 1. Diagnostika problému Najprv potrebujeme zistiť: Kto sú tí \"neriešiaci\" používatelia? (napr. rola, oddelenie) Koľko úloh reálne nedokončia? V akom stave ich nechávajú? (nové, rozpracované, pozastavené) Majú úlohy deadline? Zobrazujú sa naozaj na domovskej obrazovke? Sú úlohy zadané s jasným vlastníkom? ➡️ V ALITEO odporúčam vytvoriť report alebo dashboard, ktorý zobrazuje: Počet neprijatých alebo dlhodobo neaktívnych úloh podľa používateľa Priemerný čas reakcie na priradenie úlohy Počet \"zamrznutých\" úloh bez akcie X dní 🎯 2. Behaviorálny dizajn (namiesto notifikácií) Opakované notifikácie rýchlo strácajú účinnosť – tzv. notifikačná únava. Namiesto toho: 📌 Skús napríklad tieto intervencie: \"Inbox zero\" logika – Domovská obrazovka má zobraziť len skutočne otvorené veci, ktoré čakajú na akciu používateľa. Zvýraznenie priorít – Farby, odpočítavanie, ikonka 🔥 pre urgentné veci. Gamifikácia / reputačný systém – napr. badge za 100 % vybavenie úloh. „Nudging“: Každý pondelok zobraziť len 3 najdôležitejšie úlohy, ktoré treba riešiť. Zobrazenie dopadu: \"Táto úloha blokuje kolegu XY už 4 dni.\" 🏢 3. Procesná vrstva (zodpovednosť vs. tlak) Softvér nikdy úplne nevyrieši nečinnosť, ak nie je jasne definovaná zodpovednosť a dôsledky. Navrhni zákazníkovi: Zaviesť pravidelný TÝŽDENNÝ REVIEW úloh – každý tím si na porade prejde nevybavené úlohy. Zobraziť report manažérovi: kto má najviac starých otvorených úloh. Použiť SLA pravidlá: ak úloha nie je otvorená do X dní, ide na iného riešiteľa alebo eskaluje. 📊 4. Data-driven prístup Nastav automatickú analytiku, ktorá pravidelne (napr. každý pondelok) generuje správu: Používatelia s najviac zanedbanými úlohami Tímy s najnižším \"task completion rate\" Trend vybavovania v čase 🚀 Praktické riešenia v ALITEO Navrhujem: Pridať štítok „Zanedbaná úloha“, ak úloha nie je otvorená 3+ dni Pridať do systému možnosť „úloha blokuje ďalšiu“, čím vytvoríš sociálny tlak Umožniť manažérovi filtrovať úlohy podľa „čas od priradenia bez pohybu“ Využiť AI asistenta, ktorý povie: „Tento týždeň máte 4 úlohy, ktoré čakajú na vás viac ako 5 dní.“"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, sadli sme si na to s kolegami a rozmyslali nad navrhom. Dosli sme viaceri k zaveru, zvysenie upozorneni pravdepodobne nevyriesi problem, ba naopak ho este zhorsi vzhladom na to ze uzivatelia od isteho momentu prestanu upozornenia citat ak presiahnu rozumnu uroven. Co ale mozeme spravit je porozpravat sa blizsie o tom probleme kde vznika a skusit navrhnut riesenie - skor smerom tym, ako pristupovat k uloham. Mam skusenost s jednou uzivatelkou ktora mala na sebe cez 100 uloh a bola hrozne zmatena co ma robit, lebo citila ze to na nu pada vsetko a nevie co skor. Tak sme si sadli urcili si podla coho sa chce venovat jednotlivymi uloham, nastavili pohlady a nejaku kategorizaciu a zrazu ak isla po tych pohladoch mala tam do 20 uloh a razom sa jej pracovalo lepsie. Preto vravim, ak je zaujem z Vasej strany, rad si s Vami zavolam a spolu diagnostikujeme problem vo Vasom procese - ci uz sa to jedna o ulohu alebo o uzivatela. Co myslite?"
+    },
+    {
+      "creator": "Neregistrovaný užívateľ",
+      "comment": "Zdravím, je to presne jak pisete. Jde primarne o nastaveni procesu a ne o úpravy v Aliteu. Uz jsem to komunikoval do tymu, ktery tento dotaz poslal a uznali, ze tento styl notifikaci neni cesta. Dekuji Vam za snahu a muzeme uzavrit."
+    }
+  ]
+}

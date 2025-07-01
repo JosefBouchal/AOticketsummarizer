@@ -1,0 +1,35 @@
+{
+  "id": "a07hvb2ie00uai",
+  "created": "2025-06-23T12:15:41.086Z",
+  "closed": "2025-06-23T16:42:40.793Z",
+  "duration_minutes": 266,
+  "first_response_minutes": 14,
+  "name": "připojení subtýmu pod projekt - nejde",
+  "description": "je možné připojit tým pro projekt? Mám tým pod projektem - odpojím ho. Tento tým chci připojit pod projekt - nejde to: vidím tam jen týmy. přitom v textu je, že projekt nebo tým - tak by to mělo jít.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, co sa tyka prav, je treba byt adminom v projekte kde chces pripojit subtim - ak nim nie si, aj tak by si mal mat moznost poziadat o pripojenie. zaroven musis byt adminom v time ktory ides pripajat. ja som si to testol, splnam obidva poziadavky a deje sa to, ze v projekte, viem subtim pripojit, alebo z timu sa mi v dropdowne ako tebe nezobrazuju projekty a to bude chyba - posielam na vyvoj."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "zajímavé, chápu. Nepřečetl jsem si druhý odstavec, tak jsem to otestoval a dostal jsem to stejné jako ty:-D ale zde klidně můžeme uzavřít a až bude opravené, tak bude. ------------ pro PMS tedy: takže: jsem administrátorem projektu Aliteo s.r.o.: jsem administrátorem týmu PMS: připojuji a vidím: - porovnávám s tím co jsem poslal předtím a vidím, že tam přibylo \"Řídící tým - S-ALITEO\" připojil jsem to na to ale to není asi to co jsem chtěl: Očekával jsem, že se to objeví zde: takže jdu přes Přidej: a tam vidím výčet: aha, nemůžu připojit tým, když je připojen, tak ten svůj \"PMS\" odpojím a vidím: a má přesně to, co jsem chtěl: takže z týmu jsem se nebyl schopen připojit pod projekt, ale z projektu jsem byl schopen připojit tým pod projekt."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by byt opravene, prosim skontroluj"
+    }
+  ]
+}

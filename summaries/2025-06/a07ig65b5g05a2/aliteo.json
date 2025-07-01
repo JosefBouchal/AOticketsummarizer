@@ -1,0 +1,59 @@
+{
+  "id": "a07ig65b5g05a2",
+  "created": "2025-06-27T14:23:56.914Z",
+  "closed": "2025-06-30T15:02:57.171Z",
+  "duration_minutes": 4359,
+  "first_response_minutes": 0,
+  "name": "Mazání zmínek v rámci upozornění",
+  "description": "S novou verzí jste v pravém panelu rozdělili upozornění a zmínky. A teď když na případu zvolím smazat všechna upozornění, tak se nesmažou zmínky. Dříve se smazaly, protože byly mezi upozorněními. Mohli by se mazat? Protože když už jsem se vymanil z doby mailové a naučil jsem se důsledně pracovat s upozorněními tak pracuji tak, že z upozornění otevřu případ a pokud vyřeším co bylo potřeba nebo není třeba nic řešit, smažu z něj všechna upozornění. Teď ještě musím jít a dohledat mezi zmínkami zmínky z tohoto případu a po jedné je smazat.",
+  "owner": "Robert Blaha",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Robert Blaha",
+      "comment": "Zdar kluci - to si musím sám určit řešitel? Jinak nové požadavky nikdo neřeší :-P ?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "😂 neee len si to zalozil so podnetov, tam neni automatika hodim to na support a nech to mame v spravnom projekte 🙂"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Áno, presne ten istý problém som s týmto systémom mal aj ja, ale vtedy ma presvedčili že to tak má byť. Ale pred časom sme sa na Porade dohodli že to urobíme tak aby vymazanie upozornění zmazalo aj zmienky aj upozornenia."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) Bude to Až v ďalšom sprinte alebo myslíš že by sme to dokázali Patchnut do ostrej ako opravu?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Oprava to nie je, lebo tak ako to je sme to chceli. Teraz bol tlak na to, to zrevidovat tak som to myslim hodil do dalsieho sprintu. Aj ked chapem poziadavku, stale mi pride divne, ze mame dve evidencie, lebo sa chceli oddelit, takze su funkcne aj vizualne oddelene, ale budeme ich mazat na \"...\" s textom zmazat upozornenia a pritom su to zmienky v samostatnej zalozke....neni vam to divne?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mne to divne nejako neprislo, bral som to tak ze sa to vsetko tyka tej ulohy ale je pravda ze som poznaceny tym predchadzajucim sposobom ze to bolo spolu a klikom som odbil vsetky upozornenia k danej ulohe. Jedina cesta v tomto (ak by sa nic nezmenilo) mi pride ze neist po upozorneniach ako doteraz ale po zmienkach a az potom po upozorneniach - ale aj vtedy mi to pride - otvorim ulohu zo zmienky, pozriem, komentar ak je nieco treba vyriesime, idem na \"upozornenie\" dam zmazat ale v otvorenom paneli (zmienky) nic nezmizne - musim rucne. Dalsia vec ma napadla, rozsirit ten dropdown na zmazanie upozorneni - zmazat vsetko, zmazat zmienky, zmazat upozornenia - viem ze trochu OP ale aspon to menu nebude s jednou polozkou 🙂 nemusi to byt len ako napad ma napadol."
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "Já jsem to psal v komunikaci s MBA a on to zapsal do vazebního případu..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Robert Blaha (robert.blaha@karatsoftware.cz) mozeme tento pripad zo supportu ukoncit, ked mame iny vo vyvoji?"
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "Klidně. Téma zjevně vykopnuto..."
+    }
+  ]
+}

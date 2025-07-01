@@ -1,0 +1,39 @@
+{
+  "id": "a07gb1i28g0mv4",
+  "created": "2025-06-10T19:36:25.774Z",
+  "closed": "2025-06-11T11:36:54.385Z",
+  "duration_minutes": 960,
+  "first_response_minutes": 938,
+  "name": " Verze 25.1 - sekce pro externí uživatele - jde to zapnout na konkrétním projektu?",
+  "description": "V novinkách čtu: Rozšířili jsme oprávnění v rámci pracovních prostorů a projektů tak, aby bylo možné zobrazit sekce i externím uživatelům. Díky tomu je možné lépe zapojit externí spolupracovníky do konkrétních částí projektového řízení bez nutnosti udělovat plný přístup. Na pracovním prostoru jsem to našel ale na projektu ne, má to být tedy volitelné i na projektu nebo na projekt se to dostává z prac. Prostoru?",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Nastavení společnosti",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, nasiel som vyvojovy pripad, povodne sme uvazovali aj s nastavenim na pracovnom priestore aj v projekte. Ale po diskucii s Marcelom sme to nechali len na prac. priestore - teda to ze to nie je v projekte nie je chyba."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "pokud Marcel řekl že stačí, tak ok. Nejsem si jist co na to PGA - který to třeba chtít nebude, ale tak už to je. Uzavřeme, díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) Ak to predsa bude problem treba to dat ako podnet, uviest dovody a mi to mozme zohladnit.. a prebrat este raz"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "jasné"
+    }
+  ]
+}

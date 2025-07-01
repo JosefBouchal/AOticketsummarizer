@@ -1,0 +1,39 @@
+{
+  "id": "a07gaa3icg1rj5",
+  "created": "2025-06-10T15:20:15.611Z",
+  "closed": "2025-06-14T09:13:45.259Z",
+  "duration_minutes": 5393,
+  "first_response_minutes": 1168,
+  "name": "konzultace",
+  "description": "Dobrý den, tak máme nového Projektového managera. Doufám, že už posledního. myslíte si, že najdete 1 hodnit času a neprojdete s námi Aliteo z pohledu projektovéh omanagementu. Jako jsme to dělali cca před rokem. + ještě dotaz, kdy plánujete uvolnit nový release? děkuji Michal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ad 1 - call k ALITEO - samozrejme nie je problem, napiste kedy by ste mohli - za mna: - zajtra 11/6/2026 9-12:00 - pondelok 16/6/2025 10-12:00 - utorok 10-12:00 - ak ani jedno nevyhovuej napiste vase moznosti, ak vyhovuje vyberte jeden a ja poslem pozvanku na teams Bolo by fajn, ak by pan uz poznal z nejakej casti ALITEO a pokojne boli prichystane aj nejake otazky/problemy v riadeni projektu, ktore su aby sme skusili najst riesenie ad 2 - nova verzia -  pilne testujeme a plan je vydat ju pocas vikendu 21-22.6.2025"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "díky jestli můžeme  zítra 10:30 - 11:30. pošlete mi prosím pozvánku? přepošlu kolegovi. děkuji MIchal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za potvrdenie, pozvanka odoslana."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Spisujem kratky zaver z callu na MS Teams: - riadenie projektov - zalezi na preferenciach co je ten ukazatel ktory chce uzivatel vidiet - po na zaklade toho odporucame vizualizovat tieto data - ganty projektov alebo skor dashboardy, kde je mozne rozne prisposobit zobrazenie - servisak - ulohy podla datumu - financak naklady - vyssi management - ako sa stihaju projekty - pravidelne ulohy - vyuzitie sablon s opakovanim Ak by ste tiet data mali (co je treba zobrazit) kludne sa ozvite a mozem poradit s konkretnym nastavenim. Ak nie su dalsie otazky, dovolujem si poziadat o uzatvorenie. Dakujem"
+    }
+  ]
+}

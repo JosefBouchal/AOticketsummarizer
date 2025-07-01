@@ -1,0 +1,43 @@
+{
+  "id": "a07i4mmrk00vfg",
+  "created": "2025-06-24T19:30:23.125Z",
+  "closed": "2025-06-26T06:30:29.424Z",
+  "duration_minutes": 2100,
+  "first_response_minutes": 783,
+  "name": "Widgety - nejde přidat na mobilu",
+  "description": "Viz obrázek - nenašel jsem kde přidat nový widget. Očekával jsem že klikem na ten text tam budu moci nějaký přidat a nebo přes tři tečky, ale tam mohu smazat celý Dashboard. Předpokládám že to někde vypadlo. Protože když už tam je, tak ho můžu editovat. Možná jak se nyní zakazovala editace na hlavní stránce  tak se odebrala možnost přidání z obou míst? Nebo pod “pluskem” tam měla být ta možnost jako u VP  pod úkolem?",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predane na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) opravene, mozes pridat widget v evidencii widgety"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) ano funguje, ale když jsme v tom, tak na mobilu to není moc intuitivní - protože dám přidat widget a zobrazí se nabídka - OK. no ale pak první klik způsobí, že se přepnu do režimu asi výběru (zobrazí  se vpravo navrchu zatržítka) a buď mohu vybrat N widgetů a nebo kliknu znovu na ten jeden a dostanu se rovnou do editace. Navrhuji vynechat to první kliknutí a rovnou to zobrazit s těma zatržítkama: - buď se klikem dostanu do editace nebo - zaklikáním N si jich N přidám. ale toto zavřeme a když tak na to založ vlastní požadavek. Je to funkční."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) dobry point napisem do povodneho pripadu dik"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) len pre info - opravili sme pri pridavani widgetov aby sa na klik vybral widget a aby checkbox bol viditelny"
+    }
+  ]
+}

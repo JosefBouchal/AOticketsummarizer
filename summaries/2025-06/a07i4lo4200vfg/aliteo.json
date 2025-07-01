@@ -1,0 +1,27 @@
+{
+  "id": "a07i4lo4200vfg",
+  "created": "2025-06-24T19:19:53.642Z",
+  "closed": "2025-06-26T06:30:42.610Z",
+  "duration_minutes": 2110,
+  "first_response_minutes": 785,
+  "name": "Návrat do prohlížeče - červená hláška",
+  "description": "Viz obrázek, když jsem v prohlížeči na telefonu (iPhone) a zobrazím si např kalendář v telefonu a pak se vrátím zpátky do prohlížeče, tak na mě vyskočí červená hláška. V předcházející verzi byla hláška oranžová a o tom že se ztratilo spojení.  A to zobrazení kalendáře trvalo třeba vteřinu.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "jasne, nejaka chyby, posielam na Vyvoj"
+    }
+  ]
+}

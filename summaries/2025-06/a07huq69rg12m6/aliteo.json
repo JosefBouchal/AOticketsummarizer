@@ -1,0 +1,67 @@
+{
+  "id": "a07huq69rg12m6",
+  "created": "2025-06-23T09:11:16.399Z",
+  "closed": "2025-06-23T14:38:21.550Z",
+  "duration_minutes": 327,
+  "first_response_minutes": 8,
+  "name": "API klíč",
+  "description": "Dobrý den,\r\nDíky moc za novou verzi, moc se těším na testování.\r\nS tím mám jednu prosbu – potřeboval bych k našemu účtu někde najít API klíč, abychom to mohli zkusit integrovat do MAKE.\r\nKde ho najdu?\r\nPokud je to na vyžádání, tak  bych prosil o API i pro účet dvorak@adventio.cz< >, tam si to budeme testovat, abychom nešli rovnou do hlavního účtu 😊\r\nDík moc\r\nJirka Dvořák",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 5,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nachadza sa to v nastaveniach spolocnosti. V lavom paneli nastaveni dole najdete API a tam mate \"zapinacie tlacitko\". Je to pre celu spolocnost a treba si uvedomit ze tym ze k tomu ma pristup len admin spolocnosti tak sa tam neriesia prava ako je to v aplikacii. Teda treba si preto uvedomit komu ten API kluc date. Dakujeme, aj my sa tesime ze sme konecne nasadili, zaroven prosime o trpezlivost v pripade ze sa vyskytnu nejake nedokonalosti, ktore sa neikedy vyskytnu pri nasadeni novej verzie."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Dobrý den, moc děkuji za informaci. Mám jen problém - chceme si to otestovat a píše to, že můžeme až od Premium verze. Uměl byste to nějak dočasně zapnout? Dík moc"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "A ideálně by to stačilo u té testovací firmy Adventio. Nechce se mi dávat kolegovi přístup do ostrého systému, když to jen testujeme. Pokud to otestujeme, tak do firmy už to v klidu koupíme."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) suhlasis aby som im zapol custom na 2 tyzdne?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Odporucme, p. Dvorakovi kupit  si novu licenciu za 6 eur na tu vytvorenu spolocnsot."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mrzi ma to, ale API nejde nijak ad hoc zapnut ako funkcionalita. Najschodnejsia a najlacnejsia varianta je si zakupit v danej spolocnosti na jedneho uzivatela tarif za 6eur, kde je API sucastou tarifu."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "V pohodě, jen jsem to zkusil. To zakoupení licence byl plán B. Už to máme, tak to otestujeme. Dík moc 🙂 A tohle můžete uzavřít. Jinak smekám klobouk - máte můstek na Make - tam to budeme testovat."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Ještě rychlý dotaz. Neumíme se v Make dostat před company ID - co to je?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ID spolocnosti najdete: - otvorte nastavenia spolocnosti - vlavo dole celej obrazovky je nenapadnym ID: (na tomto mieste sa nachadzaju vzdy ID elementu ktory je zobrazeny v okne nastaveni - etapa, sekcia atd)."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Bomba. už mi to jede. Dík moc. Můžete uzavřít."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Jiří Dvořák (dvorak@aconte.cz) mimochodom, ak by ste natrafili na nedokonalosti v Make pripadne na nefunkcnu vec, nevahajte nam to reportovat. Pripad posielat navrhy na dalsie moduly, ktore by sa pridali."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a07hhrb7800mv4",
+  "created": "2025-06-20T05:40:02.728Z",
+  "closed": "2025-06-20T09:48:29.061Z",
+  "duration_minutes": 248,
+  "first_response_minutes": 212,
+  "name": "Smazání příloh v úkolu",
+  "description": "Dobrý den, potřebovali bychom smazat přílohy v #11529 KARAT report do emailu: Fw: Počet dní od poslední změny třídy nebo tarifu . Zrušení a archivace pro nás v tomto případě není dostačující, protože příloha se stále dá dohledat, takže prosím o smazání přímo z dtb. Děkuji.",
+  "owner": "Jakub Trhlík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, ide o Vašu spoločnosť? V pracovnom priestore by existuje nastavenie, ktoré dovoľuje rušiť úlohy v projektových úlohách. Ďakujem"
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Ano, to je ono! Díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak teda vyriesene?"
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Ano."
+    }
+  ]
+}

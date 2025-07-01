@@ -1,0 +1,47 @@
+{
+  "id": "a07ifllrh010lu",
+  "created": "2025-06-27T11:23:53.945Z",
+  "closed": "2025-06-29T14:52:53.418Z",
+  "duration_minutes": 3088,
+  "first_response_minutes": 27,
+  "name": "Nevzniklé upozornění, pouze zmínka",
+  "description": "Bylo přidáno vyjádření #314650 Při načtení nového obchodního partnera se zobrazí informace \"MS_MAX_CONCURRENT_REQ\" ##27< > , kde jsem i zmíněn. Na daném úkole mám dány podrobné notifikace a přitom vznikla notifikace pouze ve zmínkách a nikoliv v upozornění.\r\n\r\n[Image001]\r\n\r\n\r\n\r\nLubomír Bednář\r\nsystem analyst\r\n\r\ntel.: +420 581 737 148 | lubomir.bednar@karatsoftware.cz< >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< > Facebook< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < >  LinkedIn< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < >  YouTube< >\r\n\r\n[ http://www.karatsoftware.cz/ ]< >",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubos, toto vzniklo ciastocne aj z tvojho popudu. Kedysi davno si reklamoval ze vznikaju 2 upozornenia na “jednu vec” (novy komentar so zmienkou) ked by si cakal iba jedno spolocne upozornenie a teda aj emaily."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "aha, a rozhodnutí šlo, že to půjde do zmínky, tam kde nefunguje smazání nad úkolem?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "v podstate ano, ale uz sa mi podarilo presvedcit aby sa mazali.. mna skor stve to (nedokazal som presvedcit 🙂 ) ze novy komentar pojde do upozorneni, ale novy komentars s upozornenim do zmienok.. napacilo sa mi ze zmienka sposobi ze sa to ukaze inde, ale prehlasovali ma.. 🙂 co uz.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano Dane, právě jsem chtěl napsat, že vlastně jsem to mohl čekat, když hlavní programátor aplikace si plete zmínku s tím něco dělej a podle toho se to tak chová, díky za vysvětlení. Můžeme zavřít, max mě něco uteče, jelikož zmínka pro mě znamená, pokud chceš podívej se, nebo zde se o Tobě bavíme a to je pro mě méně podstatné jak upozornění na změnu (dle předchozího vyjádření to asi cítíme stejně, ale jak sám píšeš, co už :-D))"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ja to mam trochu inak, ja pouzivam zmienku, ak chcem vyslovene niekoho o nieco poziadat.. ked menim riesitela a nechcem aby bol zmateny ci ma alebo nema nieco robit tak ho tam zmienim.. a to sposobit teraz ze dostane upozornenie do zmienok a nie medzi standardne upozornenia. Nechame tomu cas a uvidime mozno casom sa to zmeni, ked pochopia ako pri tom mazani.. tiez som to hovoril na zaciatku ze je blbost nemazat aj zmienky a teraz uz tomu rozumeju. Nemyslim si ze je to hlavnom programatorovi, pretoze on na zmienky alebo upozornenia nereaguje. Vyhradne len na reakcnu ulohu."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "já bych řekl, že dříve hlavní programátor reagoval i na zmínky, ale díky tomu, že se to začalo používat u Allana skoro furt, jelikož by jinak nezareagoval, tak to narostlo do té míry, že začal ignorovat i to. Řekl bych, je to vlastník společnosti, má na to právo, ale za mě se dle toho nemá upravovat program, ale to je nepodstatné, tedy klidně zavřeme a uvidíme, jak se to vyvine."
+    }
+  ]
+}

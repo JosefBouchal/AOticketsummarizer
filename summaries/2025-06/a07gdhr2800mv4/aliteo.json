@@ -1,0 +1,51 @@
+{
+  "id": "a07gdhr2800mv4",
+  "created": "2025-06-11T10:13:18.884Z",
+  "closed": "2025-06-24T19:23:18.358Z",
+  "duration_minutes": 19269,
+  "first_response_minutes": 64,
+  "name": "25.1.  jde založit tým na ukončený a archivovaný projekt",
+  "description": "viz obrázek: je možné založit tým k projektu, který je ukončen a archivován - toto si myslím, že je špatně - padá nám pak odložené požadavky, že nedohledá projekt nebo etapu. To že vzniknou takové týmy v ALITEO z důvodu přechodu na verzi 25.1. - to chápu, ale asi by měly být archivované. Nicméně si s tím poradíme sami, není potřeba měnit. Co je ale potenciálně problém, tak že na archivovaný projekt je možné udělat nový tým - to je správně? Pokud ne, tak prosím zakázat. Pokud to má být možné -tak bychom museli pořešit nějak firemně, aby nám nevznikaly problémy.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 2,
+    "from_others": 5,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, rozumiem.. mozeme sa o tom pobavit, ale zatial nevidim problem aby to neslo. Tak ci ona to nemoze robit hocikto.. @ Allan Konečný (allan.konecny@karatsoftware.cz) @ Peter Ďurčák (peter.durcak@karatsoftware.sk) aky mate na to nazor? Zakazeme vytvarat subtim v archivovanom projekte a time?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Já souhlasím. Nicméně nechápu proč to klukům vadí, synchronizují se i archivované komponenty."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Nicméně když nad tím přemýšlím celé se to komplikuje systémem žádostí... když si představím na kolika místech je možnost pracovat s žádostí, musím řešit přímé založení, založení žádosti, stav kdy se projekt archivuje po vzniku žádosti a před odsouhlasením, pak asi neumožnit schválit žádost... samozřejmě jde o oba projekty, jak mateřský tak podřízený... tak se mi to asi nechce řešit, aspoň ne teď před vydáním verze ."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Viz zadání - ještě mne napadá jestli nemám převést pracovní skupiny archivovaného projektu jako archivované... ale vzniká tam problém, že mohou obsahovat nearchivované řídící úkoly, což by bylo neintegritní. Asi bych to neřešil...."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Převod neřeším - je to jen jeden team který tak vznikneme a to archivujeme ručně. Proč to kluci řeší: Archivovaný projekt v karatu je uzavřený projekt, který má tedy archivovanou etapu (což je sekce v Aliteo). A pokud Aliteo dovolí založit tým pod archivovaným projektem, tak je to stejně jako kdyby dovolilo založit požadavek do archivovaného projektu nebo vyjádření do archivovaného požadavku. Archivovaný projekt -> Vznikne team -> v něm požadavek -> v něm vyjádření, výkazy práce a tedy nálady. No a my to máme vázané přes projekt v karatu (zdr_zdr a nějakou účetní zakázku) takže ve výsledku se vytváří výkazy/náklady na uzavřený projekt a to nechceme. Pokud řeknete, že to ve verzi 25.1 necháte, tak v Aliteo zakážeme vytvářet týmy (už to tak je) a v karátu ošetříme vytvoření jen na aktivní projekt. Řešení máme jen mi připadlo lepší řešit vznik."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Ponechame sucasny stav na zaklade argumentov od AKO. Ak je mozne, KARAT na svojej strane osetri, aby im to nesposobovalo problem."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, zde uzavřeme, budeme muset pořešit nějak u nás."
+    }
+  ]
+}

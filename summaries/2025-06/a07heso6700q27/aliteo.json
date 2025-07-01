@@ -1,0 +1,43 @@
+{
+  "id": "a07heso6700q27",
+  "created": "2025-06-19T12:26:49.104Z",
+  "closed": "2025-06-20T10:12:07.960Z",
+  "duration_minutes": 1305,
+  "first_response_minutes": 1238,
+  "name": "Synchronizácia kalendára Office 365",
+  "description": "Klient sa nás dotazuje, ako si vie synchronizovať kalendár Office 365 s ALITEO. Našla som tento link, kde je to vysvetlené https://help.aliteo.com/synchronizace-kalendare/ ale keď tomu správne rozumiem, náš klient = externý užívateľ našej spoločnosti si nemôže synchronizovať svoj kalendár s našim aliteom, lebo to by som musela ja v nastaveniach spoločnosti vyplniť nejaké ID, ale to predsa nie je žiadúce, keďže ide o cudziu firmu ?",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, synchronizácia s Office 365 funguje tak, že spoločnosť ktorá chce dovoliť synchronizovať kalendár so svojou domenou Office 365 si v nastaveniach azure zaregistruje a ALITEO ako aplikáciu. Zaregistrovaním dostane IDa tajný kód a ten potom použije v nastaveniach spoločnosti v ALITEO. Takže váš klient by mal mať svoju spoločnosť, v nej pridať synchronizáciu Office 365 a tým pádom si bude synchronizovať kalendár. Nemá to nič s vašim nastavením pretože jeho email nepatrí do vašej domény."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "čiže ak mám kalendár a v ňom mám udalosti z rôznych spoločností, stačí, že na jednej zo spoločností nastavím ID kód a potom sa mi budú do kalendára synchronizovať udalosti zo všetkých spoločností? Nielen z tej, kde som zadala to ID?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ono udalosti nie su na spolocnosti.. udalosti sa cez pripojeny kalendar zobrazuju z exchange. Ak existuje nejaka porada, tak data sice su v spolocnosti ale to co je v kalendari sa zobrazuje bud na zaklade pripojeneho kalendara alebo cisto len data, kde mate vykricnik ze nie je pripojena dana udalost. Ked Ta niekto pozyva do porady, vzdy to ide cez tvoj pripojeny kalendar nezavisle na tom v kolkych spolocnostiach si clenom. Pozvanka pride do toho emailu, ktory mas pripojeny.. Ak je treba lepsie vysvetlit, mozeme sa spojit na kratky par minutovy call .."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Ďakujem, už rozumiem, vysvetlenie postačuje."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Este mala poznamka k tomu, pracujeme na tom aby bolo ALITEO overena aplikacia aj pre Office365. Potom nebude treba registracia spolocnosti, bude stacit overit uzivatela ako to mame teraz na google alebo exchange."
+    }
+  ]
+}

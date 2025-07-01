@@ -1,0 +1,35 @@
+{
+  "id": "a07fgb19s013cs",
+  "created": "2025-06-04T08:02:45.045Z",
+  "closed": "2025-06-11T12:28:00.521Z",
+  "duration_minutes": 10345,
+  "first_response_minutes": 123,
+  "name": "Konec licence",
+  "description": "Dobrý den, 30. 06. 2025 nám končí licence pro Aliteo, máme roční licenci za 4500 Eur. Tuším, že jsme měli nějakou fixaci ceny na pár období? Platí stejná i nadále? Děkuji za informaci.",
+  "owner": "Jakub Trhlík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) mozes prosim ta riesit tento ticket?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dobrý deň, ešte to preverím s kolegom Nemcom a doplníme vám presné informácie. Predpokladám však, že tento rok máte cenu stále zafixovanú, takže by sme postupovali rovnako ako minulý rok."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravím Vás @ Jakub Trhlík (jakub.trhlik@benesalat.cz) preveril som to s kolegom pánom Nemcom, cenu máte pre nasledujúce obdobie stanovenú v rámci pôvodnej dohody. Peter by to mal s Vami následne detailnejšie prebrať na Kontrolnom dni počas tohto týždňa. Ak je potrebne ešte niečo, sme k dispozícii."
+    }
+  ]
+}

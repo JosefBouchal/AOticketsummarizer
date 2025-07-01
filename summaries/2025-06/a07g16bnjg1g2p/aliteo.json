@@ -1,0 +1,51 @@
+{
+  "id": "a07g16bnjg1g2p",
+  "created": "2025-06-08T10:13:37.671Z",
+  "closed": "2025-06-09T17:17:11.046Z",
+  "duration_minutes": 1863,
+  "first_response_minutes": 559,
+  "name": "Nefunkční Aliteo",
+  "description": "Od dnešního rána mi nefunguje připojení do Alitea, konkrétně login dialog funguje, ale po přihlášení se dostanu sem a nic dalšího nejde dělat.\r\n\r\n[Image001]\r\n\r\n Zkoušel jsem se připojit i přes prohlížeč Brave z interního KSW serveru, ale dostal jsem se do úplně stejného místa. Takže si nemyslím, že to bude nějaký problém u mě na stanici nebo problém s připojením k internetu.\r\n\r\nIng. Josef Siska\r\nprogrammer\r\n\r\ntel.: +420 581 737 139 | mobil: +420 725 023 570 | josef.siska@karatsoftware.cz< mailto:josef.siska@karatsoftware.cz >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< http://www.karatsoftware.cz/ >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< https://www.facebook.com/karatsoftware > Facebook< https://www.facebook.com/karatsoftware >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < https://www.linkedin.com/company/karat-software-a.s. >  LinkedIn< https://www.linkedin.com/company/karat-software-a.s. >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < https://www.youtube.com/@karat_software >  YouTube< https://www.youtube.com/@karat_software >\r\n\r\n[ http://www.karatsoftware.cz/ ]< http://www.karatsoftware.cz/outlook >",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 2,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Siska Josef",
+      "comment": "Teď proběhl restart Alitea (nevím, jestli kvůli mně), ale po restartu už to vypadá dobře."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Kočíř (david.kocir@karatsoftware.cz) vieme o niecom? ja som si pisal s Pepou v case ked mal vypadok a mne to fungovalo ok. Takisto som pisal v tu chvilu aj Dusanovi a ten takisto nemal problem. Mame nejaky log alebo alebo vies o niecom? btw. sme v supporte, prosim o interny komentar"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Siska Josef (josef.siska@karatsoftware.cz) skusim zistit u vyvojarov co sa dialo, ci mame nejake data, kedze ja som vypadok nemal a ani Dusan.. mozno islo o konkretnu instanciu.."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Opraveno."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "podla info by mala byt vec opravena.."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Pro @ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) Při načítání dat nebylo ošetřené, že jistá hodnota není prázdná."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Díky."
+    }
+  ]
+}

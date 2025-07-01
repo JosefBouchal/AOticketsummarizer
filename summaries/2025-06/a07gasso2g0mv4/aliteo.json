@@ -1,0 +1,59 @@
+{
+  "id": "a07gasso2g0mv4",
+  "created": "2025-06-10T18:45:27.731Z",
+  "closed": "2025-06-12T11:23:46.626Z",
+  "duration_minutes": 2438,
+  "first_response_minutes": 982,
+  "name": "Export z porady není na mobilu",
+  "description": "V novinkách má být export porady. Na telefonu v prohlížeči ani v PWA aplikaci nevím ty 3tecky kde bych export provedl",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Projekty",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "preverim, ci v mobilnej verzii ma byt.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Kočíř (david.kocir@karatsoftware.cz) ma byt v poradach moznost exportu porady? resp harmonogram a zapis?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Aha, takže už vím kde je chyba, na Informacích ani na Bodech porady není možnost exportu - Export je až v úkolech (na mobilu). V prohlížeči se to tam zobrazuje ihned - ale přes 3 tečky a export se nic neprovede. (ani telefon ani prohlížeč) - takže otázka co vlastně to exportuje (jestli úkoly nebo ty body porady...)."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "1) chybějící Tečky budou spíš na Dušana, dle domluvy předávám @ Dušan Kovář (dusan.kovar@karatsoftware.cz) 2) nereagující tři tečky na seznamu opravím"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) - tato uloha je o exporte porady a ta tam chyba a ma tam byt podla vsetkeho - to co pises ty je export len ulohy na reakciu projektu - tiez chyba - opravime @ David Kočíř (david.kocir@karatsoftware.cz) a @ Dušan Kovář (dusan.kovar@karatsoftware.cz) vytvorim vam na to ulohy do vyvoja, aby ste mohli davat patchovat.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok zde tedy uzavřeme a řešte ve vývoji."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) nechces vediet, ked bude hotovo? alebo ta pridam do vyvoja?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "v poho, zapnout se zvládnu, jak je to navazbené, takže zavřeme, jsem tam."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by byt opravene"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "a07fftkri01d9f",
+  "created": "2025-06-04T05:36:30.442Z",
+  "closed": "2025-06-04T10:44:45.746Z",
+  "duration_minutes": 308,
+  "first_response_minutes": 298,
+  "name": "FV z AO na 0, je to OK",
+  "description": "Viz příloha, faktura na 0, je to OK?\r\n\r\n Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, neviem ci ta otazka je priama alebo si mame este pri tom nieco uvedomit. Lebo cena 0 za Basic je OK, ale ci tym nemierist k tomu ze by tam faktura ani nemala byt.. to si nie som isty. . 🙂"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tak mě jen překvapil doklad, kde je cena 0, pokud je to OK, tak nic řešit nemusíme."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "jinak už nechám na Zdeňce, zda bude chtít takový doklad naimportovat, i když možná že ani faktury doklad za 0 nedovolují, tak to maximálně neprojde a záznam smaže"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobre, takze som dobre citil to co som mal pochopit, ze nie je uplne v poriadku ze sa to generovalo. Chapem teda spravne ze mali zaplatenu Basic a viac uzivatelov, potom odobrali uzivatelov na 5 a vygenerovalo to fakturu na 0 - ze sa to teda generovat nemalo a je to chyba. Rozumiem spravne?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane, toto já fakt nevím, co mě se týče, nechci to ani řešit, jen prostě jsem nevěděl, že cena za 0 je OK, tedy fakt zavřeme a Zdeňka si sama rozhodne co chce, v tom já problém nevidím."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak jo, zatvaram - chcel som poznat tvoj nazor ako by to malo byt. Nevadi, dik. Poslal som na vyvoj. Zatvaram."
+    }
+  ]
+}

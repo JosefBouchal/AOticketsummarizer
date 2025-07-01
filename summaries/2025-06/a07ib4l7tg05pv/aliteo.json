@@ -1,0 +1,47 @@
+{
+  "id": "a07ib4l7tg05pv",
+  "created": "2025-06-26T08:59:54.199Z",
+  "closed": "2025-06-30T07:31:05.962Z",
+  "duration_minutes": 5671,
+  "first_response_minutes": 28,
+  "name": "Výběr projektu při zadávání úkolu",
+  "description": "Dobrý den, máme zde dotaz od uživatele, proč již nejde vybrat projekt, když se zadává úkol bez předem vybrání projektu. Pokud si dám vlevo nahoře Úkoly -> Nový úkol a vyberu si umístění, tak již uživatelé nemají možnost si zvolit projekt, kam úkol chtějí zadat, prý tam dřív ta možnost byla (Já sám si to nepamatuji, nezádával jsem úkoly takto). Uživatelé vidí pouze projekt, kterým je členem? Nebo máme někde něco špatně nastavené? Ale např. v projektu ICT máme zapnutou viditelnost projektu: Všichni uživatelé společnosti. Děkuji za informaci.",
+  "owner": "Jakub Trhlík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Z pohledu administrátora je to pak takto: A takhle to viděli i ostatní uživatelé."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, aby som pochopil kde je problem, zobrazuju sa Vam tam iba projekty ktorych ste clenom, ale nezobrazuju sa tie, ktorych clenom nie ste, ale je nastavena viditelnost tak ze ich vidite? Dakujem"
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Ano, pochopil jste to správně."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, predal som na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, este sice budeme testovat, ale davam Vam info ze by to malo byt opravene. Ak skusite, napiste mi ci je to ok."
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Dobrý den, ano, vypadá to již v pořádku, děkuji."
+    }
+  ]
+}

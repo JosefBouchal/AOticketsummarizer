@@ -1,0 +1,31 @@
+{
+  "id": "a07i4n6b8g0vfg",
+  "created": "2025-06-24T19:35:40.338Z",
+  "closed": "2025-06-26T06:30:54.388Z",
+  "duration_minutes": 2095,
+  "first_response_minutes": 767,
+  "name": "Úlohy AI - odpověď není zalomena nebo chybí rolování",
+  "description": "Viz obrázek Okno pro AI je již na velikost displeje telefonu ale odpověď už ne. Tedy buď odpověď zalamovat, nebo umožnit rolovat, ale respektování velikosti okna by mělo stačit. A když to dám na široko, tak sice vidím celou odpověď, ale nemohu rolovat dolu na další věty.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "jasne, je to chyba, treba to zalomit podla mna.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "opravene, zalomene"
+    }
+  ]
+}
