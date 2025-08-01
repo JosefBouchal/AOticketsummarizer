@@ -1,0 +1,27 @@
+{
+  "id": "a07j4pf1700bm1",
+  "created": "2025-07-02T14:25:17.582Z",
+  "closed": "2025-07-10T06:06:50.487Z",
+  "duration_minutes": 11021,
+  "first_response_minutes": 940,
+  "name": "Osnova porady",
+  "description": "Dobrý den,\r\nChtěl jsem se zeptat, zda je možnost udělat si osnovu porady. Chtěl bych, aby tam byly vždy standardní body s tím, že u každé instance by se mohly doplnit body nové, případně mazat ty ze šablony.\r\nDík za radu\r\nJirka Dvořák",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nie som si isty ci rozumiem, ale podla toho co hovorite, tak je to doplnenie bodov na rade porad. Otvorte si poradu, v zahlavi kliknite na \"radu porad\" a potom v zalozke nastavte body porad. Tie sa Vam vygeneruju vzdy do novej aktivovanej porady."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "a07ivmsn401d68",
+  "created": "2025-07-01T08:49:34.169Z",
+  "closed": "2025-07-05T10:21:07.010Z",
+  "duration_minutes": 5851,
+  "first_response_minutes": 9,
+  "name": "text zmínky je malý - nevejde se tam text",
+  "description": "viz obrázek: text zmínky je malý, nevejde se tam text, který tam máme - třeba docházka.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem, otazka je na kolko to je vseobecna vlastnost (inymi slovami kto okrem KSW tam ma dochadzku - preberieme na porade a dam, vediet.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "chápu, že to nemusí být přes celou obrazovku, tak to omezte aby maximum bylo dle šířky komentáře."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) len som sa chcel spytat ci si nezabudol na to ze vlastne na daneho cloveka mozes pouzit tooltip, kde to uvidis cele:"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "nepřišel jsem na to, protože tooltip funguje jen \"nad fotkou\" když najedeš na jméno nebo do toho volného prostoru - tak se nic neukáže - musíš najet až na fotku a pak se ukáže. Na telefonu pak samozřejmě tento tooltip není. V PWA nebo prohlížeči si to můžu natočit na šířku  -takže bych asni nemusel scrolovat, ale v mobilní apce na iPhone není asi povoleno zobrazení na šířku - takže tam nevím jak budete řešit, asi scrolování? nebo to bude oseknuté."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "chapem, bral som to tak, ze je to pre teba podstatne primarne na desktope, ale rozumiem Grafik sa na to pozrie ako by sa to dalo riesit Mimochodom, mame v plane vyvoja aj nieco ako stranku, ktora sa venuje profilu uzivatela a teda potom klik na avatara by ta mal hodit na tuto evidenciu.. Kazdopadne ak bude sucastou takehoto menu, tak klik na uzivatela ho vyberie - bnola by blbost aby ta to prehodilo niekam inam, ked robis zmienku. Kazdopadne vo vyvoji je na grafikovi uloha na optimalizaciu.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ok, takže toto můžeme zavřít"
+    }
+  ]
+}

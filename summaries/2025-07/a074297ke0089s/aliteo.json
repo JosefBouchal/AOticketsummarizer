@@ -1,0 +1,59 @@
+{
+  "id": "a074297ke0089s",
+  "created": "2025-03-07T11:36:47.649Z",
+  "closed": "2025-07-15T04:39:45.999Z",
+  "duration_minutes": 186782,
+  "first_response_minutes": 51,
+  "name": "Mizící tlačítko Více a Upozornění",
+  "description": "Mám problém s tím, že podstatné ovládací prvky jsou mimo zobrazovanou oblast.\r\nNa prvním obrázku je zobrazen případ ve FullHD rozlišení s nativním zoom 100% a už nyní je z tlačítka Více jen „Ví“.\r\nReálně používám zoom 110% (druhý obrázek), takže už nevidím Více vůbec a z Upozornění jen zvoneček. Musím měnit zoom, pak si ho vracet, abych dokázal udělat požadovanou operaci (pod Více je odkaz na Připojení a potřebuji mazat všechny notifikace k případu).\r\nProč si nesbalím pravý panel? Protože se mi tím změní zobrazení notifikací. Minimálně ztratím přehled, kolik je nových.\r\nNa počítači používám i monitor na výšku, kde ta tlačítka nahoře nemají šanci, ale dokonce mi mizí i tlačítko pro odeslání zprávy. Tady jsem to jen simuloval větším zoom (třetí obrázek).\r\nStránka má být udělaná tak, aby postupně mizelo to, co není potřeba, co je nejméně používané. Takže třeba tlačítko pro odeslání zprávy má mizet jako poslední. Není to za mě o grafikovi, responzivním vzhledu, jde o prosté řemeslné zpracování stránky.\r\nGrafikovi bych vytýkal jiné věci – například abych vymazal notifikace za případ, tak se uklikám k smrti (dříve to bylo přímo tlačítko), ale nedávno jsem si nechtěně vymazal veškeré notifikace, protože na to je obrovské přímé tlačítko (stačí jeden misclick). Grafik navrhnul nebezpečnou nepoužívanou akci na jeden klik bez dotazu, ale nejpoužívanější akci schoval pod rozbalovací volbu, kde jej jedinou volbou.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 4,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, long story short, je treba optimalizovat zalamovanie riadku kde sa nachadzaju http odkazy, pretoze mizne tlacidlo vice a ovladanie upozorneni.. je tak?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "plus vyhrada k mazaniu upozorneni.. samozrejme"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Ano, nemají mizet důležité ovládací prvky. Kdybych to napsal jen takto krátce, tak proběhne série upřesňování, proto long story."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) pri tomto by neprebehla, lebo mame vela miest kde to riesime a snazime sa riesit napriklad zalozky ulohy/projektu pri resize okna. Ale ok, dik za popis posielam na vyvoj"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Dík."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, tak len maly update, ktory sa ti asi nebude pacit ale pretestovali sme apku z viacerych smerov a ide o problem ktory chceme riesit systemovo (skryvanie komponent pri nedostatku miesta). Preto sa tomu budeme venovat v niektorom z dalsich sprintov komplexne, nie iba vyriesenim tychto konkretnych miest ktore si hlasil.."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Ok, dík za info, prostě počkám. (Jinak možná ta mobilní varianta bude můj problém řešit, protože musí nějak řešit, aby Smazat upozornění a Odeslat komentář bylo nějak dostupné.)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No jasne, ale v principu je problem nie len nalo miesta ale aj dlha drobkovka. Chces teda nechat otvorene alebo mozeme uzatvorit?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Pokud to vedete v patrnosti, tak tento případ klidně uzavři."
+    }
+  ]
+}

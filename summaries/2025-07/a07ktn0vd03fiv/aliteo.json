@@ -1,0 +1,31 @@
+{
+  "id": "a07ktn0vd03fiv",
+  "created": "2025-07-16T10:01:35.626Z",
+  "closed": "2025-07-16T10:14:54.565Z",
+  "duration_minutes": 13,
+  "first_response_minutes": 1,
+  "name": "Reklamacia granul",
+  "description": "Mam problem gronule su po zaruke.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravím Vás, o tomto probléme vieme a pracujeme na jeho vyriešení. Hneď ako to bude v poriadku, budeme Vás informovať. Ďakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Diky...chcem kompenzaciu,"
+    }
+  ]
+}

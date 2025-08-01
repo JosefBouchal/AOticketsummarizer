@@ -1,0 +1,55 @@
+{
+  "id": "a07k9qsbeg0io6",
+  "created": "2025-07-11T14:13:11.972Z",
+  "closed": "2025-07-20T17:21:34.548Z",
+  "duration_minutes": 13148,
+  "first_response_minutes": 3984,
+  "name": "přidání úkolů - je možné nastavit externího vlastníka na úkol, kde nemá právo přidat externí",
+  "description": "spadla nám synchronizace, protože ctíme to, že do sekce není možné přidat externím účastníkem úkol. V ALITEO nastaveno takto: a jak interní člověk mohu dát vlastníka na danou sekci: Následně nám spadla synchronizace. Takže jak to má být správně: 1. Aliteo nemá dovolit do sekce, kde je nastaveno, že zákazník (externí účastník) nemá povoleno zadávat, tak tam nemá vůbec nabízet nebo dovolit uložit  externího jako vlastníka. (podle mě dříve nebylo možné vybrat vlastníka a tak se nemuselo řešit. nebo 2. protože to dělá interní, tak to právo tam je správně. Dále dotaz - toto je přidání. jak to má fungovat u \"přesunu\" - to je taky přidání, nebo to již není přidání, ale bere se to jako přesun a tedy změna a viz první obrázek se na to omezení nevztahuje? Potřebuji vědět co je správně, abychom mohli upravit synchronizaci a nepadalo nám to. Jestli to tedy máme povolit když to vkládá interní člověk (nevím jestli to poznáme) nebo tu kontrolu tam nemít protože co přijde z Aliteo, tak je správně?",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 0,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik, ano, je mozne ze to nebolo osetrene. Dakujme za report a ospravedlnujem sa za komplikacie.. posuvam hned na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "odpoved od AKO: Nastavení na sekci Lze přidávat úkoly pro externího uživatele se vztahuje k přihlášenému uživateli (Creator), nikoliv k vlastníkovi úkolu. Takže interní uživatel může pořídit úkol do sekce s nastavením kde externí by nemohl a zadat externího vlastníka, stejně jako může v editaci úkolu tohoto vlastníka změnit. Tuto skutečnost doporučuji zohlednit v modulu KT."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Mohu se zeptat, vytvářet interní úkoly vs externí uživatel, to je vázáno taky na creatora nebo na ownera?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "nie som si isty na co sa pytas? internu ulohu moze vytvorit iba interny clen a vlastnikom tejto ulohy nemoze byt externy clen projektu.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano jestli je kontrola na interního uživatele taky na creatora (jako u parametr, zda může externí uživatel dát úkol do sekce a to se kontroluje na creatora a nikoliv vlastníka) tak zda i kontrola, za interní úkol může mít ownera externího, když creator bude interní"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "chapem, myslim ze to takto nefunguje u internej ulohy - teda nemozes zadat vlastnika internej ulohy externeho clena.. - narazas teda na to ze je v tom rozdiel a chcel by si to zrovnat?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "néé Dane, já fakt snažím se zjistit přesně jak to je, abychom to měli pak shodně v STD IS KARAT, neboli aby jsme měli zde stejné pole jako to AO. Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "tak potom ano: - v ALITEO ako externy clen projektu nemozem vytvorit internu ulohu - mozem vytvorit ako interny clen - zaroven nemozem zmenit vlastnika internej ulohy na externeho clena"
+    }
+  ]
+}

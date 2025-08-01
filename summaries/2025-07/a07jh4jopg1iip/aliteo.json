@@ -1,0 +1,43 @@
+{
+  "id": "a07jh4jopg1iip",
+  "created": "2025-07-05T14:21:21.797Z",
+  "closed": "2025-07-14T18:08:14.733Z",
+  "duration_minutes": 13186,
+  "first_response_minutes": 2394,
+  "name": "Aliteo - Sekce, které neobsahují úkoly",
+  "description": "Dobrý den,\r\n\r\njen info, že možnost zobrazení „Sekce, které neobsahují úkoly“ je po aktualizaci nefunkční\r\n\r\nS pozdravem a přáním pěkného dne\r\nIlona Remešová\r\nNákupní manažerka\r\n\r\n[Image001]\r\n\r\nELTON hodinářská, a.s.\r\nNáchodská 2105 | 549 01 Nové Město nad Metují\r\nM: (+420) 730 855 366| E: ilona.remesova@prim.cz< >\r\nwww.prim.cz< > | Facebook< > | Instagram< > | Twitter< > | YouTube< >\r\n\r\nUPOZORNĚNÍ\r\nInformace obsažené v tomto e-mailu a všech připojených souborech jsou důvěrné, mohou být chráněny zákonem a jsou určené výlučně příjemci. Nejste-li zamýšleným příjemcem, je zakázáno jakékoliv zveřejňování, zprostředkování nebo jiné použití těchto informací. Obdrželi jste e-mail neoprávněně, informujte o tom prosím odesílatele a vymažte neprodleně všechny kopie tohoto e-mailu i všech jeho příloh.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za report, hned to ideme riesit. Ospravedlnujeme sa za neprijemnosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, chyba bola opravena."
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím Vás, děkuji moc za zprávu, funguje Jen pokud z daného projektu jdu jinam, tak musím zase znovu nastavovat, pokud nechci vidět sekce které neobsahují úkoly, není zafixované, řešili jsme, že bude v aktualizaci - ale není nutné, jen by bylo uživatelsky příjemné 😉"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, zapamatanie si tohto nastavenia budeme riesit niektorom s najblizsich sprintov. A teda ze ak si to raz nastavite tak by si aplikacia mala pamatat. Nebude to teda nastavenie pre vsetky naraz ale pre kazde zvlast - je to preto, aby ste si to mohli nastavit lubovolne pre Vase projekty. Mozeme teda uzatvorit?"
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím, děkuji, je možné uzavřít."
+    }
+  ]
+}

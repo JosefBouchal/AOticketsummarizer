@@ -1,0 +1,39 @@
+{
+  "id": "a07j8i1srg1des",
+  "created": "2025-07-03T12:22:27.111Z",
+  "closed": "2025-07-15T13:12:54.996Z",
+  "duration_minutes": 17330,
+  "first_response_minutes": 79,
+  "name": "API - štítky",
+  "description": "budou štítky součástí API? Díval jsem se do Swageru a tam jsem to jako \"label\" nenašel",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, zatial sucastou API nie su, je otazka ci budu.. preverim s vyvojom.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) je tam nejaka realna potreba na tvojej strane, alebo to je len otazka? Momentalne sme to neplanovali, nakoko to ma nejaky dopad na prava atd..."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Nyní máme štítky na projekt a naučíme se s tím žít a používat to a budeme  to muset přidávat ručně - není to nyní problém jen mi připadlo škoda to tam nemít. Alespoň štítky společnosti a projektů. - K čemu by to šlo udělat - tak štítek může být o tom jestli to je rozpracované, jestli je to ke kalkulaci, k odsouhlasení kalkulace atd. a to vše by se hodilo mít v Karatu. Pokud je to problém ok, neřešme. Až bude reálná potřeba, tak to založí někdo jiný."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) nie uplne rozumiem co pises, stitky na projekt a na spolocnost... skusme si zavolat aky je tvoja optimalna predstava k tomtu fungovaniu.."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "a07gid31v00mv4",
+  "created": "2025-06-12T14:29:03.343Z",
+  "closed": "2025-07-01T12:32:09.580Z",
+  "duration_minutes": 27243,
+  "first_response_minutes": 991,
+  "name": "Výkazy práce - přidání filtru: Den, Projekt",
+  "description": "prosím o přidání do seznamu VP dva klientské filtry a to: - DEN - pro zobrazení dne kdy jsou výkazy - abych zaklikáváním si to mohl filtrovat - tedy vyberu třeba celý týden, VP se načtou a pak klikám jen co chci vidět - Projekt - tedy výčet projektů - jako je v případe seznamu úkolů.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Výkazy práce",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, chapem to ako podnet do vyvoja - tusim ze nieco take uz mame. Co sa tyka toho Den, ako si to predstavujes? Ze v lavom filtry budu datumy den po dni? Takze ak sa pozeram na \"minuly mesiac\" budem tam mat 3 datumov a ked na kvartal tak 120 datumov (za predpokladu ze kazdy den mam aspon jeden vykaz prace)?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano přesně."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) ad den - toto neviem ci prejde, mne sa velmi osobne nepaci ze tam budu dni - skor mi pride lepsa varianta zvolit so obdobie (den, tyzden mesiac, rok) a presuvas sa medzi nimi sipkami ad projekt - toto je asi ok Beriem na poradu.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "z porady 17.6.2026: - den - ako klientsky filter asi nie, skor ina mechanika - vid lavy panel v SLA - projekt - OK, zapracujeme @ Peter Ďurčák (peter.durcak@karatsoftware.sk) prejdeme si este spolu ? doplnil som do analyzy k reworku vykazu prace"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaplanovane : #2656 Posun datumov v pohlade sipkami alebo rychla uprava podmienky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) - projekty budu zapracovane - co sa tyka prepinania dni - tak mame v plane vyvoja posun v nastavenej podmnienky. pozn. ak je cielom sumarizovat ulohy po dnoch alebo po nejakom obdobi - ja pouzivam dashboardy, takze vidim napriklad na prvy pohlad posledny mesiac po dnoch a vidim kde mi nieco chyba.. mozno to bude dobra pomocka aj pre tebe.. mozes mi napisat ze kvoli comu to potrebujes.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "k sumarizaci - dobrý nápad, zkusím, jen to znamená se proklikávat pokaždé z grafu a z pátky, abych mohl něco editovat a už je to jiné prostředí a nevyužiju napříč jiné filtry. nechám si na sobě a uvidím."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) zkouším a není to tak, jak bych si to představoval = není to pro mě cesta. problém vidím např v: 1. máme na výkazu práce jak čas odpracovaný, tak fakturační a tak i čs na cestě - mě zajímá fond - takže asi odpracovaný a čas na cestě - to ale ALITEO nesečte. zkusil jsem to tam dostat jako \"druhou hodnotu\" ale - viz obrázek se tam nenachází žádný atribut - není to chyba? pls mrkni na to. očekával jsem, že tam bude čas na cestě v sumě 2,5h: - na seznamu to je. 2. z grafu proklik umožňuje kopii VP, ale neumožňuje přidání - tak buď tam asi neměla být ani ta kopie, nebo tam mělo být přidání: 3. kdybych na tom seznamu se mohl \"pohybovat po ose X\" - tedy v tomto případě po dne - tak by to bylo přesně to, co bych chtěl - zároveň bych nemusel po každé vyskočit a zase najít co chci a kliknout tam."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) kludne si k tomu zavolajme 1. no nespocita - ale to ani navrhovane zmeny ktore chces v tomto pripade 2. pridanie stale mozes cez cierne velke plus vpravo dole (nie si v projekte, takze aj keby to bolo tlacidlo hore tak by si mal rovnaku obrazovku) 3. nie som si isty co myslis tym pohybovat sa zavolajme si.."
+    }
+  ]
+}

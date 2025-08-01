@@ -1,0 +1,35 @@
+{
+  "id": "a07ivn67c01d68",
+  "created": "2025-07-01T08:52:48.888Z",
+  "closed": "2025-07-07T13:03:03.179Z",
+  "duration_minutes": 8890,
+  "first_response_minutes": 3,
+  "name": "Zmínka v interním komentáři - nabízí mi i externí osoby",
+  "description": "viz obrázek: v interním komentáři mi nabízí externí lidi. To si nejsem jist, jestli je dobře, předpokládám, že ne. až bude funkcionalita, že v soukromém budu moci přidat interního člověka, tak tam ok, asi ale v soukromém nebudu chtít přizvat externího ne? Nebo to máme takto volné schválně?",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja myslim ze to takto enma byt, posuvam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by to byt ok - mozes prosim overit?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok"
+    }
+  ]
+}

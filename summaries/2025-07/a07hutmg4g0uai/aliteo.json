@@ -1,0 +1,35 @@
+{
+  "id": "a07hutmg4g0uai",
+  "created": "2025-06-23T09:49:34.173Z",
+  "closed": "2025-07-02T19:01:06.488Z",
+  "duration_minutes": 13511,
+  "first_response_minutes": 10,
+  "name": "Externí uživatel - může psát do archivovaného a může vytvářet VP",
+  "description": "vytvořil jsem jako externí uživatel případ: #295373 test řídícího úkolu 2 - ten jsem jako externí archivoval (to je asi dobře, protože je to týmový úkol). Co není dobře tak rozdílnost desktop a mobilní (není to PWA - mám dole URL) - jedná se o týmové úkoly, kde mohu být řešitel. v desktopu jako externí uživatel: - nemohu dělat VP - ani ho otevřít. - Správně - nemohu psát do archivovaného - nejde tam kliknout. - Správně. V mobilním mohu: - otevřít VP - tlačítko je přístupné (i když je archivovaný i když není) - pak neudělám VP - což je dobře, ale neměl bych mít ani možnost ten formulář zobrazit. - psát do archivovaného případu - to je špatně.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Je to zvlastne ze by az take rozdiely tam boli, ale preposielam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by byt opravene, mozes prosim skontrolovat na tom istom mieste?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ok, už nemůže"
+    }
+  ]
+}

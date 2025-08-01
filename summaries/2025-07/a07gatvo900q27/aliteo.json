@@ -1,0 +1,43 @@
+{
+  "id": "a07gatvo900q27",
+  "created": "2025-06-10T18:57:24.661Z",
+  "closed": "2025-07-04T13:54:33.319Z",
+  "duration_minutes": 34257,
+  "first_response_minutes": 971,
+  "name": "Nová verze štítky - chyba a nejde rolovat",
+  "description": "Chtěl jsem v nové verzi https://aliteotestapp.azurewebsites.net/meeting/a05stem3ug0een/?view=informations Nastavit sdílený štítek, ale 1. Vyskočila chyba viz příloha (v telefonu nevim jaka) 2. Neslo rolovat v nastavení štítku. 3. Viz druhý obrázek tak je tam schovaná funkčnost pro kopii ID něčeho, to ale překrývá aktivní zmáčknutější prvek a tedy nejde vybrat, protože při kliku se to kopíruje.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Nastavení uživatele",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Je tento problem aj v desktope? Pripadne na bete v mobile? - pripadne napis postup - islo z zmenu alebo novy stitok? Ak novy kde si ho robil? V ulohy pri vybere stitku alebo vo svojich nastaveniach?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "jde pouze o telefon - nyní jsem zkusil a opět chyba. nasimulování chyby: vyberu u sebe nějaký nesdílený štítek - Obecné -> přepnu ho na sdílený -> vyberu pracovní prostor - třeba assistance - a vyskočí chyba. -- přidám další prac prostor a zase chyba - dal jsem šipku zpět a neuložilo se. když jsem dal křížek, tak se to uložilo a příští přidání prac prostoru nepadá na chybu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nie je to problem len na telefone, je to problem aj bete v desktope.. teda nehladam problem v telefone ale posielam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "nasadili sme nejake opravy - mohol by si @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) pozriet ci mas stale ten isty problem?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "vypadá to ok.  Zkoušel MHR"
+    }
+  ]
+}

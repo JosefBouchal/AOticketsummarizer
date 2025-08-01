@@ -1,0 +1,63 @@
+{
+  "id": "a07jd4ri5g1des",
+  "created": "2025-07-04T15:05:55.316Z",
+  "closed": "2025-07-08T16:03:14.210Z",
+  "duration_minutes": 5817,
+  "first_response_minutes": 3795,
+  "name": "Atributy - doplnit pole poznámka pro vysvětlení k čemu je atribut, na co má vazby a co ovlivňuje.",
+  "description": "chtěl jsem zjistit jak jsou u nás nastaveny nějaké atributy a to vidím, ale nevím proč. Předpokládám, že neexistuje nějaké možnost dokumentace přímo v ALITEO a tak bych asi potřeboval si napsat přímo v rámci atributu nějakou \"Poznámku\" například že: Atribut slouží k.... nenastavuje se ručně, ale je plněn synchronizací z KARATu polem XXX a na tomto poli je závislé pole XYZ, které pak umožňuje nastavit fakturaci na požadavku a tím je umožněno fakturovat na VP. Stačí mi to nyní jako prostý text a pokud to bude i pole vyměňované přes API, tak ideální.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Nastavení společnosti",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 4,
+    "from_others": 6,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) chapem spravne ze to potrebujes ako administrator a ma to byt cisto v nastaveni atributov a nema sa to nikde inde zobrazovat iba tam?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ano přesně. Jako admin potřebuji někde popsat k čemu to je a jak je to nastaveno. Nechci to dále někde zobrazovat, ale ocenil bych aby to bylo pole v rámci API synchronizováno."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "no pockaj.. neviem ktore miesto myslis, jedine miesto by mohlo byt v nastaveniach atributov - konkretny atribut - pokrocile - tam kde sa nastavuje API kluc a pod nim.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "tak ještě jednou a postupně: 1. přidat pole s Popisem - To bych dal sem: - aby to bylo vidět při zadávání a nastavení 2. pole přidat do API - jako strukturu pro výměnu. Nespojoval bych to že to pole s Popisem bude v Pokročilých, protože jak to je nastaveno budu chtít vědět i když to nesynchronizuje - protože někdo nastaví společnost třeba karat, pak to předá jinému a jak já mám vědět co je nastaveno na co, kde jsou jaké závislosti atd. Tak proto to potřebuji někde popsat. Ale pokud to graficky atd. je problém, tak to dejte do Pokročilých - jako že kdo to chce nastavit jednoduše, tak to nastaví bez popisu a kdo v rámci atributu nastaví práva, viditelnost specifické chování atd. tak to dokliká až na Pokročilé a tam bude textové pole s poznámkou - ok."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, beriem na poradu.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) pls ked mozes vysvetli este pre AKO pre musia byt technicky dve polia a nebude stacit jedno v zalozke obecne pod nazvom atributu ."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "já nepíšu že musí být 2 pole. Mě jedno stačí a ano dal bych ho po ten Název atributu. Jen jsem psal, že bych ho rád měl i v synchronizaci přes API (ve struktuře - ne v té záložce)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak teda ok, jedno pole, ktore zaroven bude moct byt synchronizovane cez API.. @ Allan Konečný (allan.konecny@karatsoftware.cz) je to realizovatelne?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Založil jsem a řeším v rámci #7424 Doplnit Popis do Atributu ve vývoji. Tento případ vracím."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, uzavřeme, pohlídám si ten ve vývoji."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a07gjafqm00q27",
+  "created": "2025-06-12T19:50:10.360Z",
+  "closed": "2025-07-02T18:53:35.452Z",
+  "duration_minutes": 28743,
+  "first_response_minutes": 699,
+  "name": "Verze 25.1 nejde vykazovat na týmy z pluska (zadáno z Testu)",
+  "description": "Na telefonu nyní zkouším udělat výkaz ze seznamu - přidávám výkaz a vyberu zdroj Tym. Mam ve výběru jen týmy původní, nemám tam ty nové založené při migraci. Když najdu tým, tak na něj vykázat můžu.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím, prípad sme predali do vyvoja."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by byt opravene, mozes prosim vyskusat?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ok, funguje"
+    }
+  ]
+}

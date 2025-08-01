@@ -1,0 +1,55 @@
+{
+  "id": "a04m0oac4002fo",
+  "created": "2023-07-10T06:27:17.202Z",
+  "closed": "2025-07-14T10:44:30.526Z",
+  "duration_minutes": 1058657,
+  "first_response_minutes": 60,
+  "name": "Dotaz export výkazu práce",
+  "description": "Dobrý den, jak můžeme vyexportovat výkaz práce do souboru Děkuji JB",
+  "owner": "Josef Blažek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": null,
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 3,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, bohuzial, zatial nie je na to ziadna vstavana funkcionalita, ale mame v plane vyvoja prave tieto exporty roznych evidencii."
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "Dejte mi vědět až to bude nasazené, externí spolupracovníci to potřebují jako přílohu k faktuře."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V poriadku, odlozil som pripad."
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "chtěl jsem se zeptat kdy bude tato funkčnost, externí spolupracovníci díky tomu tlačí na změnu SW řešení."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) FYI vid komentar ##5 - uprimne mi tu cosi nepasuje.. ale chapem ze skusa asi.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, tato funkcionalita bude sucastou najblizsej novej verzie."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, export objektov je dostupny v aktuanej verzii aplikacie ALITEO."
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "děkuji můžete zavřít"
+    }
+  ]
+}

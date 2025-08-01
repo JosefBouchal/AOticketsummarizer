@@ -1,0 +1,43 @@
+{
+  "id": "a07jcu73t012ep",
+  "created": "2025-07-04T13:53:24.420Z",
+  "closed": "2025-07-09T11:22:08.770Z",
+  "duration_minutes": 7048,
+  "first_response_minutes": 3872,
+  "name": "VP - jde udělat na požadavek, který je uzavřen",
+  "description": "na uzavřeném požadavku není možné udělat VP, ale když již existuje VP na takový požadavek, tak na 3 tečkách je možné vyvoalt obrazovku kde se provede kopie - to asi nemusí být chyba - nevím. Ale pak dovolit uložit na ten požadavek (on by se neměl v tom výčtu zobrazovat) by již byl problém. Tedy předpokládám, že ze strany ALITEO by to mělo být zakázané.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Výkazy práce",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, len si to este raz zhrniem aby sme boli na tom istom. - mame ulohu ktora je uzatvorena - nie je na nej mozne vytvorit VP rucne - mame existujuci VP na tuto ulohu - na tomto VP su dostupne tri bodky kde je mozna kopia (tam to asi je ok, ak by som chcel kopirovat inde) a teda: - nemalo by byt mozne ulozit kopiu na ten isty vykaz prace (teda bud neumoznit tuto ulohu vybrat alebo na uloz napisat hlasku ze to nejde na uzatvorenu ulohu) - Toto hovoris ze nie je osetrene?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano přesně: Tri bodky: na uzavřeném: a zde při kopii by toto nemělo být vyplněno: - ale rozumím, je to kopie, tak tam je vazba na úkol. a po uložení to dovolí uložit: - toto je určitě chyba a musí být ošetřeno. - což u nás by znamenalo pak spadnutí synchronizace - takže jsem to zkusil na betě"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, potom je to chyba - posielam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by byt opravene.. mozes na to prosim pozriet? ja som si to skusal mne to ani nedovolilo vybrat tu ulohu, lebo bola uzatvorena, preplo mi to na spolocnost"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano - nyní to přepne na společnost - takže ok, nedojde k uložení protože to není vidět, uzavřeme."
+    }
+  ]
+}

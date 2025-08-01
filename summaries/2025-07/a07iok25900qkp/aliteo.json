@@ -1,0 +1,39 @@
+{
+  "id": "a07iok25900qkp",
+  "created": "2025-06-29T15:31:58.908Z",
+  "closed": "2025-07-10T12:36:19.582Z",
+  "duration_minutes": 15664,
+  "first_response_minutes": 956,
+  "name": "Dotaz",
+  "description": "Dobrý den, nemáte nějak namyšlenou situaci, že dojde k přidělení úkolu a řešitel není přítomen? Má dovolenou. Že by vlastníka, ale i tomu kdo přidělení přidělil došla nějaká notifikace, automatická zpráva do ticketu, že daný člověk je out of office ( jde vázat na out of office v outlocku) Michal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, zatial nemame previazany stav z outlooku do ALITEO v tom zmysle aby sme pracovali so stavom out of office, alebo lepsie povedane s automatickou odpovedou. Mozeme sa ale na produktovej porade pobavit o tom ako by to mohlo fungovat, napriklad na zaklade statusu, ktory ma uzivatel ALITEO. Stale to ale bude na zaklade nejakeho stavu, ktory musi dany uzivatel nastavit a potom dalsie otazky k tomu - maju sa upozornit vlastnici vsetkych uloh ak co i na jeden den nastavi uzivatel nejaky status? Dalsia vec, ak to dame na k outlooku co ostatni ktori ho nemaju - nemaju to moznost? Je treba to analyzovat. Ak mate k tomu blizsie napady, pokojne napiste."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Zistime ich realnu potrrebu a ako by si to predstavovali. Co by im stacilo, nasledne sa pobavime co s tym chceme robit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, trochu sme to rozoberela s kolegami a mame par myslienok a jedna z nich ta pociatocna je, ze by sme to nechceli vztahovat na nejaky externy zdroj - nakolko nie kazdy ho ma dostupny. Tu su zatial moje myslienky, pokojne okomentujte: - m ohli by sme ho vztiahnut na \"Stav\" ktory je v menu uzivatela (zobrazovany stav). - vieme si predtavit tam jednak dat nejaky stav \"mimo kancelariu\" (s nastavenim datumu ako je to teraz, ked chcete dat specificky text) alebo zvazit jeho automaticke zapnutie, ak sa uzivatel naprihlasil do systemu viac ako nejaky pocet dni - rozumny, napriklad 5 dni. - k tomu by potom boli navazne funkcionality: - pri pridelovani riesitela (ak je v tomto stave) by dany uzivatel ktory nastavuje tohto riesitela bol upozorneny - bu nejaka extra vizualizacia toho cloveka alebo nieco podobne - takisot vizualizovat mozno v detaile ulohy ak je riesitel aby to udrelo do oci ze riesitel je mimo (alebo jeden z riesitelov) - ak uz prideleny je a nasledne sa nastavi na dovolenku - tu je to zradne - pyta si to informaciu pre vlastnika pripadu, ze nastaveny riesitel je mimo office (potial je to jasne) problem je co dalsi den - upozornovat znova? asi moc nie (nechceme aby kazdy novy den, kedy je dany uzivatel mimo generoval vsetkym vlastnikom milion upozorneni) Neberte to prosim nejako zavazne, zdielam s Vami moje myslienky, ktore vo vysledku mozu byt vyriesene inak (alebo nijak 😀 kvoli technickym moznostiam) ale chcem sa s Vami podelit a zaroven Vas mozno nieco napadne, co by ste na tomto uvitali."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Dík, jsem teď na dovolené, dává my to smysl, zkusím se nad tim .Ještě zamyslet po navratu\r\n\r\nZasláno z Outlooku pro Android< >"
+    }
+  ]
+}

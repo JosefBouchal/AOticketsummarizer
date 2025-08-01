@@ -1,0 +1,55 @@
+{
+  "id": "a07likut3g19n2",
+  "created": "2025-07-21T11:59:04.395Z",
+  "closed": "2025-07-24T07:34:02.929Z",
+  "duration_minutes": 4054,
+  "first_response_minutes": 1489,
+  "name": "HD: zadani hodnoceni pri uzavreni ticketu",
+  "description": "Dobrý den,\r\n\r\nPoslední dobou se nám stává, že uživatelé nemohou zadat hodnoceni při potvrzení uzavření ticketu. Zdá se, že to cca odpovídá době nasazení nové verze HD (ale mohu se mýlit). Žádná nastavení v pracovním prostoru pro dotyčný projekt jsem neměnil.\r\nZatím jsem našel dva scénáře:\r\n\r\n  1.  Řešitel zakládá ticket za uživatele a po vytvoření ticketu uživatele nastaví jako vlastníka. Když se ticket nastaví k uzavření, vlastníkovi nepřijde emailová notifikace, že má potvrdit uzavření a zároveň zadat hodnocení. Ticket je po 7-mi dnech uzavřen automatem.\r\n  2.  Uživatel je notifikován emailem, že je jeho ticket ve stavu k uzavření a použije tlačítko Schválit z emailu pro uzavření ticketu. Hodnocení se mu nezobrazí. Pokud využije webové rozhraní HD tzn. zobrazení úkolu, tak hodnotit může.\r\n\r\nProsím o prověření funkčnosti popř. navedení rukou kde a jak upravit nastavení. Hodnocení ticketů využíváme pro další vyhodnocování spokojenosti uživatelů.\r\n\r\nPředem díky,\r\n\r\nMartin PŘIKRYL\r\nIT Coordinator\r\nLesaffre Česko & Lesaffre Slovensko\r\n\r\nMob. +420 739403300\r\nHodolanská 34, 779 00 Olomouc, Czechia\r\n\r\n[Image001]\r\n\r\n[Image002]< >  [Image003] < >   [Image004] < >   [Image005] < >\r\n\r\nm.prikryl@lesaffre.com< > - www.lesaffre.cz - www.lesaffre.sk< > - www.lesaffre.com\r\n\r\nZvažte, je-li nutné tento e-mail vytisknout. - Please only print this email if it is necessary.\r\n\r\n[Image006]< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 2,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, predám na vývoj, budem vás informovať. Ospravedlňujeme sa za nepríjemnosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Poziadali ma z vyvoja: ad 1. lze získat úkol ke kterému vlastníkovi nepřišla emailová notifikace s požadavkem na schválení? ad 2. lze získat email ze kterého při schválení chybí spokojenost nebo url adresu z tlačítka v emailu?"
+    },
+    {
+      "creator": null,
+      "comment": "1) 2)"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "https://app.aliteo.com/task/a07j4agrp01mqk/?debuguseremail=m.prikryl@lesaffre.com&view=comments"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "ad 1. dle našeho outboxu sendgrid email panu Podivínskému jako vlastníkovi úkolu odeslal. 2.7.2025 13:44 našeho času. Víc nedokáži zjistit ad 2. daný úkol je již uzavřen... nicméně zkoušel jsem nad svým úkolem z emailu na ostré a uzavření bylo normálně funkční. Jen upozorňuji, že v Aliteo obrazovce již pak žádná tlačítka nejsou, rovnou se úkol schválí."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, patrali sme a: 1. email z naseho systemu odisiel a bol doruceny (mame na to mechanizmus ktory nam dorucenie potvrdi) - teda je otazka kde realne skoncil na strane prijemcu - spam? nevieme uz povedat 2. islo o nejaku chybicku ktora nastala pri konkretnej situacii, ktora sa pred tym nediala (emailom vytvoreny pripad pre uzivatela v stave pozvanka - ak som spravne pochopil vyvojara.. 🙂 ) - toto sme opravili, takze by sa uz chyba tohto charakteru nemala opakovat"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, OK, děkuji za info. Budeme to nadale sledovat a kdyby se neco dalsiho objevilo, dam vedet. V tento moment muzeme uzavrit. MP"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem velmi pekne. Samozrejme hned piste ak by sa dialo nieco podozrive. Majte pekny den."
+    }
+  ]
+}

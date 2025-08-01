@@ -1,0 +1,31 @@
+{
+  "id": "a07i7ojtdg13fr",
+  "created": "2025-06-25T13:19:48.111Z",
+  "closed": "2025-07-02T07:31:45.486Z",
+  "duration_minutes": 9731,
+  "first_response_minutes": 1214,
+  "name": "Zrušení řady porad nebo změna organizátora",
+  "description": "David Franc založil řadu porad Týmu Výroby a jelikož odchází, tak jsem chtěl změnit organizátora porad, což nelze. Nabízí se tedy zrušení výskytu porad a založit novou řadu výskytů.\r\nDavid tedy chtěl zrušit výskyt řady porad, ale to mu končí na chybu, že jsou některé porady ukončeny a nelze je zrušit.\r\n\r\nJak tedy udělat změnu?\r\n\r\n[Image001]\r\n\r\nS pozdravem\r\n\r\nOndřej Bíbr\r\nconsultant\r\n\r\ntel.: +420 581 737 129 | mobil: +420 601 325 640 | ondrej.bibr@karatsoftware.cz< >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< > Facebook< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < >  LinkedIn< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < >  YouTube< >\r\n\r\n[ http://www.karatsoftware.cz/ ]< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano, nejde menit organizatora, tak ako to byva aj v exchange. Spravnou cestou by malo byt skratenie rady porad. Teda vojde do nastaveni porad, tukne na opakovanie, a ukoncenie nastavi na dnesny den."
+    },
+    {
+      "creator": null,
+      "comment": "Zafungovalo, díky 🙂"
+    }
+  ]
+}

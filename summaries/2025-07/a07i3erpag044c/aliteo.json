@@ -1,0 +1,43 @@
+{
+  "id": "a07i3erpag044c",
+  "created": "2025-06-24T12:15:09.657Z",
+  "closed": "2025-07-03T06:13:42.903Z",
+  "duration_minutes": 12598,
+  "first_response_minutes": 204,
+  "name": "Zeptat se AI na úkol - kopírování",
+  "description": "Nejde kopírovat text odpovědi z dialogu - Chat ani Suma. Musí se obcházet např. přes tisk.",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, chapem, ze je tp problem.. budeme riesit.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) prosim Ta, veci tykajuce sa AI zakladat do #11 AI-ALITEO ? aj podnety aj chyby?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "je to vo vyvoji, Dusan to pred konferenciou, nstihol dorobit. #6437 AI - chat nad ulohou"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) mozeme teda uzatvorit alebo chces nechat otvorene kym sa to neurobi?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "pokud je v plánu doplnit, můžeme uzavřít"
+    }
+  ]
+}

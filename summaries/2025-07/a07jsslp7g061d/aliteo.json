@@ -1,0 +1,51 @@
+{
+  "id": "a07jsslp7g061d",
+  "created": "2025-07-08T10:48:58.398Z",
+  "closed": "2025-07-11T08:16:54.051Z",
+  "duration_minutes": 4167,
+  "first_response_minutes": 164,
+  "name": "zrušená porada (řada)",
+  "description": "Jak obnovím zrušenou poradu v AO? - doplnění proč se zrušila řada porad Měsíční porada vývoje v kalendáři na exchange zůstává konkrétně 30.7 i další výskyty. K rušení porad (instance) mám tento poznatek: - pokud je aktivované, lze zrušit v detailu AO>zrušit -  schůzka se v kal. smazala, ale porada zůstala nezrušena = chyba? - pokud není aktivované lze zrušit jen v seznamu porad - schůzka se v kal. smazala, porada se zrušila = OK",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 2,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, nie som si isty ci rozumiem vsetkemu co pises. Co sa tyka rusenia tak, ak bola vytvorena instancia (aktivovanim porady alebo  posunom vyskytu) tak sa k danej porady vytvoria data a teda aj ked nasledne zrusis udalost - tak data k tej porade ostavaju. Tieto zrusene porady by mali byt dostupne cez tlacidlo \"vratane zrusenych porad\": K tejto zrusenej porade uz nie je mozne dogenerovat udalost do outlooku: Sam exchange to nedovoluje.. jedina otazka potom len je, ci by sa technicky dala vyvinut funkcionalita, ktora by vytvorila pre tuto poradu jednoudalost - ktora by logicky uz nepatrila do povodnej rady.."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Ahoj, problém je, že jsem řadu \"Měsíční porada vývoje\" nerušil  - v kalendáři událost zůstává. Nevím jak mohlo k takovému stavu dojít a potřebuji řadu porad Aliteo mít nezrušenou. Druhý bod bych teď neřešil to už jsem jen zkoušel zrušit jinou poradu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zaujimave, ale ako keby sa oddelila porada od udalosti, ale neviem preco.. ak udalost mas aj poradu.. mozno nam porade @ Allan Konečný (allan.konecny@karatsoftware.cz) co sa vlastne stalo a ci ide s tym nieco robit.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "team/a01mkle0f00u9v/?debuguseremail= juraj.matej@karatsoftware.cz &view=meetings"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Problém v historických datech - mělo by být opraveno v datech, bez vazby na verzi."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Díky řada i porady vypadají ok"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) mozeme uzatvorit? vyriesene?"
+    }
+  ]
+}

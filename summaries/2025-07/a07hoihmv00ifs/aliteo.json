@@ -1,0 +1,95 @@
+{
+  "id": "a07hoihmv00ifs",
+  "created": "2025-06-21T20:50:38.065Z",
+  "closed": "2025-07-03T09:40:24.338Z",
+  "duration_minutes": 16609,
+  "first_response_minutes": 1363,
+  "name": "Export úlohy jako externí uživatel - chyba (test na mobilu)",
+  "description": "Přihlásím se jako externí uživatel. Jsem na seznamu úkolů k reakci - nemám černou/aktivní volbu pro export - nevím jestli je to dobře (možná že je problém s tím že je to z více společnosti?). Když jdu na projekt a tam chci provést export tak mohu. Ale export končí červenou chybou.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 18,
+    "from_owner": 6,
+    "from_others": 12,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) je tam viac veci: - externy uzivatel by nemal mat dostupny export - ak je viacero spolocnosti tak by sa malo vyhodnocovat ci je vo vsetkych interny (je to preto, lebo ak bude viac spolocnosti a viac uloh, nechcem zistovat prava na kazdu jednu z nich ked ich nemame ani vsetkych nacitane) - v tvojom pripade, je asi treba vediet v ktorom projekte je chyba a z toho spolocnost a poslat pokojne aj link a fotku chybu"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ve společnosti Lunys jsem externí, jinak asi interní. Na zbytek si nejsem jist co odemkne chceš. Mam si vypnout zaskrtavatko a zkusit to?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) no: - preco nemas dostupny export sme si vysvetlili - co od teba chcem: posli mi odkaz na projekt, kde ti to pri exporte vyhadzuje chybu,.,."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "nyní zkouším a už to funguje. Všiml jsem si, že tam už není \"exportovat jen interní nebo externí nebo co tam bylo za volbu) - takže uzavřeme a když bude problém, tak založím. Zkouším se připojit jako externí člověk a: - Export tam vidím, ale je to šedé (mám zapnutoujen tu firmu kde jsem extérní, svou vlastní mám odvybranou) - hmm - matoucí. takže externí tedy nemůže provést export ale má ho vidět jako prvek? To není jako zbytek ALITEO. - Mám tam možnost Archivovat - to tam podlě me dříve neměl - chyba? - a když je to archivované, tak tam mám možnost otevřít komentář a psát, ale už jej nemohu odeslat - měl bych mít vůbec možnost psát, když to nemohu odeslat? mám na to založit vlastní task a tento uzavřeme?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "- export - ano, externy nema mat pristupny export - asi by to tam nemalo byt ak dostupny nie je - nie len dissabled - prosim davaj obrazky - lebo pises \"mam tam/nemam\" - ale to moze byt na viacerych miestach a ja neviem o com sa bavime - kde mas archivovat?  a nema tam byt? - takze co? mozes si ako externy otvorit archivovany (je aj uzatvoreny?) pripad a mas aktivny box pre novy komentare ale pri odoslani to neposle - ake sukromie komentara? nie je to preto ze sukromny mozes ale verejny nie?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "založil jsem nový - takže řeším tam. No my zákazníkům říkali, že budou mít s verzi 25 možnost provést Export - no a nyní nemají. hmm, ok. nedávno tam bylo jen veřejné vyjádření atd. ale pokud je to cílem, tak ok."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) na zaklade coho ste im povedali ze budu mat export?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) no asi to chtěli, a někde jsem to četl ve vyjádření na vývoji. Podle mě i v exportu na tom testu šlo exportovat s možností zatrženi jen pro externí. Nejsem si jist, ale nyní se dívám a i v novinkách jste to oznámili. Takže má být možné export jak pro interní, tak externí: Dokonce ve videu je ten jeden checkbox který to umožňuje exportovat pro externí - předpokládám ze pro externí je zatržen (a není vidět) a já jako interní si mohu zvolit jakou úroveň soukromí zvolit. Takže toto otevřeme nebo si založíš nový případ že to má má jít?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No pozor, toto ale hovori pre koho sa to exportuje, nie kto moze exportovat.. Exportovat moze iba interny a toto mu dava moznost aby export bol ako pre externeho (ak mu to chce poslat)."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, tak by bylo dobré to upravit tak, aby to z toho bylo zřejmé."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Filip Šajna (fpsajna@gmail.com) mozes sa prosim na to pozriet? Bolo by treba aby jednoznacne bolo jasne ze: - exportovat moze len interny - a je mozne exportovat s pravami interneho a s pravmi externeho Ako vidis moze to ludi mylit ze moze exportovat aj externy uzivatel spolocnosti.."
+    },
+    {
+      "creator": "Filip Šajna",
+      "comment": "Zdravím, chyba sa týka stránky aliteo.com . V mojej kompetencií je len help.aliteo . \nÚlohu presmerujme na iného riešiteľa. \nČo sa týka exportov, tak tie pribudnú v blízkej budúcnosti aj na help.aliteo ."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) asi ide o novinky, kde je popisany export a podla PMS to vraj evokuje ze mozu exportovat aj externy.. vid komentar ##10 a moje vysvetlenie ##11"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) Ok, cize sa caka, ze opravim v novinkach textaciu?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) neviem ci sa vyslovene caka, nikoho to nebrzdi, ale treba to opravit aby to nemylilo.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Verim, ze to je ok, takto:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "za mna ok.. @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) ? mozeme uzatvorit?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ok, takto ke to jasné"
+    }
+  ]
+}

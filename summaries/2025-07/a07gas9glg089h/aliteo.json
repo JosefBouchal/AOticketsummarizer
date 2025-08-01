@@ -1,0 +1,31 @@
+{
+  "id": "a07gas9glg089h",
+  "created": "2025-06-10T18:38:53.870Z",
+  "closed": "2025-07-14T11:22:09.586Z",
+  "duration_minutes": 48523,
+  "first_response_minutes": 983,
+  "name": "AI na telefonu - okno přesahuje a nejde s tím pracovat",
+  "description": "Na verzi https://aliteotestapp.azurewebsites.net/main/ zkousim na telefonu v PWA. Viz obrázek okno nekoresponduje s tím jak mám velký displej a nedá se s tím pracovat.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, toto je problem aj bety, presuvam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) toto by uz malo byt vyriesene.."
+    }
+  ]
+}

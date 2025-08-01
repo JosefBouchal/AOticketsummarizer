@@ -1,0 +1,31 @@
+{
+  "id": "a07jhd3nd01iip",
+  "created": "2025-07-05T15:54:11.461Z",
+  "closed": "2025-07-08T05:24:05.324Z",
+  "duration_minutes": 3689,
+  "first_response_minutes": 2304,
+  "name": "Aliteo - uložení pohledu",
+  "description": "Dobrý den,\r\n\r\nvlastní pohled jde uložit u Úkolů a Projektů, ale když jsem ve vybraném projektu, možnost uložit není, nepřišla jsem na to, jestli je to způsobeno právy daného uživatele ?\r\n\r\n[Image001]\r\n\r\n[Image002]\r\n\r\nPředem děkuji\r\n\r\nS pozdravem a přáním pěkného dne\r\nIlona Remešová\r\nNákupní manažerka\r\n\r\n[Image003]\r\n\r\nELTON hodinářská, a.s.\r\nNáchodská 2105 | 549 01 Nové Město nad Metují\r\nM: (+420) 730 855 366| E: ilona.remesova@prim.cz< >\r\nwww.prim.cz< > | Facebook< > | Instagram< > | Twitter< > | YouTube< >\r\n\r\nUPOZORNĚNÍ\r\nInformace obsažené v tomto e-mailu a všech připojených souborech jsou důvěrné, mohou být chráněny zákonem a jsou určené výlučně příjemci. Nejste-li zamýšleným příjemcem, je zakázáno jakékoliv zveřejňování, zprostředkování nebo jiné použití těchto informací. Obdrželi jste e-mail neoprávněně, informujte o tom prosím odesílatele a vymažte neprodleně všechny kopie tohoto e-mailu i všech jeho příloh.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nie, nie je to chyba. V projekte zatial nebolo nikdy mozne ulozit pohlad. Kazdopadne mame tuto zmenu v plane vyvoja a budeme pracovat  na tom aby to islo ulozit aj tam."
+    },
+    {
+      "creator": null,
+      "comment": "Děkuji za zprávu, budu se těšit na aktualizaci"
+    }
+  ]
+}

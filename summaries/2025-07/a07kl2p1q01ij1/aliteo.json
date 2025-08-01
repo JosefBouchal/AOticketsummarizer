@@ -1,0 +1,51 @@
+{
+  "id": "a07kl2p1q01ij1",
+  "created": "2025-07-14T07:44:13.969Z",
+  "closed": "2025-07-15T06:36:42.332Z",
+  "duration_minutes": 1372,
+  "first_response_minutes": 51,
+  "name": "Úprava pohledu nezobrazuje zadané podmínky",
+  "description": "Pokud mám uložený/nastavený nějaký Pohled i s nastavenými podmínkami, pokud ho jdu Upravit, tak v dialogu nevidím ony nastavené Podmínky viz obrázek -",
+  "owner": "Lukáš Trunečka",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano chapem, chyba - posielam na vyvoj"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Ahoj Dane.... díky ;-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lukáš Trunečka (lukas.trunecka@karatsoftware.cz) malo by byt opravene.. teda minimalne u mna je to ok.."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Ahoj Dane. Zatím to nevidím opravené, asi to ještě nenasadili do produkce? Ty to zkoušíš tu, nebo na nějaké testovací Betě? Zkusím znova později ;-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nie, nie, praveze to je nasadene, otvoril som si jeden svoj pohlad a podmienky tam mam.. mozno ide o nieco specificke.. Skus prosim ine pohlady ci vsade to mas tak ze nevidis.. Posli este raz fotku pohladu kde to nevidis.."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Aha.... zkoušel jsem to na záložce, která nebyla reloadlá. Jak jsem to reloadl, tak už je to zřejmě ok ;-) - Díky za řešení ;-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak super, zatvaram teda."
+    }
+  ]
+}

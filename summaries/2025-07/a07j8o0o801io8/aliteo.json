@@ -1,0 +1,35 @@
+{
+  "id": "a07j8o0o801io8",
+  "created": "2025-07-03T13:27:35.840Z",
+  "closed": "2025-07-08T07:47:24.652Z",
+  "duration_minutes": 6859,
+  "first_response_minutes": 9,
+  "name": "Pohledy - po verzi se správně nedotahuje oblast z uložených",
+  "description": "viz obrázek pokud mám nastaveno oblast, tak po migraci na verzi 25.1 - kdy přibyly Týmy do oblasti, tak po otevření starého pohledu se mi tam Oblast nezobrazí  a tedy při uložení se mi vymaže. Respektive se nastaví na \"Všechny\" a tím se to celé rozbije. prosím o vyřešení - update stávajícíh pohledů na \"projekto\" před tím totiž žádné týmové nebyly.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dik za report, posielam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) Allan nasiel 290 neintegritnych pohladov, ktore opravil, mohol by si sa pozriet ci je to uz v poriadku u teba?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "no tak nevím jakou přesně tam AKO dal podmínku, všude se to nezměnilo na projektové. Vypadá to, že se to změnilo jen tam, kde to mělo důvod. Pokud jsem ve filtru podmínky měl sdílený atribut, tak se mi to nezměnilo ale funguje to, takže asi updatoval to co bylo potřeba = vyřešeno."
+    }
+  ]
+}

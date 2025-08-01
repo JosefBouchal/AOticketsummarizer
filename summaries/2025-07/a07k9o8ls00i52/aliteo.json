@@ -1,0 +1,47 @@
+{
+  "id": "a07k9o8ls00i52",
+  "created": "2025-07-11T13:44:38.329Z",
+  "closed": "2025-07-11T13:53:34.990Z",
+  "duration_minutes": 8,
+  "first_response_minutes": 3,
+  "name": "Porady týmu \"nejsem účastníkem\"",
+  "description": "Prosím o info,  zda chybí nějaké nastavení nebo je to chyba? 1) Jsem s teamu \"Výroba\" Nejsem člen porady. Nevidím porady, i když mám zobrazení \"Nejsem účastníkem\" Nemám právo na zobrazení porady - odkaz mám z kalendáře https://app.aliteo.com/meeting/a07ibeacug1oc1/",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ak nie si clenom porady, odkial mas odkaz?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Ahoj, jde mi o to, abych nemusel být účastníkem každé porady teamu, ale abych viděl v Aliteo, že tým má poradu. Nevím, zda je potřeba provést nějaké detailní nastavení práv na poradu, ale předpokládám, že přepínač \"Nejsem účastníkem\" má tomu právě sloužit.  Odkaz jsem zkopíroval z Outlook kalendáře kolegy."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, presne ako hovoris, ale nemoze to byt pristupne pre kazdeho - aby hociaky ucastnik mohol otvorit akukolvek poradu. Ak chces vidiet porady, ktorych nie si ucastnikom, musis byt supervizor. Zapni si supervizora a mal by si vidiet."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "díky ověřím a případně dám k uzavření"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, skus"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "přepínač \"Nejsem účastníkem\" funguje správně, pokud jsem supervizor teamu. díky za radu a možno tedy uzavřít"
+    }
+  ]
+}

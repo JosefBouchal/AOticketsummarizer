@@ -1,0 +1,35 @@
+{
+  "id": "a07jovtovg061d",
+  "created": "2025-07-07T12:06:22.078Z",
+  "closed": "2025-07-09T11:03:09.565Z",
+  "duration_minutes": 2816,
+  "first_response_minutes": 13,
+  "name": "přesun úkolu - nevybírá se sekce automaticky",
+  "description": "v předcházející verzi fungovalo, že při zmáčknutí Přesunu na úkolu, se zobrazila sekce a věděl jsem ve které to je a bylo možné posunout třeba o jednu sekci. Nyní to tak není - musím to rozbalit a začít hledat. Další věc, když vyberu nějaký projekt, tak se mi nenabídne automaticky výchozí sekce - pokud se nemá nabízet výchozí, tak pokud je tam pouze jedna sekce, tak ta by se mi měla nabídnout (vybrat) - nyní musím rozbalit a vyberu tu jedinou.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ok posuvam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by byt opravene.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano, je to ok."
+    }
+  ]
+}

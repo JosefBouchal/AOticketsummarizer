@@ -1,0 +1,47 @@
+{
+  "id": "a07i2ickag0vfg",
+  "created": "2025-06-24T07:04:09.177Z",
+  "closed": "2025-07-02T15:12:17.034Z",
+  "duration_minutes": 12008,
+  "first_response_minutes": 44,
+  "name": "APi -chyba integrace",
+  "description": "Dobrý den, dobrý den, můžete prosím zkontrolovat, api ? máme problém s vazbou portfolii a projektů. viz níže, -- Včera (22.6) nám spadl nápočet Aliteo na problému při loadu portfolií. Ověřovala jsem to přes swagger a endpoint /ListPf vrací 4 idčka,  které ale podle mě vůbec nejsou ids porfolií - kromě toho, že nejdou vyhledat v endpointu /DetailPF,  jich je i podezřele málo (jenom 4, přičemž v DWH máme už historicky nahraných mnohem více portfolií). Viz printcreeny níže. Pro tyto idčka potom nebyl nalezený žádný záznam v endpointu /DetailPf, tabulka se nenastagovala v DWH a přepočet na tom spadl. Předpokládám, že to možná bude nějaký dočasný bug související s aktualizací Aliteo. Aby nám na tom nepadal celý přepočet, dočasně jsem včera vypnula přehrávání portfolií. Jinak se po aktualizaci Aliteo zdá vše  ostatní v pořádku, ale všimla jsem si v dokumentaci ( https://api.aliteo.com/swagger/ui#/ ), že vznikly nové endpointy, přestože původní jsou stále funkční (např. /ListProject -> /projects/list) a nemůžu dohledat, jestli je nutné přejít na novější verzi endpointů, jestli se třeba neplánuje starší verze odpojit. Není prosím možné z Vaší strany prověřit, jestli máme endpointy nahradit novějšími, než se pustím do úpravy skriptu?",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "API",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Michal Přibyl",
+      "comment": ""
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, to padanie preverim s vyvojom.. Co sa tyka verzii, ano standardizovali sme syntax a nejaku dobu budu kompatibilne aj starsie verzie.. V dlhodobom horizonte by bolo dobre prejst na novy format"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) prosim mohol by si prosim preverit problem s API pri portfoliach? ak na to bude odpoved, len mi ju sem napis, ak bude treba nieco opravovat alebo pre nejaky iny dovod potrebujes vyvojovy pripad, daj vediet a zalozim ti ho, ak to nespravis sam..."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Opraveno, Nainstalováno (Api mohu instalovat hned)."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Preverili sme a opravili chybu, mozete prosim skontrolovat ci je vsetko v poriadku?"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "ok díky ticke možno zavřít"
+    }
+  ]
+}
