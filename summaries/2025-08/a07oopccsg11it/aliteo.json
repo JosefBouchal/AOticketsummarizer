@@ -1,0 +1,27 @@
+{
+  "id": "a07oopccsg11it",
+  "created": "2025-08-15T06:58:57.219Z",
+  "closed": "2025-08-17T07:07:17.376Z",
+  "duration_minutes": 2888,
+  "first_response_minutes": 7,
+  "name": "Nelze odstranit sledujícího úkolu",
+  "description": "Ahojte,\r\n\r\nÚkol #299110 2.1.9 Spolupráce se stávajícími zákazníky (PJI + PSE)< > a nejde mi z úkolu odstranit sledujícího PJI.\r\n\r\n\r\n[Image001]\r\n\r\n\r\n\r\nDěkuji za řešení, Dan",
+  "owner": "Daniel Holec",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, takze vyriesene? Neda sa odstranit sledujuci pokial je riesitelom.."
+    }
+  ]
+}

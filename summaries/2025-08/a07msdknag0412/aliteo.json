@@ -1,0 +1,55 @@
+{
+  "id": "a07msdknag0412",
+  "created": "2025-07-31T15:19:12.210Z",
+  "closed": "2025-08-12T09:35:17.223Z",
+  "duration_minutes": 16936,
+  "first_response_minutes": 919,
+  "name": "úpravy v komentářích - náměty na vylepšení",
+  "description": "zapisuji návrhy na úpravu editoru v rámci komentářů. Dávám do jednoho, co se vám bude líbit, tak prosím založte a tento hromadný případ můžeme uzavřít. 1. Umožnit “citovat” abych nějak vizuálně oddělil na co reaguji. - v komentáři potřebuji například citovat konkrétní část textu z vyjádření a na to reagovat odpovědí. V mailu řeším barvama, ale zde barvy nejsou. 2. Sbalení odstavce typu “kód” - někdo vkládá do vyjádření i kód SQL, pak je to nepřehledné, sbalení tohoto typu odstavce by to řešilo. 3. Sbalení celého vyjádření - toto by nahrazovalo požadavek na to, abych mohl skrývat vyjádření, která mě nezajímají (již jsou vyřešena atd.) - ideálně kdyby si to pamatoval pro daného uživatele 4. Vložení tabulky - umožnit vložit tabulku do vyjádření. 5. V případě opravy komentáře ukázat, co se změnilo Na klik v daném komentáři “něco jako sledování revizí ve wordu” - případně v novém okně kde by se texty porovnali jako v totální comanderu/publikaci Případně v aktivitách a tam bych mohl vybrat např první a poslední verzi komentáře.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 2,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Cauko, zoberiem an produktovku ale pred tym mam par otazok: 1. chapem ze chces nejako narychlo oznacit konkretny text v niektorom existujucom komentari a na klik to dostat do tvojho alebo ako by si si predstavoval fungovanie? Alebo ho kopirujes cely a a chces pre text specialny format \"citace\" ? 2. rozumiem, takze v textaku chces zbalovat ten blok/y 3. no v minulosti sme sa dohodli ze spravime oblubene komentare a ze budu pre vsetkych.. teraz chces opat nieco ine a chces aby sme si na tisickach uloh v kazdom 200 vasich komentarov pamatali pre vsetkych uzivatelov stav? 4. vlozit tabulku do komentara - rozumiem 5. rozumiem - priamo v komentaroch rozbalit jeho zmeny - takze ked bude 5 zmien (hoci kvoli gramatike) chces na klik zobrazit 5 krat ten isty komentar pod sebou? alebo ako si to predstavujes? Resp aby sme porovnavali aj verzie?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "AD1: napadají mě dvě možnosti: A. označit text myší a pravé tlačítko a dát \"citovat\" - to se ti vloží do komentář na poslední znak - ale technicky moc nevím. B. označit text, dát si ho do clipboardu a kliknout do vyjádření a stejně jako je pro \"Kód\" mít znak a ten udělá nějaký \"styl komentář\" a tam to vložím. Tedy analogie pro psaní kódu. AD2: ano AD3: když to píšeš takto rozumím.  Nebo jak řešit to, že mám dlouhá vyjádření v textu a musím je rolovat ať ostatních nebo svá? AD4: ok AD5: dizajn nechávám na vás. Porovnat 5 verzí je podle mě nereálné. Proto jsem navrhoval že by si uživatel vybral se kterým to chce porovnat a vždy by se porovnávaly jen 2 komentáře. - tedy asi nějaký seznam v řádku pod sebou - řazeno dle data změny komentáře a možnost zakliknout a pak porovnat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, dik beriem na poradu.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: 1. Dobry napad, urcite budeme v nejakom case realizovat, ale nebude to skoro vzhladom na velke veci, ktore este vo vyvoji su a su potrebne k predaju. Realizovatelny fix v dohladnej dobe by mohol byt doplnenie Farebneho oznacenia texu. Stacilo by to tak? 2. Technicky je problem v realizacii, momentalne nebudeme realizovat. 3. Nerealizujeme, vzhladom na moznost oblubenych komentarov, ktora je vo vyvoji. Nasledne ked sa uvolnia kapacity, moze to byt predmenot dalsej NTH funkcionality. 4. Je to planovane vo vyvoji 5. Komplikovane. Je vela moznosti ako to urobit, ci uz s internou AI alebo skrz externu AI, kde su shcopne najst rozdiely v zaslanom texte. * momentalne zapasime s tym, aby sme uz pocas spusteneho predaja doplnili co najviac funkcionalit, ktore nam pomozu naplnit obrat (inac povedane, funkcnost pre kotru sa niekto vo firme rozhodne ze LAITEO si kupime lebo nam riesi konkretny problem), tieto NTH funkcnosti budeme dorabat postupne."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ad 1 - farebné označení textu - ano to je použitelné tak to řeším ve wordu a v mailu (jen farby jste nechtěli - tak jsem v to nedoufal) zbytek - ok."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) Petr odpovedal ohladom tvojich navrhov - chces este zalozit pripady do vyvoja na zaklade toho?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "jj pls nejak to sformuluj ja to zaplanujem."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) hotovo, je to vo vazbach a dal som to este na UI"
+    }
+  ]
+}

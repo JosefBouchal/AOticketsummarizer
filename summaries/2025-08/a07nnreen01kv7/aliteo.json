@@ -1,0 +1,55 @@
+{
+  "id": "a07nnreen01kv7",
+  "created": "2025-08-07T07:07:09.906Z",
+  "closed": "2025-08-08T08:14:12.731Z",
+  "duration_minutes": 1507,
+  "first_response_minutes": 19,
+  "name": "presiahnutí počet úloh",
+  "description": "Dobré ráno, Dnes mi system vyhodil túto hlášku o prekročení 30 aktívnych úloh, no vo filtra na ľavej strane mám vyfiltrovené aktívne tasky a celkovo mi ich zrátalo 19. Viete sa mi prosím na to pozrieť ? Aj v minulosti som narazil na tento limit a po uzatvorení aktívnych úloh, mi system dovolil pokračovať. Vďaka za pomoc Tomáš Polák Project Leader [Image002] 3EC International a.s. Ružová 605/2 920 42 Červeník Slovenská republika Mob.:   +421 (0)917 909 353 www.3ec.sk< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 3,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, nachadzate sa v projekte, ja by som radsej zistoval vsetky ulohy tak ze by som: - otvoril evidenciu Ulohy (v cierneho hornej liste) - vytvoril by som pohlad, kde by som zadal vsetky moznosti (okrem archivovanych - tie sa nepocitaju do licencie) A to je vlastne pocet ktory by mal sediet v poctom licencii v nastaveni spolocnosti. -> Skuste to tak a poslite mi info ci to sedi.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pridavam este jednu informaciu - uistite sa ze mate zapnute pravo supervizor bez neho nevidite vsetky ulohy."
+    },
+    {
+      "creator": null,
+      "comment": "urobil som ten nový pohľad a zobrazilo mi tam 27 tiketov (neuvedomil som si že uzavreté sú tiež aktívne a že sa do aktívnych nazahŕňajú len archivované) a v licencii mi ukázalo 30.  Tak to je dôvod kúpiť licenciu :)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No ako som pisal, v druhom komentari, ktory ste uz asi nevideli - mate zapnuteho supervizora? Ak existuje viacer uzivatelov a ani jeden nema zapnuteho supervizora potom sa moze stat ze jeden nevidi ulohy toho druheho (za predpokladu, ze v kazdej sa nedaju navzajom sledujucimi). Skontrolujte to, mozno tie tri zalozil niekto iny a nemate na nich pravo, preto ich vidite 27 a nie 30."
+    },
+    {
+      "creator": null,
+      "comment": "všimol všimol, ja som tento projekt zakladal tak ja predpokladám že som administrátor a úprimne ani nevidím možnosť kde si zapať suprevízora."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No administrator a supervizor su 2 separatne role: - admin - dokaze nastavovat vsetko co vidi - supervizor - dokaze vidiet vsetko je to preto lebo vela krat sa chce aby niekto vsetko videl ale nemal pravo nieco nastavovat a vice versa. Supervizora si mozete zapnut v nastaveni spoocnosti -> uzivatelia -> vyberiete seba a potom nizsie su moznosti administrator, supervizor atd."
+    },
+    {
+      "creator": null,
+      "comment": "áno zafungovalo to. Keď som si zapal supervízora, tak som uvidel tikety čo založila kolegyňa keď to testovala.  Len teda nerozumiem, prečo má admin obmedzený pohľad na tikety a supervízor vidí všetko. Tieto role a práva mi vždy robili problém pochopiť aj v SAPe aj Microsofte aj Jire, ale občas to dávalo logiku ale pamätám si, že vždy to bolo z môjho pohľadu extrémne komplikované na pochopenie, ale tak základ, je že je dobrá a skúsená podpora, ktorá vie o čom 🙂. Ok tak môžeme zatvoriť aj tento tiket, buď teda niektoré tikety pomažem alebo teda kúpim licenciu aspoň pre seba, nech si tam zaznamenávame zmenové požiadavky a budem ich linkovať na ten sumárny tiket v SANGO"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "U nas je to s tymy pravami jednoduche, skusim popisat v skratke: Zakladne superprava: - admin - nastavuje vsetko - supervizor - vidi vsetko (je mozne este modifikovat ci ma len vidiet alebo vidiet + upravovat) Miesto kde mozu byt tieto prava zapnute - su dedicne a teda: - na spolocnosti - potom automaticky plati na vsetky pracovneho priestory (projekty v nich) a timy a ulohy v nich - na pracovnom priestore - plati pre vsetky projekty v nom a ulohy v nich - v projekte - plati pre projekt iba a ulohy v nom - v time - plati na tento tim a ulohy v nom Pomoze mozne tento obrazok: Este tam su nejake prava ale tie su specificke - teda ktore spristupnuju konkretnu funkciu.. Vsetko by malo byt dostupne na help.aliteo.com Ulohu teda zatvaram a dakujem 🙂"
+    }
+  ]
+}

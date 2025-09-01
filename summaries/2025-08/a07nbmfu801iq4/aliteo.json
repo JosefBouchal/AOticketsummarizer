@@ -1,0 +1,63 @@
+{
+  "id": "a07nbmfu801iq4",
+  "created": "2025-08-04T08:18:45.283Z",
+  "closed": "2025-08-11T06:36:54.192Z",
+  "duration_minutes": 9978,
+  "first_response_minutes": 10,
+  "name": "farba komentárov v úlohách / tiketoch",
+  "description": "Dobrý deň,\r\n\r\nVšimol som si, že pozadie komentárov je niekedy v žltej, inokedy v bledočervenej farbe. Viete mi poradiť, čo ktorá farba znamená, kde nájdem tieto informácie ?\r\n\r\nA ešte jedna informácia ma zaujíma. Na prezentácii aplikácie ste prezentovali Váš agile vývoj, akým spôsobom zbierate user stories, pre ďalší rozvoj. (Microsoft mal kedysi uservoices, teraz má feedback, SAP má SAP Influence) má niečo aj KARAT pre product Aliteo ?\r\n\r\nĎakujem za odpovede\r\n\r\n\r\n[Image001]\r\n\r\n\r\n\r\nTomáš Polák\r\nProject Leader\r\n\r\n[Image002]\r\n\r\n3EC International a.s.\r\nRužová 605/2\r\n920 42 Červeník\r\nSlovenská republika\r\n\r\nMob.:   +421 (0)917 909 353\r\n\r\nwww.3ec.sk< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 5,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, v ramci nastaveni uzivatela si dokazete farebne odlisit sukromie komentarov - . Standardne su tieto nastavenia vypnute a sukromie komentarov sa odlisuje bez tohto nastavenia minimalisticky - odtiene sedej. Ak som spravne pochopil druhu cast, tak sa zaujimate o to akym sposobom zbierame namety na ALITEO od zakaznikov? Zatial takto, vy napisete podnet, my ho zhodnotime pre produkt a ak sa nam paci, davame o tom info, davame do backlogu a nasledne sa to planuje do sprintov. Takze pravidelne prechadzame podnety a hodnotime co by davalo zmysel. Neviem ci som Vam odpovedal."
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím. Vďaka, našiel som to, trošku mi to trvalo kým som sa preklikol na úlohy. Čo je však zvlástne, že mi tam zobrazuje silver pre public a yellow pre internal. Nie som síce žena, ktoré rozpoznávajú 1 mil farieb, ale mne to príde, že pre public mám červenú, svetlo červenú 🙂 A druhá časť otázky, vďaka za odpoveď, budem ALITEO v rámci 3EC používať aby som bol pripravený ak sa vedenie rozhodne znovu otvoriť tento projekt. Ešte jeden business case ma napadol. Sango (náš partner pre implementáciu Karat-u), nechce aby som vytváral zmenové požiadavky per tiket. Chce si to evidovať v komentároch jedného tiketu, s tým aby som im nevytváral veľa tiketov. Za mňa je to zas nepraktické a chcem 1 zmenová požiadavky = 1 tiket. Napadlo ma, že by som u nás v 3EC international vytváral zmenovú požiadavku per tiket a potom by som tieto tikety mergoval do jedného tiketu v rámci spoločnosti SANGO, viem že sa dá tiket MOVE nuť cez spoločnosti, len neviem či sa to dá prepojiť aj s ALITEOM v spoločnosti KARAT keďže je to napojené na IS Karat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ad farba komentarov - jasne, mate pravdu, ze to svetlo cervene a ten preklad je nespravny - reportujem na vyvoj aby sa to opravilo Ad reportovanie - za mna je takisto spravne, co zmena to pripad - neviem si osobne predstavit ako sa sleduju komentare k jednotlivym veciam, odvedena praca, ci terminy.. nejako mi to hlava neberie a zatial si neviem predstavit argumenty, ktore by ma presvedcili. Musi to byt aj chaos pre Vas a cielom ALITEO je presny opak. Chapem teda spravne ze mate v SANGO jednu ulohu a v nej su vsetky poziadavky? Ulohy sa cez spolocnosti nedaju presuvat, naviac predpokladam ze nie ste v oboch spolocnostiach internym uzivatelom. Teda ak sa zalozi poziadavka u Vas, jedine co sa s tym da robit, je: - eskalovat ulohu (teda vytvori sa nova v inej spolocnosti a zostane prepojena z touto) - alebo (a to je asi vas pripad ak mate jednu ulohu na vsetky zmeny) sa ta uloha u Vas nastavi na stav \"caka na ulohu\" a zadate tam ulohu, ktora je zalozena v SANGO - ale toto Vam asi nepomoze, pretoze ak su sucastou jednej ulohy 4 zmeny tak kym nie su vsetky hotove tak Vam ju nauzatvoria a tym padom dostanete do tej svojej info az vtedy ked bude ta v SANGO uzatvorena.."
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím. Za tie farbičky ďakujem, je to dobrá fičúrka, ak sme v minulosti nad tiketom komunikovali s developermi, ušetrili sme tejto komunikácie zákazníka K zmenovým požiadavkám to vidíme rovnako, p. Putyra zo Sanga to chce takto, kvoli tomu aby nemali veľa tiketov. Ja to vyriešim tak, že si ich budem separátne viesť u nás v 3EC a budem dávať linky do predmetu spoločného tiketu alebo do komentárov a jeho si pozvem ako externého užívateľa.  Je to tiket : 319544 a spoločný tiket pre zmenové požiadavky 319560"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, tie farby su fajn, hlavne kde je nutne to odlisovat... a takisto je tam aj to defaultne nastavenie sukromia aby sa nestalo ze nieco poslete tam kde nechcete.. (radsej neposlat a potom to zmenit ako poslat a nemalo sa to stat) 🙂 Co sa tyka tych poziadaviek, premyslal som este nad tym, a napadlo ma ze je to pripaad od pripadu.. moze nastat situacia, ked je dovod mat vsetky zmeny v jednom pripade, ak sa tykaju nejakej spolocnej veci alebo okruhu.. u nas vo vyvoji ak riesime planovanie gantom tak riesime vsetky zmeny a opravy v jednom  poziadavku, aby sme mali prehlad.. Takze aby som bol objektivny, zalezi na pouziti.. 🙂"
+    },
+    {
+      "creator": null,
+      "comment": "Ja som to poriešil tak, že som si u nás vytvoril separátny tiket a ten kopírujem do komentára spoločného tiketu v Sangu. Ešte ma napadlo, keby to tématicky súvisí tak by som to dal ako úlohy v rámci tiketu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, takze vsetky otazky v tomto tickete su zodpovedane?"
+    },
+    {
+      "creator": null,
+      "comment": "jasné, ďakujem za asistenciu, môžeme zatvoriť. Inak je možné sa na tento projekt pripojiť aj cez web prehliadač, tak ako sa pripájam k ostatným ? predpokladám, že toto je ten verejný portál (podobne ako Jira Service Desk), pre ľudí zvonku."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, no, emailova komunikacia je verejna, dostupna na support@aliteo.com. Vsetky svoje zalozene pripad potom mozete vidiet cez portal, ked v emaile kliknete na tlacidlo \"zobrazit ulohu\" a v spodnej casti tohto portalu sa potom dokazete prekliknut na vsetky svoje poziadavky na supporte. Ak napisete email, ide to do nasej spolocnosti (neverejnej) do projektu, ktory sa venuje supportu a odkial Vam potom odpisujeme. Ak by ste teda chceli mat k dispoziici support medzi svojimi projektmi, museli by sme Vas pozvat do spolocnosti a pridat do projektu. Toto automaticky nerobime pre vsetkych uzivatelov ALITEO - znamenalo by to totiz ze kazdy uzivatel ALITEO by bol clenom nasej spolocnosti, co by bolo koniec koncov znacne zatazujuce. ALE, ak sa uzivatel  rozhodne zakupit si nejaku licenciu a komunikacia s nim je bezproblemova, potom zvazujeme jeho pozvanie do spolocnosti a projektu - aby sme ulahcili jemu i nam spolocnu komunikaciu."
+    },
+    {
+      "creator": null,
+      "comment": "Super, vďaka za info. Mne stačí zatiaľ tá funkcionalita (view) v dolnej časti portálu, nakoľko to splňuje moju požiadavku aby som si vedel pozrieť svoje založené tikety, a nemusel som dohladávať status konkrétnej úlohy cez e-mailého klient, čiže takto mi úplne stačí. Ak by sme sa do budúcna rozhodli začať ako spoločnosť používať ALITEO, bolo by pre mňa fajn mať prístup do projektu Support, len z toho titulu aby som si vedel vytvoriť dashboard kde vidím, všetky moje tikety naprieč všetkými spoločnosťami a projektami. Plus aj so Sangom by som mal rád 2 stupňový servis desk, že ľudia nahlásia tikety k nám, na Key Userov a ak danú úlohu nebudeme vedieť riešiť, eskalujeme ju do spoločnosti KARAT, aby sme šetrili zdroje na oboch stranách a prebiehal aj určitý transfer vedomostí. Takže môžeme tento tiket zatvoriť, vďaka za vysvetlenie a pekný víkend prajem."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "a07no3srsg1kv7",
+  "created": "2025-08-07T08:39:27.938Z",
+  "closed": "2025-08-09T12:37:24.692Z",
+  "duration_minutes": 3117,
+  "first_response_minutes": 116,
+  "name": "ALITEO automat změnil etapu úkolu na Zadáno (Open)",
+  "description": "Dobrý den,\r\n\r\nMůj dotaz se týká ticketu #326 Změna intervalu tlakových zkoušek nadzemních zásobníků< >.\r\nV aktivitách vidím, že jsem jako řešitel požádal 27. 6. 2025 * 16:25 o uzavření.\r\nKolega Dvořák 27. 6. 2025 * 16:56 uzavření potvrdil a jako poslední vidím 15. 7. 2025 * 14:18 ALITEO automat změnil etapu úkolu na Zadáno (Open)\r\n\r\nChci se zeptat na základě čeho došlo k opětovnému otevření ticketu. Jde mi o to, aby se to nedělo ve více případech.\r\n\r\nDěkuji,\r\nPetr Macek | IT Manager\r\nT: +420 226 227 140 | M: +420 606 617 062 | petr.macek@primagas.cz\r\nPRIMAGAS s.r.o. | Na Pankráci 30 | 140 00   Praha 4 | Czech Republic\r\nwww.primagas.cz< > | www.facebook.com/PrimagasCZ< > | ZELENÁ LINKA: 800 736 736\r\nPlynová láhev do 3 hodin od objednávky u vás. Nyní v Praze a v Brně. To je Primagas-express.cz< >\r\n[X]< >\r\n\r\nObsah tohoto e-mailu a jakékoli soubory k němu přiložené jsou důvěrné, určené pro výhradní využití jednotlivcem, nebo společností, kterým byl adresován a mohou být právně privilegované za účelem zachování diskrétnosti společnosti Primagas s.r.o.. Jestliže nejste adresát tohoto e-mailu a obdržel jste ho omylem, prosím vymažte tento e-mail a okamžitě upozorněte jeho odesílatele. Tento e-mail byl zkontrolován na přítomnost počítačových virů, ale může být stále infikován. Prosím, otestujte ho na přítomnost virů před jeho použitím. The contents of this e-mail and any attached files are confidential, intended for the sole use of the individual or entity to whom addressed and may be legally privileged to Primagas s.r.o. to maintain its confidentiality. If you are not the addressee, and received this transmission in error please delete this e-mail and notify its sender immediately. This e-mail message has been checked for computer viruses but it could still be infected. Please test it for viruses before use.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, medzitym som to hodil na kolegov a mam informaciu, ze asi mate povolenu moznost na pracovnom priestore \"Externý užívateľ môže znovuotvoriť úlohu\". Takze je to viac menej spravne, akurat opravime chybu, ze autor aktivity ma byt konkretny pouzivatel a nie \"automat\" - toto opravime."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, Přišel mi email ALITEO - #7620 - žádost o vyjádření  vlastníka_ ALITEO automat změnil etapu úkolu na Zadáno (Open).msg , že je požadováno vyjádření vlastníka, což budu já, ale proklikem Zobrazit úkol se dostanu na stránku , kde nevidím žádný váš komentář. Nemám se tedy k čemu vyjádřit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, je to moja chyba, nastavil som nespravne sukromie komentara (a email vobec nemal prist), posielam znova: \" medzitym som to hodil na kolegov a mam informaciu, ze asi mate povolenu moznost na pracovnom priestore \"Externý užívateľ môže znovuotvoriť úlohu\". Takze je to viac menej spravne, akurat opravime chybu, ze autor aktivity ma byt konkretny pouzivatel a nie \"automat\" - toto opravime.\""
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, je to moja chyba, nastavil som nespravne sukromie komentara (a email vobec nemal prist), posielam znova: \" medzitym som to hodil na kolegov a mam informaciu, ze asi mate povolenu moznost na pracovnom priestore \"Externý užívateľ môže znovuotvoriť úlohu\". Takze je to viac menej spravne, akurat opravime chybu, ze autor aktivity ma byt konkretny pouzivatel a nie \"automat\" - toto opravime.\""
+    },
+    {
+      "creator": null,
+      "comment": "OK, děkuji. Automat mi nedával smysl. Můžeme uzavřít."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a07q60o9sg18hb",
+  "created": "2025-08-26T06:28:06.974Z",
+  "closed": "2025-08-27T08:20:29.693Z",
+  "duration_minutes": 1552,
+  "first_response_minutes": 16,
+  "name": "merge / split tasks",
+  "description": "Dobrý deň,\r\n\r\nRáno som skúšal funkciu merge task do parent task-u a zistil som, že na pôvodnom tasku mi zmenilo status na canceled.\r\n\r\nDajú sa nejako tieto tasks znova splitnúť a zmeniť im status ?\r\n\r\n\r\n\r\nTomáš Polák\r\nProject Leader\r\n\r\n[Image001]\r\n\r\n3EC International a.s.\r\nRužová 605/2\r\n920 42 Červeník\r\nSlovenská republika\r\n\r\nMob.:   +421 (0)917 909 353\r\n\r\nwww.3ec.sk< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravím vás, funkcia Zlúčiť (Merge) bola navrhnutá pre prípady, keď spájate dve alebo viac úloh, ktoré sa týkajú toho istého problému. V takom prípade dochádza k tomu, že komunikácia (napr. z pôvodného tasku založeného emailom) sa prenesie do cieľového tasku, do ktorého zlučujete. (hlavne použitie ALITEO ako nástroja pre helpdesk) Po zlúčení následne dochádza k zrušeniu pôvodnej úlohy. Je to zámerne, aby nedochádzalo k duplikovaniu informácií, keďže niektoré dáta už boli prenesené do novej úlohy. Rovano ak niekto odpovedá na pôovodny task, systém tieto odpovede preposiela do nového tasku. Zlúčenie úloh je teda nevratná operácia, systém úlohu zruší a nie je možné ju obnoviť späť do pôvodného stavu."
+    },
+    {
+      "creator": null,
+      "comment": "Ajajaaj 🙂, ale podarilo sa mi ešte vymyslieť riešenie, že som daný tiket so statusom canceled skopíroval a vytvoril nový a prišiel som len o komentáre a pridal ho k parent tasku ako subtask. Keby sa dali kopírovať aj komentáre, tak by bol problém vyriešený, neuvažovali ste nad touto funkcionalitou, myslím že v niektorých service deskoch je táto možnosť v prípade kopírovania sa systém spýta, ktoré parametre tiketu sa prenášajú do nového tiketu, či len predmet alebo aj komentáre ..."
+    }
+  ]
+}

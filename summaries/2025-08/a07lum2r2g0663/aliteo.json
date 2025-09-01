@@ -1,0 +1,35 @@
+{
+  "id": "a07lum2r2g0663",
+  "created": "2025-07-24T10:05:38.615Z",
+  "closed": "2025-08-06T17:47:32.638Z",
+  "duration_minutes": 19181,
+  "first_response_minutes": 228,
+  "name": "Notifikácie",
+  "description": "Dobrý deň, Aj vzhľadom na zapnuté notifikácie, nám notifikácie v prehliadači nefungujú. Pripájam aj snímky obrazovky, čo ako mám nastavené. je tam potrebné ešte niečo nastaviť, alebo sa jedná o bug? Ďakujem S pozdravom / Best regards Marek Smolko",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, skuste mi napisat, aky mate prehliadac a ci dany prehliadac je vychodzi, pripadne ci pouzivate PWA verziu (nainstalovanu apku). Nastavenia potom mozu byt v nastaveni prehliadaca alebo v nastaveni operacneho systemu (v mojom pripade pre PWA aplikaciu Windows: ) Takisto niektore prehliadace sa mozu uspavat a  nastavenie pre beh na pozadi je napriklad v chrome:"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý deň, \r\nJedná sa o prehliadač Brave, ktorý je nastavený ako predvolený. A taktiež\r\nnefungujú oznámenia ani v prípade PWA aplikácie. \r\n\r\n \r\n\r\nS pozdravom / Best regards\r\n\r\n\r\n\r\nMarek Smolko \r\n\r\n\r\n < > smolko@ekofence.sk\r\n+421 908 836 583 \r\n\r\n\r\nEKOfence \r\n\r\n\r\nVajanského 73\r\n080 01 Prešov, Slovakia \r\n\r\n\r\n < > www.ekofence.sk \r\n < > fb |\r\n< > Ig |\r\n< > pin |\r\n< > yt"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím, posielam Vám odpoveď od nášo vývojára. V prohlížeči Brave lze zakázat používat pro oznámení služby Google - které my ale k rozesílání notifikací používáme. Toto nastavení lze vyhledat následujícím způsobem v nastavení Brave, viz obrázek : 1. Vyhledat Google 2. Najít Použít pro oznámení služby Google 3. Povolit (pokud se zobrazí volba restartovat prohlížeč, tak restartovat) Ak bola PWA vytvorená z tohto prehliadaca potom to nefunguje z rovnakeho dovodu pre PWA."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a07or14gig0a9d",
+  "created": "2025-08-15T20:02:41.659Z",
+  "closed": "2025-08-18T20:49:31.139Z",
+  "duration_minutes": 4366,
+  "first_response_minutes": 3901,
+  "name": "AI - nemá k dispozici číslo komentáře, zasekne se a nejde editovat",
+  "description": "Po rozhovoru s AI se mi stanou 3 věci, které mi dělají problém. 1. Zamyslí se a už mi nedá výsledek. Dnes např na třetí otázku, kde jsem se ptal na číslo komentáře, kde je to uvedeno. 2. Zeptal jsem se na číslo komentáře, kde to je uvedeno a odpověď je, že nemá čísla. = prosím přidat do zdrojů AI číslo komentáře a to tak, abych na to ideálně mohl kliknout a nemusel rolovat v desítkách/stovkach komentářů. 3. Spletu se a potřebuji dotaz opravit (překlep co změní význam nebo zjistím že tudy cesta nevede).",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "1. Stava sa to, nakolko mame obmedzenu prevadzku. Potrebujeme pre nich vyplnit jeden dotaznik, aby nam zrusili obmedzenia. V pripade, ze ju viaceri uzivatelia zahltia, dopadne to tak ako pises. Odstrani sa to ked akceptuju nasu ziadost. 2. Nova verzia bude mat k dispozicii vsetky data z ulohy aj cisla uloh a podobne. Cakame na AKO ked sa vrati z dovolenky, aby sa to cele mohlo pohnut. 3. Co brani tomu, aby si tu otazku polozil znova? Preco editovat?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ad1 ok Ad2 ok Ad3 - takže je lepší místo editace a změna písmene (čísla) napsat: Ne - to tak nechci já jsem se spletl a teď to udělej pro xxx. mě se vyplatilo už několikrát vrátit se zpátky a opravit si to než se bavit v dalších X dialozích, co má být jinak. Ale ok, nechme to tak, uvidíme až co ostatní. ono když to nejde zkopírovat co jsem napsal a začít znovu, tak to taky právě není cesta"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ide len o to, ze momentalne to nie je napisane tak, aby zmena konemtara odoslala nov dotaz na AI a zmazala predchadzajuci kontext, spolu s povodnou dpovedou, tak ako to standardne funguje. Preto som sa pytal, ci tam je nejaky problem v tom, aby ked to bude mozne kopirovat, tak sa to len skopiruje a upravi co potrebujes a odosle nanovo. Do buducna, by som bol urcite rad, aby to islo editovat ako pises, ale nateraz je pre mna dolezitejsie dotiahnut skor tie strategickejsie funkcnosti k AI a  tento tuning robit uz potom."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok rozumím, tak klidně můžeme uzavřít, já jsem se chtěl zeptat, ale narazil jsem, že jsem se nedostal dále, protože to ztuhlo, ale jestli to bude vyřešeno tak ok."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a07q27gbtg0ang",
+  "created": "2025-08-25T08:23:45.872Z",
+  "closed": "2025-08-25T09:27:25.742Z",
+  "duration_minutes": 63,
+  "first_response_minutes": 4,
+  "name": "new section in workspace",
+  "description": "Dobrý deň,\r\n\r\nV rámci projektu 3EC Service Desk< > a workspace KARAT Project som si vytvoril new section 3rd Party response\r\n[Image001]\r\n\r\nAle v samotnom projekte ešte túto sekciu nevidím. Je to z dôvodu, že system potrebuje určitý čas na načítanie, alebo som ešte zabudol niečo nastaviť ?\r\n\r\n[Image002]\r\n\r\nĎakujem za odpoveď\r\n\r\nTomáš Polák\r\nProject Leader\r\n\r\n[Image003]\r\n\r\n3EC International a.s.\r\nRužová 605/2\r\n920 42 Červeník\r\nSlovenská republika\r\n\r\nMob.:   +421 (0)917 909 353\r\n\r\nwww.3ec.sk< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dobrý deň p. Polák, systém funguje tak, že ak si nastavíte sekcie v rámci pracovného priestoru, všetky projekty, ktoré vzniknú až po vytvorení týchto sekcií, si ich automaticky natiahnu ako predvolené (defaultné). Táto logika sa však nevzťahuje na už existujúce projekty,  tie si sekcie neprenesú spätne. Ide o zámerné správanie systému, aby sa následným doplnením sekcií do priestoru neprepísali existujúce a často odlišne nastavené sekcie v starších projektoch. Vo vašom prípade preto odporúčame modifikovať sekcie priamo v konkrétnych, už vytvorených projektoch podľa potreby."
+    },
+    {
+      "creator": null,
+      "comment": "Ak tomu správne rozumiem, tak v existujúcich projektoch už nemôžem vytvárať nové sekcie (čo sa počtu týka), ale môžem meniť názov už existujúcich, tak ? Čiže riešenie je, premenovať niektorú z existujúcich sekcií, správne tomu rozumiem ?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "ďakujem za doplňujúcu otázku. Nie, nie je to tak, do už existujúcich projektov môžete kedykoľvek samostatne (autonómne) doplniť ľubovoľný počet nových sekcií(skr z nastavenia konkrétneho porjektu). V tomto smere vás systém nijako neobmedzuje. Čo však nefunguje spätne, je situácia, keď dodatočne pridáte nové sekcie na úrovni pracovného priestoru,   tie sa automaticky natiahnu iba do novovytvorených projektov, nie do už existujúcich. Sú to teda dve rozdielne cesty: Globálne sekcie v pracovnom priestore → ovplyvnia iba nové projekty. Sekcie priamo v projekte → môžete upravovať, dopĺňať a meniť kedykoľvek nezávisle. Ak budete potrebovať s niečím poradiť pri nastavovaní, sme k dispozícii."
+    },
+    {
+      "creator": null,
+      "comment": "Vyriešené, ďakujem."
+    }
+  ]
+}

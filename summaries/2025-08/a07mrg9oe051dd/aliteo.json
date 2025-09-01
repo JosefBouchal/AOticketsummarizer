@@ -1,0 +1,35 @@
+{
+  "id": "a07mrg9oe051dd",
+  "created": "2025-07-31T09:58:42.203Z",
+  "closed": "2025-08-11T07:31:30.312Z",
+  "duration_minutes": 15692,
+  "first_response_minutes": 1237,
+  "name": "Pozadavek na zmenu",
+  "description": "Bylo by mozne v nastaveni nastavit, aby v upozorneni byl pouze radek s ukolem?\r\nTzn. Vse by fungovalo jako doposud. Dle nastaveni se stane, ze v upozorneni se objevi úkol, vcetne te konkretni akce, která to upozorneni zpusobila.\r\nAle me by se libilo, kdyby tam byl jen ten úkol a nikoli ty samotne akce. Na ty uz se podivam nasledne.\r\nAktualne mi proste vadi, ze v upozorneni, které vyuzivam naprosto primarne pro spravu ukolu mam hrozne moc zbytecnosti.\r\n\r\nNebo, pokud není mozne toto reseni, tak aspoň umožnit, aby ty akce byly nejak zbalene, abych opet videl jen ty ukoly. Nikoli ty akce.\r\n\r\nBavime se o novych upozornenich. Tedy v podstate mit moznost zobrazeni stejne, jako u starsich upozorneni, ale s tim, ze budou porad barevne zvyraznene.\r\n\r\nDiky\r\nZdrazil",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, preberiem to s produktovym timom a budeme Vas informovat."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Vysledok dungovania je vysledkom dlhych diskusii a optimalizacii s uzivatelmi. Momentlane nemame reklamacie na fungovnaie. V pripade, ze sa budu mnozit budeme zvatovat, na teraz nechceme menit funkcnost, nakolko by to mohlo poskodit uzivatelov ktory su ok, s tmy kao to funguje."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, Po konzultacii s produktovym timom sme dospeli k zaveru ze aktualne fungovanie upozorneni je vysledkom dlhych diskusii a optimalizacii s pouzivatelmi. V sucasnosti nemame dalsie reklamacie na tuto funkcionalitu. Ak by sa podobne podnety zacali mnozit budeme situaciu znovu zvazovat. Zatial nechceme menit sucasny system aby sme neovplyvnili pouzivatelov ktori su s nim spokojni. Dakujeme za podnet."
+    }
+  ]
+}

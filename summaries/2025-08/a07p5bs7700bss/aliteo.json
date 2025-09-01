@@ -1,0 +1,59 @@
+{
+  "id": "a07p5bs7700bss",
+  "created": "2025-08-18T08:15:15.989Z",
+  "closed": "2025-08-19T13:27:01.988Z",
+  "duration_minutes": 1751,
+  "first_response_minutes": 42,
+  "name": "právo na notifikovaný případ",
+  "description": "V Notifikaci vidím odkaz na https://app.aliteo.com/team/a01o9qlue005vb/?view=reaction ale nemám na něj právo.\r\n\r\nProč jsem měl právo a už nemám. Kde nastavím, že chci být automaticky přidán do sledujících v době, kdy právo mám?\r\nProč je tam odkaz, když systém ví, že právo nemám?\r\nJde nějak vypnout notifikace k věcem, které nevidím?",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 5,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahoj, Pavel. Funguje to tak, že ak si členom tímu a úloha je v stave Čaká na reakciu tímu, automaticky k nej máš prístup, ale nie z povahy sedujucich ale z povahy stavu danejnulohy. Keď však úloha z tohto stavu vypadne (napr. ju niekto z tímu ukončí na reakciu), oprávnenie strácaš. Je to vlastnosť logiky stavu, nie niečo, na čo by sa dali nastaviť notifikácie. Notifikácia o ukončení stavu sa ti vygenerovala ako posledná informácia, že úloha už nečaká na reakciu tvojho tímu. Áno, môže byť diskusia, či sa má alebo nemá posielať, ale momentálne sa generuje práve preto, aby si mal prehľad, že úloha zmizla z reakcie tímu."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Dík, byly tam 3 dotazy: 1) Proč jsem měl právo a už nemám. Kde nastavím, že chci být automaticky přidán do sledujících v době, kdy právo mám? 2) Proč je tam odkaz, když systém ví, že právo nemám? 3) Jde nějak vypnout notifikace k věcem, které nevidím? Na který jsi odpověděl?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Koukám do nastavení a na to 1) jsem asi měl mít zatržené (nyní jsem si zapnul). Je to tak? To 2) je o tom, že ta notifikace už neměla mít ten odkaz, když systém ví, že pro mě nikam nevede. Nebo ne? To 3) asi nebude pro mě problém, pokud 1) bude fungovat."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "1. Nastavenie, ktoré ukazuješ, je o tom, že ak si súčasťou „riešiteľskej skupiny“, automaticky sa ti zapnú podrobné notifikácie. Nemá to však žiadny súvis s tým, čo sa stalo tebe. Ty si bol súčasťou tímu, ktorý mal daný úkol na reakciu. Ako člen tímu si teda získal oprávnenie vidieť daný úkol práve z titulu toho, že tvoj tím sa k nemu mal vyjadriť. 2. Odkaz v notifikácii sa generuje preto, že v momente jej odoslania si ešte právo mal. Akonáhle úloha z reakcie tímu vypadne, právo zanikne, ale notifikácia s odkazom ostáva ako informácia. To, že tam máš odkaz, je výsledok logiky, ktorú má ALITEO pri notifikáciách. Chápem, že ti prekáža, keď tam vidíš odkaz na úlohu, ku ktorej už nemáš prístup. Momentálne to však neplánujeme meniť. Pri ďalšom reworku notifikácií to ale môže byť téma – napríklad ako dopracovať žiadosť o prístup k danej úlohe. 3. Notifikácie sa generujú len k objektom, ku ktorým máš v čase ich vytvorenia právo."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "ad 1. Já bych ideálně nechtěl ztrácet oprávnění. Takže by se hodil mi přepínač, že chci být přidán do sledujících, jakmile ztrácím. ad 2. Čekal jsem, že to, jak se mi notifikace zobrazí, je věc zobrazení notifikace. Tedy i zobrazení bez odkazu je věc zobrazení. ad 3. Jasný. No nic, jak dál? Má smysl z toho formulovat nějaké zadání?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "(AI radí: )"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Myslím si, že by mohlo dávať zmysel, aby používateľovi, ktorý bol členom tímu a úloha bola raz pridelená na vyjadrenie daného tímu, zostalo oprávnenie k úlohe aj po zániku stavu. Čo na to hovoríš? Vyriešilo by to oba problémy naraz a vyžadovalo by to len minimum programátorských zásahov, čo sa Allanovi bude páčiť 😀"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Tak zkus to, když se to nepotká s pochopením, tak asi jen uzavřít. Můžu asi také bojovat, abych měl přístup i tam, kam se to přesunulo (což se z notifikace ani nikde nedovím, ale nějak se k tomu snad dopracuju). Dík."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Hodil som na poradu, myslim, ze to nebude problem 🙂 Toto uzatvorim a nasledne hodim do vyvoja, ak suhlasis."
+    }
+  ]
+}

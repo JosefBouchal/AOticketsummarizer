@@ -1,0 +1,39 @@
+{
+  "id": "a07mn6i1h00412",
+  "created": "2025-07-30T08:54:12.187Z",
+  "closed": "2025-08-01T21:57:10.502Z",
+  "duration_minutes": 3662,
+  "first_response_minutes": 522,
+  "name": "změna hesla",
+  "description": "nedaříse mi změnit heslo k účtu aliteo.\n\n1.)At. už kdy, jsem přihlášen, nebo přes změnit heslo.\n2.) Přijde mi ověřovací kod\n3.) Následně se email michal.pribyl86@gmail.com ověří. viz screen\n4.) V dalším kroku již dostanu že se uživatele nepodařilo najít\n\ndíky za prověření",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nie je to pripad, kedy ste sa registrovali cez google ucet a teda sa nim aj prihlasujete? Tym padom ten ucet nefunguje ako klasicky ucet."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Jo díky, asi to bude tím, napadlo mě to. Ale nepamatoval jsem si to."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, je to teda vyriesene alebo je treba nieco?"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Klidně zavřete\r\ndíky"
+    }
+  ]
+}

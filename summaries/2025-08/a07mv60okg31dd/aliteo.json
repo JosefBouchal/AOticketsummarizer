@@ -1,0 +1,43 @@
+{
+  "id": "a07mv60okg31dd",
+  "created": "2025-08-01T07:24:30.491Z",
+  "closed": "2025-08-02T19:19:47.266Z",
+  "duration_minutes": 2155,
+  "first_response_minutes": 259,
+  "name": "FW: Error processing incomming email",
+  "description": "Dobrý den,\r\n\r\nmám dotaz.\r\n\r\nZkusila jsem založit kolegu - Dominik Vondrák, který Aliteo nepotřebuje, jen zasílá požadavky na objednání ho založit jako externího uživatele, aby měl lepší přehled o stavu daných úkolů.\r\n\r\n[Image001]\r\n\r\nBohužel od té doby, když pošle email na pozadavky@prim.cz< > mu přijde Error processing incomming email\r\n\r\nPředem děkuji za prověření.\r\n\r\nZaslaný email a níže error\r\n\r\n________________________________\r\nFrom: Vondrák Dominik\r\nSent: Friday, August 1, 2025 9:13:40 AM\r\nTo: DG.ELH.ALI.Pozadavky <pozadavky@prim.cz< >>\r\nSubject: Test\r\n\r\nTest\r\n\r\n\r\n\r\nS pozdravem a přáním pěkného dne\r\nIlona Remešová\r\nNákupní manažerka\r\n\r\nM: (+420) 730 855 366| E: ilona.remesova@prim.cz< >\r\n\r\nFrom: Vondrák Dominik <dominik.vondrak@prim.cz>\r\nSent: Friday, August 1, 2025 9:16 AM\r\nTo: Remešová Ilona <Ilona.Remesova@prim.cz>\r\nSubject: Fw: Error processing incomming email\r\n\r\n\r\n\r\n________________________________\r\nFrom: emailerror@aliteo.com< > <emailerror@aliteo.com< >>\r\nSent: Friday, August 1, 2025 9:14:04 AM\r\nTo: Vondrák Dominik <dominik.vondrak@prim.cz< >>\r\nSubject: Error processing incomming email\r\n\r\n\r\n Pozor! Tento e-mail přišel z externí organizace.\r\n\r\n\r\nCannot create task for project a06ihih4h01baa - owner dominik.vondrak@prim.cz< > cannot be owner for such task.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim Vas, uplne si nie som isty jeho rolou a procesom, ale skus pozriet ci je clenom projektu."
+    },
+    {
+      "creator": null,
+      "comment": "To že je kolega založen jako externí uživatel , přece nemůže mít vliv, že když pošle z pracovního emailu, zprávu na email pozadavky@prim.cz, tak mu přijde error zpráva. To je ta chyba."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No funguje to nasledovne: - ak osoba nie je zalozena v ALITEO a teda je pre nu ako anonymny email, potom to takto funguje - ak je ale osoba v ALITEO registrovana a je clenom projektu, potom sa chova proces inak - lebo ho uz ALITEO registruje ako externeho a externy pravdepodobne nemoze zalozit ulohu do projektu bez toho aby bol jeho clen Ta error sprava je preto ze asi nie je clenom projektu. Skuste prosim overit ci je moj dohad spravny."
+    },
+    {
+      "creator": null,
+      "comment": "Potvrzuji, že Váš předpoklad je správný, vyzkoušela jsem si na své soukromé adrese, kterou mám jako externí. Pokud jsem nebyla členem projektu - přišla error zpráva. Když jsem se přidala jako člen projektu, úkol se založil. Děkuji za upřesnění. Nenapadlo mě, že posílání mailů je takto omezené u externích uživatelů, protože u interních členů je zasílání mailů možné i když nejsou členem projektu. Je možné uzavřít - moc děkuji za pomoc."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za potvrdenie, ulohu navrhujem k uzatvoreniu."
+    }
+  ]
+}

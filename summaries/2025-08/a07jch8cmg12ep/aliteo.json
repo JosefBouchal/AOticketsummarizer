@@ -1,0 +1,95 @@
+{
+  "id": "a07jch8cmg12ep",
+  "created": "2025-07-04T11:31:50.855Z",
+  "closed": "2025-08-12T09:01:23.952Z",
+  "duration_minutes": 56009,
+  "first_response_minutes": 4020,
+  "name": "Mobilní aplikace nejde zvětšit prilohu",
+  "description": "V prohlížeči si zobrazím přílohu v náhledu a 2prsty je zvětším - OK. Na mobilní aplikaci jednak nemohu zvětšit překlopením na šířku - asi vlastnost. - ale nejde ani roztáhnout 2 prsty -> pak je to ale na telefonu necitelné=nepouzitelne. Prosím umožnit zvětšit. Taky jsem si všiml, ze někdy se otevře zvětšená příloha - je to vidět, ale nedá se rolovat a tak vidím jen část obrazku - chyba? - někdy se to zobrazí se šipkami pro posun, ale pak je to malé. Nevím dle čeho se to tak chová. Jediné když na to 2x kliknu? Jinak nevím, je to matoucí. Na telefonu bych preferoval ať ke to vidět cele a mohu zvětšit a přes šipky poskakovat. Zmíněné situace v příloze.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 18,
+    "from_owner": 7,
+    "from_others": 11,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, preposlem na vyvojm trochu sa obavam ze ked je to v pwa ze to budeme musiet inak optimalizovat.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "já to reklamuji v mobilní aplikaci (dostal jsem přístup přes testflight od Davida) - tam je to nepoužitelné, protože to nejde zvětšit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "tak pockaj a v normalnej PWA ktoru si stiahnes ako prehliadac ten problem nemas?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "aha, ano tak tam (na PWA) je taky problém (zkoušeno nyní na betě) = nejde to zvětšit"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) prosim o vyskusanie, implementovali sme zoom prstami a takisto pan jednom prstom v nahlade.. mozes pozriet?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "super, funguje. Jen jsem to nyní zkoušel na případu, kde mi někdo fotil něco na šířku - tak jak je monitor - no a na telefonu, kde je to fixnuté na výšku a nejde to změnit (prohlížeč jde) tak to jde zvětšit, ale je z toho nudle. Zkuste se zamyslet nad tím, jestli neumožnit v aplikaci \"otočit\" přílohy. Ale dá se to zvětšit/zmenšit a posouvat, takže to nehoří."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Posli obrazok sem,  nech vidime realne kde vidis chybu.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Vkládám: Nejdříve jak to vidím. Pak jak to zvětším. Nepomůže otočit telefon na sirku, nepřevrátí se to."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja som myslel že mi sem vložíš ten obrázok aby som si to sám skúsil"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "případ: #316359 Hromadná fakturace + prodej za období - dal jsem tě do sledujících. a dal jsem to i do příloh."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "takze nie je problem v tom ze by si nieco nevidel, len ze by si po otoceni videl viac?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano přesně - jak jsem psal, dá se to posouvat - není to problém, ale není to moc ergonomické. To otočení by pomohlo."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zistenie: - PWA instalovana z webu sa otaca - nejde zakaz (v iOS) - apka instalovana zo storu nejde otacat (je to zakazane) - v android ide zakazat otacanie vsade"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: 1. PWA instalovana z webu (alebo samostatny web) sa otaca pretože nejde zakazať (v iOS) 2.PWA instalovana z webu(alebo samostatny web) do Android zariadenia otacat nepôjde. 3. apka instalovana zo storu Apple/Android do telefonu otacat nepôjde. 4.apka instalovana zo storu Apple/Android (alebo samostatny web) do tabletu otacat pôjde. * otacanie umoznujeme na zaklade velkosti obrazovky zariadenia."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) prechadzal som support a narazil som na tento komentar - nemali sme to dat vediet Davidovi alebo z toho urobit nejaky dalsi krok?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zalozena uloha na davida vo vazbe."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) mame to nejako sprocesovane a bude to riesene tak ako pise Petr v komentaroch vyssie. Chces k tomu nieco dodat alebo mozeme uzatvorit?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "uzavřeme."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a07oglg2hg1m78",
+  "created": "2025-08-13T07:40:18.912Z",
+  "closed": "2025-08-13T08:01:21.958Z",
+  "duration_minutes": 21,
+  "first_response_minutes": 4,
+  "name": "scanovanie do zložky",
+  "description": "Dobrý deň,\r\n\r\nZmenili sme multifunkčné zariadenie a potreboval by som nastaviť možnosť skenovať do súboru (do zložky SCAN (S) so zariadenia MF542 prípadne z OKI (ale tú sa Vám posledne nepodarilo rozbehnúť, kvoli tomu administrátorskému heslu)\r\n\r\nVďaka\r\n\r\nTomáš Polák\r\nProject Leader\r\n\r\n[Image001]\r\n\r\n3EC International a.s.\r\nRužová 605/2\r\n920 42 Červeník\r\nSlovenská republika\r\n\r\nMob.:   +421 (0)917 909 353\r\n\r\nwww.3ec.sk< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 2,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, je to urcite pripad na ALITEO support? Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Pozdravujem 🙂)) teraz pozerám, že som to dal na Aliteo miesto dalšieho servicedesku, našej externej IT spoločnosti. Prepáčte, spravil som chybu 🙂"
+    },
+    {
+      "creator": null,
+      "comment": "inak aj toto je dobrý námet, čo som riešil aj v minulosti na projektoch, aby sme ako firma mali jeden service desk a z neho sa zrkadlil tikety do iných aplikácií externých firiem. Jira to mala ale chcela za to šialené peniaze, 6000 eur stáli apky ako backbone, alebo tak nejak sa to volalo, pri Aliteu je to ako ? Viem že sme sa bavili o tom, že ak má napr. Sango Aliteo, tak viem tikety eskalovať a tým pádom sa to zrkadlí a máte tam API aj na iné systémy ? Úprimne ani neviem čo naši externisti používajú, nechcú ma k tomu pustiť ale námet do budúcna resp. prečo použiť do budúcna práve ALITEO by to bolo fajn."
+    }
+  ]
+}

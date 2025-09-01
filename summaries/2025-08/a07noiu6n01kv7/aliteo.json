@@ -1,0 +1,51 @@
+{
+  "id": "a07noiu6n01kv7",
+  "created": "2025-08-07T11:23:45.748Z",
+  "closed": "2025-08-17T05:19:24.210Z",
+  "duration_minutes": 14035,
+  "first_response_minutes": 15,
+  "name": "Duplicitní zakládání komentářů",
+  "description": "Dobrý den,\r\n\r\nkdyž vezmu můj interní komentář v Aliteu -> přes tři tečky dám upravit komentář -> změním úroveň soukromí na \"Soukromé\" -> původní interní komentář se zarchivuje (za mě v pořádku), ale nově se vytvoří dva duplicitní soukromé komentáře (což je za mě chyba).\r\nProsím o prověření.\r\n\r\nDěkuji.\r\n\r\n\r\nJiří Šiška\r\nprogrammer\r\n\r\ntel.: +420 581 737 111 | jiri.siska@karatsoftware.cz< >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< > Facebook< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < >  LinkedIn< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < >  YouTube< >\r\n\r\n[ http://www.karatsoftware.cz/ ]< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, chapem, mozete mi prosim povedat ci to po f5 zmizne? realne teda vznikne komentar jeden ale zobrazi sa dvakrat - sudim podla toho ze obe maju rovnake ID komentara.."
+    },
+    {
+      "creator": null,
+      "comment": "Nerozumím k čemu se mám vyjádřit."
+    },
+    {
+      "creator": null,
+      "comment": ""
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ospravelnujem sa, nezvolil som spravne sukromie komentara, ktora nevidi a prislo Vam len upozornenie ze sa na Vas caka - preto ho prikladam znova: \"Zdravim, chapem, mozete mi prosim povedat ci to po f5 zmizne? realne teda vznikne komentar jeden ale zobrazi sa dvakrat - sudim podla toho ze obe maju rovnake ID komentara..\""
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, ano po občerstvení stránky jeden z duplicitních komentářů zmizí."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, tuto chybu sme detekovali a pracujeme na jej vyrieseni.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dany problem bol opraveny.."
+    }
+  ]
+}

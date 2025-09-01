@@ -1,0 +1,79 @@
+{
+  "id": "a07mmo6sf01v3k",
+  "created": "2025-07-30T06:17:28.620Z",
+  "closed": "2025-08-06T19:33:17.041Z",
+  "duration_minutes": 10875,
+  "first_response_minutes": 46,
+  "name": "Api - založení nových externích uživatelů",
+  "description": "Dobrý den, chceme interně zakládat zaměstnace jako externí uživatele ( davájí poaždavky na interní podpory).\nchceme to dělat automaticky přes Api. Jsem toho schopný?\n\nZkoušel jsem: curl -X POST \"https://api.aliteo.com/users/add\"; -H  \"accept: application/json\" -H  \"ApiKey: 9bdaaa37-e8aa-4777-9326-2283faa24da0\" -H  \"Content-Type: application/json\" -d \"{\\\"version\\\":2,\\\"company\\\":\\\"a0459pp59003k3\\\",\\\"usercompany\\\":\\\"a0459pp59003k3\\\",\\\"email\\\":\\\"louzenskal@gmail.com\\\",\\\"emailtoinvite\\\":\\\"louzenskal@gmail.com\\\",\\\"sendinvitation\\\":true,\\\"membertype\\\":\\\"External\\\",\\\"licensedinternal\\\":null,\\\"prefname\\\":null,\\\"prefemail\\\":null,\\\"prefcompany\\\":null,\\\"prefposition\\\":null,\\\"prefmobile\\\":null,\\\"admin\\\":null,\\\"supervisor\\\":null,\\\"addprojects\\\":null,\\\"addteams\\\":null,\\\"addpfs\\\":null,\\\"timesheets\\\":null}\" ale mám odpoveď { \"version\": 2, \"versionRequired\": 2, \"iserror\": true, \"error\": \"Data parameter usercompany a0459pp59003k3 not found as member of company a0459pp59003k3\", \"isrepeatable\": false } Dokáži to přes tento endpoint ? Nebo je tam nějaký jiný ? děkuji za pomoc Michal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 14,
+    "from_owner": 5,
+    "from_others": 9,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) mohol by si prosim p Pribylovi odpovedat ? som u zakaznika.. ak nemas cas, tak to nechaj odpoviem podvecer.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Jako parametr usercompany je tam stejné ID jako je ID společnosti, což je špatně. Tam je třeba dát ID uživatele společnosti, který změnu provádí - v tomto případě ID administrátora společnosti. Mimochodem ty null hodnoty tam vůbec nemusí bát."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Dobrý den, nevidím reakci, tedy dávám zpět"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Jako parametr usercompany je tam stejné ID jako je ID společnosti, což je špatně. Tam je třeba dát ID uživatele společnosti, který změnu provádí - v tomto případě ID administrátora společnosti. Mimochodem ty null hodnoty tam vůbec nemusí bát."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "dobrý den,\nděkuji za zprávu.\n\nTam je třeba dát ID uživatele společnosti, který změnu provádí - v tomto případě ID administrátora společnosti\n\nprosím, co je myšleno ID uživatele, která konkrétní hodnota to je ? \n\nděkuji\n\nMichal"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dobrý den, vidím že usercompany nemusíte plnit, použije se Api uživatel, v podstatě stačí company a emailtoinvite + co potřebujete."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Posielam odpoved na vas posledny komentar: \"Dobrý den, vidím že usercompany nemusíte plnit, použije se Api uživatel, v podstatě stačí company a emailtoinvite + co potřebujete.\""
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Díky,  posunul jsem se ,ale vratím se k mé otázce na začátku.\n\npřes jaký endpoint mám uživatele založit? Protože endpoint  \"/users/add\" má v popisku Allows to add a user into company\n\nViz chyba níže, dkyž se přes tento endpoint snažím uživatele založit.\n\nděkuji za pomoc { \"version\":2, \"company\": \"a0459pp59003k3\", \"email\": \"louzenskal@gmail.com\", \"emailtoinvite\": \"louzenskal@gmail.com\", \"sendinvitation\": true, \"membertype\": \"External\", } { \"version\": 2, \"versionRequired\": 2, \"iserror\": true, \"error\": \"Data parameter email louzenskal@gmail.com not found as member of company a0459pp59003k3\", \"isrepeatable\": false }"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Ani email neuvadejte. Jen emailtoinvite."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Odpoved od kolegu na Vas kod bola: \" Ani email neuvadejte. Jen emailtoinvite.\""
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Odpoved od kolegu na Vas kod bola: \" Ani email neuvadejte. Jen emailtoinvite.\""
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "díky snad se mi to podařilo provolat. Kdyžtak se ozvu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mozeme uzatvorit?"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Jojo v tuto chvíli ok.\r\ndíky zavřete"
+    }
+  ]
+}

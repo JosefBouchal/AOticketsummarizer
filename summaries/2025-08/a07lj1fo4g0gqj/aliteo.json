@@ -1,0 +1,67 @@
+{
+  "id": "a07lj1fo4g0gqj",
+  "created": "2025-07-21T14:15:53.696Z",
+  "closed": "2025-08-11T08:47:20.597Z",
+  "duration_minutes": 29911,
+  "first_response_minutes": 1377,
+  "name": "Export do JSON - končí jako PDF",
+  "description": "na iphone v aplikaci jsem udlěla export na případu do JSON a uložil mi to jako \"Prevent servis jako součást DC - hlavní požadavek.json.pdf\"\nTakže je z toho PDF co nejde otevřít.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 4,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, takže je problém to že tam nedáva správne príponu však? Ak príponu  zmažeš tak je všetko v poriadku?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "když smažu příponu, tak je za tím schovaný text - to ano. ale jestli to je správný JSON tak to nevím. Jako ano, vypadá to jako JSON, není to formátované ale co mi tam vadí, tak že místo diakritiky je tam nějaký text: očekávám: abychom to uvedli v život mám:            abychom to uvedli v \\u017Eivot viz níže {\"Url\":\" https://app.aliteo.com/task/a06adnnh9g0rh1/\",\"Name\":\"Prevent servis jako sou\\u010D\\u00E1st DC - hlavn\\u00ED po\\u017Eadavek\",\"CompanyName\":\"KARAT\",\"WorkspaceName\":\"Intern\\u00ED projekty\",\"ProjectName\":\"Inovace - Kaizen - SERVICE (S-KSW901  )\",\"SectionName\":\"Inovace - Kaizen - SERVICE (S-KSW901)\",\"Owner\":\"Herman Marcel\",\"NumberId\":299299,\"Comments\":[{\"InternalType\":\"internal\",\"Created\":\"2024-08-25T12:58:26.475\",\"Creator\":\"Drtil Pavel\",\"Content\":\"\\u003Cdiv\\u003EVkl\\u00E1d\\u00E1m si sem Petrovo zad\\u00E1n\\u00ED, abych to nemusel \\u010D\\u00EDst v nudli vlevo:\\u003Cb\\u003E\\u003Cbr\\u003E\\u003C/b\\u003E\\u003C/div\\u003E\\u003Cdiv\\u003E\\u003Cb\\u003E\\u003Cbr\\u003E\\u003C/b\\u003E\\u003C/div\\u003E\\u003Cdiv\\u003E\\u003Cb\\u003ECo je c\\u00EDlem Projektu:\\u003C/b\\u003E\\u003C/div\\u003E\\u003Cdiv\\u003EVytvo\\u0159it stabiln\\u00ED n\\u00E1stroj, kter\\u00FD zajist\\u00ED \\u003Cb\\u003Eautomatick\\u00E9 spou\\u0161t\\u011Bn\\u00ED VYBRAN\\u00DDCH kontrol \\u003C/b\\u003E(standardn\\u00EDch nebo firemn\\u011B napsan\\u00FDch nad firemn\\u00EDm \\u0159e\\u0161en\\u00EDm) u z\\u00E1kazn\\u00EDka \\u003Cb\\u003Ev definovan\\u00FD \\u010Das na z\\u00E1klad\\u011B zadan\\u00FDch parametr\\u016F \\u003C/b\\u003E(a\\u0165 dod\\u00E1van\\u00FDch standardem nebo pak firemn\\u011B nastaven\\u00FDch). \\u003Cb\\u003E\\u003Cbr\\u003E\\u003C/b\\u003E\\u003C/div\\u003E\\u003Cdiv\\u003E\\u003Cb\\u003EC\\u00EDlem nen\\u00ED p\\u0159epsat V\\u0161echny kontroly, ale jen vybran\\u00E9. \\u010Casem chceme p\\u0159id\\u00E1vat.\\u003Cbr\\u003E\\u003C/b\\u003E\\u003C/div\\u003E\\u003Cdiv\\u003E\\u003Cb\\u003E\\u003Cbr\\u003E\\u003C/b\\u003E\\u003C/div\\u003E\\u003Cdiv\\u003E\\u003Cb\\u003EO\\u010Dek\\u00E1v\\u00E1n\\u00ED od prvn\\u00ED sch\\u016Fzky:\\u003C/b\\u003E\\u003C/div\\u003E\\u003Cdiv\\u003ESpole\\u010Dn\\u011B najdeme \\u0159e\\u0161en\\u00ED jak pou\\u0161t\\u011Bt vybran\\u00E9 kontroly, jak a kam to zapisovat a n\\u00E1sledn\\u011B stahovat p\\u0159es servisn\\u00ED port do KSW.\\u003C/div\\u003E\\u003Cdiv\\u003ED\\u00E1le je pot\\u0159eba myslet na budouc\\u00ED \\u00FApravy standardu nebo p\\u0159id\\u00E1v\\u00E1n\\u00ED dal\\u0161\\u00EDch sklad\\u016F, druh\\u016F pl\\u00E1n\\u016F atd. tedy m\\u011Bnit konfiguraci pro ka\\u017Ed\\u00E9ho z\\u00E1kazn\\u00EDka ale um\\u011Bt distribuovat i standardn\\u00ED kontroly v\\u0161em.\\u003C/div\\u003E\\u003Cdiv\\u003EZjistit co v\\u0161e pot\\u0159ebujeme od standardu hodiny, des\\u00EDtky nebo stovky hodin spolupr\\u00E1ce, abychom to uvedli v \\u017Eivot.\\u003Cbr\\u003E\\u003C/div\\u003E\\u003Cdiv\\u003E\\u003Cb\\u003E\\u003Cbr\\u003E\\u003C/b\\u003E\\u003C/div\\u003E\\u003Cdiv\\u003E\\u003Cb\\u003ECo pot\\u0159ebujeme \\u0159e\\u0161it:\\u003C/b\\u003E\\u003C/div\\u003E\\u003Cdiv\\u003Evych\\u00E1z\\u00EDme ze st\\u00E1vaj\\u00EDc\\u00ED kontroly prevent servisu odbytu viz p\\u0159\\u00EDloha nebo \\u003Cb\\u003E\\u003Ca"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Jasné, Predám aj toto na vývoj"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ten návazný je už na patchování, tak přidávám sem, je možné zkusit po patchování a nebo prověřit rovnou. na konkrétním případu mi to padá na chybu z důvodu nějakého obrázku asi. Píše to pod F12 toto: Application ERROR: System.ApplicationException: ExportDataSource.GetImagesFromComment: bad id2 img_1737371836785 at Aliteo.QueryDownload.CheckBlob(QueryInfo qi, Cache cache, String info, String id1, String id2) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\QueryDownload.cs:line 91 at Aliteo.ExportDataSource.GetImagesFromHtml(Cache cache, String comment) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\Export\\ExportDataSource.cs:line 2640 at Aliteo.ExportDataSource.GetExportComment(CompTask compTask, TaskBasicInfo basicInfo, Cache cache, DataContext context, Boolean asExternal) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\Export\\ExportDataSource.cs:line 2050 at Aliteo.ExportDataSource.GetTaskRich(QueryInfo qi, CompTask compTask, ExportScope scope, Boolean asExternal) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\Export\\ExportDataSource.cs:line 62 at Aliteo.QueryExportTask.Export(QueryInfo qi, QueryExportTaskParams p) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\QueryExportTask.cs:line 60 at Aliteo.QueryExportTask.Export(QueryInfo qi, String xparams) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\QueryExportTask.cs:line 29 at Aliteo.Queries.Execute(Cache cache, CompUser compUser, String applicationId, NameValueCollection query, String timeZone, String userAgent, String requestData, String addactivity, Int32 cacheId, Int32 requestId, Boolean behalf, String authEmail, String authName, String authClaims, QueryParamsCache clientSocketCache, String requestQuery, String requestPath) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\Queries.cs:line 184 jedná se o případ: #300542 Dohledové centrum - doplnění Prevent servis oblastí Exportuji do JSON pouze komentáře: Nicméně jsem zkusil export i do PDF a taky to padlo na chybu - takže to spíše bude nový případ."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) kludne si to mohol dat do pripadu a oznacit Davida.. lebo ak je to ina vec.. tak to mohol sspravit naraz.. ale nevadi, dam to tam"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by byt opravene..."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Super, vypadá to ok a jeden dotaz na závěr, v tom Jsonu je podle mě ta miniatura obrazku, neposílá se tam skutečná fotka, je to tak? Je to tak správně? Ty obrázky ve vyjádřeních to čtení hodně zeslouituií a stejně to není vidět ten obrázek rozumně, co tam kult nějakou volbu co s obrázky v komentáři: - neexportovat - exportovat miniatury - exportovat skutečnou velikost. Co ty na to?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "toto je asi otazka skor na @ David Kočíř (david.kocir@karatsoftware.cz) .. ja by som to asi nekomplikoval a dal tam rovno skutocnu velkost.. @ David Kočíř (david.kocir@karatsoftware.cz) ak je to chyba kludne si znovuotvor tu ulohu vo vazbe ktora je vo vyvoji alebo kludne zalozit novu ak bude treba.."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) #7499 PMS: Export do JSON - končí jako PDF ##13"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by byt opravene.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "super."
+    }
+  ]
+}

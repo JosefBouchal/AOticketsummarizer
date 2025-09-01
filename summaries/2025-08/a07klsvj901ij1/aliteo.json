@@ -1,0 +1,59 @@
+{
+  "id": "a07klsvj901ij1",
+  "created": "2025-07-14T12:30:27.389Z",
+  "closed": "2025-08-06T17:41:31.802Z",
+  "duration_minutes": 33431,
+  "first_response_minutes": 228,
+  "name": "Nejde otvoriť porada",
+  "description": "Dobrý deň, v Aliteu nám nejde otvoriť jedna z porád píše len že akcia prebieha ale tam sa to zasekne.",
+  "owner": "Lukáš Zadžora",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, hned sa na to pozriem a poziadam vyvoj o vyriesenie.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mozete nam prosim napisat o akeho clena porady ide? (ten ktory nemoze danu poradu otvorit) Pripadne aj link na danu poradu poslite, kde Vam to nabieha.. Dakujem vopred"
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "nejde to žiadnemu členovi porady. Ale napríklad: radka.pavlikova@lunys.sk"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mozete mi poslat aj odkaz na poradu, ktora nejde otvorit?"
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "Porada riaditeľov"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mozete prosim skusit viacero vyskytov? Nemoze sa dostat ani do jedneho alebo do konkretneho?"
+    },
+    {
+      "creator": "Lukáš Zadžora",
+      "comment": "Konkrétne nejde otvoriť porada sa Apríl."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, dakujem - posielam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, osprevedlnujem sa za dlhsiu necinnost, chyba by mala byt opravena, prosim o vyskusanie.."
+    }
+  ]
+}

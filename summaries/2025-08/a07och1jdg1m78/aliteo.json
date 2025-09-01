@@ -1,0 +1,35 @@
+{
+  "id": "a07och1jdg1m78",
+  "created": "2025-08-12T07:33:34.997Z",
+  "closed": "2025-08-12T10:43:38.906Z",
+  "duration_minutes": 190,
+  "first_response_minutes": 33,
+  "name": "licencia",
+  "description": "Dobrý deň,\r\n\r\nChcel som si predplatiť aplikáciu a pri zaúčtovaní na mňa vyskočil poplatok task booster. Viete mi prosím popísať k čomu táto funkcionalita slúži a prečo si ju musím platiť a či je možnosť členstva aj bez nej ?\r\n\r\n[Image001]\r\n\r\nTomáš Polák\r\nProject Leader\r\n\r\n[Image002]\r\n\r\n3EC International a.s.\r\nRužová 605/2\r\n920 42 Červeník\r\nSlovenská republika\r\n\r\nMob.:   +421 (0)917 909 353\r\n\r\nwww.3ec.sk< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 2,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": null,
+      "comment": "Okey, tak medzičasom som už našiel . A dá sa licencia kúpiť aj bez tejto funkctionality ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, samozrejem, len odskrtnite checkbox. To je primarne pre tych kde hrozi vysoky narast (vacsinou z automatov) aby im toi nebloklo system - bol to jeden z problemov zakaznika)."
+    },
+    {
+      "creator": null,
+      "comment": "ok, super, ja som myslel, že je to tam natvrdo. Vďaka za pomoc, tiket môžeme zavrieť."
+    }
+  ]
+}

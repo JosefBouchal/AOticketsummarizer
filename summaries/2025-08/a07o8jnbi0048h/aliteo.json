@@ -1,0 +1,43 @@
+{
+  "id": "a07o8jnbi0048h",
+  "created": "2025-08-11T08:44:45.162Z",
+  "closed": "2025-08-11T10:05:06.263Z",
+  "duration_minutes": 80,
+  "first_response_minutes": 5,
+  "name": "práce s přílohama - export nebo AI",
+  "description": "ptal jsem se integrované AI na obsah přílohy a napsala mi, že nemá k nim přístup. Tak jsem zkusil export do PDF, JSON a exportuje jen název přílohy (do PDF jako název vypíše do textu - není tam vizuál) a v JSONu je více informací, ale obsah přílohy tam není. Tak nevím jestli to je záměr, že nechceme exportovat \"obsah\" přílohy ale jen informace - pokud to tak je tak ok. Dokážu si představit, že bych měl zatržítko, kde by bylo, že chci exportovat i obsah přílohy v případě JSONu nebo jiného datového formátu. Stejně tak i pro interní AI - aby pracovala s obsahem příloh. Určitě je zbytečné vždy posílat data z přílohy při každém dotazu, když se neptám na data z přílohy. P.S. nevím, jestli má smysl dávat nějaké připomínky pro AI - například jsem se na něco ptal a napsala mi, že je to uvedeno v komentáři z data, kdy případ ještě nebyl založen, po konfrontaci se mi omluvila a napsala, že zákazník to nikdy nenapsal :-(",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) dik za report, skusme to nejako strukturovat, lebo vidim ze mame tu 2 veci a to je AI a export.. tak teda: 1. export - ak spravne rozumiem ako to bolo myslene tak by sa mal exportovat len nazov priloh do pdf, v pripade json neviem ci aj nejake linky na to, ale myslim ze sa nepocitalo s tym aby sa exportoval cely obsah priloh. Moze potvrdit alebo vyvratit @ David Kočíř (david.kocir@karatsoftware.cz) 2. AI - urcite to reportuj, preto to mame spustene aby sme prichadzali na chyby a hlavne na absolutne nelogicke veci.. ja by som teda navrhoval na to AI oddelit ulohu ci?"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Nepočítalo se s tím, že se bude exportovat obsah příloh."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ad přílohy - ok - pak je to vlastnost - takže uzavřeme a na AI když tak založím vlastní případ."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) ale je teda JSON v poriadku?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) - věřil jsem, na produkci to není správně, mám to zkoušet jinde? zkouším to tímto: https://base64.guru/converter/decode/file a mohlo by to vypadat takto: tedy je to stále malé."
+    }
+  ]
+}

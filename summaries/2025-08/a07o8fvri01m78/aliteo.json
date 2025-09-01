@@ -1,0 +1,27 @@
+{
+  "id": "a07o8fvri01m78",
+  "created": "2025-08-11T08:03:57.801Z",
+  "closed": "2025-08-18T08:06:55.356Z",
+  "duration_minutes": 10082,
+  "first_response_minutes": 1,
+  "name": "Aplikace pro mobilní telefony",
+  "description": "Dobrý den , chtěl jsem se zeptat na mobilní aplikaci aliteo zde už je připravena nebo je umožněna ke stažení a nebo se na ni ještě pracuje děkuji\r\nDavid Skoták\r\nagriKomp Bohemia s.r.o., Ostopovická 756/10, 664 47 Střelice\r\n[agriKomp Bohemia] < >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, mobilna aplikacia je uz pripravena - pripravili sme ju s novou verziu. Cakame na schvalenie od google play a apple store. Kazdopadne si ale mozete uz teraz otvorit aplikaciu v prehliadaci a ulozit si ju ako PWA aplikaciu - dat vytvorit zalozku na plochu."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a07p9mjd500uj7",
+  "created": "2025-08-19T09:30:30.507Z",
+  "closed": "2025-08-19T14:18:46.179Z",
+  "duration_minutes": 288,
+  "first_response_minutes": 119,
+  "name": "pohľad na vada / požadavel",
+  "description": "Dobrý deň, Dá sa v rámci Alitea v spoločnosti KARAT nastaviť pohľad, kde si vyberiem len atribút vada / požiadavek ? vďaka Tomáš Polák Project Leader Mob.:   +421 (0)917 909 353",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dobrý deň, pán Polák, ALITEO to samozrejme umožňuje,  či už formou grafického zobrazenia cez dashboardy, alebo klasickým pohľadom, ktorý si môžete uložiť tak, aby rešpektoval vaše nastavené preferencie. Po prípade je možné si ich vyfiltrovať v rámci projektu cez ľavý filter nad požiadavkami. Posielam aj krátke GIF, ktorý vás prevedie postupom, ako sa k danej podmienke v rámci pohľadov alebo filtra dostať."
+    },
+    {
+      "creator": null,
+      "comment": "Super, ďakujem veľmi pekne, takže už máme aj spôsob ako evidovať a nazerať na zmenové požiadavky v spoločnosti KARAT v rámci projektu 3EC International a.s.  Ešte sa chcem spýtať, v akom programe vyhotovujete GIFka, ja som ich skúšal cez Sniping Tool, ale majú príliš veľky objem. Vďaka za zdieľanie."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Používám ScreenToGif aplikaciu, skúste, či vám bude vyhovovať."
+    }
+  ]
+}

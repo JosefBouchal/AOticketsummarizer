@@ -1,0 +1,55 @@
+{
+  "id": "a07oidv7101020",
+  "created": "2025-08-13T17:57:09.144Z",
+  "closed": "2025-08-26T13:05:11.284Z",
+  "duration_minutes": 18428,
+  "first_response_minutes": 697,
+  "name": "Automatický refresh stránky smaže upravovaný komentář",
+  "description": "Pokud píšu nový komentář, tak si Aliteo při občerstvení stránky (ať už vyvolané uživatelem nebo samotným Aliteem, což se stále děje) pamatuje rozepsaný komentář. Pokud ale upravuju již existující komentář, tak se toto neděje a já tak dnes téměř přišel o komentář, který jsem měl rozepsaný půl dne.",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 2,
+    "from_others": 6,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, rozumiem co pises, prejednam to s vyvojom co sa s tym da robit. Na druhu stranu ked ja pisem velky komentar, priebezne ho ukladam ako sukromny, pre akykolvek pripad vypadku a ked je hotovy zverejnim ho - tak mozno mala rada k tomu. Este mala otazka k tomu, ak by si tie zmeny potom chcel zahodit, a zacat upravu odznova, kedy by sa tak malo stat?"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Za mě je hlavně problém v tom nesouladu, že nový komentář se ukládá, ale editovaný ne. Vůbec jsem nečekal, že se každé chová jinak. Pokud bych chtěl změny zahodit, tak bych třeba kliknul na tlačítko zrušit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tych miest je vela ktore sa \"nepamataju\". Pokusim sa zistit ako by sa to dalo riesit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tych miest je vela ktore sa \"nepamataju\". Pokusim sa zistit ako by sa to dalo riesit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Dušan Kovář (dusan.kovar@karatsoftware.cz) vedel by si mi k tomu dat nejake info, ci by to bolo riesitelne, pripadne ako rizika to ma?"
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Pokud píšu nový komentář, pamatuji si ho nějakou dobu v local cache a při otevření stejného úkolu ho umístím do pole pro nový komentář. To uživatel pochopí. Pokud by to takto bylo i s editovaným komentářem, narážím na problém, jak uživatel rozpozná, zda otevřel při editaci uložený komentář a nebo rozpracovaný. Tady se spíše bavíme o rozepsaném konceptu. Pak by mohla být již na náhledu na komentář informace \"concept\" a při editaci komentáře by bylo vidět, že edituji koncept a ten bych mohl zahodit. Dávám na poradu."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Je na to uloha a je zaplanovana do 23.5. z podnetu Josefa. Naplanovane to je o dva sprinty...presny termin nateraz uviest neviem, najskor koniec tohoto FR. #3963 Koncept - rozpisany text"
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Díval jsem se na vizuální návrh a za mě klidně může být. Zatím díky."
+    }
+  ]
+}

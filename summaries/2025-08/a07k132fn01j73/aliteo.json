@@ -1,0 +1,31 @@
+{
+  "id": "a07k132fn01j73",
+  "created": "2025-07-09T11:16:56.780Z",
+  "closed": "2025-08-11T15:28:53.908Z",
+  "duration_minutes": 47771,
+  "first_response_minutes": 3,
+  "name": "Generování návazného - nezmění po změně společnosti  následující prvek",
+  "description": "byl jsem na úkolu ve společnosti ALITEO a vygeneroval návazný s obousranou vazbou - v zadávacím dialogu jsem změnil společnost a nedošlo k refreshi projektu - CHYBA - pak to vypadá takto: Společnost KARAT a projekt vývoj Aliteo. při uložení z toho vznikl tento případ: #7429 test kam to spadne při založení návazného prosím o ošetření tohoto chybového stavu.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano, chyba posielam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "tato chyba by mala byt opravena.."
+    }
+  ]
+}

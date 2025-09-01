@@ -1,0 +1,31 @@
+{
+  "id": "a07ng5j6f03k0o",
+  "created": "2025-08-05T10:21:48.461Z",
+  "closed": "2025-08-07T13:49:19.059Z",
+  "duration_minutes": 3087,
+  "first_response_minutes": 8,
+  "name": "vymazanie užívateľov",
+  "description": "Dobrý deň,\r\n\r\nViete mi poradiť ako vymazať užívateľa zo spoločnosti v rámci Alitea ? Neviem nájsť túto možnosť.\r\n\r\nĎakujem\r\n\r\nTomáš Polák\r\nProject Leader\r\n\r\n[Image001]\r\n\r\n3EC International a.s.\r\nRužová 605/2\r\n920 42 Červeník\r\nSlovenská republika\r\n\r\nMob.:   +421 (0)917 909 353\r\n\r\nwww.3ec.sk< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, postup pre zakazanie uzivatela sa deje v nastaveni spolocnosti. Najdete uzivatela, kliknete na pokrocile, nasledne \"zakazat\" pristup k datam. Nasledne stlacite \"odpojit\". V tu chvilu strati pristup a je neaktivny."
+    },
+    {
+      "creator": null,
+      "comment": "Vďaka, super, funguje."
+    }
+  ]
+}

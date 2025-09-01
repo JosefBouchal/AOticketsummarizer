@@ -1,0 +1,31 @@
+{
+  "id": "a07q1l50h00ang",
+  "created": "2025-08-25T05:03:16.821Z",
+  "closed": "2025-08-29T08:57:26.904Z",
+  "duration_minutes": 5994,
+  "first_response_minutes": 77,
+  "name": "Výpadek",
+  "description": "Dobrý den,\r\n\r\nnedaří se nám načíst login a obecně celé AO.\r\n\r\nLze prosím prověřit?\r\n\r\nDíky\r\n\r\nHezký den\r\n\r\nTomáš Novák\r\nVedoucí výdeje  | Head of outgoing\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nM: +420 720 061 074\r\ntomas.novak@covetrus.com< >\r\nwww.noviko.cz< >\r\n\r\n[A blue text on a black background  Description automatically generated with low confidence]",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Support pomocník",
+      "comment": "Dobrý deň, pán Novák, systém sme ihneď preverili na strane ALITEO neevidujeme žiadne chyby ani výpadky funkcie prihlásenia. Taktiež Azure Health Status pre náš európsky región (Western Europe) nehlási žiadne incidenty ani výpadky za posledné hodiny. V niektorých prípadoch môže dôjsť ku krátkodobému spomaleniu alebo chybnému načítaniu aplikácie v dôsledku nestabilného internetového pripojenia, prípadne pri používaní VPN alebo dočasnej latencie na strane poskytovateľa internetu. Odporúčame: vyskúšať reštartovať prehliadač alebo aplikáciu spustiť v anonymnom okne (napr. Ctrl + Shift + N), prípadne vypnúť VPN (ak je zapnutá), a otestovať stabilitu internetového pripojenia. Môžete nám, prosím, potvrdiť, či problém ešte pretrváva, alebo už je všetko v poriadku? Ak by sa ťažkosti opakovali, dajte nám vedieť približný čas a chybové hlásenie, radi to detailne preveríme. Ďakujeme za spoluprácu a prajeme príjemný deň."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, vyzkouším. Díky"
+    }
+  ]
+}
