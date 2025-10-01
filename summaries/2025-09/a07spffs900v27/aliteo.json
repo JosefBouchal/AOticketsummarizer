@@ -1,0 +1,51 @@
+{
+  "id": "a07spffs900v27",
+  "created": "2025-09-15T12:39:40.985Z",
+  "closed": "2025-09-23T06:24:23.078Z",
+  "duration_minutes": 11144,
+  "first_response_minutes": 1070,
+  "name": "API Endpoint - tasks",
+  "description": "Dobrý den, potřebovali bychom poradit ohledně API a jeho endpointu tasks - nedaří se nám jakkoliv dostat k výpisu tasks, zároveň ani k detailu daného tasku.\r\n\r\n/tasks/list\r\n{\r\n  \"section\": \"string\",\r\n  \"onlyActive\": false,\r\n  \"onlyUncompleted\": false,\r\n  \"version\": null,\r\n  \"company\": \"string\",\r\n  \"listType\": \"ArrayWithIds\"\r\n}\r\n\r\nVšechny atributy jsou nám jasné, kromě atributu “section”.\r\n\r\nDěkujeme za jakoukoliv radu\r\nDavid Pleva\r\n\r\nDavid Pleva | MPM-Quality a.s.\r\n-----------------------------------------\r\ndavid.pleva@mpm-quality.cz\r\n+420 776 581 680",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, section je sekcia, v ktorej sa ulohy nachadzaju. Otvorite si projekt, nasledne prepinacom na kanban sekcii a tam mate sekcie. Pozriete si ktora to je sekcie Nasledne otvorite  nastavenie projektu, v lavom paneli otvorite sekcie, kliknete na tu ktoru potrebujete a v lavom spodnom rohu obrazovky (celej nie len dialogoveho okna) najdete male ID a toto ide potrebujete do tohto API endpointu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pridavam este jednu poznamku, ID sekcie dokazete vycitat aj pri pouziti projects/detail, ktory Vam vrati ID sekcie/sekcii."
+    },
+    {
+      "creator": null,
+      "comment": "A existuje možnost jak fetchnout všechny úkoly v jednom prostoru například?"
+    },
+    {
+      "creator": null,
+      "comment": "Abych vysvětlil náš chtěný use-case Chtěli bychom se dostat do stavu, kdy bychom v PowerBI byli schopni pracovat s dashboardem, kde budeme vidět přehled o úkolech, jejich deadlinech, informace jak dlouho jsou již v nezměněném stavu (to si jsme schopni se správnými daty řešit v PowerBI), apod. Věřím, že při správném postupu jsme schopni tyto informace z API dostat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, standardne to funguje tak, ze si poskladate z API dotazov co potrebujete. Teda postupne zistujete vsetky data a napriklad vo vasom pripade: projects/list (dostanete ID projektov) -> projects/detail (dostanete ID sekcii - tu pozor moze existovat strom sekcii preto treba davat pozor na parent ID) -> /tasks/list (dostanete ID uloh v sekcii) -> /tasks/detail (detaily k ulohe) Toto sa robi v cykloch. Je to zmerne takto rozbite, pretoze tych dat je tam mnoho. Jednoduchsia varianta: - supervizor spolocnosti (aby tam boli fakt vsetky ulohy) si vytvori pohlad na ulohy v ALITEO - kde si vyhlada vsetky tie ulohy (o ktore ma zaujem) - zoberiete ID tohto pohladu (z URL) a pouzijete /FilteredTasks -> /tasks/detail Logicky tento pohlad nesmiete zmazat"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, ten \"super\" pohled nad společností pomohl, díky 🙂 Máme to co jsme potřebovali, díky moc."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tesim sa ze sa podarilo, co ste potrebovali. V pripade potreby, opat napiste sem na support. Prajem pekny den."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "a07t4no8l0003t",
+  "created": "2025-09-18T06:14:42.346Z",
+  "closed": "2025-09-29T06:31:41.162Z",
+  "duration_minutes": 15856,
+  "first_response_minutes": 37,
+  "name": "plánovanie opakujúcej sa úlohy",
+  "description": "Potreboval by som poradiť ako mám v ALITEO naplánovať opakujúcu sa úlohu. Každé ráno si robím Scrum a potreboval by som to nahodiť do plánovania (kalendára) napr. od 8 do 8:30 každý deň. Vďaka za radu",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, Popisem Vam ako funguje sablona ulohy. Ak mam vytvorenu sablonu a zapnem opakovanie, to znamena ze sa mi v dany den (nie je tam mozne urcit hodinu) vzdy vygeneruje konkretna uloha. Toto ale nerezervuje termin do kalendara, je to len opakovane vytvorenie novej ulohy. Ak sa pozriem na to co potrebujete, tak jedina asi cesta (ak to chcete mat v kalendari ) je vytvorit opakovanu udalost a do jej tela vlozit odkaz na ulohu, ktorou tu danu cinnost obsluzite. Ak Vam toto riesenie z nejakeho dovodu nevyhovuje, skuste napisat preco alebo ako by ste si to predstavovali."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Zdravím, no chcel som si naplánovať celý týždeň, kde každý deň ráno od 8 do 8:30 mám SCRUM o 16:15 - 16:20 čistenie kávovaru od 13:00 - 13:30 obed a chcel som si preto naplánovať pravidelne sa opakujúcu úlohu v ALITEO.  Cez Udalosť to ide, to som aj v minulosti skúšal s tým ranným scrumom ale príde mi to trošku škrábanie za ucho.  Nikto to nepotreboval doteraz ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zatial to nikto nepotreboval uprimne 🙂 Sablony sa aj tak najcastejsie pouzivaju primarne na to aby sa vyplnili data nez aby sa automaticky planovali do kalendara. Napriklad pri pravidelnych reviziach - aby sa im skratka ta uloha vytvorila, aby ju mali medzi reakcnymi, aby na to nezabudli ale nechceli fixovat cast - na to budeme musiet mysliet. Ono ked sa nad tym tak zamyslam tak je to komplikovanejsie, lebo uloha sa generuje v dany den 00:00. Vy ale chcete aby ste mali vopred v kalendari miesto ale uloha este nebola vygenerovana? Asi rozumiete kam mierim.. kedy ma byt k danemu terminu uloha k dispozii? kedy sa ma generovat?? alebo ma byt nagenerovana dopradu, aby ked chcete hodku pred tym urobit nieco vopred tak aby ste to mali k dispozicii?? Ak dopredu tak kolko? treba pocitat s tym ze tie ulohy budu vo Vasich reakcnych ulohach. Co myslite?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Úprimne už sa strácam trošku v tom čo píšete 🙂 , ak budete mať záujam môžeme dať zas nejaký teams / aliteo call. Neviem ako technicky vzniká vytváranie úloh v Aliteou ale rozmýšlam nad tým, že napr. ten SCRUM je vlastne jedna úloha, kde každý deň o tom istom čase prichádza k jej plneniu resp. aktualizácii do komentára a trackovaniu času, ktorú som nad ňou strávil. Takže dáva zmysel čo hovoríte, že je lepšie si naplánovať opakujúcu sa udalosť (rovnako ako to mám aj v outlooku-u, volá sa to appointment nie task) a v rámci tej udalosti, aktualizujem plneni tejto úlohy do komentára a zároveň trackujem čas na tejto úlohe. Ak by som to mal separátne tak jednak vytváram násobne viac úloh (berie mi to kapacitu z licencie) ale zároveň sa stráca nadväznosť na jednu konkrétnu úlohu, chýbajú tam komentáre / plnenie... Takže to riešenie že mať task a vytvoriť si opakujúcu udalosť je relevantné riešenie a systematickejšie. skúsim ešte pozrieť ako to riešia v Atlassiane (JIRA, Trello), lebo som sa nad tým úprimne nikdy nezamýšlal a minimálne sa niečo naučíme :)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vidite, tak nestratili ste sa 🙂 pochopili ste presne moj point - ze sice to s udalostou vyzera ako nejaky workaround ale akonahle sa nejaka vec tyka kalendara, tak su to uz udalosti, alebo opakujuce sa udalosti.. nezavisle ma tom ako to vyzera. Ak by sme to aj inak urobili, tak vysledok by bol rovnaky.. udalosti v ktorych bude odkaz na ulohu.. lebo to chcete - rezervaciu v kalendari a zaroven rychlo sa dostat na ulohu ktora tej rezervacie tyka. Ak by to ine SW mali inak, kludne nam dajte vediet a mozme zvazit."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "tak tak pochopili sme sa nakoniec a som rád, že som k tomu prišiel takto sám resp. s Vašou nápovedou 🙂  Cez víkend sa snažím počítač nezapínať vôbec, ale skúsim pozrieť ako to má riešené alassian."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "skuste no, za mna maximalne len to UI, ze by to vyzeralo ako na nejaka extra feature na ulohe - zaplanuj si.. ono to tam mame na zalozke kalendar, ale neumoznujeme opakujucu sa udalost.."
+    }
+  ]
+}

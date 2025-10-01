@@ -1,0 +1,55 @@
+{
+  "id": "a07spos380185l",
+  "created": "2025-09-15T14:22:09.444Z",
+  "closed": "2025-09-19T06:16:48.803Z",
+  "duration_minutes": 5274,
+  "first_response_minutes": 970,
+  "name": "skrytý horizontální posuvník",
+  "description": "Horizontální scrollbar se zobrazí až po najetí myši - uživatel se těžko \"strefuje\" do místa kde je. chová se to stejně v Egde i Chrome, ostré Aliteo i beta https://app.aliteo.com/ https://aliteobetaapp.azurewebsites.net/main/ přikládám video  - seznam úkolů, ale je i jinde (sekce týmu...) EDGE posuvník.mp4",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 2,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, no ono to je take obojsecne - na jednu stranu nechceme aby to tam bolo obrovske a cely ten panel zaberal mnoho miesta ak  ho nepouzivas (skakat to samozrejme nepomoze). Na druhu stranu asi chapem co pises, asi chces zarolovat rychlejsie nez kolieskom.. vsak?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "teraz pozeram este na to video a stale ti to pride male aj pri takomto priblizeni?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Ahoj, nerozumím dotazu, nestěžuju si na velikost ale na neviditelnost."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "takze ty chces aby tam svietil stale? Alebo teda zvacsit nejako oblast alebo vzdy pri umiestneni mysi na ulohy?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "pokud např v komentářích úkolu pohnu myší, scrollbar se hned zobrazí. Zkus např. v seznamu úkolů, kde je více záznamů sjet dolů - kolečkem se ukroutíš a scrollbar se zobrazí, až se na něj přesně trefíš postuvnik nejde videt.mp4"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Jasne uz chapem, takze skor ta zona, pri ktorej  sa zobrazi slider - ok, beriem na poradu, dik"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Je to chyba, potrebne doriesit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Posunuli sme na vyvoj ako chybu, @ Juraj Matěj (juraj.matej@karatsoftware.cz) chces uzatvorit alebo nechat otvorene kym sa nedoriesi?"
+    }
+  ]
+}

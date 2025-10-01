@@ -1,0 +1,31 @@
+{
+  "id": "a07sc92vgg06b7",
+  "created": "2025-09-12T07:45:54.896Z",
+  "closed": "2025-09-12T10:12:08.975Z",
+  "duration_minutes": 146,
+  "first_response_minutes": 135,
+  "name": "Poznámka v udalosti kalendára",
+  "description": "Kolega ma požiadal o posunutie nápadu, že by sa mu zišlo, keď si plánuje udalosť do kalendára, aby si tam zadal poznámku, čo vlastne má robiť. Napríklad tu si chcel uložiť termín do kalendára, ale uloží sa mu len text=názov úlohy a nevie si tam dopísať poznámku, ktorá by mu hovorila, čo s tou úlohou má robiť.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano, mam v plane vyvoja redesing tohto planovania uloh, vid graficky navrh Malo by to plnit pozadovanu funkciu."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "super, Ďakujeme, tak sa pripájame k čakateľom na túto novú funkčnosť 🙂 môžete uzavrieť úlohu"
+    }
+  ]
+}

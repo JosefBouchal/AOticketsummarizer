@@ -1,0 +1,35 @@
+{
+  "id": "a07r4ekiug0jt3",
+  "created": "2025-09-02T15:45:31.494Z",
+  "closed": "2025-09-02T17:28:13.604Z",
+  "duration_minutes": 102,
+  "first_response_minutes": 65,
+  "name": "Dotaz - Aliteo nefunkční přístup",
+  "description": "Dobrý den, mám prosbu, kolega pan Leden se nemůže dostat do Alitea z domu, zobrazuje se následující hláška, ale ve stejný okamžik já se do Alitea dostanu a funguje Předem děkuji za pomoc. S pozdravem a přáním pěkného dne Ilona Remešová Nákupní manažerka [Image002] ELTON hodinářská, a.s. Náchodská 2105 | 549 01 Nové Město nad Metují M: (+420) 730 855 366| E: ilona.remesova@prim.cz< > www.prim.cz< > | Facebook< > | Instagram< > | Twitter< > | YouTube< > UPOZORNĚNÍ Informace obsažené v tomto e-mailu a všech připojených souborech jsou důvěrné, mohou být chráněny zákonem a jsou určené výlučně příjemci. Nejste-li zamýšleným příjemcem, je zakázáno jakékoliv zveřejňování, zprostředkování nebo jiné použití těchto informací. Obdrželi jste e-mail neoprávněně, informujte o tom prosím odesílatele a vymažte neprodleně všechny kopie tohoto e-mailu i všech jeho příloh.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, zaujimave, na prvy pohlad by som povedal, ze ak sa vy v rovnaky cas dostanete, znamena ze nie je problem na strane ALITEO a hladal by som problem v pripojeni, VPN a podobne. Avsak hlaska hovori nieco ine. Ak to stale pretrvava, skuste otvorit cez F12 pravy panel prehliadaca a kliknut na \"Console\" Mozno sa tam bude nachadzat nejaky Error alebo warning, ktory by nam mohol pomoct riesit problem. Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím, kolegovi již funguje, úkol možné zavřít.  Přeji pěkný večer."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, zatvaram."
+    }
+  ]
+}

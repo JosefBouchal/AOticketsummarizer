@@ -1,0 +1,71 @@
+{
+  "id": "a07rbegfa00rli",
+  "created": "2025-09-04T08:30:47.881Z",
+  "closed": "2025-09-05T07:21:56.946Z",
+  "duration_minutes": 1371,
+  "first_response_minutes": 64,
+  "name": "Eskalácia tiketu na spoločnosť KARAT",
+  "description": "Dobrý deň, dnes som v rámci spoločnosti 3EC International a.s. , projektu #7 IS Karat chcel eskalovať úlohu #66 Update Lists of competences do spoločnosti KARAT, projektu #289 3EC International a.s. . Systém mi, ale vyhodil túto hlášku : Preto som vytvoril túto úlohu a eskalujem k Vám do spoločnosti ALITEO do projektu #1 Support ALITEO aby som otestoval funkcionalitu eskalácie a zároveň Vás požiadal o pomoc ako nastaviť proces eskalácie z našej spoločnosti 3EC International a.s. na spoločnosť KARAT aby sme fungovali ako L1 support, Sango L2 support a Karat L3",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 4,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, podla hlasky ktoru Vam to vypisalo je problem ten ze nemate pravo zakladat ulohu do projektu a sekcie ktora je tam uvedena. Ide Vam to zalozit priamo? Pytam sa preto aby som pochopil, ci je problem v eskalacii alebo je to v poriadku, len skratka nemate pravo a preto Vas to nepusti."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "napriamo mám možnosť zakladať, či už cez Karat Assistance alebo priamo z webu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tam ale predpokladam ze si nemozete vybrat sekciu ale zakladate bez sekcie. Je tak?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Predpokladam zle, mate na vyber ale iba jedna je z toho ta kde mozete. Poslal som an vyvoj aby to bolo opravene. Bude sa odstrania vsetky (aby to sedelo s tym ako ked zakladate ulohu rucne) alebo sa odoberie ta kde mate pravo. Kazdopadne by mala eskalacia fungovat v pripade ze vyberiete inu nez tu ktoru ste vybrali pred tym."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Áno, potvrdzujem, vybral som si tú druhú sekciu a už to fungovalo. Ideálne asi aby to bolo bez sekcie resp. predvolená bude len jedna."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Uz je to nahlasene, vyriesime to tak aby nebol zmatok, na pozadi je nastavenie este dalsich prav ktore je treba zohladnovat, takze to zanalyzujeme a opravime. mozeme teda tento ticket uzatvorit?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "okey, robte tak aby dobre bolo 🙂. Ešte jednu otázku. Že keď som eskaloval tiket, a p. Putyra zo Sanga mi naň v spoločnosti KARAT odpovedal, prečo nevidím ten komentár zrkadlovo aj u seba v spoločnosti 3EC International ? Príde tam po čase, alebo je to oprávnenaniami že som v KARAT ako externista a on dal asi interný komentár ? Viete sa pozrieť ešte na to ? Ide mi o to aby som mal naše tikety (chyby alebo požadavky ) založené u nás a všetky informácie zostávali u nás a zrkadlil sa s partnermi, či už s Vami s Aliteom, Sangom, Karatom, prípadnne inými externými partnermi."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, mozete si pozriet popis eskalacie tu: https://help.aliteo.com/sk/podrobne-upozornenia-a-dalsie-moznosti-3/ Ale v skratke, eskalacia neznamena ze sa veci zrkadlia - znamena to kopiu ulohy z jednej spolocnosti a nastavenie nejakeho vztahu (ale data sa nekopiruju simultanne) Use case: - pani (napriklad uctovnicka) v spolocnosti 3EC napise nejake problem, ktory padne na vas a pisete si vzajomne k tomu komentare - ale len vy ste uzivatelom aj v spolocnosti KARAT (ta pani od Vas nie) - pri eskalacii ale musite povedat co sa ma stat s datami od Vas (nemoze v KARAT vzniknut komentar od panoi od Vas ktora nie je uzivatelom spolocnosti KARAT) - vytvori sa kopia do KARAT a vy, ktory ste ju urobili ste stycnym odstojnikom medzi obidvomi ulohami (v 3EC ste riesitelom a vlatnikom je pani, a v KARAT ste vlasnikom vy a riesitelom niekto s KARAT) - medzi ulohami je vazba a zaroven povodna uloha caka na uzatvorenie tej eskalovanej - ak si potom dopisujete s programatorom v KARAT asi nechcete otravovat komentarmi pani od Vas (naviac by to bolo matuce kde mu mate odpisovat - programator z KARAT takisto nie je uzivatelom v spolocnosti 3EC) - vec vyriesite v KARAT, ulohu uzatvorite a uloha 3EC sa aktivuje, lebo uz moze (doteraz cakala) - nasledne v svojej ulohe napiste pani, ze vec bola opravena, pokojne si tam date nejake svoje zrhnutie - a tym je vec vyriesena Snad som to napisal zrozumitelne, ale kludne to mozte dat ako bod porady na spolocny call a tam Vam to vysvetlim este raz aj s nakresom ak treba."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Priznávam, nie je to jednoduché zosynchronizovať, ale Váš pohľad sa mi páči a keď ste to rozpísali na konkrétnom príklade, súhlasím. Mňa len miatlo to, že ak v KARAT-e dajú public komentár, ten by sa mohol zrkadliť do komentára v spoločnosti 3EC aby som nemusel prepisovať tieto informácie zo spoločnosti KARAT do 3EC. ALe rozumiem aj Vášmu pohľadu. môžeme to uzavrieť"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No kludne potom rozoberieme preco mate potrebu to prepisovat.. Ked bude AI aj vydana, potom si jednoducho vytvorite cez AI suhrn riesenia a ten si na konci mozete postnut do svojej ulohy.. zatvaram teda.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Opraveno - při eskalaci nebylo zohledněno právo externího uživatele na sekce při přidání úkolu. Nově se nabízí pouze jedna sekce, kam může úkol přidat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "testoval som to cez zakaznika a zda sa to byt v poriadku"
+    }
+  ]
+}

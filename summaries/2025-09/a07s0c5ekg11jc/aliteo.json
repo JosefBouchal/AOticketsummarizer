@@ -1,0 +1,43 @@
+{
+  "id": "a07s0c5ekg11jc",
+  "created": "2025-09-09T10:25:13.373Z",
+  "closed": "2025-09-23T16:39:41.426Z",
+  "duration_minutes": 20534,
+  "first_response_minutes": 4,
+  "name": "transparentné zobrazovanie SLA externému užívateľovi (zákazníkovi)",
+  "description": "Dobrý deň, sumarizujem podnet na ideu / inováciu aby bolo možné administrátorovi ALITEA, zdieľať SLA so zákazníkom (externým užívateľom ALITEO).",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 0,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, poradim sa s kolegami a budem Vas informovat"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu: - parametrizovat, ci sa ma SLA zobrazit aj externemu uzivatelovi (zakaznikovi)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na zaklade komentara od AKO: #7710 Test: #3471 Sjednocení ukládání práv pohledů a dashboardů ##6 nebude mozne zdielat SLA dashboard zakaznikovi - preto plati podnet z komentara ##2"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Zalozene do vyvoja Backlog."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, prebrali sme s kolegami na produktovej porade a zhodli sme sa ze je to validny podnet. Pridali sme to preto medzi ostatne podnety, ktore budeme v buducnosti realizovat."
+    }
+  ]
+}

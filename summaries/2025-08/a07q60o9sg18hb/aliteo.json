@@ -13,10 +13,10 @@
   "type": "Konzultace/dat. servis",
   "area": "Bez",
   "comment_stats": {
-    "total": 2,
+    "total": 3,
     "from_owner": 1,
-    "from_others": 1,
-    "unique_authors": 1
+    "from_others": 2,
+    "unique_authors": 2
   },
   "comments": [
     {
@@ -26,6 +26,10 @@
     {
       "creator": null,
       "comment": "Ajajaaj 🙂, ale podarilo sa mi ešte vymyslieť riešenie, že som daný tiket so statusom canceled skopíroval a vytvoril nový a prišiel som len o komentáre a pridal ho k parent tasku ako subtask. Keby sa dali kopírovať aj komentáre, tak by bol problém vyriešený, neuvažovali ste nad touto funkcionalitou, myslím že v niektorých service deskoch je táto možnosť v prípade kopírovania sa systém spýta, ktoré parametre tiketu sa prenášajú do nového tiketu, či len predmet alebo aj komentáre ..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, ku kopirovaniu komentarov sme sa postavili tak, ze nie je uplne v poriadku za niekoho vytvorit komentar kopirovanim ulohy. Napriklad zoberiem ulohu kde ste mi potvrdili naklad za 1000e a potom si to skopirujem do 3 uloh.. je to extrem, ale popisuje problem ktory kopirovanie komentarov moze sposobit. Prajem pekny den."
     }
   ]
 }

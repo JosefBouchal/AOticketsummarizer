@@ -1,0 +1,31 @@
+{
+  "id": "a07nfhd9j01k0o",
+  "created": "2025-08-05T06:41:20.381Z",
+  "closed": "2025-09-03T16:11:12.446Z",
+  "duration_minutes": 42329,
+  "first_response_minutes": 3,
+  "name": "Export případu do PDF - blok kódu",
+  "description": "Exportuji případ https://app.aliteo.com/task/a03u83den015np/?view=comments do PDF (pouze komentáře) a před každým blokem kódu je nějaké „pre br { display:none }“ a blok kódu neobsahuje zalomení řádků.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik za report, posielam na vyvoj na opravu.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) malo by to byt opravene:"
+    }
+  ]
+}

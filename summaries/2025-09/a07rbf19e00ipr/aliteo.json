@@ -1,0 +1,67 @@
+{
+  "id": "a07rbf19e00ipr",
+  "created": "2025-09-04T08:36:32.285Z",
+  "closed": "2025-09-04T11:25:04.138Z",
+  "duration_minutes": 168,
+  "first_response_minutes": 8,
+  "name": "Nemožnost aktivovat/přihlásit nového uživatele - Aliteo Elton",
+  "description": "Dobrý den,\r\n\r\nJedna z našich kolegyň se snaží dostat po pozvaní do Alitea Elton, ale dostala se do stavu, kdy se jí po kliknutí na aktivační odkaz stále refreshuje stránka a nedovolí jí to se přihlásit, ani změnit heslo.\r\n\r\nJejí email - nieslanikova@mpm-quality.cz < >\r\n\r\nRád bych požádal o pomoc s vyřešením tohoto problému, budeme rádi za každé rady.\r\n\r\nDíky,\r\nDavid Pleva\r\n\r\nDavid Pleva | MPM-Quality a.s.￼\r\n-----------------------------------------\r\ndavid.pleva@mpm-quality.cz\r\n+420 776 581 680",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 4,
+    "from_others": 7,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za report, idem do hned poslat na vyvoj. Ospravedlnujem sa za komplikacie, zatial sme tento problem u zakaznikov nezaznamenali."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Este by som vyskusal otvorit ten odkaz v inom prehliadaci, pripadne na nejakom windows pocitaci. Moze sa stat ze je to problem masOS pripadne prehliadacov v nom."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Skuste este u seba kliknut na tento odkaz: https://app.aliteo.com/invitation/a07q3e5jjg0e2u/1f320c40-3c08-42d0-855f-dfa73a64aa3e Je to odkaz pozvanky, tak ci sa to chova rovnako ako z emailu (malo byt) len diagnostikujem."
+    },
+    {
+      "creator": null,
+      "comment": "Zkusil jsem na druhém ntb, ale vždycky se to dostane do rozbitého stavu - např. https://app.aliteo.com/.auth/login/aad/callback kdy je prázdná screen. Nešel by nějak ten účet p. Nieslanikove odstranit a znovu přidat? Případně si ho přidám znova sám, kdybyste to odstranili.\r\n\r\nDavid Pleva | MPM-Quality a.s.\r\n-----------------------------------------\r\ndavid.pleva@mpm-quality.cz\r\n+420 776 581 680"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vyskusali ste aj ten link ktory som Vam poslal? Pripadne mi poslite link, ktory je na tom tlacidle v emailovej pozvanke."
+    },
+    {
+      "creator": null,
+      "comment": "Ano, skrz ten Váš link\r\n\r\n\r\nDavid Pleva | MPM-Quality a.s.\r\n-----------------------------------------\r\ndavid.pleva@mpm-quality.cz\r\n+420 776 581 680"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobre, teda. Skuste to nasledovne: - chodte na stranku app.aliteo.com - vytvorte tam ucet s danym emailom - a potom skuste ten link alebo teda prijat pozvanku"
+    },
+    {
+      "creator": null,
+      "comment": "Tak povedlo se zaregistrovat nieslanikova@mpm-quality.cz < >, teď je důležité jak přijat pozvánku do Elton \r\n\r\nDavid Pleva | MPM-Quality a.s.\r\n-----------------------------------------\r\ndavid.pleva@mpm-quality.cz\r\n+420 776 581 680"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Super, a teraz skuste cez ten link alebo email prijat pozvanku ci to bude vyzerat rovnako."
+    },
+    {
+      "creator": null,
+      "comment": "Super, jsme tam - díky moc :)\r\n\r\nDavid Pleva | MPM-Quality a.s.\r\n-----------------------------------------\r\ndavid.pleva@mpm-quality.cz\r\n+420 776 581 680"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, som rad ze to dobre dopadlo. Pripad teda uzatvaram."
+    }
+  ]
+}

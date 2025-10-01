@@ -1,0 +1,35 @@
+{
+  "id": "a07r6t2kmg0ipr",
+  "created": "2025-09-03T06:02:17.413Z",
+  "closed": "2025-09-03T11:39:49.211Z",
+  "duration_minutes": 337,
+  "first_response_minutes": 209,
+  "name": "AI fce pro david.sklar@karatsoftware.cz",
+  "description": "Ahojte,\r\nChtěl bych požádat umožnit david.sklar@karatsoftware.cz< > používat fci Zeptat se AI na úkol, jelikož má úkoly o stovce komentářů, které jsou některé celkem dost rozsáhlé. Klidně tu volbu odeberte mě, jelikož já osobně to nepoužívám a ani nepředpokládám, že bych to používal.\r\n\r\nDěkuji za kladné vyřízení\r\n\r\nLubomír Bednář\r\nsystem analyst\r\n\r\ntel.: +420 581 737 148 | lubomir.bednar@karatsoftware.cz< >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< > Facebook< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < >  LinkedIn< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < >  YouTube< >\r\n\r\n[ http://www.karatsoftware.cz/ ]< >",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahoj @ Dušan Kovář (dusan.kovar@karatsoftware.cz) poprosim ta, pridaj david.sklar@karatsoftware.cz do skupiny na testovanie AI. Dakujem :)"
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Vyřešil jsem. Není to úloha do vývoje, tak nejde dát patchovat. Tak se projeví, až se nasadí."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "děkuji moc"
+    }
+  ]
+}

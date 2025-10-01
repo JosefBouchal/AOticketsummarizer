@@ -1,0 +1,27 @@
+{
+  "id": "a07s11cl200nhi",
+  "created": "2025-09-09T14:17:03.405Z",
+  "closed": "2025-09-15T06:22:48.227Z",
+  "duration_minutes": 8165,
+  "first_response_minutes": 16,
+  "name": "Aliteo Air-plus",
+  "description": "Dobrý den,\r\n\r\nnikde není vidět obsah emailu z kterého se vytvořil úkol\r\n[Image001]\r\ndále přišlo několik emailů s problémem stran vytvoření tasku\r\n\r\n[Image002]\r\n\r\n\r\nS pozdravem\r\n\r\n\r\nMichal Bartoň\r\n\r\nSpecialista monitoringu\r\n\r\n\r\n\r\nAirPlus, spol. s r.o.\r\nModlany č. ev. 22, Modlany, 417 13\r\n\r\n+420 702 082 697\r\n\r\nmichal.barton@air-plus.cz< >\r\n\r\nwww.air-plus.cz< > | www.cezesco.cz< >\r\n\r\n\r\n\r\n[Čistá energie zítřka]\r\n\r\n\r\n\r\nTextem tohoto e-mailu podepisující neslibuje uzavřít ani neuzavírá za žádnou společnost Skupiny ČEZ jakoukoliv smlouvu. Každá smlouva, pokud bude uzavřena, musí mít výhradně písemnou formu. Tento e-mail je určen výhradně pro potřeby jeho adresáta/ů a může obsahovat důvěrné informace. Pokud Vám byl omylem doručen, uvědomte okamžitě odesílatele vrácením e-mailu, zdržte se kopírování a jakéhokoliv dalšího šíření e-mailu nebo jeho příloh a celý e-mail vymažte ze svého informačního systému. Nakládáním s neoprávněně získanými informacemi se vystavujete riziku právního postihu.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, podla toho co vidim email nevznikol emailom ale zalozenim v ALITEO - je to napisane v lavom paneli uplne dile \"sposob vzniku\". Ak si to chcete vyskusat, chodte do projektu, jeho nastaveni, v pokrocilych je uvedena adresa a na tuto adresu napiste email - to by malo zalozit pripad. Podobne ako sa zalozil tento, vid obrazok"
+    }
+  ]
+}

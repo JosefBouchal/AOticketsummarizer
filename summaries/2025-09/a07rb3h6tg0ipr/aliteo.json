@@ -1,0 +1,55 @@
+{
+  "id": "a07rb3h6tg0ipr",
+  "created": "2025-09-04T06:30:54.032Z",
+  "closed": "2025-09-09T07:35:21.951Z",
+  "duration_minutes": 7264,
+  "first_response_minutes": 0,
+  "name": "dojklik označení slova s českou diakritikou",
+  "description": "Pokud chci označit slovo dvojklikem a obsahuje například ř  viz obrázek, tak se mě to označí jen po ř, pokud tam česká diakritika není, tak se označí celé slovo správně.\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 4,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ok, predavam na vyvoj..."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Ahoj, jasně, není to nic vážného, já jen pokud chci celé slovo smazat, tak je to trošku složitější Díky"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "pokud máš vytvořený návazný případ, klidně můžeme uzavřít, až to bude opravno (pokud to půjde), tak toho si všimnu :-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, asi je problem v diakritike, aj pri inych pismenach, skusal som \"č\".. kazdopadne je vytvoreny navazny.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, malo by to byt vyriesene - aspon mne to funguje.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "chtěl jsem dát 5 hvězdiček na kvalitu i rychlost, žel jsem napsal text a odklikl"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "to je v poriadku.. 🙂 drz sa"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "díky moc"
+    }
+  ]
+}

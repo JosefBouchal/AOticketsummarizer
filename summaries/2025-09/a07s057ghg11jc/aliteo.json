@@ -1,0 +1,47 @@
+{
+  "id": "a07s057ghg11jc",
+  "created": "2025-09-09T09:09:28.030Z",
+  "closed": "2025-09-17T12:35:00.526Z",
+  "duration_minutes": 11725,
+  "first_response_minutes": 64,
+  "name": "task sa automaticky neuzatvoril",
+  "description": "Dobrý deň, preposielam neuzatvorený task, ktorý sme preberali na porade.",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 0,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, pozriem sa na to..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Petr, predpokladam ze to meni synchronizaca u Vas, lebo v ALITEO to nastavene nemate, aby sa to dialo automaticky... Nevies kde by mohol byt problem"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Martin Válek (martin.valek@karatsoftware.cz) předávám, nehoří to, ale bylo by dobré se na to podívat. Synchronizace to měla najít a uzavřít. Tedy podívat se na SQl dotaz jaké podmínky tam jsou a proč to tam nyní není (kdyby bylo, je to uzavřeno) - a zjistit jak k otmu došlo/ošetřit to. toto není na mě, respektive mě to zabere spousty času a nemám Interaktiv, takže si ten selekt nespustím = DZA, PSK, LBE, MSD..."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Dobrý den, předávám úkol pod společnost KARAT, abychom mohli řešit. Jedná se o firemní řešení."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Eskalovaný úkol byl úspešně ukončený. Výsledek je dostupný na tomto odkaze: https://app.aliteo.com/Task/a07s0rnobg1pvm . Můžete pokračovat v řešení v rámci tohoto úkolu."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Dobrý den, případ jsem dal do stavu v řešení a navrhl k uzavření - nyní by již synchronizace po 10 dnech měla případ uzavřít, pokud tak neuděláte uživatelsky."
+    }
+  ]
+}

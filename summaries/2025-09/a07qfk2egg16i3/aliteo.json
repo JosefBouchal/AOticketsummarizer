@@ -1,0 +1,111 @@
+{
+  "id": "a07qfk2egg16i3",
+  "created": "2025-08-28T14:24:50.257Z",
+  "closed": "2025-09-11T13:21:45.094Z",
+  "duration_minutes": 20096,
+  "first_response_minutes": 2647,
+  "name": "modifikácia e-mailovej adresyna vytváranie úloh",
+  "description": "Pozdravujem,\r\n\r\nChcem sa spýtať, či sa dá nastaviť e-mailová adresa prostredníctvom, ktorej sa budú vytvárať úlohy v projekte. Našiel som to v nastaveniach projektu ale je tam nejaká predvolená. Neviem či je možné ju niekde editovať alebo si treba zakúpiť vyššie členstvo prípadne nastaviť preposielanie z firemného e-mail-u.\r\n\r\nVďaka za odpoveď a pekný víkend prajem.\r\n\r\n[Image001]\r\n\r\nTomáš Polák\r\nProject Leader\r\n\r\n[Image002]\r\n\r\n3EC International a.s.\r\nRužová 605/2\r\n920 42 Červeník\r\nSlovenská republika\r\n\r\nMob.:   +421 (0)917 909 353\r\n\r\nwww.3ec.sk< >",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 22,
+    "from_owner": 5,
+    "from_others": 17,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, tato adresa je jedinecna a neda sa zmenit. Obsahuje jedinecny identifikator projektu. Standardne sa to robi tak ze sa presmeruju na tuto adresu emaily, ktore pridu na Vas domenovy email. Teda: Zakaznik -> info@3ec.sk -> projekt_aliteo@aliteo.com Musi sa nastavit spravna metoda preposielania aby sa zachoval povodny odosielatel emailu a aby sa potom komunikovalo medzi ALITEO a zakaznikom."
+    },
+    {
+      "creator": null,
+      "comment": "Pozdravujem, vidím, že pracujete aj cez víkend, postihol ma podobný osud. Rozmýšľam ako to nastaviť správne. Vychádzam z filozofie, že som ako keby firma vo firme, neskôr by som som aj chcel ísť na IČO. A beriem to tak, že v rámci firmy, na mňa chodia najrôznejšie požiadavky (e-mailom, osobne, telefonicky, cez Aliteo, service desk externých firiem a rôzne iné apky ). A rád by som si vytvoril jedno centrálne miesto kam mi tie všetky žiadosti chodia, kde ich budem evidovať a riešiť. Aby som sa nemusel prepínať medzi Aliteo-om, e-mailom, ... No a napadlo ma že dať svoju firemnú adresu presmerovať na adresu projektu. To by bol projekt 3EC service desk (zatiaľ kým aliteo vo firme používam len ja) a z neho by som si tie tikety (úlohy ) presúval na konkrétne projekty, či už veci týkajúce sa projektu IS Karat, alebo zákaznícke projekty na certifikácie. Neviem či mi rozumiete, keď tak môžeme dať call k tomu aby som Vám to vysvetlil, plus mi povedzte či ste ok s týmto počtom otázok a dotazov ktoré dávam alebo to riešiť nejakými poplatkami za analýzu. Pracoval som aj na strane dodávateľa a viem čo je to mať na linke otravného zákazníka 😀, tak pokojne kričte, vážim si Vašich služieb ale samozrejme by som ich nerád zneužíval a \"prepaloval\" V práci mi zaplatili licenciu na rok, tak by som sa rád za ten čas čo najlepšie naučil robiť v ALITEO aby som to vedel prezentovať vo firme, prípadne ak opustím firmu, mohol to používať u seba vo firme miesto Atlasian produktova a podporovať CZ produkt."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano, niekedy ak viem pomoct hned tak samozrejme odpisem hned ak mam chvilu - aj v case volna a vsimol som si to 🙂 Vazim si Vasu ohladuplnost pri kladeni otazok a samozrejme radi pomozeme uzivatelom, ktori ALITEO chcu pouzivat. Naviac od takychto ludi zberame spatnu vazbu, ktora je pre nas cenna. Preto by som navrhol, aby ste si pripravili otazky, a aby sme sa pokojne spojili na 30min napriklad a presli si nad cim premyslate. Idealne by bolo aby ste vizualizovali nejakym diagramom, kde ste vy a ako ste prepojeny na ostatne firmy a nastroje, ktore pouzivate v tychto firmach. Co myslite?"
+    },
+    {
+      "creator": null,
+      "comment": "úplne súhlasím, vytvorím si úlohu v ALITEO kde budem zhromažďovať svoje otázky a potom si môžeme dať Teams / prípadne ALITEO meeting / prípadne tento tiket eskalujem na Váš support projekt, aby to bolo úplne čisté a v súlade s procesmi v ALITEO 🙂 Tento týždeň dokončujem manuál na IS KARAT pre našu zákaznícku úpravu, tak sa sústredím na to, ale budúci týždeň by sme to mohli naplánovať."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ved kludne si to naplanujme, aspon budete mat milnik. Dalsi tyzdne Vam to kedy vyhovuje? Napriklad utorok 9.9.2025 o 10:00 ? Ak ano, potom by som tuto ulohu pozastavil dovtedy.."
+    },
+    {
+      "creator": null,
+      "comment": "Pravdu vravíte,  môže byť. Pošlete mi pozvánku na MS Teams stretnutie na e-mail tomas.polak@3ec.sk ?  Rozmýšľam, že si Vás pridám ako externistu do môjho projektu a spravíme meeting priamo v Aliteu a vyskúšame si funkcionalitu porady, čo vy nato ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Áno, pozvánku som odoslal, prikladam link aj tu: MS Teams Kľudne môžeme na tento účel vyskúšať. Prizvite ma do porady, ak ma potom pri jednotlivych bodoch date ako prezentujuceho spolu s vami, budem sa na ne moct dopredu pripravit. pozastavujem teda ulohu do dátumu konzultácie"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ tomas.polak@3ec.sk (tomas.polak@3ec.sk) ja som Vas takisto pozval do spolocnosti ALITEO a pridal do projektu Support. Napiste mi, ked tu budete a nasledne Vam rpehodim aj tickety aby ste videli tento uz v aplikacii a nemusite emailovat."
+    },
+    {
+      "creator": null,
+      "comment": "Uno perfekto, vidím projekt support Aliteo, takže sa môžeme hrať priamo tam. Inak toto bude dobrý spôsob ako implementovať ALITEO do našej firmy, že ja budem ten čo sa im nadáva early adopters / piooneer ,  budem v tom evidovať všetky požiadavky na mňa, na zákaznícke projekty, projekt IS Karat, zosynchronizujem Outlook calendár, nastavíme nejak rozumne posielanie e-mailov z outlook-u rovno do niektorého projektu + budem mať jeden centrálny service desk, z ktorého budem preposielať (eskalovať / premiestnovať (interne) ) tikety na partnerov, či už k Vám, na Karat, alebo ešte jedného dodávateľa čo máme, tí používajú toto https://www.znuny.org/en . A keď to bude efektívne, a že bude, vytvorím si disciplínu, budem ukazovať aj ostatným ako sa dá efektívne riadiť svoj čas (plán / vykazovanie ) , úlohy a každý projekt a postupne tam začnem pridávať ostatných kolegov, taká Alitero evolúcia, miesto revolúcie, to ide vždy s menším mentálnym odporom :)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Super, tak vlastnika tejto ulohy menim z anonymneho emailu na Vas ako poznaneho uzivatela.. budete vidiet tuto ulohu uz v ALITEO No mozete aj ich motivovat k tomu aby presli zo znuny na ALITEO 🙂 vzhladom na to, ze to riesi len ticket a ALITEO by im mohlo pomoct aj inde. Takze opat pozastavujem ulohu do 9.9.2025."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "vďaka. Myslím si, že hlavný faktor tam zohrávajú peniaze, ten Znuny je open source a ak som správne pochopil free. Nemám nič proti open sourcom aj ja hľadám alternatívy voči Atlassian produktom, ale treba si uvedomiť, že všetko niečo stojí, musí tých vývojarov niekto živiť 🙂), takže nič nie je zadarmo a ak chceme mať ďalší vývoj, support, ... tak skrátka platíme za pridanú hodnotu, ktorú nám tie appky prinášajú. Okey, koniec filozofovania ide sa pracovať, vidíme sa toho 9.9. skúsim tam hodiť nejaké body (vytvorím tiket) a vytvorím meeting cez Aliteo."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pridam k tomu aj svoj poznatok, ked sme zacinali s automatizovanym testovanim tiez sme si nasli nejaky nastroj, ktory bol uplne free od tricentrisu tusim... mal komunitu, blogy atd.. Az jedneho dna sa tento pro bono projekt skoncil, cloudy sa vypli a cele nase usilie (cas aj peniaze) isli do kosa.. od tej chvile sa bojim veci ktore su zadarmo.. Tie body co chcete prebrat vytvorte ako body porady u seba.. a dajte ma za prezentujuceho, mne to pride ako upozornenie"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "máte automatické testovanie ? wow, mne sa asi sníva. To som naposledy na projekte zažil v SAPe v 2010 a odvtedy už nikde, lebo ľudia nerozumeli prínosom automatického testovania na projektoch + bolo to pre nich drahé, ale cenu odstraňovania regresií, platy konzultantov, ľudí čo sa natrápili s ďalším odstraňovaním chýb, prestoje vo výrobe nikto nerátal. Hovorí sa, že ak je niečo zadarmo produktom sme my 🙂 noooo teaz rozmýšlam, že som to mohol radšej dať ako body = odrážky v agende. Ja som to dal ako okdazy na tikety, ale tým pádom si uberám z 1000 rozpočtu aktívnych úloh, ale zas na druhej strane môžeme rovno zapisovať plnenie do tiketov a slúži to ako znalostná db. Skúste pozrieť, hodil som tam nalinkované tikety aj úvod a záver."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No, snazime sa - niektore rutinne testy nam bezia kazdy den, aby sme vedeli vopred ak nieco prestane fungovat Zaroven ladime proces a postupne budem pridavat dalsie.. to je samozrejme napojene na ALITEO takze zodpovedny clovek len skontroluje rano ci zbehli vsetky testy a  ked nie, zisti kde to padlo a rovno v ALITEO posiela na vyvoj na opravu.. takze taka je vizia a postupne to pridat. Bodmi porady myslim toto: Porady mame fakt vymakane 🙂 (cielom je nechodit s wordmi a excelmi na porady, byt na nich viopred pripraveny, odhadnut ci staci cas a samozrejem nasledne ukolovanie - teda clovek pride z porady a ma na sebe ulohy ktore plynu z porady. Zaroven na nich vidi ze ich dostal z porady)."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Je to perfektná vec. Úprimne ? ja si bez automatického testovania neviem predstaviť vývoj software. Keď som robil v SAPe Slovensko vo vývoji, tak sme mali na kolene vyrobený software na step recording a vytváral som skripty vo Visual Basicu a ako píšete, každý deň to išlo od rána do večera a malo to za cieľ odhaľovať regresie v iných častiach (moduloch) systému, ktoré dali developeri do produkcie. Keď ráno neprišla žiadna hláška nebolo čo riešiť. Viem si predstaviť že keby prišla hláška tak by to automaticky založilo tiket v Alieto alebo inom service desku a sledovalo proces ... A teraz keď som robil u partnerov SAPu, tak to bola jedna tragédia za druhou. Netestovalo sa, developer len tak od oka niečo manuálne pretestoval, tú oblasť čo vyvinul a potom miliarda problémov, projekty sa predražovali, predlžovali, opravovali sa chyby za chybou, čiže preto som povedal, že obrovská implementácia bez automatického testovania, je implementácia bezo mňa, taký adrenalín už nepotrebujem a nechávam priestor mladým a ambicióznym, ja chcem robiť poriadnu poctivú robotu 🙂 A k bodom. Už chápem. Teraz som sa s tým zahral. Ja som si vyfiltroval úlohy k projektu a potiahol som ich do programu schôdze. Tým pádom otvoríme daný tiket a hneď napíšeme plnenie prípadne zmeníme status. Vy ste vytvorili bod programu bez naviazania na tiket. A porady resp. proces som riešil keď som bol poslanec mestského zastupiteľstva. Uvedomil som si že to je vlastne proces, ktorý začína prípravou, zberom požiadaviek návrhov, čo poslanci / občania chcú prerokovať, zamestnankyne a odbory prikladajú materiály na rokovanie , potom je samotný priebeh zastupiteľstva, pravidlá hlasovania, na začiatku sa prechádzajú uznesenia z minulého zastupiteľstva, je tam priamy prenos pre občanov + dôkazová nahrávka. Po zastupiteľstve sú časové limity na vypracovanie zápisnice a zas sa zadali nejaké úlohy a plus začína znova proces prípravy na ďalšie zastupiteľstvo, zber podnetov, materiálov ... Je to proste procesný KRUH a to je na tom to krásne. A takto isto fungujú aj firemné porady a dá sa tými,obecnými / mestskými ktoré  sú prísne regulované zákonom, inšpirovať."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Presne tak, body porady bez vazby na ulohu su povedzme myslienky ktore clovek ma.. a ked sa rozhodne ze sa nerealizuje, da sa tam zapis a nie je treba nic rusit. Ak sa rozhodne ze sa to realizuje, tak sa cez tlacidlo vytvara uloha z tohto bodu, dava sa to na konkretnu cloveku a dalsimi krokmi. Naviac, ak sa nieco nestihe, daju sa body porady presuvat na dalsiu, pripadne duplikovat, ak si na to chcete nechat viac casu,. odhadujete cas.. takze ak robite celodenne porady a nechcete aby tam vsetci boli cely den, tak si potom viete vygenerovat pdf program porady a ludia vedia cca kedy sa maju zastavit. Je tam aj dochadzka, takze viete kto kedy sa zucastnil. Ak niekto chyba, vie si dodatocne pozriet aktivity a skontrolovat priebeh ktory zmeskal. Ak nie je dostupny teams, ma to aj videokonferenciu (nehrame sa na Teams, ani nebudeme asi tak premakani, ale uz sa stalo kedy teams vypadol a toto nas zachranilo). Skratka je to jedna z najlepsich veci v ALITEO a su dalsie plany a vizie - hlasovanie o napadoch, AI prepisy, teraz vo vyvoji mame aj to aby sa zapis v bode porady prepisal ako forma komentara priamo do ulohy... Mimochodomm, co sa tyka AI, uz teraz testujeme beta verziu a pomaha nam to na ulohach - mame ulohu s 40 komentarmi a potrebujeme rychly brief po case - je to bomba... Takze snazime sa napredovat ako to len ide.. 🙂"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "super, znie to veľmi dobre, vidím, že máte s poradami skúsenosti 🙂  A aj ten nápad s AI sa mi páči. Keď som sa túlal po komunitných stretkách Atlassianu v Prahe, tak tam jeden partner prezentoval ROVO https://www.atlassian.com/software/jira/ai Je to AI v Atlassiane a presne to robí také veci ako spomínate, takže klobúk dole, že vývoj u nás ide takýmito svetovými trendami."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za vyzivne stretnutie, prebrali sme snad vsetky veci. Mozeme tento pripad uzatvorit?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Aj ja ďakujem za Váš prístup a čas. Áno, takmer všetky témy sme prebrali, vysvetlili, ukázali ste mi aj iný pohľad na komplexnosť komunikácie, zatiaľ teda Aliteo budem používať ja a doplním aj kolegyňu aby sme rozbehli ten 3 úrovňoví helpdesk a ak sa naučíme pracovať s IS Karat a bude vôľa ísť do ďalšej mentálnej výzvy (prechod z e-mailov, papierikov a outlook úloh) do Aliteo tak budeme naše riešenie rozširovať, nakreslíme si ho a budete mi robiť oponentúru 🙂 Zatiaľ vďaka a všetko dobré. A áno, tiket môžem zatvoriť."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za pozitivnu spatnu vazbu a odpoved 🙂 Dufam ze sa Vam ALITEO bude pacit a pripadne ze bude mat otazky, nevahajte ma na supporte kontaktovat. Prajem pekny den :)"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "GJ @ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) 🙂 uz som ho aj Pavlovi dal podchytit ako partnera 🙂"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik @ Peter Ďurčák (peter.durcak@karatsoftware.sk) spominal mi to na poslednom call ze ste mu volali, ale nezdal sa chcel uviazat alebo tak.. ale rad bude odporucat dalej.. tak uvidime."
+    }
+  ]
+}

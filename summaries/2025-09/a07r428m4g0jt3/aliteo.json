@@ -1,0 +1,67 @@
+{
+  "id": "a07r428m4g0jt3",
+  "created": "2025-09-02T13:30:23.453Z",
+  "closed": "2025-09-07T14:02:05.262Z",
+  "duration_minutes": 7231,
+  "first_response_minutes": 44,
+  "name": "URGENTNÍ - platba za licence",
+  "description": "Dobrý den,\r\nPři pokusu o přidání 2ks licence do Alitea na celkový počet 43 licencí,\r\nSe vygeneroval QR kód pro platbu do Raiffeinsen banky, ten bohužel kolegovi na financích nefungoval, následně po zavření kód zmizel, máme pouze v historii, že se čeká na offline platbu, ale nejsou zde kromě variabilního symbolu žádné platební údaje, ani proforma faktura ani nic podobného.\r\nPotřebovali bychom licence vyřešit co nejrychleji platbu můžeme provést kartou nebo klidně tím QR pokud jej někde ještě lze najít a bude fungovat.\r\n\r\nCelková částka je s DPH 91,96€\r\n\r\nS pozdravem\r\n\r\nJan Šefčák\r\nZastupce reditele pro podporu a infrastrukturu\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< >\r\nwww.respect.cz< >",
+  "owner": null,
+  "priority": "Nejvyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 4,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dobrý deň, platbu sme z našej strany stornovali, môžete ju pokojne realizovať znova. Problém s QR kódom bohužiaľ nevieme riešiť, keďže jeho generovanie a spracovanie má plne v správe platobná brána GoPay. Odporúčame preto skúsiť platbu opätovne. Ak by problém pretrvával, odporúčame využiť platbu platobnou kartou – je okamžitá a zvyčajne bez akýchkoľvek komplikácií. V prípade ďalších otázok sme vám k dispozícii. S pozdravom,"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím Vás, platbu sme z našej strany stornovali, môžete ju pokojne realizovať znova. Problém s QR kódom bohužiaľ nevieme riešiť, keďže jeho generovanie a spracovanie má plne v správe platobná brána GoPay. Odporúčame preto skúsiť platbu opätovne. Odporúčame využiť platbu platobnou kartou – je okamžitá a zvyčajne bez akýchkoľvek komplikácií. V prípade ďalších otázok sme vám k dispozícii."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den,\r\nVelmi děkuji platbu je znovu možné zadat\r\nBohužel výběr platby kartou mám zašedlý, přitom dříve jsme kartou bez problémů platily, není možné to někde znovu povolit?\r\n\r\nJan Šefčák\r\nZastupce reditele pro podporu a infrastrukturu\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< >\r\nwww.respect.cz< >"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, ako ste postupovali? Isli ste cez \"zvysit k dnesnemu dnu\" ? a potom Vam to neumoznilo zaplatit kartou? Pokojne poslite printscreen.. dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "ano, nahoře vpravo u firmy ozubené kolo -> licence -> správa licence -> zvýšit k dnešnímu dni -> navýšení o 2 licence -> aktivní licence -> viz screen"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem, trochu sa obavam toho, ze pri navysovani nie je mozne zmenit metodu platby. Ze je to mozne az po ukonceni daneho obdobia ale zistim Vam to a budem Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zistoval som a je to tak, platobna brana nedovoluje zmenit platobnu metodu pocas trvania predplatneho - teda ak mate na rok prevodom, nie je mozne to zmenit na kartou. Skuste znova ten prevod prosim."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, převod jsme provedli\r\nBohužel QR platba ačkoliv máme raiffeisen nešla provést takže jsme provedli klasický převod dle údajů\r\n\r\nNyní v licencích vidím info – Čekáme na platbu\r\n\r\nBohužel nemáme tedy asi jak zjistit v kdy bude platba připsána k vám a licence přidány ?\r\n\r\nS pozdravem\r\n\r\nJan Šefčák\r\nZastupce reditele pro podporu a infrastrukturu\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 111, +420 227 200 105\r\njan.sefcak@respect.cz< >\r\nwww.respect.cz< >"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, nemame to ako zistit, kedze to je vec medzi bankami na co nema dosah ALITEO a ani platobna brana na zaciatku. Ako to piseme v upozorneni, niekedy to mozu byt hodiny ale aj dni.. ale verim ze to bude coskoro."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim Vas, zda sa ze platba zbehla v poriadku. Mozeme teda uzatvorit?"
+    },
+    {
+      "creator": null,
+      "comment": "ano licence se dnes ráno připsala, můžeme uzavřít"
+    }
+  ]
+}

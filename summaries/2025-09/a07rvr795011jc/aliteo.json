@@ -1,0 +1,59 @@
+{
+  "id": "a07rvr795011jc",
+  "created": "2025-09-09T07:20:09.701Z",
+  "closed": "2025-09-19T07:01:16.467Z",
+  "duration_minutes": 14381,
+  "first_response_minutes": 2,
+  "name": "vazba na vyjádření úkolu - při kopii do jiného případu se nezmění vzhled odkazu",
+  "description": "ve vyjádření v úkolu 318875 jsem napsal vyjádření s vazbou na vyjádření # 11 a to se správně aplikovalo - OK. vzal jsem toto vyjádření a CTRL + C ho vzal do klipboardu. v jiném případě kde je taky vyjádření 11 jsem tam nakopíroval to vyjádření - vše se správně vložilo, ale odkaz \"# 11\" mi zůstal jako # 11 - očekával bych změnu na tento vzhled: #318875 Dedikovaná DEMO verze pro testování ##11 Tedy aby bylo jasné, že to není vyjádření 11 z tohoto případu, ale z jiného.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, chapem, posuvam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) opravili sme do vyvojovej, este sa spytam ci sa neda aj do ostrej"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Jestli je vývojová alfa, tak ta je nějaká rozbití - se točí kolečko a nic: nespěchá to, klidně až s verzí."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "toto sa predpokladam riesi inde, otvoris alfu a hned chyba? inak tento by som zatvoril potom.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano otevřu alfu a hned chyba = nevyzkoušel jsem, takže věřím a toto zavřeme."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja to nahlasim.. dik"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) bolo nasadene aj do ostrej.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) opravili sme aj chybu ked si vstupil do alfy.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "super, dnes funguje."
+    }
+  ]
+}

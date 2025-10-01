@@ -1,0 +1,39 @@
+{
+  "id": "a07tuflqv00i84",
+  "created": "2025-09-24T12:14:09.263Z",
+  "closed": "2025-09-26T10:25:56.022Z",
+  "duration_minutes": 2771,
+  "first_response_minutes": 5,
+  "name": "Aliteo v Safari",
+  "description": "Dobrý den, můžete prosím prověřit funkčnost Aliteo aplikace v prohlížeči Safari 26.0 na Mac OS X 26.0? Po přihlášení se jen točí viz SCR a stránky se nenačítají. Zkoušel jsem promazat cache i anonymní okno, chová se stejně. Děkuji předem. S pozdravem Vít Sklář Project & Operation Leader +420 778 785 023 vit@symmy.com<mailto:vit@symmy.com> | www.symmy.com<https://www.symmy.com> [Screenshot 2025-09-24 at 14.05.11.png]",
+  "owner": null,
+  "priority": "Nejvyšší",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": "Nastavení společnosti",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, preverime aktualny stav a budeme Vas informovat. Ospravedlnujeme sa za neprijemnosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, s najvacsou pravdepodobnostou ide o chybu v novej verzii Safari. Skumame nase moznosti. Zatial odporucame iny prehliadac, napriklad Chrome. Ak budeme mat nove informacie, budeme Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Prave sme nasadili opravu a nemal by byt problem s aplikaciou ALITEO na Safari. Prosim o potvrdenie."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, díky moc, už to frčí! Ticket můžete zavřít. Díky moc!"
+    }
+  ]
+}
