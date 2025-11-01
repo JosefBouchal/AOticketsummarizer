@@ -1,0 +1,27 @@
+{
+  "id": "a081l4h8h01qih",
+  "created": "2025-10-23T07:25:57.467Z",
+  "closed": "2025-10-30T11:30:32.362Z",
+  "duration_minutes": 10324,
+  "first_response_minutes": 243,
+  "name": "Přiložení emailu do komentáře",
+  "description": "Dobrý den,\r\n\r\nDnes jsem zkoušel přiložit email do komentáře ticketu pomocí drag & drop a vloží se jen hlavička seznamu emailů (Od, Předmět, Přijato atd.)+ hodnoty emailu dle hlavičky, a nikoliv celý email. Mám pocit, že to dříve fungovalo, ale jelikož tento postup nepoužívám zase tak často, nejsem si jistý.\r\nTedy se chci zeptat, případně upozornit na problém.\r\n\r\nP.S.: Teď jsem si uvědomil, že používám PWA aplikaci, kde to nefunguje. Ve webové aplikaci je to OK, ale stejně mail raději posílám\r\n\r\nDěkuji,\r\nPetr Macek | IT Manager\r\nT: +420 226 227 140 | M: +420 606 617 062 | petr.macek@primagas.cz< >\r\nPRIMAGAS s.r.o. | Na Pankráci 30 | 140 00   Praha 4 | Czech Republic\r\nwww.primagas.cz< > | www.facebook.com/PrimagasCZ< > | ZELENÁ LINKA: 800 736 736\r\nPlynová láhev do 3 hodin od objednávky u vás. Nyní v Praze a v Brně. To je Primagas-express.cz< >\r\n[X]< >\r\n\r\nObsah tohoto e-mailu a jakékoli soubory k němu přiložené jsou důvěrné, určené pro výhradní využití jednotlivcem, nebo společností, kterým byl adresován a mohou být právně privilegované za účelem zachování diskrétnosti společnosti Primagas s.r.o.. Jestliže nejste adresát tohoto e-mailu a obdržel jste ho omylem, prosím vymažte tento e-mail a okamžitě upozorněte jeho odesílatele. Tento e-mail byl zkontrolován na přítomnost počítačových virů, ale může být stále infikován. Prosím, otestujte ho na přítomnost virů před jeho použitím. The contents of this e-mail and any attached files are confidential, intended for the sole use of the individual or entity to whom addressed and may be legally privileged to Primagas s.r.o. to maintain its confidentiality. If you are not the addressee, and received this transmission in error please delete this e-mail and notify its sender immediately. This e-mail message has been checked for computer viruses but it could still be infected. Please test it for viruses before use.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, na desktope by mala PWA aplikacia aj aplikacia v prehliadaci fungovat rovnako. Ale mozno si to mylite s pretiahnutim na ikonu novej ulohy (plus v ciernom kruhu v pravom dolnom rohu) - vtedy sa vytvara nova uloha kde sa do nazvu prenesie predmet emailu, do popisu ulohy telo emailu a do priloh ulohy prilohy z emailu. je to tak? Ďakujem"
+    }
+  ]
+}

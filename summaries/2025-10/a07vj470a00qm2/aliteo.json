@@ -1,0 +1,43 @@
+{
+  "id": "a07vj470a00qm2",
+  "created": "2025-10-07T06:53:47.086Z",
+  "closed": "2025-10-08T10:06:25.275Z",
+  "duration_minutes": 1632,
+  "first_response_minutes": 1,
+  "name": "Divný avatar a dvojitý zvoneček u sledujícího",
+  "description": "Nějakou chvíli byl špatně vykreslený avatar sledujícího viz obrázek Po refreshi se opravilo.",
+  "owner": "Lukáš Trunečka",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dakujem za report. Vieme nejako nasimulovat? Bez toho mi to vyvoj asi nema ako opravit.."
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Ahoj Dane, bohužel neumím... všiml jsem si toho, tak jsem to rychle vyfotil i s otevřenou F12, takže z toho obrázku by programátor nějaké tušení zdroje problému mohl mít. Když mu to předáš, tak nebude moct tvrdit, že nemá dost informací ;-) V F12 je vidět, že se tam některé části v dom stromu přidaly víckrát."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, tak to skusim prehodit..  chces nechat otvorene ci uzatvorit?"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Klidně uzavři. Díky ;-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lukas, bolo opravene do alfy."
+    }
+  ]
+}

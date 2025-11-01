@@ -1,0 +1,31 @@
+{
+  "id": "a080gbukg01cmj",
+  "created": "2025-10-14T09:14:32.645Z",
+  "closed": "2025-10-22T18:53:02.722Z",
+  "duration_minutes": 12098,
+  "first_response_minutes": 9,
+  "name": "eskalace do ALITEO společnosti - chyba",
+  "description": "při eskalaci případu #323098 Chyba synchronizace s ALITEO - informování uživatelů do společnosti ALITEO na případ #8138 Stav synchronizacie jsem dostal chybu: Application ERROR: System.ApplicationException: CompTask.fieldChangeTrigger: incorresponding root for reactionComponent (task id a07ujmqv504p3l, reaction a07uvfn5a01nu8) at Aliteo.CompTask.fieldChangeTrigger(CacheTransaction transaction, Field original, Field field) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Metadata\\CompTask.cs:line 901 at Aliteo.Component.fieldChangeWrite(CacheTransaction transaction, Field original, Field field, CacheTransactionItem item, Field original_) in d:\\_aliteoPublish\\release\\Aliteo.Cache\\Component.cs:line 722 at Aliteo.CacheTransactionFieldAdd.created() in d:\\_aliteoPublish\\release\\Aliteo.Cache\\CacheTransaction\\CacheTransactionFieldAdd.cs:line 44 at Aliteo.Component.setField(CacheTransaction transaction, FieldDefinition defField, String xstring, Nullable`1 xint, Nullable`1 xdec, Nullable`1 xdate) in d:\\_aliteoPublish\\release\\Aliteo.Cache\\Component.cs:line 988 at Aliteo.Component.SetFieldComponentPointer(CacheTransaction transaction, FieldDefinition defField, String pointerKey) in d:\\_aliteoPublish\\release\\Aliteo.Cache\\Component.cs:line 1289 at Aliteo.QueryTask.<>c__DisplayClass44_1.<<SetDone>b__2>d.MoveNext() in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\QueryTask.cs:line 2344 --- End of stack trace from previous location --- at Aliteo.IEnumerableExtensions.ForEachAsync[T](IEnumerable`1 array, Func`2 action) in d:\\_aliteoPublish\\release\\Aliteo.BaseTypes\\Utils\\IEnumerableExtensions.cs:line 84 at Aliteo.QueryTask.<>c__DisplayClass44_0.<<SetDone>b__1>d.MoveNext() in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\QueryTask.cs:line 2318 --- End of stack trace from previous location --- at Aliteo.CacheTransaction.Run(IContext context, Func`2 action) in d:\\_aliteoPublish\\release\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 425 at Aliteo.CacheTransaction.Run(IContext context, Func`2 action) in d:\\_aliteoPublish\\release\\Aliteo.Cache\\CacheTransaction\\CacheTransaction.cs:line 430 at Aliteo.QueryTask.SetDone(QueryInfo qi, QueryParamsTaskDone xparams) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\QueryTask.cs:line 2316 at Aliteo.QueryTask.SetDone(QueryInfo qi, String xparams) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\QueryTask.cs:line 2278 at Aliteo.Queries.Execute(Cache cache, CompUser compUser, String applicationId, NameValueCollection query, String timeZone, String userAgent, String requestData, String addactivity, Int32 cacheId, Int32 requestId, Boolean behalf, String authEmail, String authName, String authClaims, QueryParamsCache clientSocketCache, String requestQuery, String requestPath) in d:\\_aliteoPublish\\release\\Aliteo.Data\\Queries\\Queries.cs:line 944",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, predal som na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Opravili sme chyby a vzhladom na to ze sa to da obachadzat a to tak ze eskalovanu ulohu mozes zluscit s existujucou (ta eskalovana musi byt tak ktora ostane a nie je zrusena) ma malu prioritu vyvoj dodatocne eskalovanej ulohy. Mozno budeme riesit v buducnosti."
+    }
+  ]
+}

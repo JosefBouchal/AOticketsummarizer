@@ -1,0 +1,27 @@
+{
+  "id": "a081goaudg0ulh",
+  "created": "2025-10-22T05:54:37.716Z",
+  "closed": "2025-10-29T05:57:08.252Z",
+  "duration_minutes": 10082,
+  "first_response_minutes": 1,
+  "name": "Dotazy Rudos Ruzomberok",
+  "description": "Uloha pre pripadne dotazy zo strany p. Bobulu",
+  "owner": "Bobula Peter",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobry den Pan Bobula, zadal som tuto ulohu ako ste si priali, mozete sem vpisovat otazky, pripadne mozeme kompletovat otazky k nasmu osobnemu stretnutiu."
+    }
+  ]
+}

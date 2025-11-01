@@ -1,0 +1,55 @@
+{
+  "id": "a080sqpftg1dlq",
+  "created": "2025-10-17T09:50:55.958Z",
+  "closed": "2025-10-24T16:03:32.153Z",
+  "duration_minutes": 10452,
+  "first_response_minutes": 66,
+  "name": "Prístup užívateľa do projektu v spoločnosti KARAT a 3EC",
+  "description": "Pozdravujem. Potreboval by som preveriť a vyriešiť prístup užívateľa zuzana.maslikova@3ec.sk v spoločnosti KARAT na projekte #289 3EC International a.s. . Medzi užívateľmi projektu ju vidím ale má status Invitation miesto External ako iný užívatelia, ktorých môžem pridať medzi Followerov (treba im preposlať pozvánku, resp. musia ju potvrdiť ? )",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 3,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Ešte prikladám screen shot obrazovky p. Maslíkovej ak si chce pozrieť tiket kde som ju pridal ako sledovateľa (firma Karat, projekt 3EC International a.s.)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, toto nie je asi spravne miesto kde eskalovat projekt, kedze toto je cislo technicky support aplikacie ALITEO a vy popisujte problem KARAT. Ale skusim poziadat kolegu aby sa vyjadril k tomuto."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Petr, prosim Ta, ide o zakaznika asi Sango, vies sa na to pozriet, pripadne mu odpisat aby zalozit pripad na spravne miesto do spolocnosti KARAT?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Okey, takže veci súvisiace s aplikáciou Aliteo vo firme  KARAT na projekte 3EC International mám eskalovať priamo na ten projekt ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No berte ze ALITEO je ako iny softweare, napriklad Outlook. Ak mate problem, že Vam prestava fungovat, je to vec na ticket pre Microsoft ale ak nevidite niekoho v adresari alebo miestnosti, tak je to vec nastavenia a idete za Adminom. Takze v ALITEO podobne.. ak sa Vam zda ze funkcnost nie je podla predstav tak je to na nas.. (to by bol pripad keby ste vy pozvali kolegu a on nedostal pozvanku napriklad, ze nikto iny to ovplyvnit nevie) ale ked to moze byt iba vecou nastavenia, potom treba ist za clovekom, ktory toto dokaze zmenit. A kto vie mozno sa to potom vrati aj k nam, ak zistime ze nastavene vsetko spravne a nieco nefunguje..  🙂 snad som Vas velmi nezamotal, len som to chcel vysvetlit, ale aj tak predpokladam ze to chapete.."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "nn nezamotal úplne jasné, pokiaľ ide o aplikáciu samotnú a jej technické nastavenie resp. funkčnosť ide to do support tímu produktu a pokiaľ ide o užívateľský účet resp. nastavenia tak za adminom resp. App. Management Team.  Tak uvidíme, kde je problém. Ja si myslím, že tým že majú status invitation tak neprijali pozvánku a až po jej akceptovaní sa zmenia na internal / external. Ale to je len hypotéza."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ano, musí přijmout pozvánku, nyní poslána, pokud nepřijde, tak URL vložím sem."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "tak som rad ze sme sa pochopili.. Mimochodom z technickeho pohladu, ak ma na sebe \"pozvanka\" / \"invitation\" znamena ze neprijala pozvanku, ktora jej bola odoslana na email. Ak ju nenajde (aby ju prijala) tak je treba poziadat kompetentnu osobu, ktora jej posle pozvanku znova. Kazdopadne by ale malo platit, ze by ste ju medzi sledujucich/followers mali mat moznost pridat aj v tomto stave (bez pozvania)"
+    }
+  ]
+}

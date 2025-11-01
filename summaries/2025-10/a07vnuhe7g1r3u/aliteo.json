@@ -1,0 +1,35 @@
+{
+  "id": "a07vnuhe7g1r3u",
+  "created": "2025-10-08T10:59:26.236Z",
+  "closed": "2025-10-24T07:18:47.847Z",
+  "duration_minutes": 22819,
+  "first_response_minutes": 28,
+  "name": "Dashboard - doplnit osu X o možnost \"štítek\"",
+  "description": "nyní jsou v Aliteo štítky pro dané projekty a tak se začaly více využívat. Z toho vzniká potřeba mít to i na ose X, abych věděl kolik mám jakých štítků.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": null,
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, skusal som to niekolkrat, ale nepodarilo sa mi to presadit.. @ Peter Ďurčák (peter.durcak@karatsoftware.sk) nepamatas argumenty preco to nepreslo prosim?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: dohoda, ze to zaplanujeme do vyvoja."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) zaplanovane do vyvoja, neviem este kedy, ale postupne to implementujeme.."
+    }
+  ]
+}

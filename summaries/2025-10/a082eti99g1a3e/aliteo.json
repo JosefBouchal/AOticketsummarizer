@@ -1,0 +1,39 @@
+{
+  "id": "a082eti99g1a3e",
+  "created": "2025-10-29T13:37:30.439Z",
+  "closed": "2025-10-30T07:11:38.043Z",
+  "duration_minutes": 1054,
+  "first_response_minutes": 450,
+  "name": "Smazání člena",
+  "description": "Dobrý den,\r\n\r\njak prosím z company odmažu interního člena a nahradím jej novým?\r\n\r\nDíky a hezký den\r\n\r\nBest regards | S pozdravem\r\n\r\nTomáš Novák\r\nWarehouse supervisor | Vedoucí skladových částí\r\n\r\nNOVIKO s.r.o. - Letiště Brno - Tuřany  964/13 - 62700\r\nM: +420 720 061 074\r\ntomas.novak@covetrus.com< >\r\nwww.noviko.cz< >\r\n\r\n[A blue text on a black background  Description automatically generated with low confidence]",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, ak ide odstranenie clena, tak najdete ho v nastaveni spolocnosti a v zalozke pokrocile, ho zakazete a odpojite. Ak by islo cisto len o uvolnenie licencie, mozete toho uzivatela zmenit z interneho na externeho. Sice tam su dalsie kroky, ktore je treba spravit, ale odstranenie Vam asi bude stacit"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, když jsem ho přepnul na externího, tak se mi místo v licenci neobjevilo:"
+    },
+    {
+      "creator": null,
+      "comment": "Jo už to mám, měl jsem to špatně. Díky 🙂"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Super, som rad ze vyriesene. Prajem pekny den."
+    }
+  ]
+}

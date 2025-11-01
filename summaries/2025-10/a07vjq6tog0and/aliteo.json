@@ -1,0 +1,22 @@
+{
+  "id": "a07vjq6tog0and",
+  "created": "2025-10-07T10:54:03.375Z",
+  "closed": "2025-10-07T11:04:42.579Z",
+  "duration_minutes": 10,
+  "first_response_minutes": null,
+  "name": "",
+  "description": "...*Předmět* *emailu*...\r\nJde o testovací email.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 0,
+    "from_owner": 0,
+    "from_others": 0,
+    "unique_authors": 0
+  },
+  "comments": []
+}

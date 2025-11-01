@@ -1,0 +1,31 @@
+{
+  "id": "a07uvilui01nu8",
+  "created": "2025-10-02T13:01:17.806Z",
+  "closed": "2025-10-06T06:53:02.825Z",
+  "duration_minutes": 5391,
+  "first_response_minutes": 1404,
+  "name": "Prečo nie je moje meno ponúkané v \"Spomenúť užívateľa\" cez @",
+  "description": "Roman Svobodník  (externý užívateľ nášho ALITEa) mi poslal video, že ma chce spomenúť v úlohe (v ktorej som mimochodom aj ako Sledujúci) , ale moje menu mu neponúka. Keď zadá len @, vybehne mu zoznam, ale v tom zozname nie som. Ak zadá @a tak sa mu vyfiltrujú mená, na ktorých tiež nie som. Tento užívateľ, ktorý ma chce spomenúť, nie je vlastník úlohy, len sledujúci.  Video posielam v prílohe. Je to o nejakom nastavení? Ja keď to skúšam, tak samu seba vidím :)",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahoj Mária, funguje to tak, že externý používateľ môže označiť iba externých používateľov v rámci daného projektu . Interných používateľov nemá možnosť označiť výnimkou sú len tí, ktorí sú priamo nastavení ako riešitelia daného prípadu."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Aha, ďakujem za vysvetlenie, v tom prípade asi môžeme uzavrieť."
+    }
+  ]
+}

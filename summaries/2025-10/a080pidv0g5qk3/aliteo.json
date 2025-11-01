@@ -1,0 +1,79 @@
+{
+  "id": "a080pidv0g5qk3",
+  "created": "2025-10-16T14:51:02.414Z",
+  "closed": "2025-10-29T11:28:11.599Z",
+  "duration_minutes": 18517,
+  "first_response_minutes": 54,
+  "name": "Mobilni aplikace Aliteo vs Android",
+  "description": "Dobrý den,\r\n\r\nNašel jsem na GooglePlay aplikaci Aliteo (v 1.1.13), nicméně po instalaci se mi appka zastaví na úvodní bílé stránce s logem AO a dál se už nic nestane.\r\nTestováno na Samsung S10 s Android 12 resp. Samsung S23 s Android 16.\r\nCo je třeba udělat, abych se dostal dál na přihlašovací obrazovku?\r\n\r\nPředem díky.\r\n\r\nMartin PŘIKRYL\r\nIT Coordinator\r\nLesaffre Česko & Lesaffre Slovensko\r\n\r\nMob. +420 739403300\r\nHodolanská 34, 779 00 Olomouc, Czechia\r\n\r\n[Image001]\r\n\r\n[Image002]< >  [Image003] < >   [Image004] < >   [Image005] < >\r\n\r\nm.prikryl@lesaffre.com< > - www.lesaffre.cz - www.lesaffre.sk< > - www.lesaffre.com\r\n\r\nZvažte, je-li nutné tento e-mail vytisknout. - Please only print this email if it is necessary.\r\n\r\n[Image006]< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 14,
+    "from_owner": 4,
+    "from_others": 10,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, mohli by ste nam poslat printscreen? Prihlasenie cez web Vam funguje?"
+    },
+    {
+      "creator": null,
+      "comment": "Dobry den,\r\nprintscreen v priloze. Pres web se prihlasim.\r\n\r\nMP\r\n\r\nZasláno z Outlooku pro Android< >\r\n________________________________"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "David, ako navrhujes dalej postupovat? Co sa ho mam spytat? Ja problem na xiaomi s androidom nemam. Pozn. sme v supporte, prosim pouzivaj interne komentare ak nechces aby zakaznik videl. Ale mozes sa prismo spytat aj jeho nech nie som proxy len."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Zatím si prvně nainstaluji emulátory zařízení od samsungu a v nich se pokusím nasimulovat reklamovanou chybu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Snazime sa zistit kde by mohol byt probklem, nakolko na nam dostupnych android zariadeniach neevidujeme tento problem. Mojim laickym okom mi to pride ako blokovanie pripojenia alebo nieco take. Ak by som mohol poprosit, ak ste uz neskusili, tak skuste: - zmenit internetove pripojenie (wifi/data) idealne bez VPN alebo inej proxy, aby sme vylucili ze tomu brani niekto medzi vami a ALITEO - odinstalovat a nainstalovat aplikaciu My zatial nespime a snazim sa pomocou emulatora zistit kde mohol nastat problem."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, opravuji původni informace. Pokud se prihlasim pres mobilni Operu, tak prihlaseni projde a do Aliteo se dostanu. ALE pokud pouziju EDGE, tak se po zadani prihlasovacich udaju spusti APPka a zustane trcet na jiz zminovane bile obrazovce s AO logem tzn. pres web s pomoci EDGE se neprihlasim. Reinstall APPky jsou uz zkousel a ruzna pripojeni taktez. Bez pozitivni zmeny. Pridavam vic info zarizenich: S23 s Andr16 je firemni tzn. bezpecnostni soft Harmony Endpoint S10 s Andr12 js soukromy bez firemnich VPN a bezpecnostnich SW"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Vykaž si 2hod: snaha nasimulovat případ: v emulátoru, na reálných zařízeních, hledání v errors."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Môžme sa na to pozrieť počas nášho spoločného callu, ktorý máme tento týždeň. Ak by sa dalo tak aby ste mi ukázali, teda pripojili sa na teams cez telefón a zdieľaním obrazovky ukázali čo sa deje. Bolo by to možné? To čo popisujete sa deje veľakrát vtedy pokiaľ máte urobenú aj pwa aplikáciu ( ako záložku z prehliadača) a zároveň ak si nainštalujete aplikáciu zo storu. Ak potom otvoríte tu pwa aplikáciu tak vás to potom prehadzuje do tej natívnej a tam sa to sekne čiže je treba mať len tu inštalovanú (bez pwa)."
+    },
+    {
+      "creator": null,
+      "comment": "Určitě ano. Zástupce mám v S23 vytvořen, nicméně ani po jeho odstranění se nic nemění. S soukromém telefonu žádný zástupce nemám. Je pro běh appky nutný jaký prohlížeč v mobilu? Edge, Chrome?"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Aplikace pro android je předělaná po vzoru iOS. Chtělo by vykomunikovat, jestli to pomohlo. \n\nVerze aplikace je 1.1.14\nV Obchodě Play verze aplikace vidět jde."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim pan Prikryl, aplikacia bola prepracovana a mohlo by to mat vplyv aj na problem ktory mate. Prosim skuste si aktualizovat aplikaciu a skusit sa prihlasit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "P. Prikryl je do 29.10 OoO, tak si dat na to pozor aby sa uloha neuzatvorila"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, po aktualizaci je přihlášení funkční a aplikace funguje. Děkuji za nápravu. MP"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem pekne a som rad ze je to v poriadku."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "a080c18bdg0qg7",
+  "created": "2025-10-13T07:59:36.591Z",
+  "closed": "2025-10-20T13:24:46.542Z",
+  "duration_minutes": 10405,
+  "first_response_minutes": 34,
+  "name": "zadání úkol - rozšířit o vazbu na přílohu",
+  "description": "při zadávání úkolu není monžé využít některé prvky odkazu na vyjádření atd - to chápu, protože není i když ten stejný je pak použit i v případu a možné by to pak našlo uplatnění, protože již v zadání (tedy v tom co se má dělat), bych se ohl odkázat na vyjádření ##40 a bylo by. Co mě tam ale chybí a řeším, tak je vazba na přílohy. Při vkládání mohu dát přílohu, ale už se v zadání na ni neodkážu. Musím to uložit, jít do příloh (tam není pod 3 tečkama získat odkaz jak bych čekal), takže jde na název přílohy, zkopírovat odkaz (takže to na telefonu taky nejde tímto způsobem) a pak jdu editovat zadání a tam vkládám odkaz na přílohu jako URL odkaz. takže přidání Ikonky - by bylo fajn.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, tak postupne 1. odkaz na vyjadrenie pri zadavani novej ulohy (predpokladam ze inej, kedze nova uloha komentare este nema) - existuje uloha A a ja idem vytvarat ulohu B - v popise ulohy B by malo byt mozne #A##10 ist urobit - alebo sa pytas na nieco ine? 2.  odkaza na prilohy v novej ulohe - vytvaras teda ulohu B, v nej prilozis prilohy tie ulohy su este len niekde v cache takze je logicke ze na ne neexistuje odkaz - odkaz na prilohu by teoreticky mohol byt pridany do troch bodiek, ale mal by byt v tooltipe (po ulozeni logicky) - pridanie ikonky akej? kam? - riesenie: zalezi o aku prilohu ide - preco nehodis tu prilohu do popisu tej ulohy takisto (teoreticky by slo dat len do popisu a spytat sa vyvoja ci nemozeme aj tu nastavovat, aby sa pridala do priloh)"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "tak jinak. Vytvoření případu: není možné vložit přílohu přímo do vyjádření - to mě asi netrápí, ale nabízíš jako možnost. mohu vložit soubor do příloh ale neodkážu se na něj v textu - to je to co bych chtěl. Editace úlohy a editace POPISu: - zde jde vložit příloha dovnitř - ok - stále zde nemohu vložit odkaz na přílohu - i když už to není v cache. - nemohu zde vložit odkaz na vyjádření ikony byly myšleny ty, co mi dělají funkci přidání přílohy, odkaz na komentář atd."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "1. vytvorenie ulohy - vysvetlene -treba urobit drag and drop do miesta popisu ulohy na poradu: 2. v popise ulohy (v editaci) - odkazy na komentare a prilohy"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "z porady: - realizujeme, do popisu bude mozne pridat odkaz na komentar alebo prilohu - @ Peter Ďurčák (peter.durcak@karatsoftware.sk) prosim vytvor ulohu a zaplanuj do vyvoja"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaplanovane."
+    }
+  ]
+}

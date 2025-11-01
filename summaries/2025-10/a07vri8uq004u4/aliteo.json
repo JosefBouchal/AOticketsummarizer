@@ -1,0 +1,51 @@
+{
+  "id": "a07vri8uq004u4",
+  "created": "2025-10-09T08:03:34.281Z",
+  "closed": "2025-10-10T09:54:42.802Z",
+  "duration_minutes": 1551,
+  "first_response_minutes": 51,
+  "name": "Nezrealizovaná platba - Aliteo",
+  "description": "Dobrý den, měla bych prosbu, dnes se nezrealizovala platba z důvodu limitu – viz výstřižek. Jaký bude prosím postup, bude se dnes realizovat automatické platba znovu nebo zašlete fakturu a provedeme úhradu příkazem ? Předem děkuji. S pozdravem a přáním pěkného dne Ilona Remešová Nákupní manažerka [Image002] ELTON hodinářská, a.s. Náchodská 2105 | 549 01 Nové Město nad Metují M: (+420) 730 855 366| E: ilona.remesova@prim.cz< > www.prim.cz< > | Facebook< > | Instagram< > | Twitter< > | YouTube< > UPOZORNĚNÍ Informace obsažené v tomto e-mailu a všech připojených souborech jsou důvěrné, mohou být chráněny zákonem a jsou určené výlučně příjemci. Nejste-li zamýšleným příjemcem, je zakázáno jakékoliv zveřejňování, zprostředkování nebo jiné použití těchto informací. Obdrželi jste e-mail neoprávněně, informujte o tom prosím odesílatele a vymažte neprodleně všechny kopie tohoto e-mailu i všech jeho příloh.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, chapem spravne, ze Vam nejde nijako zaplatit. Delegoval som tento problem na vyvoj, budeme to hned riesit. Kazdopadne o chod systemu sa bat nemusite, v pripade nezaplatenia tam je este ochranna doba niekolko dni. Dovtedy tento problem vyriesime. Dakujem a ospravedlnujems a za neprijemnosti, budem, Vas informovat"
+    },
+    {
+      "creator": null,
+      "comment": "Hezký den, bohužel nastavený limit na kartě nebyl dostatečný k provedení platby, takže chyba je na naší straně. Předem děkuji za info, jak napravíme. Krásný den přeji."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zasa na nasej strane bol problem s tym, ze nie je jasne ako mate pokracovat. Takze napravime a budem Vas informovat."
+    },
+    {
+      "creator": null,
+      "comment": "Dobré ráno, dnes přišla zpráva, že se prodloužení licence nepodařilo Kolegy, kterým zpráva také chodí jsem informovala, že je v řešení, aby nebyla panika."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, nasadili sme opravu. Skontrolujte prosim licenciu, mali by ste mat dostupne tlacidlo zaplatit. Informujte ma potom prosim"
+    },
+    {
+      "creator": null,
+      "comment": "Moc děkuji, otestovali jsme dostatečně, poprvé nám znova neprošlo, tak až na druhý pokus - platba zrealizováno a nyní je vše v pořádku. Děkuji za pomoc, úkol možné zavřít. Přeji krásný víkend, IR"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ďakujem veľmi pekne za odpoveď, som rád že všetko dopadlo v poriadku."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "a07vsjthk010hb",
+  "created": "2025-10-09T14:11:02.804Z",
+  "closed": "2025-10-28T07:07:01.860Z",
+  "duration_minutes": 26935,
+  "first_response_minutes": 1106,
+  "name": "Připomínky - \"Zeptat se AI na úkol\"",
+  "description": "Ahoj, navrhuji udělat otestování AI v sumarizaci úkolů - mě nyní vychází jednoznačně lépe free copilot co je v EDGE (nevím omezení použití) u delších textů - na to se právě AI hodí.  viz např. kdy jsem nebyl schopen na několik pokusů získat info, co copilot v EDGE vrátil hned. Možná to je jen o fine tuningu použitého modelu, nebo malých úpravách s velkým dopadem : -)",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, prosim Ta o co islo, kde nastali rozdiely. Resp polozil si rovnaku otazku AI aj Copilotovi? Mizes sem vlozit komentar, pripadne odkaz na ulohu a takisto prompt ktory si zadal?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "nechal jsem vše v printscreenu - úkol #4694 Redesign HTML klienta tak, aby odpovídal aktuálním standardům v oblasti UI a UX (KA:235558) zkoušel jsem shrnutí bez časového omezení, a pak se dotázat přímo viz printscreen.  Není to ale jen o tomhle konkrétním příkladu.  Zajímalo by mě jak se to bude dál vyvíjet, protože je AI v případech velká poptávka."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) prosim ta, ty sa asi k tomu budes vediet asi lepsie vyjadrit.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahoj uplne neviem v com je uplne problem. Toto to vyhodilo mne. Je to ocakavany vysleodk? Respektive, AI na ostrej zatial nema kontext nevie kto pise komentare iba ma cisty text. Ako doladi nejake detaily a nasadime na ostru novu verziu, ktora uz ma vsetky data nad ukolom. Oliver, teraz pracuje nad generalnou AI ktora bude nad celou spolocnsotou. Vedlei by sme sa prepnut na vykonnejsie modely, ale budeme to risit ked to budeme pusatat na vsetkych. V Kazdom pripade, ja som dostal takuto odpoved. @ Juraj Matěj (juraj.matej@karatsoftware.cz) skus pls pozriet, ci je to lepsie, respektive ak tak uved konkretne vyhrady aby sme to skontrolovali."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "rozumím, ale už např. to přečíslování, když píšeš, že má číslování zachovat... když to vykopíruji ven, tak mi ostatní LLM vrací to co chci. Já jsem to už dále nezkoušel, často se po minutě nic neděje ,  copilot v edge reaguje hned (aspoň vidím jak postupně píše).  Na tom často stojí použitelnost nástroje. Nevím, jak se sbírá zpětná vazba k AI v AO, já vás nechci zahlcovat požadavky, ale nevím jak lépe zkušenosti poskytnout"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Rozumiem, to co momentalne mate k dispozicii je beta verzia, ktora bola pustena bez testovania pred KK2025. Dlhsiu dobu bol probelem s odozvou, nakolko sme neboli schopny vyplnit jeden dotaznik smerom k AZUR (problem dostupnosti niektorych ludi v KARAT), aby nas preradili a navysili nam komunikacne tokeny. Teda to padalo, lebo sa v danom case vycerpali testovacie tokeny. Cize mame uz vyladenejsi model s viac datami a lepsou presnostou. Fikcia pisana je v plane, ale momentalne ideme po funkcnosti a ked sa to pusti medzi zakaznikov budeme doladzovat presne tieto deatily."
+    }
+  ]
+}

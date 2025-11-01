@@ -1,0 +1,43 @@
+{
+  "id": "a07unj3lfg0osj",
+  "created": "2025-09-30T14:29:46.551Z",
+  "closed": "2025-10-01T08:40:37.703Z",
+  "duration_minutes": 1090,
+  "first_response_minutes": 109,
+  "name": "Duplicitní číslo komentáře",
+  "description": "V případu: https://app.aliteo.com/task/a07t8ruvt01t7s/?view=comments Mám duplicitní komentář ##59\r\nTy dva komentáře mají různé ID: https://app.aliteo.com/comment/a07unhmc6g0i9l/ https://app.aliteo.com/comment/a07unhmc700i9l/ Vzniklo to tak, že jsem dal Odeslat komentář. Trvalo to dlouho řekněme 5 sekund, tak jsem stlačil znovu Odeslat.\r\nStalo se to ze sítě KSW, od otevření případu do odeslání komentáře jsem se nijak neodpojoval od sítě (od otevření do odeslání komentáře to nebylo víc jak půl hodiny).\r\nVíc informací k tomu asi neumím dát. Vadný výsledek vidíte.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, nemam pravo na tu ulohu, ale posielam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) vyvoj by to chcel riesit, avsak nedokazu to nasimulovat... asi nedokazu urobit tych 5 sekund prikladam vyjadrenie od Allana: Sice vidím výsledek a chápu že je tam někde problém, nicméně nedokáži nasimulovat a neumím řešit. Po stisku tlačítka Odeslat se zobrazí \"Akce probíhá...\" + celá aplikace překryje průhledným blanketem který nedovolí jakoukoliv interakci, takže tlačítko Odeslat podruhé nemá jít stisknout a dle mého testu ani skutečně nejde. Tedy nedokáži řešit."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Já tam blanket neměl. Po prvním kliknutí to vypadalo, jako kdybych nekliknul. Po druhém kliknutí přiskočily současně dva komentáře. Allan se mě na to ptal. Víc informací neumím podat. HAR k tomu nemám, protože nemám běžně zapnutou F12. Nasimulovat to neumím. Stalo se mi to poprvé. Případ asi uzavři. Třeba si příště něčeho všimnu. Nebo si Allan do programu doplní nějaké ladící informace, které zobrazí, když nastane stejná situace. I bez nasimulování, jde jistě situaci ošetřit na serveru tak, že duplicitní vložení ohlásí chybu, klient na ni pak může reagovat, nebo se o chybě bude alespoň vědět. Nebo se na klientské straně nemusí spoléhat na UI blanket a může si držet bool, zda \"Akce probíhá\" - nedovolit zahájení druhé. Nebo ještě můžu zkoušet hypotézy, že třeba ten blanket tam byl (nepozorovatelně krátce) a něco ho vypnulo (třeba odeslání souboru) apod. Může být ještě zajímavé to, že ty dvě ID mají od sebe 10ms a jsou to tedy dvě ID, které jdou bezprostředně za sebou (minimální kvantum). Jakože to možná vzniklo jedinou zprávou k serveru."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dik za dodoatocne poznamky, preposlal som na AKO a uvidim ci to nejako bude riesit.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "preposlane na AKO, uloha vo vazbach, nechce to riesit, kedze sa to nedeje casto a je problem to nejako simulovat"
+    }
+  ]
+}

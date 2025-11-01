@@ -1,0 +1,39 @@
+{
+  "id": "a080ondn0g122m",
+  "created": "2025-10-16T09:56:02.571Z",
+  "closed": "2025-10-20T06:48:16.998Z",
+  "duration_minutes": 5572,
+  "first_response_minutes": 67,
+  "name": "Projekt - Sekce - po vyfiltrování se zobrazují",
+  "description": "když na seznamu sekcí na projektu vyfiltruji  přes filtr na sekce, tak jsem čekal, že mi to zobrazí jen sekce co mám vyfiltrované - zobrazuje všechny, ale nezobrazuje tam data: Toto chápu, když bych filtroval za případy, ale já filtruji za Sekce. je tedy možné schovat ty sekce, které nemají případy nebo aspoň když filtruji za sekce, tak schovat sekce, co nechci zobrazit?",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Projekty",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, chapem tvojmu pointu avsak to filtruje len ulohy a nie aj to zobrazenie. V pravom hornom rohu vies skryt sekcie ktore neobsahuju ulohy. Naviac vo vyvoji mame zalozeny pripad aby sa toto anstavenie pamatalo v local storage, takze sa ti to potom nebude samoaktivovat.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "no sice si můžu sbalit, ale stále tam jsou a nejsou sbalené ty co tam nic nemají jen jejich podřízené - to je tedy správně? Chci vidět 25.5. a vidím všechny ostatní a nejsou sbalené. ale pokud je to za tebe ok, tak to zavřeme."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "no pozri, mozem zobrat na produktovku ci by sa dali skryt sekcie ak filtrujem sekciu.. ak by si chcel pretahovat do inej, tak si samozrejme musis zobrazit obe.. Teraz si tie prazdne skryjes nastavenim: (ktore si neskor budeme pamatat)"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "na produktovku neber,  to skrytí sekce je přesně to chování co chci - a když si ho budete pamatovat, tak to je ono, já jsem věděl, že se to skrývalo. Jen tedy v rámci ergonomie připomínka: - panel Upozornění mám neustále zapnutý, protože s ním pracuji - a pak dojde k tomu, že když je tam moc údajů, tak tam není vidět, že je tam ještě možné něco nastavit: Přemýšlel jsem, proč je tma to zašktrávátko a přišel jsem na to až když jsem si to upozornění schoval - pak to bylo jasné a i ty 3 tečky se zobrazily. takže za mě vyřešeno."
+    }
+  ]
+}

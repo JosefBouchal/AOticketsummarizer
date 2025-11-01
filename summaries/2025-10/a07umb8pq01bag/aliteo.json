@@ -1,0 +1,71 @@
+{
+  "id": "a07umb8pq01bag",
+  "created": "2025-09-30T07:14:37.326Z",
+  "closed": "2025-10-01T09:45:33.512Z",
+  "duration_minutes": 1590,
+  "first_response_minutes": 7,
+  "name": "dashboard",
+  "description": "Viete sa mi pozrieť na záložku dashboard, zrejme sa mi ju podarilo \"zhodiť\" tým, že som pri vytváraní použil nesprávnu kombináciu údajov. Vďaka",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 6,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nie som si isty co myslite. Dashboard sa nachadza na projekte alebo potom v ciernej liste hore (to je dashboard nad vsetkym)."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "hral som sa s dashboardami a troška som to prepískol, zvolil som zrejme náročnú kombináciu údajov na zobrazenie, tak odvtedy sa točím a točím a točím, viete to nejako vymazať, zhodiť ? 20250930-0749-41.4125618.mp4"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "nereaguje Vam vobec ALITEO, alebo to takto vytuhne pri otvoreni dashboardov?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "len pri dashboarde, ostatné časti Alitea sú v poriadku"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Super, na chybu sme prisli, opravujeme, v noci bude nasadeny opravny patch a malo by to byt v poriadku."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "ďakujem a ospravedlňujem sa, že som to zhodil. Chcel som v dashboarde vidieť aj sekcie / status jednotlivých vytvorených tiketov / úloh a keď som sa ich tam snažil pridať, spadlo mi to. Celkovo budem asi potrebovať poradiť ako si vytvoriť dashboard alebo prehľad tiketov  v jednotlivých fázach nad všetkými projektami, lebo projektov pribúda a nie je efektívne robiť každodenný scrum nad všetkými tiketami, neviem či to riešiť cez priority alebo deadlines na tiketoch, asi budem potrebovať ďalšiu konzultáciu ako nastaviť workflow a celkovo systém práce, od akej úrovne vytvárať nové projekty a v nich úlohy a kedy len úlohu z nejakým príznakom."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nic ste nezhodili, je to len u Vas.. neslo to nacitat lebo nma pozadi bola chyba.. ale to neznamena ze ste to zhodili ostatnym.. 🙂 Dajte dokopy co by ste si predstavovali, teda: X projektov, v Y pracovnych priestoroch a chcem to vidiet tak a tak.. Teda fajn by bolo mat nejaky diagram ako pracujete, v kolkych projektoch mate uloh a skusime potom nastavit nejaky flow.. dohodneme termin konzultacie opat.."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "okey, tak som spravil záťažový test 🙂 jj tak som to myslel, podobne ako tomu bolo minule, vytvorím udalosť a dám tam nejaké body, ktoré ma zaujímajú. Dnes som si otestoval ten náš interný service desk a eskaláciu požiadaviek na zmenu do Sanga a tam vytvorenie subtaskov z týchto požiadaviek v rámci parent / sumarizačného tasku zmenových požiadaviek. Neviem či tam je nejaké obmedzenie vzhľadom na to, že je to napojené na Karat ale mne to fungovalo pekne. Neviem si predstaviť že to budeme robiť ako doteraz cez komentáre a prípadne si cez komentáre posielať výsledky testov, opravovanie chyba a následné pretestovávanie ... ako dá sa cez linkovanie komentárov, ale uprimne to sa mi nechce a je to také škrábanie sa za ucho cez nos. Takže môj cieľ je vytvoriť 3EC service desk, aby užívatelia z 3EC boli ako externý a tí ktorí reálne riešime tasky budeme mať licencie (zatiaľ 2, do budúcna rozšírime) a mi potom tieto chyby / požiadavky budeme posielať na SANGO a tí prípadne eskalovať na KARAT a zmenovky si môžu zlučovať do jedného parent tiketu a po čase sa na to pozrieť a sprocesovať nastaviť workflow (napr. analýza, nacenenie, poslanie späť k nám na odsúhlasenie a po odsúhlasení vývoj , UAT, a nasadenie do produkcie )"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja si osobne myslim ze to nebol zatazovy problem.. Podla chyby ktora sa vygenerovala je to len chybajuce ID niekde medzi cache a DB..  takze aplikacii to nespravilo nic, mozno cyklenie na klientovi maximalne.."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "myslel som to len obrazne 😉"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Rozumiem 🙂 kazdopadne bola chyba opravena a malo by to byt v poriadku"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "jasné, je to v poriadku, môžeme uzavrieť. ďakujem"
+    }
+  ]
+}

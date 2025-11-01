@@ -1,0 +1,35 @@
+{
+  "id": "a080c25bng05ok",
+  "created": "2025-10-13T08:09:30.716Z",
+  "closed": "2025-10-13T08:44:07.809Z",
+  "duration_minutes": 34,
+  "first_response_minutes": 26,
+  "name": "Obsah AI nelze zkopírovat",
+  "description": "Zkusili jsem použít Zeptat se AI na úkol, následně jsem tedy chtěl část vykopírovat, ale to nejde , za mě by bylo dobré, aby to šlo. Děkuji S pozdravem Lubomír Bednář",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano, vieme, mame to uz vo vyvojovej opravene takto:"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "pak super, můžeme tedy uzavřít"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dik, zatvaram"
+    }
+  ]
+}

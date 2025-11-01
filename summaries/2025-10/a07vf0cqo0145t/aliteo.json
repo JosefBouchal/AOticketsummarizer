@@ -1,0 +1,39 @@
+{
+  "id": "a07vf0cqo0145t",
+  "created": "2025-10-06T06:53:58.882Z",
+  "closed": "2025-10-06T08:35:30.034Z",
+  "duration_minutes": 101,
+  "first_response_minutes": 6,
+  "name": "porady - přidání uživatelů - jde to hromadně nebo přes API?",
+  "description": "na naší Poradě PUPOK vznikl dotaz jak zajistit, abychom do porady, která je pod týmem přidali hromadně lidi. Je nějaké jednoduché řešení jak přidat všechny? a druhý dotaz, chtěl jsem to nastavit v Karatu, ale tam evidenci porad asi nemáme - tak jsem se díval do Swaggeru - ale netuším pod čím to na Swaggeru hledat.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Projekty",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, vo vyvoji mame pripad na hromadne pridavanie do porady a planuje sa to v tomto sprinte, aj ked to ma trochu mensiu prioritu aktualne.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "super, tak to můžeme uzavřít.  s tím API - jsou porady v API nebo ne?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Myslim ze cez API sa z poradami nerobi nic.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, tak ak uzavřeme."
+    }
+  ]
+}

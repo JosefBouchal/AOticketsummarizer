@@ -1,0 +1,35 @@
+{
+  "id": "a07vjophdg0and",
+  "created": "2025-10-07T10:38:33.870Z",
+  "closed": "2025-10-15T08:33:47.147Z",
+  "duration_minutes": 11395,
+  "first_response_minutes": 1272,
+  "name": "Problém s notifikacemi",
+  "description": "Dobrý den,\r\n\r\nkdyž existuje AA ve stavu „Čekám na vlastníka“ a přidám na AA řešitele (který s tímto AA doposud neměl nic společného), tak mu nepřijde notifikace, že se stal řešitelem.\r\nProsím o prověření.\r\n\r\nS pozdravem\r\n\r\nJiří Šiška\r\nprogrammer\r\n\r\ntel.: +420 581 737 111 | jiri.siska@karatsoftware.cz< >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< > Facebook< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < >  LinkedIn< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < >  YouTube< >\r\n\r\n[ http://www.karatsoftware.cz/ ]< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, to je spravne, uloha ak ostala v stave caka na reakciu vlastnika tak ju nema riesit riesitel. Ak vlastnik odpovie, uloha sa vypne z reakcie vlastnika do predchdzajuceho stavu riesenie a ked je nastaveny riesitel, tak az v tedy mu to pride."
+    },
+    {
+      "creator": null,
+      "comment": "Ahoj, rozumím ale v tom případě se to za mě chová dost nekonzistentně. Když na AA, které je ve stavu „Čekám na vlastníka“  řešitele změním, tak tomu notifikace přijde.  Zároveň pokud k takovému AA napíšu jakýkoliv komentář, tak opět notifikace přijde okamžitě. Proč to takto je, když by tedy to AA neměl řešit?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zaleti na viacerych veciach: - vlastnik je anonymny alebo je standardnym clenom spolocnosti? - riesitelovi teda komentar nepride a vlastnikovi ano? - ma riesitel zapnute podrobne upozornenia Mozno by sme sa mohli pozriet na konkretny pripad. Ak mate cas, mozme si zavolat na teams.."
+    }
+  ]
+}

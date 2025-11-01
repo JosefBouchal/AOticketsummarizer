@@ -1,0 +1,135 @@
+{
+  "id": "a081gr0hjg0m4u",
+  "created": "2025-10-22T06:23:50.798Z",
+  "closed": "2025-10-27T17:55:04.624Z",
+  "duration_minutes": 7891,
+  "first_response_minutes": 17,
+  "name": "Dotaz  Aliteo - ESON CZ IČ: 26214849",
+  "description": "Dobrý den,\r\nMáme funkční licenci Alitea a měl bych následující dva dotazy:\r\n\r\n1/ při zadání úkolu a vyplnění popisu úkolu se mi nezobrazuje Popis a nemohu ho tedy ani editovat\r\n2/ potřeboval bych si v úkole nadefinovat vlastní pole, ale tato volba tam také není.\r\n3/ a ještě poslední věc. Aliteo budeme nyní používat po odmlce a je tam historie, která nám nyní nedává smysl a nikdo se v tom nevyzná. Existuje nějaká možnost všechny projekty a úkoly vymazat a také vymazat neaktivní uživatele\r\n\r\ndíky\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nIČ: 26214849\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 28,
+    "from_owner": 15,
+    "from_others": 13,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, tesi nas ze ste sa k ALITEO vratili, postupne sa vyjadrim k jednotlivym bodom: 1. poslite mi prosim printscreen, popis ulohy je mozne zadat pri jaho vytvarani a potom v editacii ulohy - nie som si teda isty kde je problem a obrazok by mi pomohol 2. co sa tyka vlastnych poli - tie su definovatelne v pracovnom priestore - nastavenie spolocnosti (v pravom hornom rohu) -> pracovne priestory -> vyberiete konkretny kde sa nachadza dany projekt v ktorom vytvarate ulohu -> atributy a tam si vytvorite - tento atribut (vlastne pole) bude dostupne na vsetkych ulohach v projektoch v danom pracovnom priestore 3. vymazavat vo vacsine pripadov nie je mozne - co sa standardne robi je to, ze sa vsetky tie ulohy a vsetky projekty nastavia na stav \"zruseny\" a potom sa archivuju - stav zrusene znamena ze to ani nemalo nikdy vzniknut a ze je to tzv. neporiadok - to co sa standardne ukonci sa nastavuje do stav \"ukoncene\" Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den,\r\n\r\n1. poslite mi prosim printscreen, popis ulohy je mozne zadat pri jaho vytvarani a potom v editacii ulohy - nie som si teda isty kde je problem a obrazok by mi pomohlo- už jsem to našel\r\n\r\n2. co sa tyka vlastnych poli - tie su definovatelne v pracovnom priestore\r\n\r\n - nastavenie spolocnosti (v pravom hornom rohu) -> pracovne priestory -> vyberiete konkretny kde sa nachadza dany projekt v ktorom vytvarate ulohu -> atributy a tam si vytvorite\r\n\r\n - tento atribut (vlastne pole) bude dostupne na vsetkych ulohach v projektoch v danom pracovnom priestore – definoval jsem atribut vlastní pole, ale nějak nevím jak dál. Potřeboval bych si v tom úkole nadefinovat sloupce.\r\n\r\nNapř.\r\n\r\n  *   Cíl (text),\r\n  *   Cílová hodnota (číslo/text),\r\n  *   Skutečnost (měsíční) (číslo/text),\r\n  *   Vyhodnocení (výběr – OK/NOK/Trend),\r\n  *   Garant KPI (uživatel),\r\n  *   Opatření – stručný popis (text),\r\n  *   Termín (datum),\r\n  *   Stav opatření (výběr – Nové/V řešení/Zpožděné/Splněno).\r\n\r\n\r\n\r\n3. vymazavat vo vacsine pripadov nie je mozne – ok, tomu rozumím, všechny zruším a archivuji\r\n\r\n - co sa standardne robi je to, ze sa vsetky tie ulohy a vsetky projekty nastavia na stav \"zruseny\" a potom sa archivuju\r\n\r\n - stav zrusene znamena ze to ani nemalo nikdy vzniknut a ze je to tzv. neporiadok\r\n\r\n - to co sa standardne ukonci sa nastavuje do stav \"ukoncene\"\r\n\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ad 2 - vsetky zmienene sloupce su polia a objavia sa Vam po spravnom nastaveni v detaile ulohy v lavom paneli - kazdy stlpec je vlastne pole"
+    },
+    {
+      "creator": null,
+      "comment": "No jo, ale kde je ta volba pro tvorbu polí (sloupců)?\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Skusim to popisat inymi slovami, co sltpec to novy atribut. Tak ako ste definovali atribut \"vlastne pole\", tak rovnako definujete atribut \"Cil\", atribut \"Cilova hodnota\" atď."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, díky za info. Omlouvám se asi jsem chtěl od Alitea více než je možné.\r\n\r\nMyslel jsem si, že si v něm udělám  sledování KPI. Že to co  mám v Excelu, nějak udělám v Aliteu.\r\nPřes úkoly mi to nějak nejde.\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den,\r\n\r\n\r\nV Aliteu se nastavuji Atributy obecně jako Atributy úkolů. To znamená, že jakýkoliv úkol vytvořím, tak mám stejné atributy.\r\n\r\nJá bych potřeboval vědět k čemu je to dobré a co se tím dá dělat?\r\n\r\nMůžete mi krátce říci, k čemu slouží ty atributy?\r\n\r\n\r\n\r\ndíky\r\n\r\n\r\n\r\n\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, podme si zavolat na 30 min, dame si kratky call, poviete mi co potrebujte a ja Vam poviem co je mozne. Pytali ste sa ma na konkretne veci, ale nepoznal som ciel - ak mi ho poviete, poviem Vam ako by ste ho vedeli dosiahnut. Bude to taka mala procesna analyza, ktoru zvykneme potom robit vo velkom pocas implementacie. ALITEO je celkom robustne a nie vzdy zakaznici pridu na to coho je schopne, preto Vam ponukam kratky call kde by sme sa na veci a Vase dalsie dotazy mohli pozriet a potom usudite co dalej. Co vy na to?"
+    },
+    {
+      "creator": null,
+      "comment": "Oj, to by pomohlo, díky, Já budu volný od 12,00hod.\r\nMůžete mi napsat kdy by se vám to hodilo a zda mám zavolat já neb vy nebo Teams..\r\n\r\ndíky\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mozme si zavolat o 12:30, posielam odkaz na teams: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjhiNWQxOWItZjA1NC00MjVlLThkOTctYzA1NWMxZWI5OWU3%40thread.v2/0?context=%7b%22Tid%22%3a%228f9b83b0-e8eb-4af8-b08f-d19026876694%22%2c%22Oid%22%3a%224caf9bb4-ba95-4058-8fc2-220b407cb3cf%22%7d"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za rozhovor. Vysvetlili sme si ako atributy funguju a na co sluzia. Posielam Vam nazorny obrazok, ako priblizne je nastavena struktura aplikacie ALITEO, zamerne sa tam nezobrazuju ine casti ako Portfolio a podobne aby to bolo co najjednoduchsie.. Poslite mi prosim ten popis toho ako sa u Vas riesi to KPI a ja sa nad tym skusim zamysliet ci by to v ALITEO islo."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den,\r\nDíky za obrázek, připravím jednoduše co bych potřeboval, ale asi až příští týden.\r\nTeď mám takový primitivní dotaz a ať to procházím jak se dá, tak na to nemůžu přijít.\r\nA/ Mám projekt, kde jsem člen projektu jen já.\r\n1/ jak to že ten projekt videí i ostatní interní uživatelé i když nejsou členové projektu\r\n\r\nB/ V tomto projektu jsem udělal 2 úkoly, každý s jiným řešitel\r\n1/ jak to že ten jeden řešitel vidí i úkol toho druhého ačkoliv nejsou sledující.\r\nTo že oba úkoly vidím já, protože jsem sledující je mi jasné.\r\n\r\ndíky\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, v poriadku. A - moze to byt sposobene viacerymi dovodmi: - uzivatelia mozu mat pravo supervizor spolocnosti alebo pracovneho priestoru (vidia vsetky projekty aj ked nie su clenmi) - viditelnost projektu je nastavena na \"vsetci interni \" namiesto \"clenovia projektu B - podobne ako bod A, asi maju pravo supervizora na spolocnosti, prac. priestore alebo projekte Takze superprava.."
+    },
+    {
+      "creator": null,
+      "comment": "Už jsem na to přišel, měl jsem tam nastaveného supErvizuera u interního uživatele.\r\n\r\nJeště drobnost, je možné někde nastavit, že i když uživatel vidí úkol, není jeho řešitelem ani vlastníkem, takže je jen sledující, ale aby byl opravdu sledující a neměl možnost žádného komentáře\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, je mozne nastavit supervizora len na citanie a teda ak nie je sledujuci neupravi nic v komentari. Ale nie je mozne nastavit aby sledujuci nemohol nic menit."
+    },
+    {
+      "creator": null,
+      "comment": "Supervizer, ale bohužel vidí všechny úkoly v daném projektu, pokud je členem projektu. Já potřebuji, aby viděl jen ty které určím a to leze určit jen jako sledující. Ale když je sledující, tak může psát komentář a to já bych potřeboval zamezit. Tedy jde mi o to, že někdo kdo je členem týmu by měl právo vidět úkoly ostatních, ale jen některé (tedy jako sledující), ale aby jim do toho nemohl psát svoje připomínky, ale jen koukat jak se úkol vyvíjí.\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem, ale taku kombinaciu bohuzial v ALITEO zatial nemame."
+    },
+    {
+      "creator": null,
+      "comment": "Rozumím, díky, aspoň to nebudu hledat.\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den,\r\nV příloze zasílám ukázku toho co jsem chtěl implementovat do Karatu. Je to tabulka, kterou vyplňují manažeři 1x za měsíc k poradě. Další měsíc se hodnoty vynulují a znovu je vyplní.\r\nNápravná opatření se kopírují do úkolů a tam běží s historií.\r\nJá jsem to nyní v Karatu udělal tak, že mám projekt -pro KPI, kde mám sekce jako v souboru a u každé sekce mám úkol, kde jsem do Popisu úkolu dal ty požadované hodnoty KPI a do Atributů jsem dal povinnost každý měsíc vepsat dosažené hodnoty KPI (skutečnost). Do úkolu se napíšou nápravná opatření a já si je pak překopíruji.\r\nA tento projekt každý měsíc uložím jako nový projekt a ten z předchozího měsíce dám archivovat.\r\n\r\nPro práci s nápravnými opatřeními mám pak druhý projekt, kde běží už standardní proces s historií.\r\n\r\nTakže myslí, že takto by to mohlo fungovat.\r\n\r\nPotřebuji dvě rady:\r\n\r\n  *   Dá se nějak někde šáhnout do archivu projektů, kdybych si ho chtěl prohlédnout ?\r\n\r\n  *   Je nějaká možnost udělat skupinu sludujících nebo u sledujících musím přidávat po členech.\r\ndíky\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, asi chapem, ale neviem ci uplne. Len som sa nad tym zamyslel a ci nie je zbytocne stale vytvarat novy projekt. Ja by som nechal ulohy, kde by sa kazdy mesiac doplnala hodnota do atributu a opatrenie by islo do komentara. Vyhody: - neriesite archivaciu a nove projekty - vsetky opatrenia vidite pri sebe formou komentarov postupne ako pribudali - v aktivitach si viete zobrazit historiu toho co vyplnaju - mozete si robit vzdy nejaky widget"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Este jedna vec ma k tomu napadla: - vylepsil by som to este tak, ze yb som vytvoril z kazdeho riadka sablonu - tu by som pre daneho cloveka generoval ku konkretnemu datumu - on by to plnil a vpisoval opatrenia a vy mat aj historiu a dokonca aj trend Kedy mate cas - vysvetlim Vam to za 10 min."
+    },
+    {
+      "creator": null,
+      "comment": "Mám čas celý den.\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, spojme sa dnes o 14:45 na tomto linku https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjhiNWQxOWItZjA1NC00MjVlLThkOTctYzA1NWMxZWI5OWU3%40thread.v2/0?context=%7b%22Tid%22%3a%228f9b83b0-e8eb-4af8-b08f-d19026876694%22%2c%22Oid%22%3a%224caf9bb4-ba95-4058-8fc2-220b407cb3cf%22%7d"
+    },
+    {
+      "creator": null,
+      "comment": "OK\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": null,
+      "comment": "Díky ještě jednou za vysvětlení. Určitě se ještě ozvu, ale ať vám to tam nevisí, tento úkol můžeme uzavřít.\r\n\r\nDíky moc\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den,\r\nTak to netrvalo dlouho.\r\nMarně hledám možnost najít seznam šablon úkolů, aby v šabloně udělal nějakou úpravu.\r\n\r\nDíky za radu\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": null,
+      "comment": "Už jsem je našel\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Som rad, ze ste ich nasli. Len poviem dopredu, ze zdielat sablony uzivatela nie je teraz mozne ale amme vo vyvoji rozsirenie aby ste mohli zdielat aj na inych.. Tesim sa ze sme nasli cestu k tomu cielu ktory ste potrebovali. Dakujem a prajem pekny den"
+    }
+  ]
+}

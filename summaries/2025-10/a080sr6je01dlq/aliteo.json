@@ -1,0 +1,43 @@
+{
+  "id": "a080sr6je01dlq",
+  "created": "2025-10-17T09:55:24.447Z",
+  "closed": "2025-10-26T10:41:51.137Z",
+  "duration_minutes": 13006,
+  "first_response_minutes": 64,
+  "name": "Prístup užívateľa do spoločnosti 3EC na projekt IS Karat",
+  "description": "Obdobný problém ako s užívateľom zuzana.maslikova@3ec.sk mám aj s užívaľom miriam.srdosova@3ec.sk v spoločnosti 3EC International a.s. na projekte #7 IS Karat nezobrazujú sa jej tikety v ktorých ju dám ako sledovateľa a plus keď som pozeral na jej účet má tam spoločnosť 3EC International a.s. a spoločnosť menom Miram a chýba jej spoločnosťs KARAT. Viete to prosím preveriť, či je tam opäť ako pri Zuzane Maslikovej, že nepotvrdila pozvánku do projektov + prečo má firmu Miriam a či ju môžem archivovať ?",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, skusim prehodit na spravneho kolegu, kedze ide o nastavenie a pozvanie do spolocnosti a nie vyslovene vec supportu ALITEO."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Petr, podobne ako v inej ulohe, ktoru som ti pred chvilou komentoval."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Pozvánka odeslaná, nechť ji přijme."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "viete jej prosím preposlať tú pozvánku ešte raz miriam.srdosova@3ec.sk ? Tvrdí mi že jej neprišla, pre istotu som skontroloval jej e-mailovú adresu v projekte 3EC International a.s. v spoločnosti KARAT Vďaka"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "pozvánka poslána a pro jistotu dávám i sem: https://app.aliteo.com/invitation/a04f27ga0g1vqv/8bad74cb-1eec-4635-870c-86a0becc271d - může te to tak i přeposlat a pak se přes to příhlásí. Je to pozvánka pro konkrétního uživatele miriam.srdosova@3ec.sk"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a080tg3vr004gu",
+  "created": "2025-10-17T13:43:53.504Z",
+  "closed": "2025-10-24T08:25:18.147Z",
+  "duration_minutes": 9761,
+  "first_response_minutes": 3,
+  "name": "Přiřazení emailu k úkolu přetažením",
+  "description": "Jak jsme se včera bavili, budu rád, kdyby byla možná funkcionalita, kdy můžu pomocí drag & drop přetáhnout email ze svého outlooku rovnou k existujícímu úkolu a to včetně všech příloh. V současné době toto umí tlačítko + vpravo dole, ale to vytvoří nový úkol. Děkuji",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, tak som sa dostal k tejto poziadavke... teda zopakujem, chytite email, drag and drop do komentara a do textu komentara sa prenesie text a prilohy ktore tam su.. Tam sa obavam, ci budeme vedie preniest obrazky z tela emailu do textu - zatial to nejde ani ked zalozite emailom ulohu. Ale krok po kroku.."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Ano, tak to je. Stačí to v té verzi, jak to máte teď. Aspoň ale nějak, ať to je rychlejší. Díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, tuto poziadavku sme skonzultovali, budeme to analyzovat a zaradime do planu vyvoja."
+    }
+  ]
+}

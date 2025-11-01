@@ -1,0 +1,67 @@
+{
+  "id": "a081gq14rg0m4u",
+  "created": "2025-10-22T06:13:07.753Z",
+  "closed": "2025-10-30T15:13:59.511Z",
+  "duration_minutes": 12060,
+  "first_response_minutes": 2,
+  "name": "Nefunguje invite link",
+  "description": "Dobry den,\r\nSnazim sa pozvat kolegov do organizacie ako platenych uzivatelov no\r\nnefunguje invite link.\r\nPre kolegu ktorý ešte aliteo ucet nemal invite link fungoval a dokázal si\r\nucet vytvorit a pridat sa do organizacie.\r\nNo dvaja kolegovia ktori si ucty vytvorili skor pre\r\ntestovanie funkcionality  dostavaju neustale chybu vid screenshot.\r\n\r\nAk to pomoze posielam aj adresy kolegov : vladimir.duch@cmv.sk,\r\nsimon.magal@cmv.sk\r\nNase zakaznicke ID : a080clpchg0jej\r\n\r\ns pozdravom\r\nMichal Novotny",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 4,
+    "from_others": 7,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pozrieme sa na to, len sa chcem spytat nemohlo sa stat ze sa snazia prihlasit inym emailom ako ich pozyvate vy? Napriklad ze maju ucty na aaa@email.cz , vy ste ich pozvali do spolocnosti na email bbb@email.cz ale pre pridanie sa do spolocnosti zadavaju aaa@email.cz? Ďakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Podla toho co sa mi zatial podarilo zistit, je to tak ze: - p. Duch ma ucet vytvoreny cez google ucet - p. Magal ma ucty dva - jeden cez google ucet a druhy cez azure ucet priamo"
+    },
+    {
+      "creator": null,
+      "comment": "Poprosil som kolegov nech sa odhlasia, vycistia cache prehiadaca a nanovo\r\nkliknu link.\r\nU jedneho sa chyba zmenila vid screenshot a u druheho ostava rovnaka hned\r\npo kliknuti na link.\r\n\r\nTeoreticky mozem este odstranit invite a skusit ich pozvat nanovo.\r\n\r\nOn Wed, Oct 22, 2025 at 8:15 AM <notifications@aliteo.com> wrote:\r\n\r\n> [image: Logo Aliteo]\r\n> *Odpověď na požadavek*\r\n> ALITEO  /  Support  /  Support ALITEO  /  aws.admin@daskilos.eu\r\n> #8446   aws.admin@daskilos.eu\r\n> Nefunguje invite link\r\n>\r\n> Zdravim Vas,\r\n> pozrieme sa na to, len sa chcem spytat nemohlo sa stat ze sa snazia prihlasit inym emailom ako ich pozyvate vy?\r\n> Napriklad ze maju ucty na aaa@email.cz, vy ste ich pozvali do spolocnosti na email bbb@email.cz ale pre pridanie sa do spolocnosti zadavaju aaa@email.cz?\r\n>\r\n> Ďakujem\r\n>\r\n>\r\n>     Odpovědět na komentář\r\n> <comment.a081gq14rg0m4u@aliteo.com?subject=RE:%20ALITEO%20-%20#8446%20-%20odpověď%20na%20požadavek:%20Nefunguje%20invite%20link>     Zobrazit\r\n> úkol\r\n> < >\r\n> [image: Logo Aliteo]\r\n> Copyright 2022 ALITEO • Powered by KARAT Software\r\n>"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, posunul som na kolegov z vyvoja. Cache by na to nemala mat vplyv - domievam sa ze sa tam nejako biju ucty. Ale nechal som to preverit kolegov, budem Vas informovat."
+    },
+    {
+      "creator": null,
+      "comment": "Dakujem :)\r\n\r\nOn Wed, Oct 22, 2025 at 9:49 AM <notifications@aliteo.com> wrote:\r\n\r\n> [image: Logo Aliteo]\r\n> *Odpověď na požadavek*\r\n> ALITEO  /  Support  /  Support ALITEO  /  aws.admin@daskilos.eu\r\n> #8446   aws.admin@daskilos.eu\r\n> Nefunguje invite link\r\n>\r\n> Dakujem, posunul som na kolegov z vyvoja. Cache by na to nemala mat vplyv - domievam sa ze sa tam nejako biju ucty.\r\n> Ale nechal som to preverit kolegov, budem Vas informovat.\r\n>\r\n>\r\n>     Odpovědět na komentář\r\n> <comment.a081gq14rg0m4u@aliteo.com?subject=RE:%20ALITEO%20-%20#8446%20-%20odpověď%20na%20požadavek:%20Nefunguje%20invite%20link>     Zobrazit\r\n> úkol\r\n> < >\r\n> [image: Logo Aliteo]\r\n> Copyright 2022 ALITEO • Powered by KARAT Software\r\n>"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, prosim pre dalsie riesenia pripadu, mohli by ste nam poslat URL linky, ktore sa Vam otvaraju pri kliknuti na tlacidlo “Potvrdit pozvanku” ??"
+    },
+    {
+      "creator": null,
+      "comment": "https://app.aliteo.com/invitation/a080c0blrg2jej/338264fa-8536-4d3d-87a7-00ed437d0969 a https://app.aliteo.com/invitation/a080c0blrg0jej/1d85c83f-f414-4cd7-a190-dd1159b23f94 plus zaujimavost ... snazil som sa to vlozit rovno do komentarov k ulohe\r\nrovno u vas na stranke a neide to :)\r\nvid priloha\r\n\r\nOn Thu, Oct 23, 2025 at 3:30 PM <notifications@aliteo.com> wrote:\r\n\r\n> [image: Logo Aliteo]\r\n> Je požadováno *vyjádření vlastníka* případu\r\n> ALITEO  /  Support  /  Support ALITEO  /  aws.admin@daskilos.eu\r\n> #8446  Nefunguje invite link\r\n>     Zobrazit úkol\r\n> < >\r\n> [image: Logo Aliteo]\r\n> Copyright 2022 ALITEO • Powered by KARAT Software\r\n>"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem spravne, ze to mate v clipboarde a nejde to vlozit? ani pomocou ctrl+v ? Toto vyzera skor na problem safari, tak preto sa pytam...."
+    },
+    {
+      "creator": null,
+      "comment": "Ano tak ako pisete az na to ze nepouzivam safari ale firefox.\r\nPlus podobna chyba ktora sa objavuje hore nastava aj u kolegov ked klikaju\r\nna akceptovat pozvanku a urcite to robia na roznych browseroch.\r\nPredpokladam teda ze to nieje (iba) prehliadacom\r\n\r\nOn Thu, Oct 23, 2025 at 4:39 PM <notifications@aliteo.com> wrote:\r\n\r\n> [image: Logo Aliteo]\r\n> Je požadováno *vyjádření vlastníka* případu\r\n> ALITEO  /  Support  /  Support ALITEO  /  aws.admin@daskilos.eu\r\n> #8446  Nefunguje invite link\r\n>     Zobrazit úkol\r\n> < >\r\n> [image: Logo Aliteo]\r\n> Copyright 2022 ALITEO • Powered by KARAT Software\r\n>"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, browsery su teda ine a co operacny system? je to problem teda aj na windows aj macOS?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Podla vyvoja sa zda ze su tie linky nejako zmanipulovane.. Poslite si invite link este raz, pripadne poslite priamo z nastavenia linky, ktore tam su uvedene. Skusali sme ich a vyzeraju byt v poriadku."
+    }
+  ]
+}
