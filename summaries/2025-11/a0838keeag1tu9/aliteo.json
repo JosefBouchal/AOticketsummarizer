@@ -1,0 +1,47 @@
+{
+  "id": "a0838keeag1tu9",
+  "created": "2025-11-04T19:25:33.016Z",
+  "closed": "2025-11-05T19:10:00.971Z",
+  "duration_minutes": 1424,
+  "first_response_minutes": 89,
+  "name": "Dotaz - vlastník úkolu * Aliteo",
+  "description": "Dobrý den,\r\n\r\nmám dotaz ohledně vlastníka úkolu.\r\nPři zasílání emailu na email: pozadavky@prim.cz< > byl dříve vlastníkem úkolu pracovník, který poslal email, tím viděl všechny komentáře atd.\r\n\r\n[Image001]\r\n\r\nNyní je vlastník \"anonymní uživatel - pozadavky@prim.cz< > a tím odesílatel=žadatel nemá vůbec přehled, že byl úkol založen a ani o průběhu.\r\nPokud je žadatel osoba, která má licenci, můžeme ji doplnit, ale máme pár kolegů, kteří licenci nemají a ty pak nemají přehled vůbec.\r\nKe změně došlo odhaduji v listopadu.\r\n\r\n[Image002]\r\n\r\nProsím je možné vyřešit?\r\n\r\nS pozdravem a přáním pěkného dne\r\nIlona Remešová\r\nNákupní manažerka\r\n\r\n[Image003]\r\n\r\nELTON hodinářská, a.s.\r\nNáchodská 2105 | 549 01 Nové Město nad Metují\r\nM: (+420) 730 855 366| E: ilona.remesova@prim.cz< >\r\nwww.prim.cz< > | Facebook< > | Instagram< > | Twitter< > | YouTube< >\r\n\r\nUPOZORNĚNÍ\r\nInformace obsažené v tomto e-mailu a všech připojených souborech jsou důvěrné, mohou být chráněny zákonem a jsou určené výlučně příjemci. Nejste-li zamýšleným příjemcem, je zakázáno jakékoliv zveřejňování, zprostředkování nebo jiné použití těchto informací. Obdrželi jste e-mail neoprávněně, informujte o tom prosím odesílatele a vymažte neprodleně všechny kopie tohoto e-mailu i všech jeho příloh",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, vyzera to tak, ze niekto zmenil pravidlo preposielania emailov. Ide o nastavenie na urovni vasho emailoveho servera. Nastavenie malo byt take, ze sa ponechava povodny vlastnik, teda je asi take, ze sa stal vlastnikom ta adresa, na ktoru emaily prechadzaju. Nemohol niekto zmenit toto nastavenie ? Neprechadzali ste nejakymi zmenami tykajucimi sa office uctov a podobne?"
+    },
+    {
+      "creator": null,
+      "comment": "Děkuji moc za pomoc, kontaktovala jsem IT MPM, protože mohlo dojít ke změně o které nevíme. Dám vědět a přeji krásný večer."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, este Vam sem pridam text emailu, ktory som pisal o. Pintoovi a inym ohladom spravneho nastavenia - ake su moznosti (neviem ktory bol pouzity): Zdravím Vás, posielam Vám ešte 2 možné návrhy, ako pracovať s emailmi aby sme ich vedeli prepojiť s ALITEO a pri tom nepoužili forward: 1. varianta - Skupina - asi nejjednodušší (a hlavně bude fungovat na všech SMTP serverech) - zákazník si na svém SMPT serveru udělá mailovou skupinu, jejímž členem bude e-mailová adresa @aliteo.com přidělená projektu. Na tuto skupinu se budou posílat požadavky, které mají být směrovány na Aliteo. Skupina udělá resend , tím budou dodrženy všechna bezpečnostní opatření. 2. varianta - Transportní pravidlo -  toto je otázka Exchange serveru (ať už on-prem nebo online) - nejsem si jist, které další SMPT servery umožňují konfiguraci transportních pravidel, každopádně na Exchange máme otestováno.  Princip je takový, že se vytvoří REDIRECT transportní pravidlo na Exchange pro konkrétní adresu a bude se posílat na konkrétní adresu projektu na Aliteo (tedy např. vše co přijde na prim.support@prim.cz redirect na task.xxx@aliteo.com) Skúste to prosím prebrať, a dať nám vedieť. Následne dohodneme ďalšie kroky. Ďakujem. S pozdravom Daniel Dzuro"
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím, potvrzeno, že je problém na naší straně a bude muset řešit MPM IT, níže posílám jejich zprávu, ať máte přehled, protože bude asi s Vámi pak řešeno přímo. Úkol je možné uzavřít. Opět děkuji za Vaši pomoc. Krásný den, IR - - - - Dobrý den, ano tento problém je u nás v PRIMu a ne v Aliteo. Jde o to že po migraci jsme museli emailové schránky přesunout pod Microsoft a tím se přesouval taky pozadavky@prim.cz a bohužel nejsme 1:1 schopni zreplikovat chování před migrací. Zkusím se ještě zeptat u dodavatele, ale obávám se že to nebude tak jednoduché dostat do stejného stavu jako před migrací."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, posielali ste im aj tie moznosti ktore som Vam napisal? Kazdopadne ak to budu riesit a potrebovat nasu pomoct, nech sa ozvu na support. Dakujem a prajem pekny den."
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím, možnosti jsem nyní zkopírovala a zaslala. Doufám, že se podaří, protože současný stav je pro nás hodně uživatelsky nekomfortní."
+    }
+  ]
+}

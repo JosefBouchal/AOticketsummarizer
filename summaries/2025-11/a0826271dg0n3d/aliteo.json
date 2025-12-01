@@ -1,0 +1,22 @@
+{
+  "id": "a0826271dg0n3d",
+  "created": "2025-10-27T10:02:33.232Z",
+  "closed": "2025-11-03T10:03:17.979Z",
+  "duration_minutes": 10080,
+  "first_response_minutes": null,
+  "name": "MVIA platba licencie zlyhala",
+  "description": "Zdravim Vas, mame informaciu o tom, ze automaticky platba za licenciu zlyhala. Preto by sme Vas chceli informovat, aby ste sa na to mohli pozriet a predist tak problemov s licenciami v ALITEO. V pripade potreby, nam odpovedzte, sme k dispozicii ak by bola potrebna pomoc z nasej strany. Dakujem",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 0,
+    "from_owner": 0,
+    "from_others": 0,
+    "unique_authors": 0
+  },
+  "comments": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a0843te48g0da0",
+  "created": "2025-11-11T10:20:55.852Z",
+  "closed": "2025-11-19T06:43:18.381Z",
+  "duration_minutes": 11302,
+  "first_response_minutes": 10,
+  "name": "Bug - Logo v Apple mail klientovi je obrovské",
+  "description": "Dobrý den,\r\n\r\nRád bych vám zareportoval bug, který se objevuje v Apple Mail klientovi - Version 16.0 (3826.700.81) na macOS 15.6.1 (24G90) viz příloha.\r\n\r\nDěkuji za brzké vyřešení, David Pleva\r\n\r\nDavid Pleva | MPM-Quality a.s.\r\n-----------------------------------------\r\ndavid.pleva@mpm-quality.cz\r\n+420 776 581 680\r\n\r\n￼",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujeme za report, pozrieme sa na to."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, urobili sme nejake optimalizacie. Mohli by ste prosim potvrdit ci je to lepsie?"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, už je to ok, dle fotky v příloze. Díky za vyřešení."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, dakujem za potvrdenie a prajem pekny den. Dzuro"
+    }
+  ]
+}

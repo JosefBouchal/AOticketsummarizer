@@ -1,0 +1,123 @@
+{
+  "id": "a082avf2pg1k5l",
+  "created": "2025-10-28T14:40:09.473Z",
+  "closed": "2025-11-11T21:32:34.314Z",
+  "duration_minutes": 20572,
+  "first_response_minutes": 32,
+  "name": "Prístup užívateľa do projektu v spoločnosti KARAT a 3EC",
+  "description": "Pozdravujem. Potreboval by som preveriť a vyriešiť prístup užívateľa zuzana.maslikova@3ec.sk v spoločnosti KARAT na projekte #289 3EC International a.s. . Medzi užívateľmi projektu ju vidím ale má status Invitation miesto External ako iný užívatelia, ktorých môžem pridať medzi Followerov (treba im preposlať pozvánku, resp. musia ju potvrdiť ? )",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 25,
+    "from_owner": 12,
+    "from_others": 13,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Tomas_Polak",
+      "comment": "The escalated task has been successfully completed. The result is available at this link: https://app.aliteo.com/Task/a080sqpftg1dlq . You can continue working on this task."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "na jednom tikete #324280 Odosielanie zmluvy e-mailom v spoločnost Karat som ZUM a MIS označil, uvidím, či im príde upozornenie a následne budú vidieť obsah tiketu"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Posielam opätovne, pretože ani po odkliknutí pozvánky do spoločnosti KARAT užívateľovi zuzana.maslikva@3ec.sk prístup do spoločnosti KARAT nefunguje a keď klikne na odkaz na tiket v spoločnosti 3EC International zobrazuje sa jej to čo vidíte v prílohe. Čo je zvláštne pri oboch užívateľoch : zuzana.maslikova@3ec.sk aj miroslava.srdosova@3ec.sk že obe majú v nastaveniach prístup do spoločnosti 3EC international a.s. a zároveň do spoločnosti z ich menom a chýba im tam spoločnosť KARAT.  Viete to prosím ešte raz preveriť, prípadne si s nimi dať teams / call a preveriť nastavenia ? Ďakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim pan Polak, predpokladam ze toto nie je na support ALITEO ale niekoho z KARAT. Je tak?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Podľa mňa už na support. Z nejakého dôvodu im vytvára spoločnosť z názvom ich mena a aj po viacnásobnom zaslaní pozvánky sa nemôžu dostať do spoločnosti KARAT a v spoločnosti 3EC International a.s. sa im nezobrazujú tikety aj keď prijali pozvánku a zobrazí sa im okno v prílohe. Takže tam bude nejaký bug"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "analyza: - existencia uzivatelov: - zuzana.maslikova@3ec.sk - OK - miroslava.srdosova@3ec.sk - NOK - existuju uzivatela miriam.srdosova@3ec.sk a katarina.srdosova@3ec.sk"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Skusim popisat co som zistil a zosumarizovat: - pre prijatie do spolocnosti nestaci len kliknut na tlacidlo z pozvanky, je treba potom kliknut na webe ze prijima a prihlasit sa pod danym emailom - ak tento postup nie je kompletny, spolocnost kde bola pozvana neuvidi - pani Maslikova ma pristup do spolocnosti 3EC, vidi tam ulohy - ad uloha z obrazku - ak nie su sledujuce ani supervizorky tak na tu ulohu nemaju skratka pravo - uzivatel miroslava.srdosova@3ec.sk neexistuje - existuje Miriam a Katarina"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "- áno to som dnes riešil s ďalšou kolegyňou emilia.puterova@3ec.sk. Ako píšte museli sme sa registrovať, zaslať potvrdzovací kód a po jeho vyplnení nám systém nedovolil sa prihlásiť Tak som jej preposlal novú pozvánku aby som vylúčil to, že je tam nejaká expirácia. - užívateľa zuzana.maslikova@3ec.sk pozriem zajtra, zrejme sa nezaregistrovala a uvidím, či jej prišla pozvánku zo spoločnosti KARAT - áno pri miroslave som urobil preklep je tom miriam.srdosova@3ec.sk"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ak pise ze konto nie je moze najst, tak neexistuje uzivatel s tymto emailom.. Je treba teda nieco riesit z nasej strany?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "no, stále máme problém že užívateľ zuzana.maslikova@3ec.sk neobdržala do e-mailu  pozvánku z firmy Karat aj keď ju váš kolega zasielal a nerozumieme ako môže mať vytvorenú spoločnosť so svojim menom a priezviskom. A pri užívateľovi emilia.puterova@3ec.sk stále vyhadzuje tú hlášku aj keď som jej skopríoval invitation v spoločnosti 3EC International a.s. a skontroloval e-mailové adresy. Je tam podľa mňa nejaký technický problém. Plus ak im prepošlem pozvánku z Alitea, žiadny e-mail im nechodí, nerozumiem tomu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Spolocnost s menom a priezviskom sa vytvori vtedy, ak sa registrujete sami od seba a nie na zaklade pozvanky z inej spolocnosti. Este to popisem inak - dve moznosti: 1. nie som vobec v ALITEO, dostanem pozvanku z nejakej spolocnosti ABC, pri potvrdzovani sa registrujem a vtedy mam len spolocnost ABC 2. uz som sa sam od seba registroval (bez pozvanky), nemoze sa stat zeby nebola ziadna spolocnost a preto sa automaticky vytvara spolocnost s mojim menom. - nasledne ak mi niekto posle pozvanku do ABC, potom pri prijimani sa uz neregistrujem len sa prihlasim a vtedy mam svoju a potom aj ABC Asi nam potom nic ine neostane, len sa asi spojit, vy si pripravte ich emailove konto (aby ste videli emaily) a idealne aj prihlasovacie udaje, aby sme vedeli skontrolovat aj ucet ALITEO. A zistime o co ide. Este pred tym sem teda napiste problemy vo formate: _email_ - popis_problemu (napriklad: peter@email.cz - nevidi spolocnost X a Y, nevidi ulohy atd)"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Pozdravujem. zuzana.maslikova@3ec.sk nemá prístup do spoločnosti KARAT projektu 3EC International a.s. (nevidí ju ani medzi spoločnosťami), po kliknutí na tiket v spoločnosti 3EC International a.s. sa jej objaví chybová hláška miroslava.srdosova@3ec.sk nemá prístup do spoločnosti KARAT a nezobrazujú sa jej tikety ani v spoločnosti 3EC International a.s. emilia.puterova@3ec.sk poslal som jej pozvánku, zaregistrovala sa, ale po zaregistrovaní sa nevie prihlásiť, vyhadzuje jej chybobú hlášku."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "takze, mozeme sa dohodnut tak, ze ziskate pristup k ich emailom, a ich ALITEO uctu, dame si call a vyriesime to takto? napiste kedy mate tento tyzden cas... predpokladam ze u pani Srdosovej ste znova urobili preklep a mala to byt Miriam alebo Katarina, je tak?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) prosim Ta, mam to s nimi spravit priamo cez URL linky?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "emiliu.puterovu a miriam.srdosovu mozeme poriesit zajtra cca o 12 ?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) zuzana.maslikova@3ec.sk - pozvánka: https://app.aliteo.com/invitation/a0676qi0bg1oa8/18a5ec18-11d5-49f2-8daa-ea34fe12ec28 - nyní jsem poslal, klidně jim to nakopíruj. miroslava.srdosova@3ec.sk - nevidím ji jako uživatele v aliteo ani v karatu - takže je potřeba aby ji RPA založil do osob a pak ji možné ji poslat. emilia.puterova@3ec.sk - - nevidím ji jako uživatele v aliteo ani v karatu - takže je potřeba aby ji RPA založil do osob a pak ji možné ji poslat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, zajtra o 12:00 sa mozeme spojit. Mimo toho som zistil ze: - pani zuzana.maslikova@3ec.sk bola odoslana pozvanka a link k nej prikladam aj sem - cez tento link moze pozvanku prijat, prihlasit sa problem by byt nemal https://app.aliteo.com/invitation/a0676qi0bg1oa8/18a5ec18-11d5-49f2-8daa-ea34fe12ec28 (kolega jej ju poslal este raz aj do emailu) - pani miriam.srdosova@3ec.sk ma link tu: https://app.aliteo.com/invitation/a04f27ga0g1vqv/8bad74cb-1eec-4635-870c-86a0becc271d - pani emilia.puterova@3ec.sk ak sa bavime o pozvanke to vasej spolocnosti, tak takisto ak si ju najdete medzi uzivatelmi, v zalozke pokrocile a mozete jej poslat pozvanku do spolocnosti opakovane alebo najst URL link k pozvanke - naviac tento email sa ani nenachadza medzi registrovanymi uzivatelmi, teda takyto uzivatel ani neexistuje (skratka sa nezaregistrovala) Mozno Vam k tomu pomoze aj tutorial video k pozvanke a registracii: https://www.youtube.com/watch?v=2smS4DUiKsM&list=PLLotJPTXmdg3C_MvZ7GLa7NQitekh0KkX&index=4 Potvrdte mi prosim, ci je stretnutie nutne. Dakujem"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Potvrdzujem, môžete poslať MS Teams pozvánku na emilia.puterova@3ec.sk na 12 hodinu ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim Vas, nieco mi medzitym do toho voslo, mozme aj 12:30-13:00 ?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "môže byť, možno tu dovtedy bude aj miriam srdosova, ak nie tak aspoň p. Puterovu poriešime, lebo jej som dnes opäť posielal pozvánku aj z Alitea aj odkaz e-mailom a stále tá istá chyba a pritom medzi užívateľmi v spoločnosti 3EC Interrnational a.s. ju vidím, tak verím, že nebude chyba medzi stoličkou a klávesnicou :)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pozvanku som odoslal. Stale plati ze ucet s emailom emilia.puterova@3ec.sk neexistuje, takze pani Puterova nedokoncila registraciu. Vy ju v spolocnosti vidite, lebo poslanie pozvanky nie je podmienene existenciou uctu v ALITEO. Este mozete zistit ci Vam chodia emaily z microsoftu pre overenie a registraciu v AAD. Predpokladam ze to problem nebude, kedze vy ste sa registrovali. Ale niekedy sa stane ze verifikacny server MS posle kod, ale zastavi to brana emailov a uzivatel nedostane email. Kod potom expiruje a clovek sa nevie registrovat. Pocujeme sa o 12:30."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Pamätám si, že sme vypĺňali aj registračný kód a áno občas sa stene že napr. z môjho e-mailového účtu tomas.polak@outlook.sk, čo je môj súkromný e-mail na platforme Microsoft 365 (základné predplatné)., mi ho náš poštový server v 3EC international blokuje. Mal som rozsiahle diskusie s našim externým IT, ktoré mi krvopotne tvrdí, že je chyba na strane Microsoftu, Microsoft podpora mi ale zdokladovala, že chyba je u nás a nejaké nastavenie nášho serveru blokuje e-maily od microsoftu. Keď som s tým konfronotval našeho IT poskytovateľa služieb, tak sa to miesto hľadania riešenia skončilo tak, že kontaktovali riaditeľku našej firmy, začali ju strašiť s tým že ide o porušenie bezpečnosti ak používam súkromnú e-mailovú adresu a vraj brusel nám to zakatuje (čím iným strašiť ak nie EU), tak odvtedy mám zakázané používať svoj súkromný e-mail na testovanie či už KARATu alebo ALITEA. Problém sa nevyriešil ale všetci sú dostatočne vystrašený aby radšej nič nerobili :)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za zaujimavu skusenost 🙂 taky nas nesvar \"ačohentizmus\" - ak neviem vyriesit problem, obratim pozornost inde, ze je problem inde 🙂 Som rad ze sme dnes vyriesili co bolo treba. Ulohu teda predavam na Vas, aby ste sa pozreli na ostatne kolegyne, p. Srdsovu a p. Maslikovu."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Aj ja ďakujem za asistenciu, naučili  sme sa že registrácia nie je ukončená overením kódu ale treba ešte posunúť kurzor nižšie a potvrdiť ju tlačidlom. Vyskúšam aj pri ostatných kolegyniach a verím, že to bude ok a potom tiket uzavrieme."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) asi neměli na 90% a tedy tu volbu neviděli, že mají pokračovat je tak? s tím jsem se taky setkával často - ale rozumím, že to nejde za vámi, protože to není náš formulář."
+    }
+  ]
+}

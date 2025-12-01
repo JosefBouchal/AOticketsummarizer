@@ -1,0 +1,103 @@
+{
+  "id": "a084bosvg01t46",
+  "created": "2025-11-13T08:07:35.361Z",
+  "closed": "2025-11-25T13:07:16.669Z",
+  "duration_minutes": 17579,
+  "first_response_minutes": 47,
+  "name": "Nechodí mě Push notifikace",
+  "description": "Zdravím, Už nějakou dobu mě nechodí PUSH notifikace. Mám je zapnuté pro Edge, i jsem provedl odebrání povolení a znovu push notifikace nastavil a stále mě nechodí. Pokud je zapotřebí dodat nějaké info, rád udělám Lubomír Bednář system analyst tel.: +420 581 737 148 | lubomir.bednar@karatsoftware.cz< > KARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< > [ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< > Facebook< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < >  LinkedIn< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < >  YouTube< > [ http://www.karatsoftware.cz/ ]< >",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 20,
+    "from_owner": 11,
+    "from_others": 9,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubo, takze mobil je ok, PWA aplikacia v desktope je problem?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Mobil nevím, tem to nepoužívám, já to používám na desktopě"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V poriadku, tak teda posielam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubo, prosim mohol by si do konzole napisat localStorage.getItem(\"fcmtoken\") a poslat nám výsledok? dakujem"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "jasně, jen mě chvilku trvalo, co po mě ten prohlížeč chtěl :-): token 'fIqYB3oyi8O7SNi3jFZV3u:APA91bFCPNUye0UDozYUHD2G5RinbkQoImsEcfj-45WR2j357xBumipagtxKNpiebtlCO1on6j5pfOtRCFNlhCEVyfEeZjs1g8JLr4iQqWNYtj9nNAr1av0'"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "pro jistotu dodám i nastavení oznámení . Mě to dlouho chodilo, používám to od doby, co jste to tam dali, abych nemusel pokaždé sledovat prohlížeč, ale je tomu tak týden možná trošku déle, co to nechodí"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, mne to pride rovnako.. len som si to neuvomil"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Este skus prosim Ta zmazat cookies.. nie je to riesenie, ale ci sa to nejako neobnovi.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "myslíš celé cookies? chci to? to mě odhlásí že všeho, Entra, Google, MS, .... a nebo jen z ALITEO?, zkusím prvně jen to"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Neviem asi len ALITEO, len predavam info.. z vyvoja.. nema zmysel asi mazat cele cookies.. ci?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tak jen pro info, zde se změnil stav a notifikace mě nedošla, ok zkusím smazat celé cookies"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja by som to nerobil.. ak ta to odhlasi.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "vymazáno, nalogolováno do AO, pls Dane, dej zpět tento úkol na mou raekaci, jestli dojde notifikace"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "hmmm, tak nic"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dal som naspat na reakciu, ale asi to nepomoze .. nic ideme dalej.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Takže dle požadavku otestovat chození notifikací edge pomocí https://cleverpush.com/en/test-notifications/ zjištěno, že notifikace z edge nechodí, ok, pak to není chyba AO a klidně můžeme zavřít, já pak zkusím někdy zjistit jak to rozjet. Co na to může mít vliv? zatím přesně nevím, ale možná že se to přestalo chodit po tom, co jsem si nainstaloval edge i na mobil a mám tam zapnutou synchronizaci s účtem, jednou zkusím rozpojit a nějak to restartnout Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No som rad ze sa to nejako pohlo.. tak teda uzatvarame?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano uzavřeme, i když mě to nefunguje, ale nefunguje to obecně z edge, a to si zkusím dohledat sám"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dávám vědět, že mě snad pomohlo v Power Shell jako správce pustit přeregistrování aplikací: Get-AppxPackage | % { Add-AppxPackage -DisableDevelopmentMode -Register \"$($_.InstallLocation)\\AppxManifest.xml\" -verbose }"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ověřeno, notifikace o komentáři ##22 došla"
+    }
+  ]
+}

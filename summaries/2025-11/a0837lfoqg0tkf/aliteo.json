@@ -1,0 +1,55 @@
+{
+  "id": "a0837lfoqg0tkf",
+  "created": "2025-11-04T13:47:24.057Z",
+  "closed": "2025-11-11T09:38:25.280Z",
+  "duration_minutes": 9831,
+  "first_response_minutes": 261,
+  "name": "organization structure of project and reporting",
+  "description": "Proposal of concept how to setup structure of projets and reporting in 3EC.",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 4,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Tomas_Polak",
+      "comment": "P. Dzuro potrebujem si k tejto téme ešte sadnúť, pribúda mi kopec tiketov za jednotlivé spoločnosti a začínam sa v tom strácať, budem potrebovať vytvoriť nejaký filter alebo dashboard aby som sa z toho reaktívneho módu na upozornenia (zvončeky), prepal do módu sledovania tiketov a ich aktualizácie aspoň raz týždenne. Viete mi s tým pomôcť ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, kludne mozme, dajte dokopy asi data, aky typy pripadov a kam Vam prichadzaju, aku mate triaz (ako vy dokazete definovat rozne urovne urgencie) a podla toho uvidime co dalej. Plus samozrejme vase mozne terminy stretnutia.."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Pozdravujem, budúci týždeň, mám celý voľný, nemám tam nič, takže kedykoľvek (ideálne do obeda) sa vám prispôsobím. To čo potrebujem primárne nastaviť je : 1. Dohliadanie nad tiketmi v našej spoločnosti : T.j. mať v dashboarde tikety kde týždeň a viac nepribudol žiadny komentár prípadne sa neudiala žiadna aktivita aby som to mohol eskalovať či už u seba (lebo som zabudol zapísať info, prípadne mi 3 strana nedala komentár ) 2. Dohliadanie nad našimi tiketmi v SANGO (spoločnosť Karat).  Sme v ostrej prevázke, oni sú zaneprázdnení inými projektami, ale musia platiť termíny v zmluve o podpore. Oni majú SLA ja potrebujem tiež nástroj na to aby som si tieto termíny a naše  úlohy u nich vedel sledovať. Ak sa to nedá v spoločnosti KARAT tak ma napadlo, prejsť na používanie nášho ALITEA (v spoločnosti 3EC International a.s.) a potrebujem mať dasboard ktorý mi bude sledovať ako dlho  je tiket eskalovaný u nich, či nad tým tiketom niekto robí a ideálne ak sa budú public komentáre zrkadliť aby som stále nemusel chodiť ja a naši užívatelia do ich Alitea. A celkovo si budeme musieť nastaviť komunikáciu so Sangom, začínajú sa sťažovať, že tvoríme veľa zmenových požiadaviek. Najskôr p. Putyra (zo Sanga)  písal, že ALITEO nie je nástroj na  zmenové požiadavky a mám ich písať do Word-u, keď som mu spravil printscreen z Alitea spoločnosti KARAT v našom projekte, že sú tam typy tiketov : Chyba, Zmenová požiadavka, tak ma ukecal, že nech to robím do komentárov. Keď som mu ukázal zmluvu o podpore kde je exaktne uvedené, že incidenty aj zmenové požiadavky zadávame ALITEOM, emailom prípadne dohodou, tak sa začali sťažovať, že dávame veľa zmenových požiadaviek. Teraz keď vyvíjame nový modul Kompetencie, tak zas nás tlačia do Wordov a ja som im už rázne povedal, že takýto model komunikácie odmietam a ak v ALITEO nevedia robiť majú kontaktovať Vás alebo niektoho z KaratSoftware. Plus som im ponúkol x riešení : 1. Prichádzajúche zmenové požiadavky si budú priraďovať ako podúlohy veľkého (rodičovského tiketu ) Zmenové požiadavky. Žiadne komentáre, skrátka podúlohy a ak sa niečo zmení v týchto podúlohách budú písať aktualizáciu, môžu to prepnúť na nás, ja to otestujem ak to nebude ok vrátim im to späť ak to bude ok, uzatváram 2. Môžu si meniť typy tiketov tak ako ste to učili mňa. Incidenty, Zmenové požiadavky, Požiadavky, Otázky, .... a filtrovať si v nich. 3. Ak nechcú vidieť zmenové požiadavky vedia si spraviť View a vyňať ich 4. Ak nechcú plniť zmenovú požiadavky vedie ich dať suspended. Ako celkovo nerozumiem prečo ma KARAT / ALITEO partner núti používať nevhodné technológie na projektové riadenie (Word, Excel, Papier, email, telefon)  Mám to riešiť s Vami alebo s niekým z KARAT-u pánom Pazderom ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ak mate cas, mozeme aj dnes 10:30. Ak by som mal zrhnut nejako: - eskalacia problemov pri komunikacii/reakcne casy atd - to je na riesenie s p. Pazderom (a Sangom) - technicke riesenie - so mnou - inymy slovami - ked uz su karty medzi Karat, 3EC a Sango rozdane, mozeme hladat riesenie ako to u Vas nastavit, aby ste zahrali s tymi kartami co najlepsie Co sa tyka wordu/excelu atd - to je na diskusii, dovolim si povedat, ze existuju use cases kedy to je lepsia cesta. Ale trufam si povedat, ze najlepsia je kombinacia a to ako je to nastaven (technicke riesenie, ktore si osvoja vsetky strany)"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "mal som konzultácie s kolegyňou. Môžete aj o 11 ? Poslal som meeting cez Aliteo, ak by Vám to nevyhovovalo navrhnite čas, prispôsobím sa"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Jasne, budem tam.. potvrdil som ucast.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, asi sme si presli vsetko na co ste sa pytali. Alebo je este nieco co potrebujete konzultovat? ci mozeme uzatvorit?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "toto môžeme uzatvoriť, ďakujem ešte raz"
+    }
+  ]
+}

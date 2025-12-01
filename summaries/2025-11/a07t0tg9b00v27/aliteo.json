@@ -1,0 +1,83 @@
+{
+  "id": "a07t0tg9b00v27",
+  "created": "2025-09-17T07:59:25.021Z",
+  "closed": "2025-11-27T10:07:46.932Z",
+  "duration_minutes": 102368,
+  "first_response_minutes": 1356,
+  "name": "Aliteo HD - status pozadavku a zmen",
+  "description": "Dobrý den,\r\n\r\nPoprosil bych krátkou schůzku pro přehled změn v HD a požadavků, o kterých jsme historicky debatovali.\r\n\r\nMůj přehled:\r\n\r\n  *   Pozvanka a registrace v EN:\r\n     *   během dubna 2025 (registrace se by default řídí jazykem prohlížeče)\r\n\r\n\r\n  *   Přiřazení skupiny žadatelu ke skupine resitelu:\r\n     *   Během 3Q2025\r\n\r\n\r\n  *   HOTOVO: Stav ticketu - čekání na jednu vybranou osobu:\r\n     *   Během dubna 2025\r\n\r\n\r\n  *   SSO s O365:\r\n     *   Během roku 2025\r\n\r\n\r\n  *   Export user reakci v ramci ticketu:\r\n     *   V nove verzi 3Q2025\r\n\r\n\r\n  *   Automaticke pripominani uzivateli, pokud se od nej ceka reakce:\r\n     *   nebude\r\n\r\n\r\n  *   Sablony ticketu - sdileni mezi uzivateli:\r\n     *   Se uvidi\r\n\r\n\r\n  *   Citace komentare jineho uzivatele v ramci ticketu:\r\n     *   Se uvidi\r\n\r\n\r\n  *   Mobilni aplikace:\r\n     *   V prubehu prazdnin 2025\r\n\r\nPředem děkuji,\r\n\r\n\r\nMartin PŘIKRYL\r\nIT Coordinator\r\nLesaffre Česko & Lesaffre Slovensko\r\n\r\nMob. +420 739403300\r\nHodolanská 34, 779 00 Olomouc, Czechia\r\n\r\n[Image001]\r\n\r\n[Image002]< >  [Image003] < >   [Image004] < >   [Image005] < >\r\n\r\nm.prikryl@lesaffre.com< > – www.lesaffre.cz – www.lesaffre.sk< > – www.lesaffre.com\r\n\r\nZvažte, je-li nutné tento e-mail vytisknout. - Please only print this email if it is necessary.\r\n\r\n[Image006]< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 15,
+    "from_owner": 5,
+    "from_others": 10,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "*   Pozvanka a registrace v EN: *   během dubna 2025 (registrace se by default řídí jazykem prohlížeče) *   Přiřazení skupiny žadatelu ke skupine resitelu: *   Během 3Q2025 nie som si isty o co ide - do podmienky pre aktivaciu pravidla riesitela mat moznost zvolit uzivatelsku skupiny (usecase: ak vlastnik pripadu patri ud US 1 pripradi sa RS1, ak do US2 tak do RS2) - KARAT #311661 Automatizace přidělení skupin řešitelů k ticketům - ALITEO #8084 Aktivacia pravidla: Na zaklade vlastnika v uzivatelskej skupine *   HOTOVO: Stav ticketu - čekání na jednu vybranou osobu: *   Během dubna 2025 uz k dispo - ceka na reakciu konkretneho uzivatela *   SSO s O365: *   Během roku 2025 pripojenie office365 kalendara cez prihlasenie v aktualnom sprinte - mohlo byt vonku v Q4 2025 #5633 Registracia Aplikacie MS 365+priprava Frontend ALITEO. *   Export user reakci v ramci ticketu: *   V nove verzi 3Q2025 Export je dostupny v novej verzii - je treba si to vyskusat #7008 HD: rizeni vyvojovych projektu - export *   Automaticke pripominani uzivateli, pokud se od nej ceka reakce: *   nebude Uznal ze to nie je cesta pripominania #7078 HD: automaticka pripomenuti *   Sablony ticketu - sdileni mezi uzivateli: *   Se uvidi Neriesili sme #6663 HD: šablona úkolu pro všechny v rámci projektu *   Citace komentare jineho uzivatele v ramci ticketu: *   Se uvidi Nepreslo produktovou poradou - #7111 HD: moznost citaci komentaru + navyseni licence *   Mobilni aplikace: *   V prubehu prazdnin 2025 PWA je dostupna, android a ios cakame na story"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, mohli by sme pondelok 22.9.2025 o 10:00.  Vyhovovalo by Vam to?"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, omlouvám se, v záplavě jiných notifikací z HelpDesku jsem návrh termínu přehlédl. Mohli bychom se domluvit na jiný termín? Děkuji, MP"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nevadi, co tak stvrtok 25.9.2025 v rovnakom case teda 10:00? Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "To mám bohužel plno, nicméně pátek 26.9. od 13:00 je pro mě OK. MP"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V poriadku, 26.9.13:00, posielam pozvanku na Teams."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za rozhovor, ostavaju teda otvorene 2 veci: 1. podmienka pre spustenie pravidla - teda ak vlastnik pripadu patri do uzivatelskej skupiny 2. sablona ulohy a jej zdielanie medzi ostatnych uzivatelov Ulohu teda pozastavim, zistim informacie a budem Vas informovat.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, obe veci boli zadane do planu vyvoja - teda budeme to realizovat v niektorom z buducich sprintov. Staci to takto?"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, omlouvám se za pozdní odpověď, přemohl mě bacil. U uvedených dvou věcí bych ocenil aspoň odhadem termín realizace, ať si mohu aktualizovat své poznámky. Díky, MP"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) aky myslis ze bude timing - ulohy su vo vazbach, jedna je planovana na sekundadny 25.2 a dalsia na 25.3"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Verim ze v priebehu roka 2026 do 08/2026"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, verime ze v priebehu dalsieho roka, odhadom do 08/2026 by mohli byt obe úpravy dostupne. Budeme samozrejme robit vsetko pre to, aby to bolo čo najskôr. Ďakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, rozumím. Bylo by super, kdyby to bylo dřív, jelikož jsme se o tom bavili už v 05/2025 resp. 06/2025 a hodně by nám to pomohlo. Děkuji Vám za info a klidný den, MP"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Riesil som to s produktovym manazerom a podarilo sa nam to preradit aby to bolo hned v dalsom sprinte po tomto, ktory aktualne nasleduje. Znie to asi komplikovane, takze: verzia 25.2 je na spadnutie, takze ta bude v najblizich mesiacoch. A v tej dalsej verzii by uz mali byt zapracovane aj tie vase podnety - predpokladam ze to bude verzia 25.3. Tym padom hruby odhad je polovica roka 2025. Mozeme tento pripad teda uzatvorit?"
+    },
+    {
+      "creator": null,
+      "comment": "Bezva, děkuji, možno uzavřít. MP"
+    }
+  ]
+}

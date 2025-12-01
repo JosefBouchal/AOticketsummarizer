@@ -1,0 +1,39 @@
+{
+  "id": "a0859mppc01k3a",
+  "created": "2025-11-20T14:30:24.888Z",
+  "closed": "2025-11-28T11:36:07.043Z",
+  "duration_minutes": 11345,
+  "first_response_minutes": 6,
+  "name": "API na Aliteo",
+  "description": "Dobrý deň prajem. Na základe požiadavky nášho vedenia spoločnosti preniesť nášho dodávateľa do Alitea. A ich následnú komunikáciu: \"Rozumiem Vašej preferencii využitia Vášho portálu. V takejto situácii sa optimálne a bežne rieši vzájomná integrácia oboch systémov prostredníctvom API. Náš systém takúto integráciu umožňuje a v prípade potreby poskytneme súčinnosť k takému prepojeniu.\" Chcem sa opýtať, či existuje takáto možnosť v Aliteo? Ďakujem",
+  "owner": "Seliga Jozef",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano, na stranke https://api.aliteo.com/swagger/ui je dostupna dokumentacia k nasmu API."
+    },
+    {
+      "creator": "Seliga Jozef",
+      "comment": "Ďakujem pošlem im to."
+    },
+    {
+      "creator": "Seliga Jozef",
+      "comment": "Ešte otázka p. Dzuro. Kto potom bude robiť realizáciu prepojenia. Podľa môjho názoru by tom mal byť ten dodávateľ. Tak? Ináč používajú JIRA."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, vzhladom na to, ze potrebujete tie systemy prepojit vy, je to v principe na Vas a ALITEO (a ked som spravne pochopil aj dodavatel) je schopne byt sucinne teda poskytnut co najviac informacii k tomu aby to mohlo byt realizovane. Skuste mozno popisat Vase poziadavky ako by to prepojenie malo vyzerat, to budete tak ci tak potrebovat a poslite nam ich."
+    }
+  ]
+}

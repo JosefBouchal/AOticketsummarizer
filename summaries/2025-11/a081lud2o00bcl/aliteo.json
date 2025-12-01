@@ -1,0 +1,35 @@
+{
+  "id": "a081lud2o00bcl",
+  "created": "2025-10-23T12:08:31.205Z",
+  "closed": "2025-11-05T12:57:17.521Z",
+  "duration_minutes": 18768,
+  "first_response_minutes": 182,
+  "name": "Preverenie Milnikov a ganta projektov",
+  "description": "1. expandovat projekty na ulohy v evidencii projektov 2. nacitat data z ulohy aby sme mohli odfiltrovat iba milniky a vidiet ich v casovej osy v porovnani s inymi projektmi",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, tak zistil som ze rozpad uloh v zobrazeni projektov uz v dalsej verzii bude, vid obrazok Dalsi tyzden sa pokusim zistit ci bude mozne dostat do filtrovania aj data z uloh. Je to technicky stranka projektov nie ulohy, preto su ulohy upozadene, ale urcite sa o tom pobavime a budem Vas informovat"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "prebrane na porade: Produktova porada AO - FR25"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, posielam update, zaradili sme do vyvoja to, aby milnik bol mozny definovat na ulohe - teda konkretnu ulohu oznacit za milnik. Dakujem za podnet a prajem pekny den."
+    }
+  ]
+}

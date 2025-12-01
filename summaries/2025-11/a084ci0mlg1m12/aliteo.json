@@ -1,0 +1,39 @@
+{
+  "id": "a084ci0mlg1m12",
+  "created": "2025-11-13T12:41:55.632Z",
+  "closed": "2025-11-27T11:12:06.265Z",
+  "duration_minutes": 20070,
+  "first_response_minutes": 29,
+  "name": "Návrh III. stupňového service desku",
+  "description": "Dobrý deň, viete mi zaslať nejakú vzorovú šablónu / otázky  v akom formáte chcete mať zapísané / zakreslené požiadavky, aby som Vám tam zakreslil ten návrh / našu predstavu III. stupňového servise desku so Sangom a Karatom a keď tak si viemem potom k tomu zavolať ? Zvolal som k našemu projektu internú poradu a jednou z nich je zefektívnenie komunikácie cez Aliteo a chcem pripraviť nejaký návrh a ten predstaviť u nás a následne predisktuovať so Sangom / Karatom aby sme naozaj fungovali projektovo a nie cez e-maily, wordy, excely a papieriky.",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, Z praktického hľadiska by bolo najlepšie, keby ste si: 1. interne zadefinovali, ako by ste chceli, aby celý proces fungoval – teda základnú logiku krokov, zodpovedností a prepojení medzi stranami – teda bez ohľadu na samotný systém. Stačí základná kostra: kto zadáva požiadavky, kto rieši, aké sú kroky a prepojenia medzi stranami (Vy – Sango – Karat). 2.  O dsúhlasit si proces so Sangom a KARATom a prípadne zapracovať ich pripomienky alebo obmedzenia. 3. Nakoniec si to môžete začať nastavovať a ja som k dispozícii ak by ste potrebovali skonzultovať ako ktore veci nastaviť. Dáva Vám to zmysel?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Ok, spíšem si to sem, budúci piatok máme poradu, na ktorej to predostriem (lebo mimo to mi nikto na e-maily neodpovie  ) . Po našom internom meetingu by som si to s Vami rád prešiel či to dáva zmysel, následne budeme mať meeting so Sangom/Karatom, tam by som bol rád ak by ste sa zúčastnili, lebo nemám také znalosti ako vy a obávam sa, že zas budú hladať len ako sa to nedá a ako zostať pri exceli a worde, nemám skrátka také argumenty ako sa veci dajú robiť a v tomtmo by som potreboval na ich PREČO NIE, niekoho skúseného v ALITEU aby sme vedeli promtne reagovať a ponúkať riešenia, nech eliminujeme počet e-mailov schôdzok, kde zas budeme riešiť dokola to isté. Dáva Vám to takto zmysel ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, kedze nejde o jednoduchu vec, konzultoval som tento stav s p. Pazderom. Urcite sa ja nejakym sposobom nechcem miesat medzi dohody, ktore medzi sebou KARAT, SANGO a 3EC. S p. Pazderom sme sa zhodli ze je dobre, aby: 1.  ste dali na “papier” vsetko s cim mate problem a takisto poziadavky ako by ste chceli aby to v idealnom stave fungovalo. Kto, co kam zadava, akym spobom, ako to oznacuje, ak odpoveda ako deleguje riesenie a podobne…. kde to drhne 2. Nasledne si dat stretnutie KARAT-SANGO-3EC a dohodnut sa co je mozne a co nie. Kolega z KARATu pozna moznosti ALITEO a zaroven proces akym KARAT Assistance funguje. Je mozne, ze veci sa do znacnej miery pohnu len je treba to nastavit. 3. Zacali to pouzivat a zistili aky to ma prinos.. Pri tom vsetkom som ja napomocny ako konzultant technickeho riesenia… ci uz pred trojstrannym stretnutim alebo aj po nom…"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "ok, v poriadku. Zajtra máme interné stretnutie na túto tému, potom si chceme sadnúť so Sangom a ak nenájdeme riešenie, tak prizveme aj Karat resp. p. Pazderu. Ja spíšem ako by tá komunikácia mohla fungovať, skúsim nejaký diagram a dám vedieť."
+    }
+  ]
+}

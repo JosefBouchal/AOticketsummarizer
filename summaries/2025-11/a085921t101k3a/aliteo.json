@@ -1,0 +1,39 @@
+{
+  "id": "a085921t101k3a",
+  "created": "2025-11-20T10:43:48.506Z",
+  "closed": "2025-11-25T19:30:43.820Z",
+  "duration_minutes": 7726,
+  "first_response_minutes": 24,
+  "name": "Mentoring - mizí data při změně řazení",
+  "description": "v mentoringu: mám řazení dle Priority nebo jiných a funguje to: změním řazení dle Posledního komentáře a záznamy se mi ztratí:",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, jasne, chyba posielam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Podla vsetkeho robi problem len kategoria \"posledny komentar\".."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) opravene, u mna ok, ked som testoval.. mozes pozriet u seba?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Vypadá ok."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a07sppetog178h",
+  "created": "2025-09-15T14:28:35.058Z",
+  "closed": "2025-11-13T07:45:14.450Z",
+  "duration_minutes": 84556,
+  "first_response_minutes": 969,
+  "name": "iOS aplikace - při delší nečinnosti a následném otevření odkazu ho neotevře",
+  "description": "Mám iOS aplikaci ALITEO. Delší dobu ji nepoužívám. V notifikaci na telefonu nebo e-mailu kliknu na zobrazení případu. Zobrazí se mi načítání aplikace, jsem v aplikaci, pak se znovu načte aplikace a jsem v ní, ale neotevřelo se mi to co mělo - Chyba Když najdu odkaz a otevřu jo, tak už je vše Spea ne na první pokus Nevím proč to opakovaně načítá, ale během toho zapomene co měl otevřít.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 0,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano je to tak.. posuvam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by to byt opravene, ja to budem testovat pri praci.. ak na to narazis znova, prosim nahlas"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "beriem si naspat, zistujem ci to uz je v ostrej alebo to je mimo verziu a zalezi na verzie aplikacie (podla mna to bude tento pripad)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by to byt opravene - skusal som a zda sa ze je to ok"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a0859llna03g8h",
+  "created": "2025-11-20T14:18:06.288Z",
+  "closed": "2025-11-26T11:47:34.689Z",
+  "duration_minutes": 8489,
+  "first_response_minutes": 5,
+  "name": "Dotazy k API",
+  "description": "Dobrý den,\r\n\r\nPřed chvílí jsem s Vámi byl na telefonu, dostal jsem za úkol implementovat zakládání externích uživatelů skrze ALITEO API.\r\n\r\nMěl bych na Vás v tomto ohledu pár otázek (v podstatě všechny se týkají endpointu modify):\r\n\r\n  1.  Jaký je význam polí „usercompanytomodify“ a „emailtomodify“? Jeden usecase, který se snažím řešit, je změna emailu existujícího uživatele a nepodařilo se mi jí zatím provést; pouze prefemailu, nikoliv toho „hlavního“.\r\n  2.  Jaké jsou vnitřní procesy při deaktivaci? Smažou se data daného uživatele, případně pole viditelná skrze API? Dá se skrze API deaktivace zvrátit (tj. aktivovat deaktivovaného uživatele)?\r\n  3.  K čemu vlastně slouží pole „usercompany“? Když jsem se snažil si změnit email, vyskakovala mi chyba s ní spojená, i když jsem žádnou změnu s ní spojenou nezadával (tudíž nejspíš nechápu, k čemu pole slouží).\r\n  4.  Jaké jsou všechny stavy pole „accepted“?\r\n\r\nPředem Vám mnohokrát děkuji za výpomoc a vysvětlení 😊\r\n\r\nS pozdravem a přáním příjemného dne,\r\nMichal Vaverka\r\nIT aplikační specialista\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\ntelefon +420 227 200 218\r\nmobil +420 705 710 976\r\nmichal.vaverka@respect.cz< >\r\nwww.respect.cz< >\r\n●\r\n[Image001]\r\n[Image002][Obsah obrázku kreslení  Popis byl vytvořen automaticky]< >[Obsah obrázku objekt, kreslení  Popis byl vytvořen automaticky]< >[Obsah obrázku hodiny  Popis byl vytvořen automaticky]< >[Image006]< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 0,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pozriem sa na to a budem Vam odpovedat co najskor to pojde."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) chystam odpoved zakaznikovi, mozes prosim overit ci tam nepisem vyslovene bludy a mozem mu to takto odoslat - sme v supporte. Dakujen 1. sluzi na to aby sa definovalo, ktoreho uzivatela ideme menit - pouzijeme bud emailtomodify (email uzivatela) alebo usercompanytomodify (ID uzivatela spolocnosti) 2. deaktivacia zneaktivni cloveka v spolocnosti - jeho data ostavaju, ale dany uzivatel straca pristup k spolocnosti a teda aj k datam v tejto spolocnosti 3. usercompany - ide o ID uzivatela v spolocnosti, ktory ide danu zmenu previes 4. accepted - bavime sa teda uz o endpointe /users/detail ? ak ano, ide o stav pozvanky - v stave pozvanka (neprijal neodmietol), prijal, odmietol"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "ad 1. ano píšeš to správně s tím, že usercompanytomodify je jednoznačná identifikace (pokud ji znají, je preferované ji použít), přes emailtomodify se jen zkusí najít usercompanytomodify pokud není uvedeno. Současně platí, že měnit mohu pouze prefemail, hlavní email, kterým se uživatel registroval do Aliteo, změnit nelze a ani to nepatří do dat společnosti. ad 2. píšeš to správně - deaktivace pouze znemožní přístup uživatele do společnosti. Druhým krokem je Odpojit uživatele - což zruší vazbu mezi uživatelem společnosti a uživatelem, nicméně i v tomto případě data zůstávají a navíc je možno uživatele společnosti připojit k jinému registrovanému uživateli. ad 3. píšeš to správně - usercompany (podobně email) identifikují toho kdo změnu provádí, ale je nepovinné, pokud není uvedeno, použije se obecný \"API uživatel\". usrcompany a email jsou použity v celém API (chápu že při modifikaci uživatele je to matoucí) ad 4. píšeš to zcela správně."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, posielam odpovede: 1. sluzi na to aby sa definovalo, ktoreho uzivatela ideme menit - pouzijeme bud emailtomodify (email uzivatela) alebo usercompanytomodify (ID uzivatela spolocnosti) - zaroven plati ze sa moze menit iba prefemail (hlavny, email pod ktorym existuje ucet menit nejde) 2. deaktivacia zneaktivni cloveka v spolocnosti -dalsim krokom je jeho uplne odpojenie (prerusenie vazby medzi spolocnostou a uzivatelom), jeho data ostavaju, ale dany uzivatel straca pristup k spolocnosti a teda aj k datam v tejto spolocnosti 3. usercompany - ide o ID uzivatela v spolocnosti, ktory ide danu zmenu prevadza (ak sa pole nevyplni pouzije sa vseobecny API uzivatel) 4. accepted - bavime sa teda uz o endpointe /users/detail ? ak ano, ide o stav pozvanky - v stave pozvanka (neprijal neodmietol), prijal , odmietol Ak Vam nieco nefunguje, napiste postup, pripadne poslite text endpointu a response ktory Vam to vracia a ja sa na to pozriem."
+    }
+  ]
+}

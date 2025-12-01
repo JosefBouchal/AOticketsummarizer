@@ -1,0 +1,47 @@
+{
+  "id": "a083536klg0b2c",
+  "created": "2025-11-03T22:48:37.553Z",
+  "closed": "2025-11-13T09:13:36.985Z",
+  "duration_minutes": 13584,
+  "first_response_minutes": 524,
+  "name": "prověření notifikace",
+  "description": "Píše nám kolega Zoul viz screen, že dostal notifikaci o úkolu.#29832 #29832 BROKING Bonifikace na PS nakone jsem vypátral, proč ji dostal byl pvůdoním anonymních vlastníkem ukolu, který byl zrušen a nahrazen tímto. viz screen #33941 Karat - nepropisují se bonifikace 1.)je to očekávané chování, že notifikaci dostávají i lidé ze zrušeného =úkolu?\n2.) Add 1 bych asi ještě pochopil, ale co mi vadí, že nemohu editovat vlastníka =úkolu, ticket jsem od archivoval, ale stejně jako odmin projektu do neumím dostat do stavu abych vlastníka změnil.\n\nnení to chyba?\nMichal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, no neviem ci nerobilo problem to, ze medzi sledujucimi ostal ten anonymny uzivatel. Kazdopadne zistim co budem vediet a budem Vas informovat aky by mal byt idealne postup Vidim dobre, ze emailova adresa povodneho vlastnika je uvedene pod menom noveho vlastnika? To sa mi takisto nepozdava."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Ano, vidíte správně, to se děje, pokud změníme \"anonymního vlastníka\" na někoho reálného. proto plánujeme stejně všechny u nás ve firmě zakládat, alespoň jako externí uživatele. Michal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Skusime pretestovat u nas ako idealne robit tu zmenu, aby povodny vlastnikk uz upozornenia nadostaval. Zaroven preverime na vyvoji ci to tam technicky musi byt alebo je to chyba.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, posielam update. Uloha vznikla zlucenim uloh. Ak zlucite 3 ulohy do jednej, potom sa 2 zrusia ale ich vlastnici dostavaju upozornenia na zaklade pohybu riesenia v tej zlucenej. Preto vlastnikovi povodnej ulohy chodilio upozornenia."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "ok, to jsem si myslel. A dokážu nějak editovat toho vlastníka na té zrušené uloze ? M2 se ji totiž nedaří aktivivovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ak chcete ulohu znova menit, musite ju: - aktivovat (ak je archivovana), - zmenit zo stavu zrusena/uzatvorena na iny stav (v rieseni) - nasledne by malo byt mozne upravit vlastnika - potom znova zrusit a archivovat."
+    }
+  ]
+}

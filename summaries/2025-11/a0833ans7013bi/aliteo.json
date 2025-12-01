@@ -1,0 +1,35 @@
+{
+  "id": "a0833ans7013bi",
+  "created": "2025-11-03T12:31:55.027Z",
+  "closed": "2025-11-09T20:43:46.592Z",
+  "duration_minutes": 9131,
+  "first_response_minutes": 4,
+  "name": "Dotaz- ESON CZ",
+  "description": "Dobrý den,\r\nChtěl bych se zeptat, když mám v Aliteu udělaný harmonogram termínů porad, lze to propojit s outlookem?\r\n\r\ndíky\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano, na tomto linku https://help.aliteo.com/kalendar-nastaveni-synchronizace/ najdete navod ako pripojit svoj kalendar. V idealnom pripade, je lepsie najprv pripojit kalendar a az potom vytvarat porady, aby sa Vam automaticky zobrazovali v pripojenom kalendari. Ak uz ale mate porady vytvorene a az nasledne pripojite kalendar, potom v kazdej rade porad (porade, ak je jedna) v lavom paneli najdete tlacidlo, pripojit. Tymto tlacidlom potom nastavite pripojenie ku kalendaru."
+    },
+    {
+      "creator": null,
+      "comment": "Díky za rychlou radu.\r\nA pokud chci, aby se to objevilo i v kalendáři ostatních účastníků, tak také musí nejprve udělat připojení kalendáře k Aliteu ?\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Presne, tak, treba to pochopit tak, ze ten kalendar je to co je zdrojom tych dat. Ak organizator nema pripojeny kalendar, potom aj ked ostatni maju tak to nestaci, lebo sa to nedsotane do exchangu organizatora. Ak organizator ma pripojeny exchange ale ostatni nemaju - uvidia to len v ALITEO kalendari, ak si ho pripoja, uvidia aj v outlooku skrz uz organizatora cez exchange."
+    }
+  ]
+}

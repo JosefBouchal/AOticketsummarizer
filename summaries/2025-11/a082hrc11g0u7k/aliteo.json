@@ -1,0 +1,43 @@
+{
+  "id": "a082hrc11g0u7k",
+  "created": "2025-10-30T06:42:06.112Z",
+  "closed": "2025-11-04T18:06:20.034Z",
+  "duration_minutes": 7884,
+  "first_response_minutes": 22,
+  "name": "Offline fallback",
+  "description": "Ahojte, při včerejším 4 hodinovém výpadku Azure bylo vidět, kde nemáte dořešené offline fallbacky. Máte to hezky udělané jen v app.aliteo.com, kde ServiceWorkera máte , ale ne na ostatních subdoménách, jako login.aliteo.com, kam záložky s aplikací padají při uspání, nebo ani hlavní doména aliteo.com. Také přidávám myšlenku, možná se to řeší i nějak jinak... nicméně ServiceWorker by mohl umět rozlišovat, jestli není připojení k internetu vůbec, nebo není dostupná jen webová služba Alitea a dávat to najevo konkrétně. Např. tím, že prověří dostupnost třeba nějaké google služby. Pokud je dostupná, Aliteo ne, tak je problém s ním a dá se tam uvést třeba to, že služba Microsoft Azure není dostupná a člověk si pak dohledá, že to není tak o vás, jako o třetí straně. Ale to jen takový nápad ;-)",
+  "owner": "Lukáš Trunečka",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lukas, dik za hinty, posuvam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) zalozim na to vyvojovy?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "1. prohlížeč ví že je offline a ano,  asi by service worker by mohl, pokud to nedělá,  poskytnout tuto informaci jako jinou než něco se pokazilo 2. na login.aliteo.com se nedostaneme abychom tam dávali service workera nebo aspoň ne jednoduše - to je ve výsledku Azure AAD Takže ano teoreticky jsme schopni o něco zdokonalit. Dejme případ na poradu, možná Davida napadne něco dalšího."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lukáš Trunečka (lukas.trunecka@karatsoftware.cz) presli sme to na produktovej a vyvstala z toho uloha kde budeme sa snazit vylepsi stav ktory je teraz. primarne 1. Zrachlit zobrazenie offline stavu podla informacii v priehliadaci. 2. Skusit nastavit serviceworker aj pre login v ALITEO. Mozeme pripad uzatvorit?"
+    },
+    {
+      "creator": "Lukáš Trunečka",
+      "comment": "Ahoj Dane, ok, můžeš uzavřít ;-)"
+    }
+  ]
+}

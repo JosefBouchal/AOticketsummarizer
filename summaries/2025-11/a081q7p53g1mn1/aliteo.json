@@ -1,0 +1,39 @@
+{
+  "id": "a081q7p53g1mn1",
+  "created": "2025-10-24T13:09:02.795Z",
+  "closed": "2025-11-18T07:29:45.281Z",
+  "duration_minutes": 35660,
+  "first_response_minutes": 10,
+  "name": "Zobrazení sekcí, podsekcí",
+  "description": "Ahoj, posílám pár podnětů k zobrazení úkolů: 1) zvažte prosím zobrazení počtu úkolů  podsekcí  u sekce. při skrytí  nejde vidět, kolik toho v podsekcích je.  Příklad -celkem 6 ale vidím jen 2 2) Dále by za to stálo za zvážení ukládat nastavení skrytí. konkrétně mi jde o to, ať se vždy nezobrazuje vše jako rozbaleno nebo sbaleno. Při větším množství sekcí a podsekcí se ztrácí přehled. - sekce zabírají velký prostor i při kompaktním zobrazení a musí se na běžném monitoru skrývat. 3)  využít prázdnou oblast (vyznačeno) - zúžit sekce i stavy - i při kompaktním zobrazení lze vidět jen 3 sloupce na běžném monitoru a na porady se chodí hlavně s notebooky takže rozlišení i velikost LCD nic moc Díky",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, chpaem podnetom, preberieme na produktovej porade"
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Závěr z porady: 1. Co se vlastně chce? Zjistit Daniel 2. V local storage ukládat stav balení sekcí - klíčem bude id sekce 3. Obecně tam není prázdný prostor - Daniel vykomunikuje"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Juraj, potrebujem par detailov 1. jedine co mi dava logiku je tam kde su vsetky nazvy sekcii (vertikalne) napisat sumu kolko tam toho je - nepride mi ok aby pocet uloh pre sekciu obsahoval aj pocty ulohy v podseksii - takze jedine tu - za teba takto ok? 2. nemal by byt problem 3. nie je uplne stastny ten screen ktory si dal, lebo tam nemas bezny stav uloh a ich nazvy a popis, nehovoriac dielcich ulohach ktore tam maju aj nazov master ulohy ci napriklad atributy . potom sa to zalamuje na - pozri na nejaky vyvojovy projekt alebo testovanie, kde maju nazvy uz teraz na 2 riadky - vid Operativa vyvoja IS KARAT - dalsi problem ktory tim vznikne je problem s nazvami sekcii - bohuzial z pre mna neznamych pricin obsahuju nazvy sekcii aj nazov projektu (tyka sa to implementacii zakaznika aj internych projektov) Mozeme si k tomu aj zavolat ak bude treba"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Ahoj, zatím si sem zapíšu, a ideální bude to probrat - ozvu se . sbalování sekcí + číslo je důležité viz třeba https://www.kanbanchi.com/dashboard/5850447135244288/d-5850447135244288 nebo Azure Devops  čísla... ideální dostat se na standardní monitor na více 5 sekcí najednou. Možná více kompaktnější zobrazení, nebo nastavení."
+    }
+  ]
+}

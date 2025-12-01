@@ -1,0 +1,55 @@
+{
+  "id": "a083jtljfg1511",
+  "created": "2025-11-07T13:11:04.636Z",
+  "closed": "2025-11-10T09:35:57.638Z",
+  "duration_minutes": 4104,
+  "first_response_minutes": 52,
+  "name": "Odstranění porad po neaktivním členovi",
+  "description": "Dobrý den,\r\nZase jeden blbý dotaz. Měli jsme ve firmě člena, který je pryč, takže je v Aliteu neaktivní. Bohužel stihl nasekat spousty pravidelných porad, která se načetly ostatním uživatelům do kalendáře.\r\nJá jsem administrátor a  vidím ten projekt u kterého jsou ty porady, ale nemůžu nikde najít možnost ty porady odstranit.\r\nJsem manažerem projektu u kterého jsou ty porady.\r\n\r\ndíky\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 4,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nejakym sposobom jendoduchym to asi nepojde. Je to rovnaka situacia ako keby to urobil len z outlooku a pozval zvysnych kolegov. Takze museli by ste sa za neho prihlasit a zrusit ich. O kolko porad ide, rozmyslam ci nie je pre vas a kolegov jednoduchsie proste otvorit si tie porady kazdy u seba, zmenit ucast na \"nezucatnim\" sa a tym padom by sa im to stratilo z kalendarov. co mysslite?"
+    },
+    {
+      "creator": null,
+      "comment": "Jde o pět kolegů a porady jsou až do roku 2030 každý měsíc.\r\nJá mám přístupový e-mail a heslo bývalého kolegy, ale on je nyní ve stavu neaktivní. Když bych ho chtěl dát do stavu aktivní, tak ale zase už neexistuje ta jeho firemní schránka (e-mail) a navíc nemám ani volnou další licenci.\r\nNejde ty porady nějak od něj převzít ?\r\n\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, Neviem ci pre Vas najjednoduchsie riesenie nie je aby si tych 5 kolegov naslo porady od neho a odmietne na nich ucast a tym padom to zmizne z ich kalendarov. Lebo inak aktivovat clena viete, len je to komplikovanejsia cesta. Ak nemate licencie, musite mu pred aktivovanim nastavit externeho clena aby to nechcelo licenciu. Mozno bude pred tym treba zmenit jeho clenstvo v projektoch na externeho, aby ste mu mohli dat externeho na spolocnosti, inak Vam bude autoamticky chciet aktivovat licenciu pre externeho. Ak to prejde, potom jednoducho ho aktivujete ako externeho. Skusite sa prihlasit jeho kontom a skontrolovat ci Vasu spolocnost ma v zozname. Ak nie, potom cez URL pozvanky (ktoru najdete v nastaveniach spolocnosti -> uzivatelia -> pokrocile) sa pozvete a prihlasite a nasledne by ste tam uz tu spolocnost vidiet mali a nasledne zrusite porady."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den,\r\nOdmítnutí porad by bylo nejjednodušší, ale ať jsem hledal jak jsem hledal s kolegou, tak jsem nikde nenašel možnost odmítnutí porady. Poradíte mi, kde to je ?\r\n\r\ndíky\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ak maju kolegovia pripojene kalendare, tak priamo v outlooku alebo co pouzivate. Ak nemaju tak mi este napiste ci kolega mal pripojeny kalendar. Ak to nepojde, dame si kratky call a vyriesime to rychlejsie."
+    },
+    {
+      "creator": null,
+      "comment": "Tak jsem to udělal přes přihlášení jako externí uživatel a porady jsem odstranil.\r\nNicméně to šlo přes pozvánku, ale nevím proč, ale pozvánka přišla od Neaktivního uživatele, který u nás už není.\r\nJde někde zařídit, aby případná pozvánka chodila od odministrátora ?\r\n\r\ndíky\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zistoval som, a pozvanka \"ide od\" uzivatela, kto ho prvy krat pridal. Chapeme ze to nie je idealne, preto som poziadal optimalizaciu vyvoj aby sa to opravilo. Znamena ze problem je vyrieseny?"
+    },
+    {
+      "creator": null,
+      "comment": "Rozumím a problém mám vyřešený.\r\n\r\ndíky\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    }
+  ]
+}

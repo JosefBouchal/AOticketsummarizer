@@ -1,0 +1,31 @@
+{
+  "id": "a085tscq300vav",
+  "created": "2025-11-25T12:02:01.661Z",
+  "closed": "2025-11-28T07:17:36.902Z",
+  "duration_minutes": 4035,
+  "first_response_minutes": 24,
+  "name": "Nefunguje nám přijímání emailem",
+  "description": "Dobrý den, nefunguje nám zakládání tiketů emailem. Prosím o urgentní vyřešení. Josef Blažek",
+  "owner": "Josef Blažek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ideme  sa na to hned pozriet a budeme vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chybu sme nasli, odstranili, avsak bohuzial ulohy z rana sa uz znova opatovne nezalozia... Mrzia nas neprijemnosti."
+    }
+  ]
+}

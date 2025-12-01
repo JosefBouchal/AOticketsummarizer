@@ -1,0 +1,39 @@
+{
+  "id": "a07u2hqjcg1gma",
+  "created": "2025-09-25T11:55:43.614Z",
+  "closed": "2025-11-13T08:56:03.007Z",
+  "duration_minutes": 70380,
+  "first_response_minutes": 219,
+  "name": "Indikace synchronizace",
+  "description": "Prosím zvážit změnu vizualizace upozornění, pokud nefunguje synchronizace AO  ať uživatel nemá až v popup v KARAT to máme vyřešeno i jinak ale pokud pracuji jen v Aliteo např. na telefonu tak netuším ,že je problém. díky za zvážení.",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ok zoberiem na produktovu poradu a dam vediet.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaradene do vyvoja."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) mozeme tuto ulohu uzatvorit - vo vazbe je uloha vo vyvoji kde sa to riesi s PMS.."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "ok díky"
+    }
+  ]
+}
