@@ -1,0 +1,31 @@
+{
+  "id": "a08jq3q1h000is",
+  "created": "2026-03-13T07:52:15.060Z",
+  "closed": "2026-03-15T09:05:24.211Z",
+  "duration_minutes": 2953,
+  "first_response_minutes": 12,
+  "name": "Vytváření úkolů",
+  "description": "Dobrý den, vytvořil jsem projekt: Expedice uzenin - příjmy dokupů a sobotních kuřat Ale nejdou mi do něj přidat jednotlivé úkoly. Kliknu na „Nový úkol“, ale nestane se nic. Prosím o radu. Děkuji, Radek Hron/Uzeniny Příbram",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím Vás, o tomto probléme vieme, úlohu nie je možné pridať pravdepodobne nikam. Pracujeme na jeho vyriešení. Hneď ako to bude v poriadku, budeme Vás informovať. Ospravedlňujeme sa za nepríjemnosti a ďakujeme vopred za trpezlivost."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Oprava bola nasadena, vytvorenie ulohy by malo byt funkcne. Dakujem"
+    }
+  ]
+}

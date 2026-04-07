@@ -1,0 +1,43 @@
+{
+  "id": "a083as3hag1511",
+  "created": "2025-11-05T08:28:15.574Z",
+  "closed": "2025-12-11T09:02:49.803Z",
+  "duration_minutes": 51874,
+  "first_response_minutes": 41,
+  "name": "Soubor se nepovedlo najít",
+  "description": "Dobrý den,\r\n\r\nDnes jsem hledal starší ticket, abych si připomenul postup řešení a zjistil jsem, že nelze zobrazit přílohu (viz. přílohy).\r\nPříloha - soubor v Excelu - se zobrazuje v komentáři, ale nelze se dostat k obsahu.\r\nMyslím, že jde o chybu.\r\n\r\nDěkuji,\r\nPetr Macek | IT Manager\r\nT: +420 226 227 140 | M: +420 606 617 062 | petr.macek@primagas.cz< >\r\nPRIMAGAS s.r.o. | Na Pankráci 30 | 140 00   Praha 4 | Czech Republic\r\nwww.primagas.cz< > | www.facebook.com/PrimagasCZ< > | ZELENÁ LINKA: 800 736 736\r\nPlynová láhev do 3 hodin od objednávky u vás. Nyní v Praze a v Brně. To je Primagas-express.cz< >\r\n[X]< >\r\n\r\nObsah tohoto e-mailu a jakékoli soubory k němu přiložené jsou důvěrné, určené pro výhradní využití jednotlivcem, nebo společností, kterým byl adresován a mohou být právně privilegované za účelem zachování diskrétnosti společnosti Primagas s.r.o.. Jestliže nejste adresát tohoto e-mailu a obdržel jste ho omylem, prosím vymažte tento e-mail a okamžitě upozorněte jeho odesílatele. Tento e-mail byl zkontrolován na přítomnost počítačových virů, ale může být stále infikován. Prosím, otestujte ho na přítomnost virů před jeho použitím. The contents of this e-mail and any attached files are confidential, intended for the sole use of the individual or entity to whom addressed and may be legally privileged to Primagas s.r.o. to maintain its confidentiality. If you are not the addressee, and received this transmission in error please delete this e-mail and notify its sender immediately. This e-mail message has been checked for computer viruses but it could still be infected. Please test it for viruses before use.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, je tazko povedat co sa stalo, mohli by ste nam poslat odkaz dany komentar. Posuniem to na vyvoj a pokusime sa zistit co sa mohlo stat. Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den,\r\n\r\nOdkaz je na komentář s přílohou je #13 Označení vybraných příloh jako SMLOUVA ##1< >,\r\na všiml jsem si, že ve stejném ticketu v následujícím komentáři #13 Označení vybraných příloh jako SMLOUVA ##3< > už tehdy kolega psal, že se k příloze nedostane. Tak šlo nejspíš o nějakou anomálii, protože jsem si podobného případu nikde jinde nevšiml.\r\n\r\nPetr Macek\r\n\r\nOd: notifications@aliteo.com <notifications@aliteo.com>\r\nOdesláno: středa 5. listopadu 2025 10:10\r\nKomu: Petr Macek <petr.macek@primagas.cz>\r\nPředmět: ALITEO - #8573 - odpověď na požadavek: Soubor se nepovedlo najít\r\n\r\n\r\n[Logo Aliteo]\r\n\r\n\r\nOdpověď na požadavek\r\n\r\n\r\nALITEO  /  Support  /  Support ALITEO  /  petr.macek@primagas.cz< >\r\n\r\n\r\n\r\n\r\n#8573   petr.macek@primagas.cz< >\r\n\r\n\r\nSoubor se nepovedlo najít\r\n\r\n\r\n\r\nZdravim vas,\r\n\r\nje tazko povedat co sa stalo, mohli by ste nam poslat odkaz dany komentar.\r\n\r\nPosuniem to na vyvoj a pokusime sa zistit co sa mohlo stat.\r\n\r\n\r\n\r\nDakujem\r\n\r\n\r\n\r\n\r\n    Odpovědět na komentář     < ?subject=RE:%20ALITEO%20-%20#8573%20-%20odpověď%20na%20požadavek:%20Soubor%20se%20nepovedlo%20najít>\r\n    Zobrazit úkol     < >\r\n\r\n\r\n[Logo Aliteo]\r\n\r\n\r\nCopyright 2022 ALITEO * Powered by KARAT Software\r\n\r\nVarování: externí email, odkazy a soubory otevírejte s velkou opatrností.\r\nWarning: external email, open links and files with caution.\r\n\r\n________________________________"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vytahujem si sem URL na ulohu: https://app.aliteo.com/comment/a06ed1464g098f/"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem preposlem na kolegu, ci sa bude vediet pozriet na dany problem a budem Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, kolegovia sa na dany problem pozerali a zistili ze pri nahravani muselo dojst k chyba.. v databaze sa zda ako keby sa cakalo na nahranie - co je chybovy stav. Podla ich slov to vyzera tak ze tam ten subor ani nikdy nebol - ale ani pred tym nezhlasil ze je problem, preto sme dopracovali okamzitu kontrolu aby bolo mozno hned vediet uspesnost nahratych suborov, resp. ich neuspesnost. Ospravedlnujeme sa za neprijemnosti."
+    }
+  ]
+}

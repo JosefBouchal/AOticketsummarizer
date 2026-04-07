@@ -1,0 +1,51 @@
+{
+  "id": "a08go2s4a01u2f",
+  "created": "2026-02-17T12:48:33.489Z",
+  "closed": "2026-02-21T08:34:25.795Z",
+  "duration_minutes": 5505,
+  "first_response_minutes": 69,
+  "name": "Pohled na úkoly - Strom",
+  "description": "Je požadováno je zavést stromové (hierarchické) zobrazení úkolů s možností interaktivní změny struktury pomocí drag & drop. Uživatel musí být schopen: -vidět strukturu úkolů od hlavního úkolu přes podřízené až po podřízené podřízených, -měnit nadřízenost a podřízenost úkolů přetažením (drag & drop) v rámci stromové struktury, -přehledně rozbalovat a sbalovat jednotlivé větve stromu. - vidět co největší počet záznamů bez dalších informací (stačí tedy název úkolu a stav) - rozhodně v řádkovém zobrazení",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, mame vo vyvoji ulohu, ktora sa zaobera stromovym zobrazenim dielcich uloh a vazieb. Nicmenej nezvazovali sme drag and dropom upravovat ich vztah - teda cisto len zobrazenie. Zoberiem na produktovu poradu."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Doplňuji zadání Nejde o zobrazení z pohledu jednoho úkolu, ale i zobrazení všech úkolů projektu. Resp. zobrazení všech úkolů obecně Za mě to je něco jiného, než zobrazení vazeb. Mateřský a dílčí úkol chápu jako něco totálně jiného než vazba na tým (zrcadlení) nebo meziúkolové/meziprojektové."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nie som si isty ci rozumiem. Z coho sa teda ma vyhadzat? Ak to teda nie je uloha a chcem vidiet jej vazby na ine ulohy a timy, co bude ten objekt z ktoreho sa vychadza?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "vysvětleno telefonicky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) este mame v plane zobrazenie Grid, ktory by malo respektovat stromove zobrazenie dielcich uloh, vid: Toto by teoreticky malo riesit to co chces ci nie? a su k tomu aj data hned.."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Díky za informaci. Vypadá to dobře, ale řeší to pouze zobrazení ne úpravu záznamů pomocí drag & drop. Ale nevím co je v plánu dále - hromadné akce nad úkoly to třeba vyřeší."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "pridam tento poziadavok do daneho pripadu a ked budeme riesit danu funkcionalitu, preriesime to.."
+    }
+  ]
+}

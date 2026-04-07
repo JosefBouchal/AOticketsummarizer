@@ -1,0 +1,39 @@
+{
+  "id": "a08ahge0h01knj",
+  "created": "2025-12-31T08:01:06.907Z",
+  "closed": "2026-01-05T06:14:48.733Z",
+  "duration_minutes": 7093,
+  "first_response_minutes": 2,
+  "name": "Nejede API ALITEO beta",
+  "description": "Dle mě nejede Server pro API na betě. Clientovi není odpovězeno a nefunguje ani https://aliteobetaapi.azurewebsites.net/ Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, Poslal na vývoj, ďakujem za upozornenie"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Jasně, díky moc, jako to není kritické, ale jen aby jste to věděli. Allan včera to mohl ověřit, jelikož jsem mu předával případ od Pavly Malé, ale nestalo se tak. Toto klidně zavřeme."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mam info od Davida, ze opravene.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "moc díky"
+    }
+  ]
+}

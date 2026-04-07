@@ -1,0 +1,55 @@
+{
+  "id": "a08h4eqi1g06d6",
+  "created": "2026-02-20T12:53:23.877Z",
+  "closed": "2026-03-31T10:11:20.295Z",
+  "duration_minutes": 55997,
+  "first_response_minutes": 9,
+  "name": "při eskalaci a při přesunu do jiného prac prostoru nejde vybrat soukromí.",
+  "description": "1. pokud eskaluji do jiné společnosti, tak nemohu vybrat soukromí - za mě chyba. 2. stejně tak při přesunu z jednoho pracovního prostoru do jiného prac. prostoru (tedy se vytváří nový případu) - tak nejde vybrat soukromí.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 2,
+    "from_others": 6,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj napis mi prosim nejaky detail k tomu. 1. eskalacia - si v obdivoch spolocnostiach internym clenom? teda aj v projektoch? 2. presun do pracovneho priestoru - ak by si presuval v rovnakom tak sa nova uloha nevytvara a teda nemenic sukromie, toto sa asi chcelo zachovat - daj mi priklad kedy je to neziaduce a ja pobavim na porade"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ad 1 - je to z ALITEO kde jsem externí - ale já to chci do KARAT kde jsem interní a chci to jako interní. ad 2 - přesouvám do jiného prac prostoru (jak je v zadání) - kdyby byla ve stejném tak se přesune, to neřeším. takže když se vytváří - tak chci definovat soukromí. V interní prac prostoru jsem a chci to dát do KARAT assistance."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To je velmi pekne ze chces.. 🙂 preberieme na produktovke a uvidime ci ta potesime 🙂 neviem ci na to je nejaky technicky alebo analyticky dovod ad 2 - to ze sa vytvara je technikalia ktoru vies ty, avsak ma sa to tvarit tak ako keby sa to presuvalo - teda ostavalo tak ako bolo -- chapes nie?"
+    },
+    {
+      "creator": null,
+      "comment": "1. V pripade eskalacie ulohy bude mozne menit jej sukromie. 2. Presun ulohy nateraz nemoze umoznovat menit sukromie, vzhladom na potencionalne rizika v pripade situaciii ako interne komentare vo verejnej ulohe a podobne. Postupne ale verim, ze pride cas a rozanalyzujeme vsetky moznosti a vratime sa aj k presunu ulohy."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) zakladal si ulohu niekde na tu zmenu sukromia? nevidim vo vazbe ani v bode porady"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Doplnil som, moja chyba: #10542 Zmena sukromia pri eskalacii"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) tak teda vidis asi informacie vyssie: - pri eskalacii umoznime menit sukromie - zmena sukromia je komplexnejsia vec, zatial neumoznime ale postupne sa k tomu vratime"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, zapnul jsem si sledování, toto zrušme."
+    }
+  ]
+}

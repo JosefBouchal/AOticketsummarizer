@@ -1,0 +1,39 @@
+{
+  "id": "a08ct7sq9g1bj8",
+  "created": "2026-01-18T17:11:47.398Z",
+  "closed": "2026-01-26T21:13:43.978Z",
+  "duration_minutes": 11761,
+  "first_response_minutes": 833,
+  "name": "Nejde editovat komentář a uložit pokud obsahuje citaci",
+  "description": "Vytvořím první komentář, Vytvořím přes šipku citaci komentáře a uložím. Jako druhý komentář. Jdu editovat ten druhý komentář a při uložení to padá na chybu: Error message + stack: event.reason.message: undefined is not an object (evaluating 'this.internalTypeField.data') save@ https://aliteoscript.azureedge.net/scripts/scripts/Comment_63638e06-c47d-5c23-4af2-0e991d9c5b2f.js:1470:62",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) , testujes teda novu funkciu na bete. Tak?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "na alfě. mám to zkoušet na betě? Zkouším na Betě a tam taky problém."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "pohode, tam je rovnaka verzia - len som nevedel ze testujes alfu alebo betu.. dik preposlem na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) uprava komentar ako odpved na citaciu bola opravena. otestoval som na bete a bez problemov ."
+    }
+  ]
+}

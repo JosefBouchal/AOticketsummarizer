@@ -1,0 +1,35 @@
+{
+  "id": "a08d0qumb00idp",
+  "created": "2026-01-19T14:08:32.223Z",
+  "closed": "2026-01-25T17:28:33.264Z",
+  "duration_minutes": 8840,
+  "first_response_minutes": 213,
+  "name": "Licence pro interní uživatele",
+  "description": "Dobrý den,\r\n\r\nPřeju vše nej do nového roku a hlavně pevné zdraví.\r\n\r\nRozšiřujeme agendy v Aliteo a budu potřebovat cca 13-15 licencí interních uživatelů. Prosím o info, s jakými náklady mám počítat.\r\n\r\nBylo by možno za licence platit převodem (FA) namísto dosavadní platby kartou?\r\n\r\nDěkuji, s pozdravem\r\n\r\nMartin PŘIKRYL\r\nIT Coordinator\r\nLesaffre Česko & Lesaffre Slovensko\r\n\r\nMob. +420 739403300\r\nHodolanská 34, 779 00 Olomouc, Czechia\r\n\r\n[Image001]\r\n\r\n[Image002]< >  [Image003] < >   [Image004] < >   [Image005] < >\r\n\r\nm.prikryl@lesaffre.com< > - www.lesaffre.cz - www.lesaffre.sk< > - www.lesaffre.com\r\n\r\nZvažte, je-li nutné tento e-mail vytisknout. - Please only print this email if it is necessary.\r\n\r\n[Image006]",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, aj vam vsetko dobre do noveho roka, vela zdravia a uspechov. Rad citam ze ALITEO sa u Vas rozsiruje. 13-15 je naviac k tym co uz mate alebo to je celkovy pocet? Staci otvorit licencie, cez tlacidlo sprava licencie zvolit \"zvysit k dnesnemu dnu\" a vidite tam hned sumar, kolko bude treba doplatit - alikvotna ciastka do konca zuctovacieho obdobia. Zatial je cennik podla https://aliteo.com/cenik/ . Nie je mozne zmenit typ existujucej platby teda z karty na prevod. To bude asi mozne az ked bude koncit vyrocie. To by ste sa ozvali v danom case. Ale uprimne s prevodmi su problemy, nie u nas, ani nie u nasej platobnej brany, ale vela krat u ceskych bank, ktore do slovenskej banky (tam ma nasa platobna brana eurovy ucet) odoslu SEPA platbu bez niektorych udajov a potom je problem s parovanim platby a su s tym bohuzial len starosti. Preto ak je to mozne, odporucal by som aj nadalej pokracovat s platbou kreditnou kartou - jednak tam k parovaniu nedochadza (priama platba) a jednak je ta platba hned a hned platna licencia (narozdiel od prevodov kde sa prevod moze trvat od par hodin do par dni)."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, rozumím, díky. Budou to licence navíc k našim deseti, ale na přesný počet ještě čekám. OK, zaplatím to kartou."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem pekne za informaciu, v pripade potreby, sme k dispozicii. Dakujem a prajem pekny den."
+    }
+  ]
+}

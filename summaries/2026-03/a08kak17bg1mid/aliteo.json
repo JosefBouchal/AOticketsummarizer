@@ -1,0 +1,51 @@
+{
+  "id": "a08kak17bg1mid",
+  "created": "2026-03-17T08:01:52.238Z",
+  "closed": "2026-03-20T08:15:38.288Z",
+  "duration_minutes": 4333,
+  "first_response_minutes": 14,
+  "name": "nevytvoření uživatele",
+  "description": "Dobrý den, Na základě telefonické dohody posílám screen obrazovky, jak se chová po pokusu o přihlášení z pozvánky i z URL Jméno účtu : eliska.horakova@respect.cz S pozdravem Jan Šefčák Zastupce reditele pro podporu a infrastrukturu RESPECT, a.s. Pod Krčským lesem 2016/22, 142 00  Praha 4 telefon +420 227 200 111, +420 227 200 105 jan.sefcak@respect.cz www.respect.cz",
+  "owner": "Jan.Sefcak@respect.cz",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 0,
+    "from_others": 7,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za nahlasenie, danej veci sa ihned ideme venovat. Dakujem a ospravedlnujem sa za neprijemnosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Josef Bouchal (Josef.Bouchal@karatsoftware.cz) prosim o otestovanie daneho problemu - registrovat cloveka bez pozvanka ALE nedokoncit zakladanie spolocnosti - pozvat cloveka do spolocnosti nejakej - skusit ci prejde prijatie pozvanky (vzhladom na to ze v inom flowe nedokoncil nastavenie svojej spolocnosti)"
+    },
+    {
+      "creator": "Josef Bouchal",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) Účet jsem vytvořil -> potvrdil podmínky -> a při zakládání společnosti zavřel prohlížeč Následně jsem tento email pozval k sobě do společnosti V emailu jsem jako testucet potvrdil pozvánku a následně se přihlásil. S tím, že jsem se nedostal do stavu co se zde řeší, ale normálně se mi zobrazuje co by mělo... Zkusil jsem ještě jiný postup, kdy jsem v jedné záložce nechal zobrazené vytváření společnosti a v druhé jsem pak přijímal pozvánku, ale i tak jsem na problém nenerazil.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, dik @ Josef Bouchal (Josef.Bouchal@karatsoftware.cz) , reportoval som na vyvoj.. dik za otestovanie"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nasadili sme opravu, mohli ste prosim skusit prihlasit uzivatela? Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, Díky moc. Ověřeno, kolegyni již Aliteo funguje správně. S pozdravem Jan Šefčák Zastupce reditele pro podporu a infrastrukturu RESPECT, a.s. Pod Krčským lesem 2016/22, 142 00  Praha 4 telefon +420 227 200 111, +420 227 200 105 jan.sefcak@respect.cz www.respect.cz From: notifications@aliteo.com <notifications@aliteo.com> Sent: Thursday, March 19, 2026 12:26 PM To: Sefcak Jan <Jan.Sefcak@respect.cz> Subject: #10388 - odpověď na požadavek: nevytvoření uživatele"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Super, dakujem za informaciu, som rad ze funguje, Prajem pekny den."
+    }
+  ]
+}

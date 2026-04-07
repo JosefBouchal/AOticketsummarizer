@@ -1,0 +1,35 @@
+{
+  "id": "a08ja17rbg0rhs",
+  "created": "2026-03-09T10:11:47.432Z",
+  "closed": "2026-03-16T11:22:59.240Z",
+  "duration_minutes": 10151,
+  "first_response_minutes": 2,
+  "name": "Výchozí informovaný uživatel",
+  "description": "Dobrý den, Mám prosbu. Máme projekt ve kterém, když někdo založí úkol, tak potřebujeme, aby o jeho vzniku byli informování dva lidé na dvou emailových adresách. Kde se to nastavuje? Popravdě nemůžu najít ani jednoho, takže nevím, zda to tak vůbec funguje. Jde nám o to, aby byli dva lidé informování a jeden z jich si daný úkol přebral jako řešitel. Šlo by to? Moc děkuji Ing. Jiří Dvořák, Ph.D. Manažer digitalizace, +420 608 242 700, dvorak@ncline.cz NC Line a.s. Komenského 233 742 01 Suchdol nad Odrou IČ: 040 20 022 www.ncline.cz",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, napada ma trochu procesne ina vec. Ak su tie osoby uzivatelmi ALITEO, preco ich cez pravidlo nemozete nastavit ako riesitelov tej ulohy? Resp ich zaradit do riesitelskej skupiny a tu skupinu cez pravidlo priradit za riesitela automaticky. Tym padom nebudu len o danej veci vediet ale priamo ju budu mat na reakciu, resp. na riesenie. Ak si uzivatelia nastavia emailove upozornenia v svojich nastaveniach, budu o tom vediet aj emailom. Dakujem."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "To by mi stačilo. Jak se vytváří řešitelský tým? Nikde jsem to nenašel. Respektive vidím, že v pravidlech jde zadat, ale nevím, kde přesně vytvořit. Nicméně to bude mít ještě jednu nevýhodu a to je reakční čas. Napadá vás nějaké řešení?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Riesitelsku skupinu vytvorite v nastaveniach spolocnosti -> Skupiny -> Pridat riesitelsku skupinu Nasledne ju pouzijete v pravidle. Co myslite tou nevyhodou? Ked vznikne ulohy, okamzite sa priradi riesitelska skupiny, tym padom vsetci ucastnici tejto skupiny maju: - ulohu hned v reakcnych ulohach - dostavaju hned upozornenia - do aplikacie vzdy - do telefonu ako pushku (ak pouzivaju aplikaciu v mobile a maju povolene upozornenia) + pripadne aj na smart hodinkach (ja to tak mam) - do emailu (ked to tak maju nastavene) Prakticky o tom vedia hned - nevidim tam uz miesto na zlepsenie. Dalsim krokom je ze ked si to konkretny uzivatel prebera - staci tuknut na tlacidlo \"preberam riesenie\" a to automaticky nastavi daneho uzivatela za riesitela. Ostatnym to zmizne z reaknych uloh, ale ak maju vhodne nastavene zapinanie a vypinanie podorbnych upozorneni, stale MOZU vediet o vsetkych zmenach. Mate este na mysli nejake uzke miesto?"
+    }
+  ]
+}

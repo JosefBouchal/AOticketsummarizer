@@ -1,0 +1,63 @@
+{
+  "id": "a08h3kpkn01baf",
+  "created": "2026-02-20T08:09:05.741Z",
+  "closed": "2026-02-23T18:30:00.180Z",
+  "duration_minutes": 4940,
+  "first_response_minutes": 40,
+  "name": "Projekt - nelze založit",
+  "description": "Dobrý den, mám problém, nelze založit projekt, když dám vytvořit, nic se nestane S pozdravem a přáním pěkného dne Ilona REMEŠOVÁ nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 5,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, Mohli by ste poslat nejake video alebo gif alebo obrazky? Pripadne lepsie popisat kroky? Napriklad: - dokail to vytvarate (napriklad veke plus vpravo dole!) - otvori sa obrazovka - vyplniem nazov, pracovny priestor atd - dam vytvorit a nezobrazi sa vobec nic a ani sa projekt nevytvori Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, jej to jste mi dal, ještě že existuje AI  😎 video jak postupuji při tvorbě projektu Založení projekty.mp4 Potřebuji si udělat kopii šablony Tvorba šablony.mp4 z existující šablony to není možné, tak jsme si ze šablony chtěla založit projekt a z toho udělat šablonu, kterou budu upravovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Takze problem je teda vo vytvoreni ulohy zo sablony. Zaujimave je, ze Vam tam neukaze datum, pre zaciatok projektu. Skuste prosim vytvorit projekt z inej sablony, alebo vyskusajte vytvorit novu sablonu a z nej projekt - ci to pojde. Chcel by som zistit ci je to problem lokalny na sablone alebo nejde vytvorit vobec projekt zo sablony ziadnej."
+    },
+    {
+      "creator": null,
+      "comment": "V šabloně nejsou nastavená žádná data , ale i když jsem je tam datumy doplnila, tak projekt ze šablony založit nejde. Nejde vytvořit ani projekt z druhé šablony, která dříve fungovala Teda nevím jestli v ní někdo něco nedělal. Původně jsem chtěla na šabloně pracovat a nastavovat, aby fungovalo projektové řízení včetně gant, protože to tu stále nevyužíváme."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mohli by ste prosím skúsiť vytvoriť šablónu z existujúceho projektu a tú potom skúsiť použiť k vytvorenie projektu?"
+    },
+    {
+      "creator": null,
+      "comment": "Tak to funguje, musí být tedy něco špatně s tou šablonou ..."
+    },
+    {
+      "creator": null,
+      "comment": "Už jsem na to přišla, v šabloně nemohou být členy externí uživatelé."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zaujimave, ja som si to teraz skusal a vytvoril som si 2 sablony. Jednu z projektu kde externi nie su a potom aj sablonu kde su aj externi. Nasledne som vytvoril projekty z tychto sablon a bez problemov. Napadlo ma ci nahodou tam neboli uzivatelia, ktori boli medzi tym odpojeni zo spolocnosti alebo nieco podobne. Takze ked ste odstranili nejakych uzivatelov, tak sa podarilo vytvorit projekt z danej sablony z ktorej to pred tym neslo?"
+    },
+    {
+      "creator": null,
+      "comment": "Ano fungovalo, když jsem odstranila externí uživatele ze šablony. Ale nevylučuji, že mohl být problém, v uživateli, kdy původně byl interní a v průběhu změněn na externího. To že by byl členem někdo kdo byl odpojen si nemyslím, protože jsme uživatele při aktualizaci šablony revidovali. V tuto chvíli nemám kapacity přímo pátrat po dané příčině, jsem ráda, že to zafungovalo a nyní budeme muset zapracovat na správném nastavení šablony projektu  🙂 Úkol je možné uzavřít. Přeji příjemný start v novém týdnu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, ale je to podnet, a ja poziadam kolegov, ktori sa specializuju na testovanie, aby skusili pricinu odhalit.. Dakujem"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "first_response_minutes": 52,
   "name": "Založení schůzky nepropsalo všem Zdroj - místnost",
   "description": "Založil jsem novou schůzku a zadal zdroj nějakou zasedačku. Asi jsem ho zadal až po založení schůzky dodatečně. Já zdroj vidím naplněný, ostatní ho nevidí ani v Aliteu, ani v kalendáři v Outlooku. Dušan ví ;-)",
-  "owner": "Lukáš Trunečka",
+  "owner": "lukas.trunecka@karatsoftware.cz",
   "priority": "Normální",
   "surveyquality": "Unknown",
   "surveyterm": "Unknown",
@@ -24,7 +24,7 @@
       "comment": "chapem spravne, ze problem je len s viditelnostou zdroja pre ostatnych ucastnikov porady?"
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Ne jen viditelností, ale i tím, že se jim neodeslala změna do Outlooku. Allan i Duša ví.... ukazoval jsem jim to."
     },
     {
@@ -36,7 +36,7 @@
       "comment": "@ Lukáš Trunečka (lukas.trunecka@karatsoftware.cz) malo by byt opravene, mozes prosim potvrdit?"
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Ahoj Dane, případ navrhuji uzavřít.... omlouvám se, ale nemám jak toto vyzkoušet, abych tím někoho neprudil planým poplachme založené schůzky. Takže já věřím tomu, že jste věc otestovali a že funguje. Děkuji ;-)"
     },
     {

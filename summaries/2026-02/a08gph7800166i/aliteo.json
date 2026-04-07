@@ -1,0 +1,27 @@
+{
+  "id": "a08gph7800166i",
+  "created": "2026-02-17T21:14:47.688Z",
+  "closed": "2026-02-23T09:21:05.478Z",
+  "duration_minutes": 7926,
+  "first_response_minutes": 645,
+  "name": "Dotaz k uživateli",
+  "description": "Dobrý den, Mám takový jednoduchý dotaz. V rámci naší společnosti a Alitea máme uživatele, kterého jsme propustili. On nám ale nesdělil svoje přístupové heslo. Máme pro tuto pozici naší firemní e-mailovou schránku, kterou nemohu měnit. Já ale potřebuji daný e-mail dát novému kolegovi a udělat ho uživatelem v Aliteu, jak to mám udělat. díky S pozdravem/best regards/Mit freundlichen Grussen Ing. T. Šesták ESON CZ s.r.o. Karlická 457 252 29 Lety Czech Republic Tel.: +420 602236683 e-mail: t.sestak@eson.cz",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, chapem spravne ze schranka je teda firemna, heslo ste predpokladam resetovali a novy clovek uz ma pristup do danej schranky. Potom je treba ist do ALITEO, pouzit \"zabudli ste heslo?\" , zadat email a do schranky pride kod ktorym sa overit a vytvorite si nove heslo. Dany clovek by tak mal ziskat pristup."
+    }
+  ]
+}

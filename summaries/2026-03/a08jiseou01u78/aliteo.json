@@ -1,0 +1,35 @@
+{
+  "id": "a08jiseou01u78",
+  "created": "2026-03-11T13:45:16.122Z",
+  "closed": "2026-03-20T20:39:48.712Z",
+  "duration_minutes": 13374,
+  "first_response_minutes": 72,
+  "name": "Dotazy",
+  "description": "Dobrý den,\nvznikly mi tady nějaké dotazy.\n\n1.) Nešlo by přidat do dashboardů funkci kopírování ? Vytvořím report a chci udělat vlastně  stejný akorát s jiným parametrem a musím to klidat znova... dost by to usnadnilo život\n2.) Dá se v podřízeném úkolu odkázat v komentáři na přílohu z hlavního ticketu ? Vytváříme teď často podřízené úkoly a máme třeba něco v přílohách v hlavním úkolu a nechceme kvůli tomu přílohu duplikovat i do podřízeného úkolu, ale jen odkázat\n3.) Používáme často interní \"komentáře\" - > bohužel jak rozšiřujeme počet interních licencí, tak se nám děje následující:  uživatel pošle něco na interní podporu (a pokud má interní licenci )tak vidí interní komentáře. Nicméně, na daný projekt kde je úkol nemá žádné práva, ale tím že je \"vlastník\" požadavky tak se mu vlastně dají práva i na interní komentáře. Nedalo by se s tím něco dělat. ?\n\nděkuji\nMichal",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, postupne odpovedam: 1. ano, kopirovanie widgetov v ramci dashboardu mame v plane vyvoja 2. nejako z komentara priamo to asi neurobite, ale je mozne zobrat odkaz na prilohu (cez tooltip) a potom ju vlozit do komentara - je realne otazka ci by davalo zmysel vyuzit format #_uloha&_priloha aby sa to nejako ponukalo, podobne ako to funguje s komentarmi, kde tento format #ina_uloha##komentar_v_nej funguje 3. teoreticky je mozne pouvazovat nad nasledovnym (ak ho v danom projekte nepotrebujete ako interneho): - na spolocnosti zmenit prava na uzivatelovi/och Interny -> Externy so zapnutym licencovanim - v projekt zmeni prava Interny -> Externy Prava teda mat bude v danom projekte ako externy, neuvidi interne veci Staci takto?"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Dobrý den,\ndíky za komentář\n\nadd 1 díky\nadd 2 díky našli jsme\nadd 3 můžete prosím poslat screen, kde na projektu změníme práva, nebo jak to myslíte? \nděkuji Michal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, 3. v spolocnosti prepnete V projekte uz klasicky prepnit clena na externeho"
+    }
+  ]
+}

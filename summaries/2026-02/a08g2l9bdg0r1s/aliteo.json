@@ -1,0 +1,31 @@
+{
+  "id": "a08g2l9bdg0r1s",
+  "created": "2026-02-12T08:00:07.313Z",
+  "closed": "2026-02-18T09:07:32.934Z",
+  "duration_minutes": 8707,
+  "first_response_minutes": 5,
+  "name": "úkoly - řazení projektů ve filtru není dle abecedy",
+  "description": "viz obrázek - mám interní reklamaci, že se projekty ve filtru neřadí dle abecedy: myslel jsem, že je to navíc ještě za pracovní prostor, ale to asi taky nebude ono . má to tedy nyní nějakou jinou logiku nebo se to jen rozbilo s verzí? Asi by bylo dobré, aby všechny filtry měly stejný způsob řazení - jen říkám, nekontroloval jsem.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano, dava to zmysel ze by to malo byt podla abecedy..posuvam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) radenie bolo opravene.."
+    }
+  ]
+}

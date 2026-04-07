@@ -1,0 +1,27 @@
+{
+  "id": "a08kr3vpfg1f1s",
+  "created": "2026-03-21T08:08:32.954Z",
+  "closed": "2026-03-23T09:09:22.879Z",
+  "duration_minutes": 2940,
+  "first_response_minutes": 447,
+  "name": "Testovací pro support se SLA",
+  "description": "",
+  "owner": "Allan Konečný",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ostava otvorene?"
+    }
+  ]
+}

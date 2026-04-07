@@ -1,0 +1,55 @@
+{
+  "id": "a08841lnq0021u",
+  "created": "2025-12-12T12:46:27.729Z",
+  "closed": "2026-01-07T09:51:51.712Z",
+  "duration_minutes": 37265,
+  "first_response_minutes": 85,
+  "name": "Výpadky komunikace přes API?",
+  "description": "Zdravím,\r\nJen chci podat informaci, že dneska celkem často padá synchronizace na\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\"\" \"> <HTML><HEAD><TITLE>Service Unavailable</TITLE> <META HTTP-EQUIV=\"Content-Type\" Content=\"text/html; charset=us-ascii\"></HEAD> <BODY><h2>Service Unavailable</h2> <hr> HTTP Error 503. The service is unavailable. </BODY></HTML>\r\n\r\nNám to jako nevadí, zatím se nám to samo rozjede, ale jen aby jste to věděli.\r\n\r\nLuboš\r\n\r\n[Image001]",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 2,
+    "from_others": 6,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Diky za info, predam dalej"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) info pre Vas. Treba zalozit vyvojovy?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Davide podíváš se na to? Dělali jsme aktualizace? Pokud ano, řešením by bylo i API na ostré dělat přes slot."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "jen pro info, dneska nic takového se nevyskytlo"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "S aktualizací souvisí pouze první incident (03:14:07). Ostatní výpadky byly pravděpodobně na straně Azure: v logu jsem našel jednotlivé výpadky, ale jejich četnost nestačila k vyvolání automatické notifikace."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) su este vypadky alebo to prestalo.. pytam sa asi blbo ale neviem ako mozem dalej pomoct.. ci s tym mame nieco robit.. je to cet stara uz 3 tyzdne a medzi tym sa nieco s API riesilo, ked si dobre pamatam.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane, \njá již problémy nijak nezaznamenávám, naposledy 30.12. klidně to uzavřeme. Díky moc Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem Ti, zatvaram"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "first_response_minutes": 41,
   "name": "Nefunguje vyhledávání v úkolech v Mentoringu",
   "description": "Jsem v Mentoringu a koukám na případy nějaké osoby. Chci vyhledat v hlavičkách těch případů konkrétní slovo, ale vyhledání nic nenajde, přesto že tam to slovo určitě je - vs. Jinak v mém pohledu na úkoly to vyhledání funguje.",
-  "owner": "Lukáš Trunečka",
+  "owner": "lukas.trunecka@karatsoftware.cz",
   "priority": "Normální",
   "surveyquality": "Unknown",
   "surveyterm": "Unknown",
@@ -28,7 +28,7 @@
       "comment": "chces nechat otvorene?"
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Dane, díky, asi netřeba ;-)"
     }
   ]

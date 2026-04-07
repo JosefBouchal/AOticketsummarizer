@@ -1,0 +1,43 @@
+{
+  "id": "a08fmb135g0v26",
+  "created": "2026-02-09T08:13:46.350Z",
+  "closed": "2026-02-10T10:10:58.282Z",
+  "duration_minutes": 1557,
+  "first_response_minutes": 191,
+  "name": "změny licence 25.2",
+  "description": "Prosím o nastavení licence na Gantt a další funkce, nejde mi aktivovat \"vyzkoušení na 20 dní\" tlačítko \"vyzkoušet zdarma\" nereaguje.  díky",
+  "owner": "Juraj Matěj",
+  "priority": "Vyšší",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, chapem spravne, ze klikas na \"vyzkouset na 20 dni\" a tlacidlo nereaguje? Skusim sa spytat vyvoja, ci to nemoze mat nejaky suvis ze nie ste admini spolocnosti.. Nemas nejaku testovaciu spolocnost (bez synchronizacie) , ze by si si to vyskusal tam?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) na custom licencii KARAT som zapol vsetky funkcionality, dufam ze nebude problem so synchronizaciou... ale pozor - ked das aktivovat nastavis sa ako planovac - ked to spravi niekto iny v inom projekte, uz ho nezmenis lebo nie si admin.. alebo hej?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "tak teď mám jiné okno - nabídka zakoupení nicméně ani to nic nedělá viz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) ja som to vypol, vid moj posledny komentar - dohodneme sa cez call lebo si nie som isty.. ako to ma byt s KARAT"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "nastaveno a vysvětleno, založil jsem #9939 Gantt - jeden plánovač"
+    }
+  ]
+}

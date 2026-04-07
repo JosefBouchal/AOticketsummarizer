@@ -1,0 +1,35 @@
+{
+  "id": "a08808g7f016cr",
+  "created": "2025-12-11T14:42:56.300Z",
+  "closed": "2025-12-18T15:55:21.551Z",
+  "duration_minutes": 10152,
+  "first_response_minutes": 56,
+  "name": "Opätovná eskalácia",
+  "description": "Chcel som eskalovať tiket #204 Obnova archivovaného projektu na spoločnosť ALITEO, omylom som ho eskaloval na inú spoločnosť (nášho dodávateľa ISK) a teraz keď som ho de-eskaloval a chcel eskalovať na Vašu správnu spoločnosť, nie je na tom tikete možnosť eskalovať na inú spoločnosť, len opätovne obnoviť eskaláciu na pôvodný tiket v spoločnosti Sango. Viem to nejako zmeni, alebo musím tiket vymazať a vytvoriť nový ?",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, a co ten ticket u dodavatela ISK? je zruseny?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "u dodávateľa nie, ja som ho de-eskaloval len u mňa, lebo u nich nemám práva. Takže to bude príčina, že oni ho musia zrušiť ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Myslim ze ano, potom by malo byt mozne eskalovat inde."
+    }
+  ]
+}

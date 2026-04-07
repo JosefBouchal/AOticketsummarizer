@@ -1,0 +1,35 @@
+{
+  "id": "a08k69uksg00tn",
+  "created": "2026-03-16T06:53:39.772Z",
+  "closed": "2026-03-25T14:08:24.474Z",
+  "duration_minutes": 13394,
+  "first_response_minutes": 40,
+  "name": "Jak odstranit nebo přenastavit projekt, kde je administrátor neaktivní uživatel",
+  "description": "Dobrý den, zjistil jsem že jako Administrátor nemůžu změnit (archivovat projekt kde nejsem členem) jak postupovat v případě že projekt má administrátora neaktivního uživatele?",
+  "owner": "Josef Blažek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, jednoducho sa pridajte do daneho projektu, nastavte sa v jeho detaile ako administrator a mali by ste pokracovat. Navrhujem pred tym skontrolovat: - kto je projektovym manazerom - ak je top takisto neaktivny uzivatel, potom ho zmenit na niekoho aktivneho alebo na seba - neaktivnemu uzivatelovi nasledne odobrat pravo administrator v danom projekte - nasledne previest archivaciu projektu"
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "Tak problém byl v tom, že jsem měl supervizi pouze na čtení tím pádem jsem nemohl nastavit projekt , be kterém jsem nebyl členem dříve mi to fungovalo. Tímto vyřešeno můžete zavřít tiket."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, som rad ze vyriesene.."
+    }
+  ]
+}

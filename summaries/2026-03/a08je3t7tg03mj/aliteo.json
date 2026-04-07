@@ -1,0 +1,27 @@
+{
+  "id": "a08je3t7tg03mj",
+  "created": "2026-03-10T09:59:02.359Z",
+  "closed": "2026-03-16T07:09:17.364Z",
+  "duration_minutes": 8470,
+  "first_response_minutes": 31,
+  "name": "Dotaz na atributy a plánování",
+  "description": "Dobrý den, mám na vás dotaz ohledně atributů výkazů. Aliteo zatím používáme ve zkušební době, vím, že nejsme asi typický uživatel, ale zatím nám nabízí nejvíc komplexní pohled na projekty oproti tuzemské konkurenci. Potřebujeme u jednotlivých úkolů v rámci projektu evidovat Tarif výkazu. Mám nastavený globální atribut výkazu pro celou společnost, ale ten na úkoly nefunguje. Pak mám nastavený atribut výkazů na úrovni Pracovního prostoru, ale ani tak se nám u úkolů nezobrazuje atribut Tarif na výběr. Co děláme špatně? Dále se chci zeptat: je možné plánovat práci jen na projekt nebo musí být vždy přiřazen úkol? Děkuji za radu Lukáš Řezník ■ Histogram, s.r.o. ■ PM +420 733 161 442 ■ +420 228 811 000 ■ K Ovčínu 1527/26, 182 00 Praha, CZ ■ WeWork DRN, Národní 135/14, 110 00 Praha, CZ histogram.cz ■ portal.histogram.cz",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, skusim to vysvetlit postupne. 1. Atributy: Atributy mame na viacerych urovniach: - na spolocnosti - zdielane atributy (sami o sebe ich neuvidite, musite na zaklade nich vytvorit atribut v pracovnom priestore) - vyuzivaju sa vtedy pokial by ste tento atribut chceli \"dedit\" do viacero pracovnych priestorov - atributy (Atribúty všeobecných výkazov práce) - urcene pre vykazy prace na projekt, tim, timove ulohy alebo spolocnost - v pracovnom priestore - atributy pre projektove ulohy - atributy pre projekty - atributy pre vykazy prace Ak teda ide informaciu, ktoru chcete sledovat na ulohe tak su 2 moznosti ako vytvorit atribut pre projektovu ulohu: - samostatny - v pracovnom priestore, kde je projekt v ktorom su ulohy - zo zdielaneho - takisto vytvarate atribut v pracovnom priestore, ale nevyberate moznost \"samostatny\" ale zo zdielaneho (logicky pred tym si musite ten zdielany vytvorit na spolocnosti, vid vyssie) Detailnejsi popis k atributom najdete https://help.aliteo.com/category/atributy-cz/ 2. Planovanie - nie som si isty co rozumiete planovanim - planovanie je standardne vyhradzovanie si nejakeho zdroja na konkretnu cinnost v buducnosti (napriklad cas - gant - uloha ma zaciatok a koniec, alebo kapacita - pripojene kalendare a sledujete kalendare ludi) - pokial sa bavime o vykazoch prace, tak ako pisem vyssie, je mozne vykazy prace vytvarat aj nad projektom ci timom avsak je to iny typ vykazu prace a nepouzivaju sa tam logicky tie atributy ktore su definovane na ulohy pretoze vykaz prace nad ulohou je iny nez nad projektom - takze cisto technicky to ide robit, ale optimalnejsie je mat vzdy ulohu na ktoru vykazujeme, pre projekt alebo tim by to bola napriklad porada ci ina vseobecna cinnost Dufam ze to takto staci, ak by boli dalsie otazky, pokojne sa pytajte. Daniel Dzuro Specialist • ALITEO"
+    }
+  ]
+}

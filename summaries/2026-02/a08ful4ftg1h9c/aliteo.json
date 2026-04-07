@@ -1,0 +1,43 @@
+{
+  "id": "a08ful4ftg1h9c",
+  "created": "2026-02-11T08:40:21.711Z",
+  "closed": "2026-02-12T07:40:22.008Z",
+  "duration_minutes": 1380,
+  "first_response_minutes": 1,
+  "name": "Nefunkčnosť firemného STEP Aliteo",
+  "description": "Zdravím, dnes ráno sa nám začalo naše firemné Aliteo správať nekoreknte. Pri zobrazení detailu úlohy skoro celú obrazovku natiahne ale pri načítaní atribútov (ľavá časť) sa to \"zasekne\" . Ostatné funkčnosti vyzerá že fungujú Ďakujem",
+  "owner": "Marek Sabo",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, pozrieme sa na to a budem Vas informovat. Dakujem a ospravedlnujeme sa za neprijemnosti."
+    },
+    {
+      "creator": "Marek Sabo",
+      "comment": "V pohode. Ešte ma zaujala jedna informácia . Znamená to že mi končí prístup na oficiálne Aliteo ? 😀"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nie, je to len informacia kolko ostava dni do konca skusobnej verzie."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chyba by mala byt opravena, mohli by ste prosim skontrolovat?"
+    },
+    {
+      "creator": "Marek Sabo",
+      "comment": "Je to OK. Vďaka."
+    }
+  ]
+}

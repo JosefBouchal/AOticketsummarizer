@@ -6,7 +6,7 @@
   "first_response_minutes": 81,
   "name": "Dokola vyskakující upozornění na problém s kalendářem",
   "description": "Ahojte... nevím, co se dnes děje a co je důvodem, předpokládám, že to ani neumím řešit a tak jsem dnes trošku frustrovaný z toho, jak mě tento oranžový pruh terorizuje s velkou pravidelností, přičemž i v momentě, kdy jsem v té části potřeboval číst informace pod ním. Verifikované napojení na kalendář mám. Obecně i to hlášení při špatné konektivitě je takové hodně citlivé a myslím si, že ta hystereze by měla být výrazně vyšší, nebo třeba by si to mohlo pamatovat, že už se mi to během nějaké doby ukázalo. Ale nechci radit a jen hlásím, že je to značně otravné ;-) Děkuji.",
-  "owner": "Lukáš Trunečka",
+  "owner": "lukas.trunecka@karatsoftware.cz",
   "priority": "Normální",
   "surveyquality": "Unknown",
   "surveyterm": "Unknown",
@@ -32,7 +32,7 @@
       "comment": "Ahoj Lukáš, vraj sa dana vec deje kvôli nejakej konkrétnej udalosti v tvojom kalendári. Zisťujeme či bude treba niečo upravovať ale už zajtra by si tento problém mať nemal"
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Ahoj Dane, ok, klidně pak napište co konkrétně tam mám zlého... to mě zajímá :-)"
     },
     {
@@ -40,7 +40,7 @@
       "comment": "Pochopil som tvoj vysmech, ale nebudem na neho reagovat. Naco? Nic zleho tam Lukas nemas, ale kombinacia nasej chybky v kode a dat (v tvojom pripade udalost) sposobila ze to nefungovalo spravne. Dnes by sa ti ta chyba uz nemala zobrazovat. Chybu sme vo vyvojovej odstranili."
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Nepochopil, Dane. Nebyl to výsměch, byla to regulerní nabídka spolupráce. Mrzí mě, že si o nás apriory myslíš, že vás nemáme rádi. David za mnou byl, koukli jsme na to a našli to, co potenciálně problém způsobilo. Je to opakovaná událost, která má nějakou chybku, takže jsme se domluvili, že si ji tam nechám a za rok zjistíme, jestli je problém vyřešený. Děkuji za řešení."
     }
   ]

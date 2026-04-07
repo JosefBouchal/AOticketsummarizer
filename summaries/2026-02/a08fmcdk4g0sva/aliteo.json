@@ -1,0 +1,63 @@
+{
+  "id": "a08fmcdk4g0sva",
+  "created": "2026-02-09T08:28:58.334Z",
+  "closed": "2026-02-11T19:30:50.026Z",
+  "duration_minutes": 3541,
+  "first_response_minutes": 177,
+  "name": "branding - licence pro KSW",
+  "description": "v nové verzi jsem zaklikl Branding pro KARAT - můžeš ho \"zakoupit\" - nebo nastavit, že ho máme zakoupen? Nebo to musí jít jinak?",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Nastavení společnosti",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 4,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, neviem ako to vlastne je licencne s KARATom.. @ Peter Ďurčák (peter.durcak@karatsoftware.sk) zapnut to len na custom alebo ako to je?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nakoniec som im vsetky funkcionality zapol, ak to ma byt inak @ Peter Ďurčák (peter.durcak@karatsoftware.sk) treba to upravit.. alebo len potvrd ze je to tak ok.. Ja to prehadzujem na @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "nakoniec som ganta vypol, lebo ak niekto kto nema klikne na aktivovat, zapisu sa jeho prava do nastaveni projektu a potom to nikto nezmeni.. ale branding je zapnuty"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "stále vidím, že jsme  ve zkušební době: a dívám se na licenci a vidím: 84 API volání z 0 volání za minutu - nevím co to je ale je to červené. A počet úkolů - za chvilku budeme na limitu - zvýšíme? BTW. dostane správnce nějaké upozornění, že se blíží k limitu nebo ne?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nastavil som vyssie limity na API, AI dotazy aj webhook - fakt neviem ako je to dohodnute - nastavujem preto ze o to ziadate, ale neviem ci robim dobre - prehadzujem na @ Peter Ďurčák (peter.durcak@karatsoftware.sk) Co sa tyka limitov, mal by chodit upozornujuci email ze dosahujes limit. Mozno by sa trebalo zamysliet nad tym ci je spravne mate takmer 250k uloh aktivnych - mozno to pre nieco robite - ale za mna by to tak asi nemal byt.. stale nerad zapinam KARAT ked mi treba nieco vyhladat.. lebo viem ze to bude trvat vecnost.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "aktivní znamená - nearchivované? je to asi o tom jak se domluvíme, bylo to hlavně o filtrování asi."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zvysil  som limity na Enterprise obmedzenia, pocas uzivania zistime kde je rezerva a doladime po dohode aj s MVA."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) mě to stále hlásí, že mám zkušební dobu na ostrém karatu:"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "mám zmáčknout tlačítko aktivovat?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Nemusis, vsetko je funkcne."
+    }
+  ]
+}

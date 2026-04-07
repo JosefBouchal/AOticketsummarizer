@@ -1,0 +1,99 @@
+{
+  "id": "a08dsi67s000ak",
+  "created": "2026-01-26T07:39:31.121Z",
+  "closed": "2026-02-02T06:27:11.231Z",
+  "duration_minutes": 10007,
+  "first_response_minutes": 41,
+  "name": "Swagger AO beta",
+  "description": "Prosím zprovoznit swagger AO bety\r\n\r\nDěkuji\r\n\r\nLuboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Vyšší",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "API",
+  "comment_stats": {
+    "total": 19,
+    "from_owner": 8,
+    "from_others": 11,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "už to jede, můžeme zrušit"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tak ne, swagger najel, ale dle mě není správně, třeba tady mají být jednotlivé komponenty, prosím o zprovoznění"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ok posielam na AKO..."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "díky moc Dane"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) mam ti na to vytvorit vyvojovy pripad ?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "https://aliteobetaapi.azurewebsites.net/swagger/ui mně funguje, v čem je problém?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Rozuním.. ano asi přechodem na novější verzi open api se to ztratilo."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Davide, asi takto. V betě jsme přešli z Microsoft.Azure.Webjobs.Extensions.OpenApi 1.5.1. na  Microsoft.Azure.Funcitions.Worker.Extensions.OpenApi 1.6.0. V struktuře syncSetChanges je changes... má tam být oneOf a výčet potomků, což plním filtrem (OpenApiDocumentFilter.cs.147). Ne ostré je. Zajímavé je, že v betě na lokále také je. Nicméně v betě v Azure není."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "chápu, jsou určitě prioritnější věci, ale dal by se sem aspoň uložit ten swagger.json té bety z lokálu, když tam je to dobře?"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "To je dobrý nápad, zde máš soubor z lokálu beta-swagger.json . Na opravě samozřejmě pracuji."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "To je dobrý nápad, zde máš soubor z lokálu beta-swagger.json . Na opravě samozřejmě pracuji."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Opraveno. Výše poslaný swagger.json již prosím nepoužívej."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "super, děkuji, ano vidím, nyní tam mám již komponenty"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Jen pro info, zas to je blbě :-("
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Stále nefunguje. Po chvíli po nasazení se přestanou aplikovat naše rozšíření a swagger obsahuje pouze api generované na základě výchozího popisu funkcí. Budu muset navrhnout jiný způsob generování souboru. Ideálně nějaký, který vygeneruje soubor již při buildu."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) Kdybys potřeboval swagger.json, tak se prosím ozvi."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Díky, v poho, nyní už nepotřebuju, jinak mám stále ten swagger z ##12 a pevně věřím, že nyní už změny v tom nejsou, ale určitě potřebuju, aby pak toto fungovalo pro ostrý swagger, i když to nevnímám jako překážku pro nasazení nové verze, chvilku se to dalo vydržet i tak."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Opraveno."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "díky, věřím"
+    }
+  ]
+}

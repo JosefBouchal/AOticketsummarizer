@@ -1,0 +1,63 @@
+{
+  "id": "a08e2dmt0g1jc5",
+  "created": "2026-01-27T17:47:44.654Z",
+  "closed": "2026-02-01T17:48:47.814Z",
+  "duration_minutes": 7201,
+  "first_response_minutes": 122,
+  "name": "Přílohy Aliteo - nelze upravovat",
+  "description": "Dobrý den,\r\n\r\nmohu poprosit o radu, uložené přílohy v Aliteu není možné upravovat.\r\nNahraný soubor do přílohy je omezen jen pro čtení, ač nahrávaný soubor nemá nastavené omezení pro čtení.\r\n\r\n[Image001]\r\n\r\n\r\n[Image002]\r\n\r\nPředem děkuji za pomoc\r\n\r\nS pozdravem a přáním pěkného dne\r\n\r\n[Image003]\r\nIlona Remešová\r\nnákupní manažerka\r\n\r\ntel.: +420 730 855 366\r\nilona.remesova@prim.cz< >\r\n\r\nMPM-Quality, a. s.\r\nPříborská 1473, 738 01 Frýdek-Místek\r\nIČ 47987430, DIČ CZ47987430\r\nELTON hodinářská, a. s.\r\nNáchodská 2105, 549 01 Nové Město nad Metují\r\nIČ 25931474, DIČ CZ25931474\r\nwww.prim.cz< > | Facebook< > | Instagram< > | YouTube\r\n< >\r\n[Image004]",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 3,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ide o prilohu v ulohe? Pokial ano, tu upravit nejde a ani nikdy neslo.."
+    },
+    {
+      "creator": null,
+      "comment": "aj moje chyba, já myslela, že to bylo blokované když jsme byli pod CSG,  nyní jsem zkoušela a upravovat lze pouze soubory v Dokumentech, pokud se nepletu. Je v plánu, že by někdy do budoucna byla možná i úprava souboru v příloze úkolů?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) spominas si ze by sme nieco vo vyvoji k tomuto mali? ja som hladal a nepodarilo sa mi.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "#3745 Editacia priloh v ulohach"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás áno, vo vývoji máme zaradenú úlohu ktorá by to mala riešiť – editácia Príloh v úlohách"
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím, moc děkuji za dobrou zprávu. Budeme se těšit na novou aktualizaci."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mozeme tento pripad teda uzatvorit? Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Děkuji možné uzavřít, přeji krásný pátek a nastávající víkend"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, Vam takisto prijemny vikend.."
+    }
+  ]
+}

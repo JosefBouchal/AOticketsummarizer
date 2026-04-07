@@ -1,0 +1,51 @@
+{
+  "id": "a08frkmcjg1nc3",
+  "created": "2026-02-10T15:06:58.316Z",
+  "closed": "2026-02-15T11:42:59.836Z",
+  "duration_minutes": 6996,
+  "first_response_minutes": 154,
+  "name": "Seskupovat (zobrazené) upozornění ​​​",
+  "description": "Plánuje se přepracovat upozornění ? mám námět do další verze Seskupovat zobrazené upozornění až po rozkliknutí je zobrazit. Úkoly mají  spousty upozornění a uživatele nezajímá na první dobrou celá historie viz V praxi to komplikuje použití, kdy musím scrolovat \"do nekonečna\" abych se podíval na další  úkol/projekt... viz video msedge_tA7qmO9nkd.mp4 Nebo řešit filtrem kdy by uživatel neviděl na první dobrou tolik záznamů.",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ak ta nezaujima detail, potom: - bud si upravit obsah ktory sa ti posiela aby si ich nemal tolko vela - alebo zatvor a otvor panel a vsetko budes mat collapsnute"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Já ale chci vidět všechen obsah a nechci přijít o informaci co je přečteno ( tedy postup kdy otevřu, zavřu, otevřu .... pak nevidím nové a ty mě právě zajímají) jde mi opravdu o zpřehlednění upozornění. Nebo by to mohlo být seskupeno podle data (dnešní, včerejší, min týden.....) prostě ať upozornění není jen dlouhý seznam ale dá se s tím lépe pracovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Takze ty chces aby najvyssia kategoria bol objekt a potom este v nom dalsie kategorie podla datumu? a ma to byt collapsnute pri otvoreni?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "to už nechávám na analytikovi, ale jakýmkoliv způsobem zpřehlednit, seskupovat... .  Stačí pár změn u úkolu a už se mi to nevejde na jednu stranu panelu a scroluje se donekonečna.  Inspirovat se třeba systémovým oznámením win11 nebo např. (první co jsem vygooglil) nechci diktovat jak to má vypadat 10 lidí 10 názorů."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ten obrazok mi uprimne nic nehovori, ako by to malo byt premietnute k nam. Skratka upozornenie vznika hned ako vznika aktivita, resp zmena ktora sa ulozi. Preto sa pytam ako by si si to predstavoval - co by bolo to sprehladnenie. Ak by to boli kategorie, potom by to nesedelo v case, chapeme sa?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "image 1 např. seskupovat podle data - vidím jeden projekt a můžu přeskočit celý den (ve výchozím stavu vy vylo colapsnuté nahoře např. přepínač /filtr - vidím vše,  vidím jen nepřečtené.... možností je hodně, protože dnes to je seznam všeho. Možnost mazat např všechny starší - všechny včerejší a pod. Dnes jedním klikem smažu vše a nebo po jednom. Ale ještě zkusím AI popis a víc už k tomu dodávat nebudu, pokdu to není pochopitelné ani takto tak už nevím jak. 📋 Specifikace požadavku: Zpřehlednění upozornění Cíl: Transformace stávajícího lineárního seznamu upozornění na inteligentní, strukturovaný systém, který uživateli umožní rychlou orientaci a efektivní správu úkolů a projektů. 🛠️ Navrhovaná vylepšení Logické seskupování: Automatické třídění podle typu objektu (projekt, úkol) a časové osy (Dnes, Včera, Starší). Interaktivní detaily: Výchozí zobrazení bude kompaktní (seskupené) s možností rozkliknutí pro zobrazení detailních informací. Pokročilá filtrace: Možnost filtrovat obsah (např. pouze nepřečtená, pouze prioritní nebo chyby). 🖼️ Popis a analýza grafického návrhu (Příklad řešení) V přiloženém návrhu ##4 je demonstrován moderní přístup k UI, který přímo reaguje na výše uvedené potřeby. Klíčové prvky návrhu: Kategorizace pomocí Tabů: Horní navigace umožňuje přepínat mezi zobrazením podle Data (chronologicky) a Kritičnosti (prioritně). To řeší potřebu rychlého odlišení urgentních chyb od běžných informací. Časové bloky: Upozornění jsou jasně oddělena nadpisy (Today, Yesterday), což zvyšuje skenovatelnost textu. Vizuální kódování (Color-coding): Každý typ zprávy (Info, Error, Warning, Success) má přiřazenou barvu levého okraje a podbarvení. Uživatel tak podvědomě vnímá závažnost zprávy ještě před jejím přečtením. Funkce \"Clear\": Možnost hromadného smazání upozornění pro konkrétní časový blok, což usnadňuje udržování \"Inbox Zero\". Komentář k návrhu: > Tento design je velmi efektivní, protože využívá principy tzv. \"progressive disclosure\" (postupné odhalování informací). Nezahlcuje uživatele vším najednou, ale dává mu vizuální kotvy (ikony, barvy, nadpisy). Pro implementaci doporučuji zachovat i dynamické prvky zobrazené v pravém panelu návrhu (např. možnost přepínat viditelnost jednotlivých karet), což umožní vysokou míru personalizace pro různé typy uživatelů. 🚀 Další doporučení Aby byl systém skutečně špičkový (inspirovaný Windows 11, jak zmiňujete), doporučuji při vývoji zvážit: Hromadné akce: Možnost označit více seskupených upozornění jako přečtená jedním kliknutím na ikonu skupiny. Smart-highlighting: Pokud se v jednom projektu objeví více upozornění najednou, systém je automaticky \"zbalí\" do jedné interaktivní karty. ------------------------ Celé to je jako příklad jak by se mohly upozornění zlepšit. Nechci analyzovat netuším, co se zamýšleno ani jaké další požadavky se k tomu sešly.... Nepředávat případ na mě už k tomu nevím co dodat - vše bylo řečeno/napsáno."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik za analyzu s AI, avsak nezodpoveda kontextu v akom upozornenia u nas funguju. Zamyslime sa nad tym ako by sa to dalo lepsie spravit a v pripade ze nieco budeme realizovat, ozvem sa ti. Dakujem"
+    }
+  ]
+}

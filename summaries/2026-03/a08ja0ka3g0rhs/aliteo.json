@@ -1,0 +1,39 @@
+{
+  "id": "a08ja0ka3g0rhs",
+  "created": "2026-03-09T10:05:07.274Z",
+  "closed": "2026-03-11T12:38:27.501Z",
+  "duration_minutes": 3033,
+  "first_response_minutes": 6,
+  "name": "Úkol - uživatel přidaný emailem - nelze zaslat odpověď Error",
+  "description": "Dobrý den, v návaznosti na páteční informaci, jen potvrzuji, že problém přetrvává. Uživatel přidaný emailem v úkolu, nemůže reagovat, protože se email vrací jako Error Prosím o zpětné info až bude vyřešeno, abych mohla informovat naše IT. Předem děkuji, S pozdravem a přáním pěkného dne Ilona REMEŠOVÁ nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, takze to len zhrniem - uzivatel (vlastnik) posle email k Vam s tym ze ma niekoho v kopii emailu. Zalozi sa pripad k Vam a clovek v kopii by sa mal dostat do sledujucich ulohy - toto asi funguje. Naslene ked tento clovek zo sledujucich (nie vlastnik) dostane upozornenie do emailu a odpise na tento email, caka sa ze sa jeho komentar objavi v pripade, ale on namiesto toho dostane error email. Je tak?"
+    },
+    {
+      "creator": null,
+      "comment": "Jednalo se o úkol, kde bylo potřebovat přidat kolegyni, která nemá Aliteo (respektive z aktivního je externí, ale v pracovním prostoru MPM nešla přidat jako externí - nechtěla jsem zasahovat do nastavení MPM) proto jsem kolegyni přidala emailem. A ano pokud tato kolegyně dostane upozornění do emailu, odepíše přijde ji error email a komentář se nezobrazí. Zkoušeli jsme s panem Ďurčákem i jeho email a nefungovalo správně."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, chápem, teda pridenia sledujúceho je cez email dodatočne.. ok.."
+    },
+    {
+      "creator": null,
+      "comment": "Včera jsem dostala info od pana Ďurčáka, že je již vyřešeno a funkční. Ticket je tedy možné uzavřít. Děkuji."
+    }
+  ]
+}

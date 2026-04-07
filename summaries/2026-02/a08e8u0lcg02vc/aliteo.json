@@ -1,0 +1,115 @@
+{
+  "id": "a08e8u0lcg02vc",
+  "created": "2026-01-29T07:42:59.458Z",
+  "closed": "2026-02-12T17:20:43.797Z",
+  "duration_minutes": 20737,
+  "first_response_minutes": 0,
+  "name": "Licencia ALITEO pre STEP software",
+  "description": "Dobrý deň, len sa chcem uistiť, že máme v poriadku predĺženie licencie a že všetko bude od 1.2. fungovať. Faktúra nám potom príde mailom?",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 23,
+    "from_owner": 7,
+    "from_others": 16,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) toto bude asi na teba.. neviem aka je dohoda so stepom.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Tak dohoda sa nemeni, maaju to za tie peniaze ktore maju v licencii. Ona sa skor pyta, ze ako to bude s platbou. Ak tam ma nastavenu kreditku \"malo\" by sa jej to stiahnut. A FA dojde nasledne. Asi jej ide len o toto."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) aha ok, ja osm myslel ze idu nejako inak.. ze platia fakturu nejaku inu a my im nastavujeme ze \"zaplatene\".. ok"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano malo by to tak byť, že zaplatíte kartou a následne si budete môcť stiahnuť faktúru."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Aj keď tam je automatické obnovenie? Nestiahne to z karty automaticky?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Áno, myslel som to v oboch prípadoch. Či je to automatické alebo jednorazové, tak zaplatením kartou by malo byť možné túto faktúru stiahnuť z tohto miesta"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "čiže zopakujem otázku: keď sa 1.2.2026 prihlásim do ALITEA, všetko bude funkčné, nemusím nič robiť, peniaze sa stiahnu automaticky? nevidím možnosť, kde mám o zaplatiť kartou."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, tak by to malo byt - automaticke obnovenie znamena ze sa platba strhne automaticky (za predpokladu ze je karta stale platna, su tam prostriedky a i.) Nie je treba nic explicitne platit."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "je 1.2. a zdá sa že ALITEO funguje, ale v histórii platieb nevidím platbu, neviem či prebehla"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "pardón, dnes je ešte len 31.1. 🙂 pozriem zajtra"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Tak dnes už je ozaj 1.2., zdá sa, že všetko funguje, už vidím v zozname aj platbu, aj niečo ako faktúru, ale budeme pýtať normálnu faktúru ako minulý rok, keďže tá z Alitea nespĺňa požiadavky. Môžete uzavrieť."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "prikladam si sem fakturu pre step step_Invoice_3306059479.pdf"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Je fajn, ze ALITEO bezi, na fakturu sa pozrieme a zistime kde nastal problem.. zatial necham tento pripad ovoreny, aby sme mohli cez neho komunikovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Opravujeme problem s ciastkami.. Je tam este nieco co podla Vas nie je spravne na fakture? Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) ak by si nasiel ten email od nej co bolo zle, hod ho prosim Tu, lebo zatial neodpoveda"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "RE_ faktura ALITEO.msg Prikladam email. Nic take, co som si pmatal, ze tam bolo tam nie je. Takze povazuj za vyriesene, ak ako opravil polozky a ten check box."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "prikladám správnu faktúru z minulého roka: na tej novej okrem čiastky za položky je aj správne naše IČO a text, že sa jedná o licenciu za produkt ALITEO a aj dátum platnosti licencie, to je len čo ja vidím, naše účtovnícke oddelenie je momentálne vyťažené, takže nechcem ich zaťažovať ešte aj s týmto, aby skontrolovali či je všetko v poriadku čo sa týka ostatných vecí. Takže poprosíme zaslať faktúru z KARATu ako aj minulý rok."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) asi je celkom relevatne napisat aj nazov produktu (ALITEO) do faktury nie?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chcel by som sa spytat ci toto ICO mate zadane aj vo fakturacnych udajoch.. ak nie je spravne - preto nie je spravne aj na fakture.. Ak by sme teda doplnili nazov produktu a vy opravite ICO, tak faktura z ALITEO uz bude vyhovovat?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Uprimne, mozeme, ale nevidim tam dovod. Kupili si custom licenciu nie ALITEO. ALITEO sa kupit neda kupuju si licenciu ktora sa vola tak ako je v cenniku. Ico ma take, ake si ho zadala. Mne pride polozka na FA z karatu nespravna. Smeroval by som nu nech si opravi ico a je vybavene."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem, mne prislo ze nazov produkt za licenciu ktoreho si platis je asi spravne, napriklad faktura od gpt to ma . Ale rozumiem, ja som len chcel aby to bolo spravene tak aby nemusela nikoho z karatu pytat - alebo to jej pride nejako automaticky bez nasich starosti aj tak?"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "IČO som opravila, prosím o zaslanie faktúry ako minulý rok, ďakujeme"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V poriadku, ICO je teda na fakture spravne a takisto ciastky sme opravili. Ak Vam teda faktura aj nevyhovuje, prosim poziadajte o fakturu pana Pazderu. Dakujem"
+    }
+  ]
+}

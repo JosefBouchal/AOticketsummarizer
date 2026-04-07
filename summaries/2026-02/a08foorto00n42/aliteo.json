@@ -1,0 +1,35 @@
+{
+  "id": "a08foorto00n42",
+  "created": "2026-02-09T22:23:58.564Z",
+  "closed": "2026-02-12T11:35:11.115Z",
+  "duration_minutes": 3671,
+  "first_response_minutes": 582,
+  "name": "konzulkacia - prezentacia",
+  "description": "Dobrý deň, na základe dnešného telefonického rozhovoru by som Vás chcel požiadať o prezentáciu Vášho systému na správu úloh a dokumentov – ideálne formou online stretnutia, prípadne osobne (podľa Vašich možností). Momentálne vo firme vyberáme riešenie na evidenciu a riadenie úloh v rámci stavebných projektov a radi by sme si s Vami prešli naše procesy a možnosti nastavenia systému tak, aby sme vedeli posúdiť, či a ako nám viete pomôcť pri implementácii. Sme stavebná firma, ktorá realizuje viacero stavieb pozemného staviteľstva na kľúč – novostavby (polyfunkčné domy), individuálne stavby, priemyselné a obchodné objekty aj rekonštrukcie. V rámci realizácie vzniká veľké množstvo interných úloh, úloh voči objednávateľovi, ako aj úloh na jednotlivých dodávateľov, pričom zároveň potrebujeme prehľadne evidovať súvisiacu dokumentáciu. V skratke opis našej realizačnej fázy: Zákazka začína podpísanou zmluvou o dielo s investorom (termíny, harmonogram, míľniky), ktoré by sme chceli evidovať v systéme na jednom mieste. Počas realizácie pracujeme s rozpočtom a mesačným čerpaním: stavba vytvára súpis vykonaných prác a na jeho základe prebieha fakturácia. Aj tento proces potrebujeme vedieť systematicky evidovať a sledovať. Z rozpočtu sa postupne tendrujú jednotlivé položky, skladá sa portfólio subdodávateľov, podpisujú sa zmluvy/objednávky a z nich vyplývajú úlohy v rôznych fázach (príprava, realizácia, odovzdanie). Úlohy sú často jednorazové aj cyklické (napr. mesačné fakturácie, kontrolné dni, BOZP, koordinácia), a na konci stavby pribúdajú protokoly, preberacie konania, odovzdanie investorovi a ďalší balík povinností a dokumentov. Kľúčové pre nás je správne navrhnúť štruktúru: triedenie úloh podľa dodávateľov (každý dodávateľ ako samostatný „obchodný prípad“), rozdelenie podľa fáz (prípravná / realizačná / odovzdanie), typy podľa oblasti (HSV, PSV, zariadenie staveniska, BOZP a pod.), prepojenie úloh na dokumenty, termíny, míľniky a opakované činnosti, práca s viacerými projektmi paralelne a rôznymi tímami (prípravný, realizačný, podporné oddelenia – ekonomika, sklad a pod.). Keďže systém zatiaľ nepoznáme do hĺbky a nemáme s jeho implementáciou skúsenosť, radi by sme si s Vami na úvod prešli odporúčaný spôsob nastavenia (best practice) – ako by ste navrhli štruktúru úloh a dokumentov pri našom type projektov. Prosím, navrhnite nám niekoľko možných termínov prezentácie/konzultácie v najbližších dňoch. Ďakujem pekne a teším sa na stretnutie. S pozdravom Ing. Ján Varchola / konateľ +421 903 228 731 / jan.varchola@assyx.sk ASSYX, spol. s r.o. Office: +421 2 446 311 47 Karadžičova 9, 811 09 Bratislava Prevádzka: Popradská 80, 821 06 Bratislava http://www.assyx.sk Táto správa (vrátane prí­padných prí­loh) môže obsahovať dôverné informácie a je určená výhradne zamýšľanému adresátovi (adresátom). V prí­pade, že nie ste zamýšľaným adresátom, dovoľujeme si vás požiadať, aby ste túto správu okamžite odstránili, nezriaďovali z nej žiadne kópie ani ju nepreposielali nikomu ďaľšiemu. Upozornite, prosí­m, odosielateľa prostrední­ctvom odpovede na tento e-mail. Ďakujeme.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Pavle, to je ten co som s nim vcera hovoril.. kludne si tu s nim odkomunikuj co potrebujes - asi by som ho uz netrapil presmerovanim na info. Co myslis?"
+    },
+    {
+      "creator": "Pavel Marzini",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) Mám převzato, můžeš uzavřít."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, dakujem za Vas dopyt. Informácie som už predal kolegovi, ktorý Vás bude kontaktovat a dohodne s Vami ďalší postup. Tnto prípad uzatváram, keďže ho prebral kolega. Ďakujem a Teším sa na prípadnú spoluprácu. Prajem pekný deň."
+    }
+  ]
+}

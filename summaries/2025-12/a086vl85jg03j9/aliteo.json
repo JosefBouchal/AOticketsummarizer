@@ -1,0 +1,47 @@
+{
+  "id": "a086vl85jg03j9",
+  "created": "2025-12-03T16:47:50.794Z",
+  "closed": "2025-12-05T09:09:26.263Z",
+  "duration_minutes": 2421,
+  "first_response_minutes": 200,
+  "name": "mBank CZ/mBank SK_eExport ukolu z Alitea",
+  "description": "Dobrý deň pán Durčák, Dostala som na Vás kontakt od pána Masaříka a rada by som sa opýtala, či bolo možné entitám mBank CZ a mBank Sk sprístupniť v ALITEu  možnosť exportovať zadané úlohy resp. ich zoznam do akéhokoľvek formátu. My túto možnosť vidíme, ale nemáme ju vôbec sprístupnenú. [Image001] Ďakujem vopred a príjemný deň Vám prajem Erika Medveďová Head of Finance Czech Republic and Slovakia Mob: +421 918 969 966",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 1,
+    "from_others": 5,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) dávam to na teba nie preto žeby som ja nevedel odpovedať ale vyslovene tam tvoje meno spomenula. A zároveň otázka či týmto externým užívateľom úplne neskrývať ten export (nienje to prvý krát čo sa na to z Karat zajazníkov niekto pýta) v alfe to vyriesene nie je.. a neviem ci vo vyvoji mame ze ci to neskryt uplne pre externych.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dobrý deň, pani Medveďová, ďakujem za Vašu správu. Žiaľ, táto funkcionalita nie je pre externých používateľov dostupná a z dôvodu architektúry systému ju nie je možné sprístupniť ani individuálne. Externé účty majú z bezpečnostných dôvodov obmedzené oprávnenia a nemajú prístup k exportným funkciám. Jediná možnosť, ako Vám poskytnúť kompletný zoznam požadovaných úloh, je prostredníctvom interného používateľa spoločnosti KARAT Software, ktorý môže export vykonať za Vás. s pozdravom, Peter Ďurčák"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý deň pán Ďurčák, rozumiem, ďakujem Vám za odpoveď. Príjemný deň Vám prajem Erika Medveďová"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) ved ty vies ze exporty sa nedaju pre externych.. ci o co islo?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) já to vím a stále mě to udivuje (zase jsem se musel jít přesvědčit, protože jsem tomu nemohl věřit), hlavně proč to ten uživatel vidí to tlačítko - když ho nemůže použít... A podle mě potřebujete znát potřeby uživatelů a já nemůžu být pořád ten jeden, co říká oni chtějí, to pak vypadá, že vše chci já a nikdo to vlastně nechce kromě mě."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) @ Peter Ďurčák (peter.durcak@karatsoftware.sk) mame vo vyvoji ulohu #8432 Export uloh - NC Line kde vysledok ma byt: Upravit stav viditelnosti komponenty exportu objektov podla logiky aktivnych spolocnosti: 1. Externy uzivatel = Neviditelny 2. Exte . a inter .        = Disable 3. Interny =  Viditelny"
+    }
+  ]
+}

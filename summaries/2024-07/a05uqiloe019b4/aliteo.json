@@ -6,7 +6,7 @@
   "first_response_minutes": 66,
   "name": "Řazení za poslední komentář nerespektuje soukromé komentáře",
   "description": "Řazení za poslední komentář nerespektuje soukromé komentáře. Klidně si vyzkoušejte na tomto případu, kam si hned za první příspěvek/komentář (popis) vložíte soukromý komentář a úkoly si seřadíte podle posledního komentáře. Tento pak skončí opět na konci...",
-  "owner": "Lukáš Trunečka",
+  "owner": "lukas.trunecka@karatsoftware.cz",
   "priority": "Normální",
   "surveyquality": "Unknown",
   "surveyterm": "Unknown",
@@ -28,7 +28,7 @@
       "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) pridal som ulohu do vazby kde sme to riesili, co ty na to? berieme naspat na produktovu alebo sa vyjadrime ze to nebudeme robit? Teoreticky to inym vadit nebude ak tam ty budes mat svoj komentar."
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Ahoj Dane, já jako uživatel nijak nevnímám (a ani nemám) problém objemu dat a rychlosti. Já vnímám jen to, že jsem si soukromě okomentoval případ a že řazení za komentář mi to neovlivnilo. Takže ano - chci zahrnout do řazení. Prosím."
     },
     {

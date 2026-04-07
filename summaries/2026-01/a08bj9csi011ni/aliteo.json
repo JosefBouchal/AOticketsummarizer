@@ -1,0 +1,47 @@
+{
+  "id": "a08bj9csi011ni",
+  "created": "2026-01-08T12:48:08.042Z",
+  "closed": "2026-01-16T10:14:30.417Z",
+  "duration_minutes": 11366,
+  "first_response_minutes": 31,
+  "name": "Navrhování tiketu k uzavření",
+  "description": "Dobrý den, na prostoru  Support máme nastaveno automatické navrhování k uzavření když vlastník nereaguje, ale některé tikety se přesto nezavřou. Kde je problém ?",
+  "owner": "Josef Blažek",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, Je tam viacero automatik: -  Pripad caka na vlastnika - ak vlastnik nereaguje navrhne sa na uzatvorenie - ak vlastnik nereaguje na uzatvorenie pripad sa sam uzatvori Cielom je aby obsluha supportu mala zjednodusenu pracu s uzivatelmi ktori nereaguju. To je vysvetlenie automatik. Skuste mi poslat screny ako mate nastavene."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Musíte mať teda nastavenú aj automatiku na automatické potvrdenie uzatvorenia, nielen na návrh na uzatvorenie"
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "to samozřejmě mám nastavené a některé tikety se zavírají , ale některé ne."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To my asi budete musiet poslat screeny jednotlivych uloh (ich aktivity) aby sme sa pozreli na konkretne pripady"
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "jeden jsem vám už poslal v úvodu potřebujete další ? Snímek obrazovky 2025-10-17 155244.png"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ste si isty, ze  nastavenie Automaticke navrhnutie na uzatvorenie pokial zakaznik nereaguje na \"ceka na reakci\" bolo definovane pred 22.8.2023 ? Ak nebolo tak je to tento dovod. Nefunguje to tak, ze ak ja nastavenie urobim dodatocne, tak sa prejdu vsetky ulohy a zmeni sa ich stav. Nastavenie sa kontroluje v dobe zmeny stavu. Predpokladam ze pripady zalozene teraz tento problem nemaju, alebo ano?"
+    }
+  ]
+}

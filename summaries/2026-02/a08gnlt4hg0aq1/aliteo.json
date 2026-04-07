@@ -1,0 +1,39 @@
+{
+  "id": "a08gnlt4hg0aq1",
+  "created": "2026-02-17T10:26:54.434Z",
+  "closed": "2026-02-17T11:05:07.957Z",
+  "duration_minutes": 38,
+  "first_response_minutes": 19,
+  "name": "SLA v custom licenci",
+  "description": "Dobrý den, nemáme přístupné úpravy SLA v naší custom licenci. Chápu, že to nyní máte licencované zvlášť, ale předpokládám, že po zaplacení celé roční licence v červnu 2025 bychom toto měli mít přístupné po celou dobu zaplacené licence. Děkuji za informaci.",
+  "owner": "Jakub Trhlík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, mate specialnu licenciu, pozrieme sa na to. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zistil som ze, pri nasadzovani novej verzie sa nastaveniu asi zmenilo. Mate to teraz uz nastavene, takze verim ze nebude uz problem. Ospravedlnujeme sa za neprijemnosti. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zistil som ze, pri nasadzovani novej verzie sa nastaveniu asi zmenilo. Mate to teraz uz nastavene, takze verim ze nebude uz problem. Ospravedlnujeme sa za neprijemnosti. Dakujem"
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Ano, SLA již vidíme, můžete uzavřít, děkuji."
+    }
+  ]
+}

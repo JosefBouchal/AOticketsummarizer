@@ -1,0 +1,39 @@
+{
+  "id": "a0877kfmv00afj",
+  "created": "2025-12-05T15:15:42.065Z",
+  "closed": "2025-12-08T08:43:43.943Z",
+  "duration_minutes": 3928,
+  "first_response_minutes": 2636,
+  "name": "Nenačítanie tiketu ",
+  "description": "Dobrý deň, posielal som kolegom link na tento tiket #197 Print template F01A_NR a zas sa im to prestalo zobrazovať a nemajú k nemu prístup. Vieme sa na to budúci týždeň pozrieť ? Ďakujem",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, Treba analyzovať aké majú pravá užívatelia ktorí tento tiket majú vidieť. Majú prava supervízora a očakávame že majú vidieť všetky tikety alebo toto právo nemajú a je treba z nich spraví sledujúcich uloh ktore maju vidiet? Ak je treba spraviť sledujúcich, sú sledujúci tejto úlohy?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "AAAA priznávam chyba bola medzi stoličkou a klávesnicou 🙂))  Mám tikety rozdelené podľa projektov (procesov firmy) a tento tiket som dal do projektu kde tie dve kolegyne (kvalitárky) nie sú nastavené ako supervízorky a nedal som ich ani ako sledovateľky, lebo som bol v tom, že sú supervízorky.  No čo Vám poviem, zamotal som sa v tom, ale mám skúsenosť 🙂 Ešte raz vďaka, môžeme tiket zatvoriť a ospravedlňujem sa."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím, nie je sa začo ospravedlňovať. Som rád že sa to vyriešilo. Niekedy sa vyznať v tých právach je komplikované, ale to je daň za to množstvo možností ktoré ALITEO má."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Je to rovnako ako s každým softwarom, treba mať dobre zadané dátový procesný model a nastavovať si to čo najjednoduchšie aby sme potom nepotrebovali armádu konzultantov, ktorý to budú musieť spravovať a nastavovať. Mne sa ALITEO páči, poviem aj zákulisnú informáciu aj p. Srdošová je viac a viac naklonená jeho používaniu, lebo vidí, že ja mám prehľad v tom čo robím a chce aby aj ostatní mali, takže som jej povedal, že ak bude vedieť čo presne chce a načo ho používať tak si spíšeme nejaké body, zakreslíme to a môžeme Vás kontaktovať. Ešte raz vďaka"
+    }
+  ]
+}

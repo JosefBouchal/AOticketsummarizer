@@ -1,0 +1,43 @@
+{
+  "id": "a08gf2uhog1bc3",
+  "created": "2026-02-15T08:23:39.376Z",
+  "closed": "2026-03-01T08:09:33.627Z",
+  "duration_minutes": 20145,
+  "first_response_minutes": 422,
+  "name": "Komentáre - nemožno odoslať z mobilnej aplikacie",
+  "description": "Dobrý deň, Využívam mobilnú aplikáciu. Pri písaní komentára nemôžem tento odoslať lebo funkčné tlačitko odoslať sa nachádza priamo Za funkčným tlačitkom môjho mob. Telefonu Samsung S23 – krok späť. Viete mi poradiť ako môžem odosielať komentáte iným spôsobom, alebo to vyriešite iným spôsobom. Pozrite priloženú snímku obrazovky pre lepšie pochopenie. Z otohto dôvodu neviem posielať žiadne komentáre k úlohám. Ďakujem za skoré vyriešenie a vašu odpoveď S pozdravom / Best regards / Mit freundlichen Grüßen Roman  MELICHERÍK Project Manager mob:+421 905 375 851 email: melicherik@dispoline.sk web: www.dispoline.eu Dispo Line Relay s.r.o Furniture & Interiors production Made to measure Bancíkovej 1/A   821 03  Bratislava Slovakia IC DPH Slovakia           Mwst Austria            Mwst Swiss                                Mwst Germany . SK 2120186233              ATU77582616         CHE-133.155.331Mwst                  DE344076167 IČO: 50139045 Rhenuba Treuhand Hardstrasse 127 4052 Basel Switzerland",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, Ďakujem za podnet. Budeme sa tomu hneď venovať, ako budeme môcť a budeme vás informovať. Ďakujem a ospravedlňujem sa za nepríjemnosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, aktualizacia aplikacie by mala byt vonku. Prosim o aktualizaciu, pripadne o odinstalovanie a nainstalovanie znovu. Potvrdte mi prosim ci je to v poriadku. Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "zdravím,, teraz to odposiela ale ked odpošlem komentar tak aj tak mi da upozornenie že nemam ukončenú akciu a či chcem odísť bez uloženia."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, vidim, zapracujeme na tom co najskor.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, aktualizovali sme opat. Skuste na to pozriet, ci je to uz v poriadku. Zaroven ladime dalsie veci, ktore mierne zmenili grafiku, ale funkcne by to malo byt ok."
+    }
+  ]
+}

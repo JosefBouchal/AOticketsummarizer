@@ -1,0 +1,35 @@
+{
+  "id": "a08c7kuj0g0ild",
+  "created": "2026-01-13T11:24:49.938Z",
+  "closed": "2026-01-14T13:01:33.723Z",
+  "duration_minutes": 1536,
+  "first_response_minutes": 6,
+  "name": "Opakování úkolů",
+  "description": "Dobrý den,\r\nPři nastavení parametrů opakování úkolů nejde nastavit jiný výběr než neděle. Při výběru jiné položky a následného uložení tam spadne vždy neděle.\r\n\r\ndíky\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za report , h ned to posielam na opravu na vyvoj. Ospravedlnujem sa za neprijemnosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Problem sme opravili, nastaveny datum dna by sa uz mal ulozit."
+    },
+    {
+      "creator": null,
+      "comment": "Děkuji, funguje, dobrá práce\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    }
+  ]
+}

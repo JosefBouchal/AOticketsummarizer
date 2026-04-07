@@ -1,0 +1,55 @@
+{
+  "id": "a084d3dp8g1t46",
+  "created": "2025-11-13T15:52:04.654Z",
+  "closed": "2026-02-03T11:04:40.224Z",
+  "duration_minutes": 117792,
+  "first_response_minutes": 44,
+  "name": "Dotaz - AO sledující úkolu",
+  "description": "Dobrý den,\r\n\r\nMěla bych prosbu o radu.\r\nMáme nastavené, že všechny emaily odeslané na email: pozadavky@prim.cz< > se založí úkol\r\nv pracovním prostoru Nákupní oddělení, Projekt Objednávky, řešitelem je skupina Nákup\r\n\r\nMám otázku, zda je možné i automaticky nastavit, že při založení úkolu budou ve sledujících potřebné osoby?\r\nPřípadně jsem chtěla nastavit v pravidlech, ale tam je možné nastavit jen pravidla řešitelů a komentářů.\r\n\r\n\r\nPředem děkuji\r\n\r\nS pozdravem a přáním pěkného dne\r\nIlona Remešová\r\nNákupní manažerka\r\n\r\n[Image001]\r\n\r\nELTON hodinářská, a.s.\r\nNáchodská 2105 | 549 01 Nové Město nad Metují\r\nM: (+420) 730 855 366| E: ilona.remesova@prim.cz< >\r\nwww.prim.cz< > | Facebook< > | Instagram< > | Twitter< > | YouTube< >\r\n\r\nUPOZORNĚNÍ\r\nInformace obsažené v tomto e-mailu a všech připojených souborech jsou důvěrné, mohou být chráněny zákonem a jsou určené výlučně příjemci. Nejste-li zamýšleným příjemcem, je zakázáno jakékoliv zveřejňování, zprostředkování nebo jiné použití těchto informací. Obdrželi jste e-mail neoprávněně, informujte o tom prosím odesílatele a vymažte neprodleně všechny kopie tohoto e-mailu i všech jeho příloh",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 3,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, skuste mi povedat co je cielom toho aby boli sledujuci. Aktualne nie je mozne nastavovat vyslovene sledujucich ale je mozne urcite nieco ine vymysliet, len mi povedzte ciel kvoli comu to potrebujete. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim, na zaklade emailu som znovu otvoril ulohu, vpiste prosim Vase poznamky sem nech to mame pokope. Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, omlouvám se, ale měla jsem dovolenou. Nyní jsem měla rozepsaný komentář a došlo k uzavření, když jsem na chvilku odešla. Potřebuji, aby sledujícími všech úkolů v objednávkách byly Jana Matičková a Barbara Hanková. Napadla mě možnost, založit řešitelskou skupinu \"Objednávky zadání\" kdy by byly členy včetně nás z nákupu, tím by při založení byly automaticky sledujícími a pracovnice nákupu při převzetí úkolu přepneme do etapy Řešit, kde by byl jen nákup řešitelem. Mělo by to tu výhodu, že obě budou automaticky vědět o novém požadavku na objednání. J Jen nevýhoda je, že budou mít v soupisech úkolů než přepneme stav. Nebo Vás napadá ještě jiná nevýhoda ? PS: mohu ještě otázku - externí uživatel nemůže být řešitelem úkolu ? Abych věděla, že daný úkol čeká na řešení externím uživatelem, je potřeba, abych ho nastavila jako vlastníka úkolu, a pak dám etapu čeká na vlastníka ? Předem děkuji. IR"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, - ad objedvky: objednavky su projekt? Teda maju vidiet vsetky ulohy v projekte? - ak ano, potom v nastaveniach clenov projektu im zapnite pravo supervizor. - ad externy uzivatel: ano, externy uzivatel, pre ktoreho nie je potrebna licecnia nemoze byt riesitelom, ale mozete cakat na jeho reakciu - ad cakanie na externeho: suvisi s predchadzajucicm bodom - nie je treba aby ste ho nastavovali na vlastnika, staci ak je v projekte a nastavite etapu \"caka na uzivatela\" a vyberiete ho zo zoznamu"
+    },
+    {
+      "creator": null,
+      "comment": "Dobré ráno, - ad externy uzivatel: vyřešeno děkuji - ad objedvky: děkuji za návrh řešení, beru to jako jednu z možností. Jedinou výhodu pokud by byly kolegyně ve sledujících vidím v tom, že by měli přehled v upozorněních co se děje aktuálně s daným úkolem aktuálně oproti tomu pokud budou supervizorem musí dané úkoly zobrazit. Je to tak nemýlím se? Omlouvám se, že Vás takto zahlcuji, né vše mi dojde na první dobrou ... a stále objevuji možnosti co je možné kde nastavit, omezit, přidělit práva atd. Trochu neplánovaně nejsem jen uživatel."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ospravedlnujem sa ze tato uloha tak dlho stala a ja som na nu narazil az teraz. Co sa tyka opraveneni pre kolegyne, ak budu supervizorky potom nie je potrebne ich davat do sledujucich - ale mozu si zapnut upozornenia na Projekt a budu vediet o kazdej novej ulohe alebo zmene stavu danej ulohy. Nebudu vediet detaily (ako komentar napriklad) ale budu mat ten vyssi prehlad. Ano, dobre hovorite, ak by ste chceli aby mali automaticky upozornenia, potom je treba ich automaticky priradit ako riesitelov - zalezi na procese, kto tie objednavky dostava k rieseniu. Pokojne mozu byt vsetci riesitelia v jednej riesitelskej skupine a potom vsetci budu automaticky sledujuci. Len tieto 2 budu vediet ze mozu a nemusia reagovat. Mozno by som zacal najprv tym supervizorom - je to jeden klik bez vyznamnejsich nastaveni a uvidite ci Vam to takto nebude stacit. A urcite nezahlcujete, je to v poriadku, ja som rad ze sa ALITEO pouziva. Prajem pekny den a este raz sa ospravedlnujem za oneskorenu odpoved."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, děkuji za zprávu, a potvrzení mého uvažování. Aliteo je kouzelné v tom množství kombinací jak jde dojít k výsledku a né vždy mě napadne to nejjednodušší. Oběma kolegyním jsem nastavila práva supervizora. Děkuji za pomoc, úkol možné uzavřít. Krásný den přeji."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem pekne, tesime sa ze ALITEO posobi kuzelne 🙂 Budeme radi ak ho budete dalej vyuzivat. Prajem pekny den 🙂"
+    }
+  ]
+}

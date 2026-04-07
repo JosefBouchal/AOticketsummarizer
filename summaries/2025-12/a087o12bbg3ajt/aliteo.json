@@ -1,0 +1,83 @@
+{
+  "id": "a087o12bbg3ajt",
+  "created": "2025-12-09T14:45:32.395Z",
+  "closed": "2025-12-20T06:44:10.154Z",
+  "duration_minutes": 15358,
+  "first_response_minutes": 15,
+  "name": "Aliteo - problém s otevřením úkolu z notifikace",
+  "description": "Dobrý den, opakovaně se dnes stává, že po doručení e-mailové notifikace o novém nebo změněném úkolu nelze úkol otevřít kliknutím na tlačítko \"ZOBRAZIT\" přímo z e-mailu. Po kliknutí se sice otevře rozhraní systému, ale místo konkrétního úkolu se zobrazí pouze bílá prázdná obrazovka. Úkol se vůbec nenačte. S pozdravem a přáním pěkného dne Ilona Remešová Nákupní manažerka [Image002] ELTON hodinářská, a.s. Náchodská 2105 | 549 01 Nové Město nad Metují M: (+420) 730 855 366| E: ilona.remesova@prim.cz< > www.prim.cz< > | Facebook< > | Instagram< > | Twitter< > | YouTube< > UPOZORNĚNÍ Informace obsažené v tomto e-mailu a všech připojených souborech jsou důvěrné, mohou být chráněny zákonem a jsou určené výlučně příjemci. Nejste-li zamýšleným příjemcem, je zakázáno jakékoliv zveřejňování, zprostředkování nebo jiné použití těchto informací. Obdrželi jste e-mail neoprávněně, informujte o tom prosím odesílatele a vymažte neprodleně všechny kopie tohoto e-mailu i všech jeho příloh",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 15,
+    "from_owner": 8,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, prosim Vas, mohli by ste mi poslat ten odkaz ktory sa Vam otvara? Bud z riadka prehliadaca alebo pravym tlacidlom mysi na tlacidlo \"zobrazit\" a kopirovat odkaz. Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím,\r\n\r\nodkaz https://app.aliteo.com/task/a087nkk2005ajt/?scrollto=Comment,a087nuutug06q7 ale pokud klidnu po druhé, tak už se otevře\r\n\r\n[Image001]\r\n\r\n\r\n\r\nS pozdravem a přáním pěkného dne\r\n\r\nIlona Remešová\r\n\r\nNákupní manažerka\r\n\r\n\r\n\r\n[Image002]\r\n\r\n\r\n\r\nELTON hodinářská, a.s.\r\n\r\nNáchodská 2105 | 549 01 Nové Město nad Metují\r\n\r\nM: (+420) 730 855 366| E: ilona.remesova@prim.cz< >\r\n\r\nwww.prim.cz< > | Facebook< > | Instagram< > | Twitter< > | YouTube< >\r\n\r\n\r\n\r\nUPOZORNĚNÍ\r\n\r\nInformace obsažené v tomto e-mailu a všech připojených souborech jsou důvěrné, mohou být chráněny zákonem a jsou určené výlučně příjemci. Nejste-li zamýšleným příjemcem, je zakázáno jakékoliv zveřejňování, zprostředkování nebo jiné použití těchto informací. Obdrželi jste e-mail neoprávněně, informujte o tom prosím odesílatele a vymažte neprodleně všechny kopie tohoto e-mailu i všech jeho příloh"
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím, odkaz https://app.aliteo.com/task/a087nkk2005ajt/?scrollto=Comment,a087nuutug06q7 ale pokud klidnu po druhé, tak už se otevře"
+    },
+    {
+      "creator": null,
+      "comment": ""
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "takze prvy klik na ten odkaz neurobi nic a druhy uz ano?"
+    },
+    {
+      "creator": null,
+      "comment": "ano je to tak"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dakujem, predal som na vyvoj a budem Vas informovat.."
+    },
+    {
+      "creator": null,
+      "comment": "Moc děkuji, problém dnes přetrvává a i u ostatních kolegů co jsem prověřovala."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Jsem trochu zmaten... podle obrázku  v popisu je vidět, že je volán link na anonymní portál... ale podle zkopírovaného odkazu je to link do app.aliteo.com (ten jsem zkoušel a zdá se že i funguje)..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Prosim poslite nam v prilohe email, z ktoreho tento link mate.. A potvrdte nam email ktory na toto tlacidlo klika.. preposlem to takisto kolegom"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ide o to, ze ako keby sa bavime mozno o rozdielnych veciach.. v popise ulohy to co ste poslali je na obrazku link akoby smerujucich na anonymny portal, teda sa zda ze toto tlacidlo dostal clovek, ktory nie je v aplikacii teda ako anonym.. Potom inde je obrazok a poslali ste aj standardny link : Tak by som to chcel dat nejak dokopy 🙂 Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "To už nebudu schopná dohledat z kterého emailu to je. V příloze zasílám nový. Chová se to stejně, z notifikací kterém mi chodí z našeho AO nebo i když jsem se snažila zobrazit úkol z notifikace od Vás. Dnes to dělalo skoro celý den. Nyní se mi pár úkolů zobrazilo rovnou, ale po pár pokusech zase jen bílá obrazovka a nutné buď znovu kliknout na zobrazit úkol nebo kliknout v URL adrese a dát enter a pak se úkol zobrazí.  Hodně úkolů si zobrazujeme z notifikací z emailu."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, ticket můžeme uzavřít, protože dnešním dnem již funguje jako dřív, na první kliknutí \"Zobrazit úkol\" se úkol zobrazí. Mohu se zeptat na příčinu, abych předala info našemu IT. Předem děkuji"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano, problem nebol v ALITEO ale suvisel s verziu prehliadaca. Posielam nejake kratke info z vyvoja: Problém nesouvisel se změnou certifikátu, ani s žádnou jinou konfigurací aplikace ALITEO, ale se změnou chování v prohlížeči Microsoft Edge ve verzích 143.x.x.x. Souvislost se změnou certifikátu byla pouze časová, neboť k ní došlo ve stejném období, kdy si uživatelé začali aktualizovat Microsoft Edge na verzi 143.x.x.x. Problém se navíc projevoval pouze za určitých okolností Staci to takto? Dakujem a prajem pekny den."
+    },
+    {
+      "creator": null,
+      "comment": "Hezký den, moc děkuji za info a vyjádření, určitě dostačující a ticket možné uzavřít."
+    }
+  ]
+}

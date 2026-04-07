@@ -1,0 +1,79 @@
+{
+  "id": "a08lcfaivg184m",
+  "created": "2026-03-25T13:14:18.878Z",
+  "closed": "2026-03-25T22:06:12.699Z",
+  "duration_minutes": 531,
+  "first_response_minutes": 12,
+  "name": "Přístup nový uživatel - Registrace / zamítnutí",
+  "description": "Dobrý den, už mám třetí případ, kdy nový uživatel při registraci dá přijmout, ale mě se v systému objeví, že přihlášku odmítnul a musím znovu aktivovat S pozdravem a přáním pěkného dne Ilona REMEŠOVÁ nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 14,
+    "from_owner": 5,
+    "from_others": 9,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, mohli by nam prosim poslat emailove adresy uzivatelov, ktore tak dopadli? Prepacte, ze sa spytam este raz ale ste si prosim ista ze neklikli na “odmietnut” ? Interagoval dany uzivatel s ALITEOm nejak pred pridanim do spolocnosti? Napriklad odpovedal na komentare, alebo zadaval pripady alebo nejak inak? Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "dagmar.miculkova@prim.cz vaclav.briza@prim.cz jana.janku@prim.cz U dvou uživatelů jsem u toho byla a určitě odmítnout nedali. Chtěla jsem to napsat, jen trochu víc nestihám ... Z nich jeden uživatel posílal úkol přes požadavky, ale netuším jestli reagovali na komentáře."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, preposlal som na vyvoj aby sa pokusili zistit co sa stalo. Skusali sme to aj testovat ale nepodarilo sa nam to nasimulovat."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "aktivita s odmítnutím je a08l95ugr00uo5, a08lchkhc00h8m"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "1. v rámci ladění jsem na uživatele společnosti doplnil Aktivity - zobrazí aktivity společnosti týkající se daného uživatele společnosti. Síťově se automaticky neaktualizují. Domluvil jsem se s Danem, že to tam ponecháme. Tedy zdokumentovat, otestovat."
+    },
+    {
+      "creator": null,
+      "comment": "Ach jo,  to je divné. Chtěla jsem si to vyzkoušet sama, a kvůli tomu jsem si založila i nový email a přihlásit se mi podařilo normálně ... to je dobrá záhada. Teda ještě jedině to může být, že jak jste zmiňoval, že by v minulosti odpovídal na komentáře apod. Úkol můžeme uzavřít 😉"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, to je prave to, ze my sme uz od niekoho taku vec poculia snazili sme sa vyriesit avsak nedokazali sme nasimulovat tento chybovy stav. Kazdopadne sa tomu este budeme viac venovat a viac testovat, lebo sa to opakuje a je v nasom zaujme aby sme na to prisli. Dakujem a teda zatvaram.. ak bude nieco nove budem Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Este sa ale spytam, podarilo sa Vam tych uzivatelov nejako tam opakovane dostat alebo stale su mimo a nie je mozne aby ste ich tam pridali?"
+    },
+    {
+      "creator": null,
+      "comment": "JJ podařilo se mi vyřešit, stačilo v administraci znovu povolit přístup k datům společnosti. Děkuji moc."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Stale asi ale nemame jasne, preco tam skocilo \"odmietnute\" ked to nikto neodmietol. Je tak?"
+    },
+    {
+      "creator": null,
+      "comment": "No je to tak, nemáme to celé vyřešené. bude to muset být opravdu v tom, že ta emailová adresa má v Aliteu nějakou historii. Z mého pohledu mě to teď nijak neomezuje a jelikož mám hromadu jiného tak to můžeme nechat být a případně dám vědět jestli se opět tako situace objeví. Teda upřímně, hrozně se to ve mě pere, že bych si založila ještě jeden mail a zkusila testovat více.... Nemám ráda nevyřešené záhady 😶 Ale víte co mě napadá za možnost, oba uživatelé u kterých jsem byla, mají jedno společné a to, že docházelo v průběhu ke změně a to z interního uživatele na externího a nebo obráceně před danou registrací, ale i tak jsem jim posílala novou pozvánku, protože ji nemohli najít. Tak jestli to nemůže být i tím. No taková konspirační teorie ..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Každá Dodatočná informácia nám pomôže. Ani ja to nenechávam tak. Testujeme to ďalej, snáď na niečo prídeme. Zatvorím teda?"
+    },
+    {
+      "creator": null,
+      "comment": "Ano můžete uzavřít. Pěkný večer a moc děkuji."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ďakujem pekne, aj vám pekný večer"
+    }
+  ]
+}

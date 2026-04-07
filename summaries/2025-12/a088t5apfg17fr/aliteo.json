@@ -1,0 +1,43 @@
+{
+  "id": "a088t5apfg17fr",
+  "created": "2025-12-18T15:04:32.958Z",
+  "closed": "2025-12-21T16:38:05.995Z",
+  "duration_minutes": 4413,
+  "first_response_minutes": 1019,
+  "name": "problém so zobrazením upozornení",
+  "description": "Pozdravujem, Viete sa mi prosím pozrieť na tento problém ? Ak kliknem na ikonku zvončeka / e-mailu, program mi nič nenačíta a neotvorí okno s upozorneniami. Skúsil som viaceré web prehliadače ale pri niektorých sa neviem ani prihlásiť (nezobrazí sa mi okno s možnosťou prihlásiť sa) Ďakujem Tomáš Polák Tomáš Polák Project Leader [Image002] 3EC International a.s. Ružová 605/2 920 42 Červeník Slovenská republika Mob.:   +421 (0)917 909 353 www.3ec.sk< >",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, Chápem teraz správne že po kliknutí v pravom paneli na ikonu sa pravý panel neotvorí ale vyskočí iba hláška o tom že akcia prebieha?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Teda sumarizujem este raz (predpoklam ze refresh ste skusali): 1. pri kliknuti na pravy panel sa neotvori ale \"akcia prebieha\" 2. su prehliadace kde ked zadat app.aliteo.com tak sa nenacita prihlasovacie okno? - napiste mi prosim aky prehliadac a jeho verziu V poslednej dobre sme totiz zaregistrovali viacero updatov zo strany prehliadacov ktore sem tam docasne mozu robit problemy.."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Zdravím, napr dnes mi Aliteo cez webový prehliadač Google Chrome verzia : 142.0.7444.176 vôbec nešlo načítať a rovnako tak Edge verzia 143.0.3650.80 (64-bit) Som tu len cez mobil"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Pozdravujem,  chyba bude niekde u nás vo WiFi pripojení, keď som vyzdielal internet z mobilu, tak to fungovalo, môžeme zavrieť."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, dakujem, som rad ze sa vyriesilo, prajem pekny den"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a08jq2qkc00r76",
+  "created": "2026-03-13T07:41:31.762Z",
+  "closed": "2026-03-13T09:07:13.767Z",
+  "duration_minutes": 85,
+  "first_response_minutes": 22,
+  "name": "Nefunkční tlačítko Nový úkol v projektu",
+  "description": "Dobrý den, nefunguje nám tlačítko Nový úkol přímo v projektu, po kliknutí se na chvíli objeví načítání, ale okno pro zadání specifikace úkolu se neotevře: Přes záložku Úkoly nahoře se okno otevře po kliku na tlačítko Nový úkol: Díky za informaci/opravu.",
+  "owner": "Jakub Trhlík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím Vás, o tomto probléme vieme a pracujeme na jeho vyriešení. Hneď ako to bude v poriadku, budeme Vás informovať. Ospravedlňujeme sa za nepríjemnosti a ďakujeme vopred za trpezlivost."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Oprava bola nasadena, vytvorenie ulohy by malo byt funkcne. Dakujem"
+    }
+  ]
+}

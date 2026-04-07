@@ -1,0 +1,67 @@
+{
+  "id": "a08beclb8005vp",
+  "created": "2026-01-07T08:16:09.762Z",
+  "closed": "2026-01-19T15:46:40.635Z",
+  "duration_minutes": 17730,
+  "first_response_minutes": 5,
+  "name": "Nedoručený email do Alitea",
+  "description": "Dobrý den, Setkali jsme se se situací, kdy email zaslaný na adresu task.a045dsu7ig0etk@aliteo.com <mailto:task.a045dsu7ig0etk@aliteo.com>  nedorazil do systému. Jelikož nevíme, zda odesílání emailů funguje korektně tak píšu rovnou vám a v kopii na support. Můžete prosím prověřit, proč ho v systému nevidíme? Děkuji, Veronika Dufková IT admin support ● RESPECT, a.s. Pod Krčským lesem 2016/22, 142 00  Praha 4 telefon +420 227 200 242 mobil +420 734 418 436 veronika.dufkova@respect.cz <mailto:veronika.dufkova@respect.cz>",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 5,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím, podla dohody som zalozil pripad na support a tato odpoved uz ide z pripadu. Pozriem sa na Vas problem a budem Vas informovat. Len pre potvrdenie, fungovalo to a zrazu to nefunguje?"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, emaily se nám běžně doručují, o tomto jednom víme že nedošel a nevíme proč. Jinak původní email který jsem Vám zasílala byl odeslán na support, nepřijde mi tedy správně že se Vám doručil do infa"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V emaile predtym sa mi nepodarilo zobrazit obrazok, mozeme tuto zosumarizovat data? A teda by bolo fajn: - kto posielal (jeho email) - kam posielal - to vieme z vasho emailu a teda je to: task.a045dsu7ig0etk@aliteo.com - len potvrdit - konkretny email - ak ho mate v odoslanej poste, prilozte ho sem takisto Vedeli by sme si to takto zosuladit?"
+    },
+    {
+      "creator": null,
+      "comment": "Tak jsem právě zjistila že těchto emailů, které nepřišli do Alitea, je několik, a to už od konce minulého měsíce. Ty o kterých vím byly odeslány z emailu petra.jelinkova@respect.cz, a z emailu eliska.horakova@respect.cz, ten odcházel v pátek 2.1. 11:01 AM. Za nás víme že byl korektně přeposlán a doručen na adresu task.a045dsu7ig0etk@aliteo.com. Jelikož nevím kdo všechno co odeslal, pouze z doslechu více lidí přišlo s tím že se jejich požadavky neřeší a nepřišlo jim potvrzení o založení."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Prosim Vas, posielaju to presne na tuto adresu, alebo to mate presmerovane z ineho emailu. Napriklad: ludia to posielaju na projektX@respect.cz a odtial to ma ist na task.a045dsu7ig0etk@aliteo.com alebo to posielaju priamo na tuto skaredu adresu? 🙂"
+    },
+    {
+      "creator": null,
+      "comment": "Uživatelé posílají emaily na adresy u nás a poté to přeposíláme -> jmenovitě je to podpora.it@respect.cz, podpora.externi@respect.cz, chci.reseni@respect.cz, podpora.marketing@respect.cz a pár dalších. Ty to poté přeposílají na task.a045dsu7ig0etk@aliteo.com aby si nemuseli tuto adresu pamatovat."
+    },
+    {
+      "creator": null,
+      "comment": "Když něco přijde do naší domény na adresu podpora.it@respect.cz, náš systém tuto zprávu automaticky přepošle. Posílala jsem vám screenshot, ve kterém je vidět, že zpráva byla od nás tímto způsobem přeposlána a úspěšně doručena."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "prosim, ak je mozne,poslite mi email ktory mal dorazit do ALITEO a nedorazil (v outlooku alebo co pouzivate si ho anjdete v odoslanej poste, odtial si ho ulozte a prilozte k odpovedi. Aktualne neevidujeme ziadne problemy s vytvaranim uloh z emailu. Zda sa ako keby neboli emaily (2.1 o 11:01) ani poslane smerom k nam. Ja zatial poziadam kolegov o preverenie na sendgride - sluzba ktora tieto emaily prijima."
+    },
+    {
+      "creator": null,
+      "comment": "Emaily neodešly z mé strany ale od kolegů a není v mé kapacitě po nich tyto emaily sehnat. Znovu zasílám alespoň screen že od nás vše v pořádku odešlo a vrátilo se nám potvrzení že bylo doručeno."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Diskutoval som s kolegami a takyto stav je tazko riesit, ked niektore emaily dochadzaju a ine nie. Deje sa to nadalej alebo dochadzaju vsetky emaily teraz?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) teraz by sa hodil vseobecna AI, ktora by pomohla s riesenim tohto problemu, ze jej poslem ten ticket, potom ticket od vyvoja a navrhne mi dalsie kroky. Lebo viem ze zakaznik nebude spokojny s odpovedou - nevieme to riesit."
+    }
+  ]
+}

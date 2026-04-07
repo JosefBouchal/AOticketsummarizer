@@ -1,0 +1,35 @@
+{
+  "id": "a08l3qd1201nj8",
+  "created": "2026-03-23T10:49:34.124Z",
+  "closed": "2026-03-30T13:51:17.080Z",
+  "duration_minutes": 10261,
+  "first_response_minutes": 96,
+  "name": "Dashoardy",
+  "description": "1.) mám vizuál 1*1 ( karticky s císlem) a jeden kolač 2*2\nčekal bych, že kartička vývoj  úkoly \"no reporting\" by se mohla vejít ke kartičkám, které by  mohly tvořit také 2*2 strukturu. 2.) dotaz jaký je rozdíl mezi  číslem a číslo s trendem ?",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravím vás, 1.  Dashboardy sa radia za seba ale len zľava doprava, preto je to tak ako to je. Máme ale v pláne vývoja aj prepracovanie tohto gridu aby to bolo viac intuitívne a mohli ste si preusporiadať tak ako potrebujete systému Drag and drop 2. Číslo s trendom je možné nastaviť tak aby vám porovnávalo toto číslo s iným číslom v predchádzajúcom časovom intervale. A teda vám ukazuje následne pokles alebo narast voci predchadzajucemu stavu"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "add 2 . super a to čekám.  dá se nějak ten interval nastavit, nebo jak přesně to funguje ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Skuste pozriet nastavovacie okno widgetu, malo by sa to nachadzat tam."
+    }
+  ]
+}

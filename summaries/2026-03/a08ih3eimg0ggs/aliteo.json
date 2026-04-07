@@ -1,0 +1,35 @@
+{
+  "id": "a08ih3eimg0ggs",
+  "created": "2026-03-03T08:57:47.975Z",
+  "closed": "2026-03-10T16:10:01.950Z",
+  "duration_minutes": 10512,
+  "first_response_minutes": 2,
+  "name": "Sanitizacia textu",
+  "description": "Mame pripad, kedy poziadavok vzniknuty cez API neobsahu medzery tak ako boli pri odosielani pripadu. Jedna sa konkretne opripad https://app.aliteo.com/task/a08hnu4l4g0rc3/?debuguseremail=petr.masarik@karatsoftware.cz ale v podstate je to akykolvek pripad, ktory je generovany s kodom cez API. (V tomto pripade z IS KARAT. Takto by to malo dopadnut Ideal ak by to rozpoznalo kod a naformatovalo to ako KOD...ak to nejde tak aspon odentrovane tak ako do odchadza pri zadani.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "API",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Josef Bouchal (Josef.Bouchal@karatsoftware.cz) @ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) konzultoval som to s AKO. Poprosil ma aby sa otestovalo ci pri zalozeni pripadu cez API, system odmazava entrovanie medzi textom. Ak ano tak to posunme na nich, nech to nejak vyriesia."
+    },
+    {
+      "creator": "Josef Bouchal",
+      "comment": "Zkusil jsem otestovat přímo přes swagger a make, ale v obou případech mi to dopadlo v pohodě a normálně se řádky převedly tak jak měly i mezery mezi slovy: Asi tedy záleží jakým stylem to u nich funguje a spíše zda není chyba u toho zadávání api dotazu.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vieme zistit API dotaz ktory posiela KARAT do ALITEO, aby sme vyskusali ten isty?"
+    }
+  ]
+}

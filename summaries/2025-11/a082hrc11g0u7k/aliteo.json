@@ -6,7 +6,7 @@
   "first_response_minutes": 22,
   "name": "Offline fallback",
   "description": "Ahojte, při včerejším 4 hodinovém výpadku Azure bylo vidět, kde nemáte dořešené offline fallbacky. Máte to hezky udělané jen v app.aliteo.com, kde ServiceWorkera máte , ale ne na ostatních subdoménách, jako login.aliteo.com, kam záložky s aplikací padají při uspání, nebo ani hlavní doména aliteo.com. Také přidávám myšlenku, možná se to řeší i nějak jinak... nicméně ServiceWorker by mohl umět rozlišovat, jestli není připojení k internetu vůbec, nebo není dostupná jen webová služba Alitea a dávat to najevo konkrétně. Např. tím, že prověří dostupnost třeba nějaké google služby. Pokud je dostupná, Aliteo ne, tak je problém s ním a dá se tam uvést třeba to, že služba Microsoft Azure není dostupná a člověk si pak dohledá, že to není tak o vás, jako o třetí straně. Ale to jen takový nápad ;-)",
-  "owner": "Lukáš Trunečka",
+  "owner": "lukas.trunecka@karatsoftware.cz",
   "priority": "Normální",
   "surveyquality": "Unknown",
   "surveyterm": "Unknown",
@@ -36,7 +36,7 @@
       "comment": "@ Lukáš Trunečka (lukas.trunecka@karatsoftware.cz) presli sme to na produktovej a vyvstala z toho uloha kde budeme sa snazit vylepsi stav ktory je teraz. primarne 1. Zrachlit zobrazenie offline stavu podla informacii v priehliadaci. 2. Skusit nastavit serviceworker aj pre login v ALITEO. Mozeme pripad uzatvorit?"
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Ahoj Dane, ok, můžeš uzavřít ;-)"
     }
   ]

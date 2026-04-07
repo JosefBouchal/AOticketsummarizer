@@ -1,0 +1,43 @@
+{
+  "id": "a07rfbohe04rli",
+  "created": "2025-09-05T07:18:53.086Z",
+  "closed": "2025-12-09T12:43:31.300Z",
+  "duration_minutes": 137124,
+  "first_response_minutes": 7,
+  "name": "chybí příloha v komentáři",
+  "description": "občas se stane, že je v příloze jen ikonka, ale příloha tam asi není a tedy po najetí se zobrazí rozmazaný text: poslední výskyt např. včera zde: #319601 Docu-x úprava súborov v zložke  ##23 dá se s tím něco dělat nebo dělám něco špatně při ukládání? na případ jsem přidal Dana, aby měl přístup jako sledující.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) fuh, je to divne - skor vyzera ako poskodeny, divne sa sprava - na tri bodky nemam moznost stiahnut - ked otvorim v galerii tak tlacidlo do noveho okna nefunguje Vies ten subor prilozit sem znova?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "nedokážu, je to obrázek monitoru a jiné se přikládají správně. kdyby mi to vynadalo při ukládání, že je to poškozené, tak bych to byl schopen přiložit (ne vždy, někdy vložím více jak jeden soubor, ale aspoň bych to znovu nasimuloval. pokud to nejde obnovit, tak dokážeš zjistit kdy se to rozbilo? Pokud někdy v průběhu včerejška - dneška - tak proč. pokud ihned při uložení - tak asi nějakou kontrolu a oznámení uživateli, aby měl možnost to tam upravit dokud si to pamatuje."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zatial neviem, poslal som ti na Dusana tak uvidime na co pride a dam ti viediet.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "vyjadrenie od Dusana: Příloha se neuložila - měla být po najetí červeně, jako v případě, že se nepovedl upload.  Opravil jsem ve vývojové, že i takový typ neuložení bude červeně. Souvisí i s #8083 ERROR checkFormattedTextClientAttachments , kde budu řešit, proč se s formátovaným textem neposlaly i přílohy - nebo proč se neaplikovaly. Toto bych uzavřel s tím, že po nasazení na vývojové na ostrou bude již tato příloha červeně."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok, uzavřeme. uvidíme."
+    }
+  ]
+}

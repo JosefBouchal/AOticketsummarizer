@@ -1,0 +1,51 @@
+{
+  "id": "a08d57hjcg4idp",
+  "created": "2026-01-20T15:44:09.859Z",
+  "closed": "2026-02-02T14:05:12.180Z",
+  "duration_minutes": 18621,
+  "first_response_minutes": 4,
+  "name": "Bug | Chybějící upozornění na android",
+  "description": "Ahoj,\r\n\r\nPosílám info ohledně chyby k prověření – řeším nefunkční oznámení.\r\n\r\nNa mobilním telefonu (Android v. 16, OneUI v. 8.0) mám nainstalované ALITEO v. 1.1.20 – instaluji prostřednictvím Obchod Play.\r\n\r\nNastaveno mám takto:\r\n\r\n[Image001] [cid:image005.png@01DC8A2B.EEECDEC0]  [Image002]\r\n\r\nVe zmínkách vidím případy, které by se mi měly zobrazit jako systémové oznámení, ale oznámení jako takové se do systémového okna nepřidá. Zároveň mi nejde kliknou na tlačítko „Zapnout na tomto zařízení“ v dialogu nastavení – černé tlačítko výše.\r\n\r\nKontroloval jsem\r\n\r\n  *   Nastavení oznámení přímo v ALITEO | OK\r\n  *   Povolení oprávnění pro aplikaci ALITEO ohledně oznámení | OK\r\n  *   Vypnutí optimalizace baterie u aplikace ALITEO | OK\r\n[Image003] [cid:image015.png@01DC8A2B.EEECDEC0]\r\n\r\n\r\nMůžete se na to prosím podívat?\r\n\r\nVýraznou prioritu to nemá – obejdu se bez toho, ale funkce je to šikovná.\r\n\r\nDíky,\r\nA.\r\n\r\nAdam Rychnovský\r\nProduct manager\r\n\r\ntel.: +420 581 737 111 | mobil: +420 602 629 031 | adam.rychnovsky@karatsoftware.cz< >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< > Facebook< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < >  LinkedIn< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < >  YouTube< >\r\n\r\n[ http://www.karatsoftware.cz/ ]< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 2,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, riesime teda: - vznikla zmienka tvojho mena v nejakom pripade - upozornenie do praveho panela prislo v casti Zmienky - upozornenia formou emailu prislo - NEprisla push notifikacia v telefonu? Ďakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Ahoj,\r\n\r\nAno - s tím, že ty push notifikace mi nechodí nikdy, testovali jsme to s Peterem ohledně zmínek.\r\n\r\nA."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ospravedlnujem sa za oneskorenu reakciu, podme si to asi otestovat na konkretnom pripade. - Skuste vybrat nejaky pripad - mozme vytvorit aj nejaky testovaci (poslite mi na neho odkaz) - Dat do sledujucich meno Daniel Dzuro (aby som dostal prava na tu ulohu) - Urobime tam nejaku zmenu a budeme sledovat, kde sa co generuje"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Presli sme si to, poslal som ta za Davidom, ak bude nieco nove, prosim daj vediet... ako ste dopadli"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Pracujeme na tom."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mam informaciu ze vec bola vyriesena.. je tak? chodia upozornenia tak ako maju? mozeme uzatvorit?"
+    },
+    {
+      "creator": null,
+      "comment": "ano, díky"
+    }
+  ]
+}

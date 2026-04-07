@@ -1,0 +1,31 @@
+{
+  "id": "a08hh6k4qg1uch",
+  "created": "2026-02-23T15:07:39.410Z",
+  "closed": "2026-03-02T15:16:15.645Z",
+  "duration_minutes": 10088,
+  "first_response_minutes": 7,
+  "name": "E-mail forwarding",
+  "description": "Dobrý den, Zprávy odeslané na email task.a03pggcc2g0psm@aliteo.com nejsou doručeny a není vygenerován ticket v Aliteo. Peter Zachariáš IT Manager | +420 565 300 344 | +420 601 103 233 | peter.zacharias@conteg.cz CONTEG, spol. s r.o. | K Silu 2179 | 393 01 Pelhřimov | Czech Republic www.conteg.cz",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, vrati sa nejaky email z ALITEO? O nezalozeni s nejakym dovodom? Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vyskusal som si zalozit pripad k Vam na zaklade adresy ktoru ste poslali a podarilo sa mi zalozit projekt: Robili ste v poslednom caste nejake upravy? Pozeram v hlavicke forwarding - snazili ste sa nastavit preposielanie emailov nejakych?"
+    }
+  ]
+}

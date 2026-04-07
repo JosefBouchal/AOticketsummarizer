@@ -1,0 +1,43 @@
+{
+  "id": "a087r7r3301eqr",
+  "created": "2025-12-10T09:28:05.824Z",
+  "closed": "2025-12-10T11:05:51.624Z",
+  "duration_minutes": 97,
+  "first_response_minutes": 3,
+  "name": "Při přechodu na záložku Lidé nebo Upozornění se zobrazil dotaz o Povolení/blokaci přístupu k místní síti",
+  "description": "Dobrý den,\r\n\r\npři přesunu na záložku Lidé v ALITEO mi to vyhodilo dotaz, zda chci povolit nebo blokovat přístup k místní síti (nevím, z jakého důvodu, běžně se mě to neptá) a já dal blokovat, protože jsem se s takovým chováním aplikace ALITEO ještě nesetkal. Nyní však zjišťuji, že jsem měl zvolit možnost \"Povolit\", protože důsledkem blokace je následující stav, kdy při přesunu na záložku např. Lidé nebo Upozornění mi to zobrazí toto:\r\n\r\n [Image001]\r\n\r\nDěkuji za vyřešení.\r\n\r\nS pozdravem\r\n\r\nBc. Vít Kubíček\r\ntester\r\n\r\ntel.: +420 581 737 182 | vit.kubicek@karatsoftware.cz< >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< >\r\n\r\n[ http://data.karat.cz/xdata/_marketing/banner-signature-facebook.png ]< > Facebook< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-linkedin.png ] < >  LinkedIn< >  [ http://data.karat.cz/xdata/_marketing/banner-signature-youtube.png ] < >  YouTube< >\r\n\r\n[ http://www.karatsoftware.cz/ ]< >",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "David Kočíř",
+      "comment": "Řešil jsem na místě (psal mi na MS Teams) a ukázal jsem, jak změnit volbu i po zvolení \"špatné\" volby. Tedy může pokračovat v práci, konkrétní problém je vyřešený. Uvnitř této stránky se otevírá stránka s vloženým IS Karat v iframe. Podařilo se mi nasimulovat v MS Edge u mě i jinde. V Brave nikoliv."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Žádost o povolení přístupu k místní síti se zobrazuje v následujícím případě: Na dané stránce v systému ALITEO je v elementu iframe vložena stránka z jiné aplikace (IS KARAT). Dialog s žádostí o povolení se objeví tehdy, pokud se vložená stránka vyhodnotí ze strany prohlížeče jako místní (interní). K tomu typicky dochází v situaci, kdy uživatel přistupuje do ALITEO z místní sítě (např. interní sítě uvnitř  KARAT) a cílová stránka v iframe se v daném prostředí překládá na privátní IP adresu. Prohlížeč pak vyhodnotí tuto kombinaci jako přístup z veřejné stránky do lokální sítě a zobrazí bezpečnostní dialog. Problém byl dosud pozorován v prohlížeči Microsoft Edge. Z pohledu aplikace se jedná o standardní bezpečnostní chování prohlížeče, nikoli o chybu v ALITEO. Je tedy vhodné o tomto chování informovat ostatní uživatele. Pokud omylem uživatel klikne na Block (Blokovat), může volbu změnit kliknutím na zámeček a následně pro Local networ k access zvolit Allow (Povoleno)."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Kočíř (david.kocir@karatsoftware.cz) dik za info, preposlem..  rozmyslam ako by sme o tom informovat.. inframovat nebude podla mna vela ludi.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, spisujem od kolegu informacie: Žádost o povolení přístupu k místní síti se zobrazuje v následujícím případě: Na dané stránce v systému ALITEO je v elementu iframe vložena stránka z jiné aplikace (IS KARAT). Dialog s žádostí o povolení se objeví tehdy, pokud se vložená stránka vyhodnotí ze strany prohlížeče jako místní (interní). K tomu typicky dochází v situaci, kdy uživatel přistupuje do ALITEO z místní sítě (např. interní sítě uvnitř  KARAT) a cílová stránka v iframe se v daném prostředí překládá na privátní IP adresu. Prohlížeč pak vyhodnotí tuto kombinaci jako přístup z veřejné stránky do lokální sítě a zobrazí bezpečnostní dialog. Problém byl dosud pozorován zejména v prohlížeči Microsoft Edge. Z pohledu aplikace se jedná o standardní bezpečnostní chování prohlížeče, nikoli o chybu v ALITEO."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, děkuji za objasnění. Úkol můžeme uzavřít. S pozdravem Vít Kubíček"
+    }
+  ]
+}

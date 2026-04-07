@@ -1,0 +1,35 @@
+{
+  "id": "a08fn1e8c0040b",
+  "created": "2026-02-09T12:18:33.847Z",
+  "closed": "2026-02-15T08:19:34.318Z",
+  "duration_minutes": 8401,
+  "first_response_minutes": 17,
+  "name": "ako mám aktualizovat licenciu - ?",
+  "description": "Dobrý deň na základe Vášho e-mailu z 4.2.2026 mala prebehnut aktualizacia s podporou funkciou AI. Naša licencia je : AI v nej nevieme identifikovať. Ako máme postupovať aby prebehla aktualizacia ? S pozdravom / Best regards / Mit freundlichen Grüßen Roman  MELICHERÍK Project Manager mob:+421 905 375 851 email: melicherik@dispoline.sk web: www.dispoline.eu Dispo Line Relay s.r.o Furniture & Interiors production Made to measure Bancíkovej 1/A   821 03  Bratislava Slovakia IC DPH Slovakia           Mwst Austria            Mwst Swiss                                Mwst Germany . SK 2120186233              ATU77582616         CHE-133.155.331Mwst                  DE344076167 IČO: 50139045 Rhenuba Treuhand Hardstrasse 127 4052 Basel Switzerland",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, vy mate povodny tarif, ktory sme garantovali uzivatelom, ten neobsahuje AI funkcionalitu. Pre dostupnost AI je treba prejst na novy tarif, ktory obsahuje aj AI - upravit licenciu."
+    },
+    {
+      "creator": null,
+      "comment": "ako mám postupovať ? toto nám nebolo známe a prezentované, preto sme toto neregistrovali"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, rozumiem, kto Vam to prezentoval inak? A ako? V jednoduchosti - plati, ze sme pridali funkcionalitu AI do novej verzie a nova verzia je dostupna kazdemu. Zaroven plati, ze tato funkcionalita je sucastou novych tarifov. Ako teda postupovat: - nastavenia spolocnosti - > licencie -> zvysit licenciu - vybrat Premium - dokoncit nakup To by Vam malo umoznit zobrazit tlacidlo AI v detaile ulohy. Ak nechcete kupovat kym neviete co to dokaze, zaloze si novu spolocnost, s Basic tarifom, je tam 10 AI dotazov na mesiac."
+    }
+  ]
+}

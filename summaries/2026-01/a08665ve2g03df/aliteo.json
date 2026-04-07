@@ -1,0 +1,83 @@
+{
+  "id": "a08665ve2g03df",
+  "created": "2025-11-27T12:22:53.491Z",
+  "closed": "2026-01-05T14:42:43.653Z",
+  "duration_minutes": 56299,
+  "first_response_minutes": 58,
+  "name": "Problém - Zobrazit úkol",
+  "description": "Dobrý den, popsal bych problém který chodí na mail vlastníka projektu.\nNa mail vlastníka projektu chodí emaily s tikety. Může se tam zobrazit úkol, schvalovat, zamítat atd. Zároveň s tím přijde další mail a je v něm tlačítko zobrazit úkol. Po jeho kliknutí na něj to zákazníka přesměruje na přihlášení do Alitea. On ale nepotřebuje účet do Alitea, má skupinový mail k projektu. Je to pro něj zmatečné když dostane tento mail.",
+  "owner": "Michal Votava",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 15,
+    "from_owner": 7,
+    "from_others": 8,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, asi chapem o co ide avsak ide o komplexnu vec ako to funguje. Ak chcete, mozeme si dat rychly MS Teams call a vysvetlit si veci ako funguju. Pripadne odpovedat dalsie otazky ktore mate. Co myslite?"
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Zdravím,\nto by bylo super, co se spojit třeba zítra v 11:00 nebo navrhněte jiný termín."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V piatok mám dovolenku, ale mam možnosť hneď v pondelok 1.12.2025 o 10:00. Moze byt?"
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Dobře, v pondělí tedy"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, pozvanku som prave odoslal, pocujeme sa v pondelok 1.12.2025"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Z callu: 1. zobrazit ukol to raz posiela na prihlasenie do ALITEO a druhy krat na portal: U uzivatela ktory nei je v spolocnosti (anonymny uzivatel) by sa pri kliknuti na tlacidlo \"zobrazit ukol\" mal otvorit anonymny portal. Ak sa tak nedeje, poslite mi oba email (ten ktde je to ok a potom ten ktore ok nie je). 2. pri uzatvoreni prisli upozornenia 2 krat"
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "1. Kratší mail (NOK1 a NOK2) po stisknutí tlačítka \"Zobrazit úkol\" přesměruje na stránku přihlášení do Alitea. Delší mail (OK1, OK2) funguje správně, otevře anonymní portál.\n2. V jeden moment přijdou oba maily (OK1 a NOK1)\n\nVše dokážu nasimulovat. Email NOK1.eml Email OK2.eml Email NOK2.eml Email OK1.eml"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zaujimave, ja som to teraz skusal u nas na supporte a funguje to spravne - prichadzaju emaily tak ako maju a aj tlacidlo na \"zobrazit ukol\" funguje vsade spravne. Skusime analyzovat.."
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Zdravím, podařilo se něco zjistit?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, ano, urobili sme nejake upravy a cakame na dotestovanie. Zbadali ste nejake zmeny alebo ste to odvtedy nepouzivali?"
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Od té doby jsem netestoval. Super, dejte prosím vědět kdy můžeme vyzkoušet. Děkuji"
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Zdravím, přeji mnoho úspěchů v Novém roce. Podařilo se změny implementovat?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, takisto vsetko dobre v novom roku... Niektore casti su opravene, ale este sme pri testovani prisli na nieco (nemusi sa mozno nutne tykat Vasich problemov, ale moze), oprava na tuto vec bola nasadena, testujeme znova.. Ospravedlnujeme sa za trvanie, aktualne pripravujeme nasadenie novej verzie, plus su sviatky.. takze dakujem za trpezlivost.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Informoval som sa u testerov a stav je takyto: problem 1 : - popis: v jednom emaile v tlacidle na \"zobrazit ulohu\" (kde by malo ist presmerovanie na portal) sa  otvori aplikacia a ziada prihlasenie. V inom emaile to funguje spravne a \"zobrazit ukol\" otvori portal. - stav: opravene, otestovane problem 2: - popis: Pri zmene stavu na \"ziadost o uzatvorenie\" mu prichadzaju 2 emaily (nie jeden) - stav: opravene a otestovane v dalsej verzii - islo o zlozejsi problem ktory sme opravili v dalsej verzii, ktora by do mesiaca mal byt vonku"
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Super, děkuji za informaci, vyzkouším během týdne."
+    }
+  ]
+}

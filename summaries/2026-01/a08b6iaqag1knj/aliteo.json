@@ -1,0 +1,59 @@
+{
+  "id": "a08b6iaqag1knj",
+  "created": "2026-01-05T10:41:54.138Z",
+  "closed": "2026-01-10T14:06:02.914Z",
+  "duration_minutes": 7404,
+  "first_response_minutes": 52,
+  "name": "Problém s vyvoláním platby",
+  "description": "Dobrý den, dne 3.1.2026 neproběhla platba licence z důvodu nedostatku prostředků na účtu platební karty. Platbu ale nelze v uživatelském rozhraní vyvolat, tlačítko je neaktivní. Prosím o ověření problému. S pozdravem Marek Svatoš Business Systems Manager Marek.Svatos@nova.cz< > M (+420) 602 172 282 [nova]< > TV Nova s.r.o. Kříženeckého nám. 1078/5 152 00 Praha 5 Czech Republic nova.cz< >  tn.cz< >  oneplay.cz< > [banner]< > [logo]< > Please consider the environment before printing. ________________________________ Please note that the below disclaimer shall apply to any and all e-mail communications provided on behalf of TV Nova s.r.o. Upozornění: Obsah tohoto e-mailu slouží pouze pro účely komunikace a nemůže být vykládán jako návrh nebo přijetí návrhu na uzavření/změnu/ukončení jakéhokoli smluvního vztahu ze strany společnosti TV Nova s.r.o. (dále jen \"Společnost\"), včetně zajištění či utvrzení dluhu, vzdání se práva či prominutí dluhu ze strany Společnosti. Vezměte prosím na vědomí, že uzavírání/změna/ukončení smluvních vztahů podléhá internímu schvalovacímu procesu Společnosti, a proto nelze důvodně očekávat uzavření smlouvy ani změnu/ukončení existujících smluvních vztahů, dokud nebude právní jednání Společnosti učiněno v písemné formě s podpisem oprávněné jednající osoby. Společnost tímto vylučuje přijetí jakéhokoliv návrhu na uzavření smlouvy (nabídky) s dodatkem či odchylkou, a to i v případě, kdy takový dodatek či odchylka podstatně nemění podmínky nabídky Společnosti. Tento e-mail a všechny přiložené soubory jsou důvěrné a jsou určeny pouze adresátům jmenovaným výše. Jestliže jste tento e-mail obdrželi omylem nebo nejste adresátem jmenovaným výše, informujte prosím odesílatele a vymažte tento e-mail, včetně veškerých přiložených souborů a kopií. Jestliže nejste oprávněným adresátem tohoto e-mailu, nejste oprávněn informace v něm obsažené žádným způsobem zveřejňovat, šířit ani jinak užívat. Děkujeme. Veškeré informace a kontaktní údaje související s ochranou osobních údajů společnosti TV Nova s.r.o. naleznete zde< >. Internal",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za report, hned posuvam na Vyvoj a budem Vas informovat. Dakujem a ospravedlnujem sa za neprijemnosti."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, vykonali sme par zmien, mohli by ste sa prosim pozriet znova do nastaveni licencie, ci mate tlacidlo \"zaplatit\" stale nedostupne? Pripadne nam opat poslite aktualny prinscreen. Dakujem vopred a prajem uspesny start do noveho roka."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den,\r\n\r\ntlačítko je stále neaktivní.\r\n\r\nS pozdravem\r\n\r\nMarek Svatoš\r\n\r\n[Image001]\r\n\r\n\r\nMarek Svatoš\r\nBusiness Systems Manager\r\n\r\nMarek.Svatos@nova.cz< >\r\n\r\nM (+420) 602 172 282\r\n[nova]< >\r\nTV Nova s.r.o.\r\nKříženeckého nám. 1078/5\r\n152 00 Praha 5\r\nCzech Republic\r\n\r\nnova.cz< >  tn.cz< >  oneplay.cz< >\r\n\r\n[banner]< >\r\n[logo]< >\r\n\r\nPlease consider the environment before printing.\r\n\r\n\r\n\r\n\r\n\r\nInternal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, Dakujem za info, skusme este jednu vec. Skuste si zapnut aj praco supervizora, ci to nepomoze. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim, tak sme si podla obrazklu vsimli ze do tych licencii asi idete cez odkaz z emailu. Otvorte ALITEO a chodte cez nastavenia spolocnosti - tlacidlo zaplatit by malo byt uz aktivne. Informujte ma ci je to v poriadku a presla vam platba. Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den,\r\n\r\nv mezičase se tarif změnil na Basic a musel jsem vyšší tarif znovu koupit, což proběhlo bez problému.\r\nTlačítko Zaplatit už jsem tedy nemohl otestovat.\r\n\r\nS pozdravem\r\n\r\nMarek Svatoš\r\n\r\n\r\n\r\n\r\nInternal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "My sme si istí že problém bol v tom keď sa do nastavení užívateľ dostal cez email. Je teda problém vyriešený a môžme tento prípad uzatvoriť? Ďakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Ano, problém je vyřešený.\r\nDěkuji\r\nSvatoš\r\n\r\n\r\n\r\nInternal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem a zatvaram."
+    }
+  ]
+}

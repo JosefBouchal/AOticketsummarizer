@@ -1,0 +1,47 @@
+{
+  "id": "a08ldk5k3g184m",
+  "created": "2026-03-25T19:56:45.518Z",
+  "closed": "2026-03-26T16:57:03.449Z",
+  "duration_minutes": 1260,
+  "first_response_minutes": 848,
+  "name": "Změna atributu - aktivita AO automat - správně uživatel",
+  "description": "Dobrý den, mám dotaz, při změně atributu úkolu uživatelem je v aktivitách, zaznamenáno, že měnil Aliteo automat, ale byl to uživatel. Jsou případy, kdy by se mohlo hodit, aby bylo jasné, kdo atribut mění. S pozdravem a přáním pěkného dne Ilona REMEŠOVÁ nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pozrieme sa na to hned ako bude mozne. Kto by mal byt autorom v to to pripade? Vzniklo to pri zadani noveho pripadu? Ak to teraz zmenite, je tam stale pomocnik alebo vy?"
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím Vás, no tak evidentně to zase bude trochu jinak. Otevřela jsem si zrušený úkol a měnila atributy a teď jsem tam opravdu já, že jsem změnila A trochu víc jsem pátrala co bude příčinou a už vím čím to bude. Aliteo automat je u změny atributu uveden u všech úkolů, které vznikají posláním z emailu,  AO automat automaticky přiřadí daný atribut dle nastavených pravidel. Moje omluva, mohla jsem to včera zkoumat více... Prosím úkol uzavřete."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Poslite mi prosim screen aktivit od zalozenia pripadu. Za mna ak sa detekuje uzivatel, opotom by tento uzival mal byt aj autorom zmeny a nie pomocnik - ak tomu dobre chapem."
+    },
+    {
+      "creator": null,
+      "comment": "posílám, ale jak jsem psala, myslím, že je to správně"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ak su to vychodzie tributy, ktore sa tam zadavaju automaticky pri vytvoreni novej ulohy, potom je to spravne asi. Ja som si totiz myslel ze ide o text - ten vychodziu hodnotu nema, preto ma to zmiatlo a isiel som riesit, preco tento atribut nema spravneho autora zmeny podobne ako je to pri popis ulohy. Ale zda sa ze to je vycet hodnot a jedna z nich je vychodzia a preto tam je pomocnik lebo to doplnila asi \"automatika\". Rozumiem tomu spravne?"
+    },
+    {
+      "creator": null,
+      "comment": "JJ je to výchozí, ale jak jsem psala, úkol je možné uzavřít 😉"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a08benmg4g0bfv",
+  "created": "2026-01-07T10:16:42.335Z",
+  "closed": "2026-01-14T16:13:17.524Z",
+  "duration_minutes": 10436,
+  "first_response_minutes": 355,
+  "name": "Dotaz ohledně diskutovaných změn a vylepšení Aliteo",
+  "description": "Dobrý den,\r\n\r\nRád bych si ověřil stav změn/vylepšení, které jsme diskutovali ke konci roku, v rámci fungování Aliteo v rámci MPM/PRIM - viz Word, který jsme s panem Dzurem diskutovali na videocallu a zároveň ohledně možnosti si notifikace z Aliteo přizpůsobit dle sebe, tj. vlastní doména v mailu, template email apod.\r\n\r\nDěkuji mnohokrát za odpověď!\r\nS pozdravem\r\n\r\nDavid Pleva | MPM-Quality a.s.\r\n-----------------------------------------\r\ndavid.pleva@mpm-quality.cz\r\n+420 776 581 680",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pokusim sa pozberat co najrychlejsie svetky informacie, ale napisem Vam v rychlosti na co viem odpovedat hned: - pocet projektov po refreshy - opravene - branding spolocnosti (zjednotene podpisy uzivatelov, vlastne logo alebo pozadie portalu, logo do emailov, vyuzitie vlastnej domeny pre odosielanie upozorneni) - bude dostupne v najblizsej verzii, cca do mesiaca - dielcia uloha nebude obsahovat nazov master ulohy - cielom ALITEO nie je vytahovat co najviac dat do emailov alebo upozorneni - vlastne emoji do atributu zaradene do vyvoja - nebude v najblizsej verzii - API riesime v inom pripade: #8222 Vytvoření tasku skrz API - nastavení emailu vlastníka - tam overim stav a dam Vam vediet.."
+    }
+  ]
+}

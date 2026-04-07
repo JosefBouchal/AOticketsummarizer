@@ -1,0 +1,87 @@
+{
+  "id": "a08jid00hg0ctk",
+  "created": "2026-03-11T10:56:23.399Z",
+  "closed": "2026-03-11T13:55:38.867Z",
+  "duration_minutes": 179,
+  "first_response_minutes": 7,
+  "name": "FW: Návrh na rozšíření - zobrazení štítku při kompaktním zobrazení seznamu úkolů",
+  "description": "From: Housírková Šárka – KARAT Software a.s. <Sarka.Housirkova@karatsoftware.cz> Sent: Wednesday, March 11, 2026 11:53 AM To: Masařík Petr – KARAT Software a.s. <petr.masarik@karatsoftware.cz>; Konečný Allan – KARAT Software a.s. <allan.konecny@karatsoftware.cz> Subject: FW: Návrh na rozšíření - zobrazení štítku při kompaktním zobrazení seznamu úkolů Ahoj Peti, Z adresy, kterou jsi mi poslal support@aliteo.com , se mi email vrátil dvakrát zpět. Posílám tedy pro info, nevím, co s tou adresou je. Do adresátů tohoto emailu jsem teď přidala Allana a posílám návrh na rozšíření fukčnosti Aliteo touto formou. Pokud to není správný postup, prosím poraď, nebo předej. Díky moc. Šárka S pozdravem Mgr. Šárka Housírková consultant tel.: +420 581 737 142 | mobil: +420 702 276 152 | sarka.housirkova@karatsoftware.cz KARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz Facebook LinkedIn YouTube From: Housírková Šárka – KARAT Software a.s. Sent: Wednesday, March 11, 2026 11:48 AM To: 'Aliteo Support' Subject: Návrh na rozšíření - zobrazení štítku při kompaktním zobrazení seznamu úkolů Dobrý den, ahoj, Posílám návrh na možnost rozšíření zobrazení informací při kompaktním režimu seznamu úkolů v Aliteo Zobrazení štítků při zobrazení přes „výchozí zobrazení“ Při zobrazení přes Kompatibilní režim bych ocenila viditelně zobrazený štítek, abych v seznamu mohla identifikovat, v jakém stavu případ je, aniž bych musela editovat a zjišťovat stav dle posledních komentářů – nebo bych musela měnit způsob zobrazení Používám Dashboard a členění díky štítkům – aktivně s nimi pracuji, ale při pohledu na seznam úkolů mi tato informace chybí. Proto se ptám, jestli by bylo možné doplnit zobrazení štítku i při kompaktním režimu? Děkuji S pozdravem Mgr. Šárka Housírková consultant tel.: +420 581 737 142 | mobil: +420 702 276 152 | KARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz Facebook LinkedIn YouTube",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 16,
+    "from_owner": 8,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "přidávám Housírková Šárka – KARAT Software a.s. < Sarka.Housirkova@karatsoftware.cz > jako sledujícího. Zadáno za Šárku."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, zdravim, nie som si isty ci chapem, ale teraz je mozne zobrazit stitky aj v kompaktnom rezime, vid obrazok: Staci si to len nastavit v Nastaveniach uzivatela: kde mozem volit co chcem pre ktore zobrazenie a v akom poradi (poradie je je rovnake pre obe zobrazenia). Je to odpoved?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Dane, toto bych i věděl a napsal jsem Šárce.  takže na to odpověď má. Chtěl jsem aby zde napsala ale nedostane se sem, a já ji zde už neumím zmínit přes @ ale mám tu hodně jiných externích lidí. Psala, že se ji 2x zamítlo z mailu ta adresa, tak jsem poslal za ni. Ještě chtěla aby štítky byly i v dashboardu a tam je tedy odpověď že není a nebude?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "FW_ Návrh na rozšíření - zobrazení štítku při kompaktním zobrazení seznamu úkolů-1.msg FW_ Návrh na rozšíření - zobrazení štítku při kompaktním zobrazení seznamu úkolů-2.msg přikládám 2 e-maily kdy to Šárka chtěla poslat sem a obrázek kdy nemá přístup: takže neřešme štítky,ale jestli je dobře, že se to od ní nezaložilo a že nemá přístup když je sledující."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Jasne, ok to preposlem na vyvoj co sa stalo.. este prosim Ta: - prichadzaju jej emaily ked si teraz piseme komentare? (pristup asi nema preto, ze nie je clenom spolocnosti ALITEO), podstatne je ci jej chodia upozornenia ked si piseme teraz komentare (mala by dokonca odpovedou na emailove upozornenie mat moznost napisat komentar! - ak je mozne vedel by si ziskat emaily (zo zlozky odoslane, ktore smerovali do supportu)?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "a nestačí co jsem přiložil, když to rozklikneš tak jsou tam ty maily: a pak i zpráva od exchange.\nA protože zde: nemá zvoneček, tak podle mě jí nic nepřišlo."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) no chcel som mat ten povodny email, a nie preposlany, nakolko v metadatach emailu ktory pre poslal uz predpokaldam su ine data nez tie ktore odisli na server - preto som chcel tie povodne. - ale nevadi skusim preposlat tieto a zistit co sa stalo - zaroven - opakujem nie je v spolocnosti clenom, nema ako mat zvoncek na ulohe ked ani tu ulohu realne nemoze vidiet"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "zkusím zajistit odeslaný mail. a jestli ji nějaký e-mail přišel když jsem ji přidal do sledujících.\na pak asi nechápu k čemu je pozvání do sledujících někoho přes mail, když na tu úlohu nemůže vidět"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Poslal som na vyvoj co si mi poslal a uvidime. Je to preto aby mohli dostavat informacie aj ludia ktori su mimo spolocnost alebo aj mimo ALITEO ako aplikaciu a mohli reagovat. Mam to aj ako separatnu chybu, uvidime"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Pod tím linkem Aliteo support je adresa což není adresa support@aliteo.com. Už jsme to někde viděli, nicméně toto není jak řešit. Nevím jak dělají linky Teams."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) tak vidis, je treba preverit, kam to skutocne islo - preto som chcel original emaily - zda sa ze ten email bol posielany na neznamu adresu, preto to havarovalo.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "tak problém byl na straně uživatele /systému Outlook si pamatoval nějakou původní adresu (asi odpověď na zmínku) a proto to nyní nebyl schopen poslat/přijmout. takže uzavřeme."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "jinak mi ještě poslala: From: emailerror@aliteo.com < emailerror@aliteo.com > Sent: Wednesday, March 11, 2026 2:41 PM To: Housírková Šárka – KARAT Software a.s. < Sarka.Housirkova@karatsoftware.cz > Subject: Error processing incomming email Cannot create comment - task #10328 FW: Návrh na rozšíření - zobrazení štítku při kompaktním zobrazení seznamu úkolů - sarka.housirkova@karatsoftware.cz is not a member of company - contact company administrator. takže i když je jako sledující, tak nemá možnost přidat komentář jak jsem pochopil, ale to není součástí tohoto případu."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "#10328 - označení v komentáři úkolu_ FW_ Návrh na rozšíření - zobrazení štítku při kompaktním zobrazení seznamu úkolů-1.msg FW_ #10328 - odpověď na požadavek_ FW_ Návrh na rozšíření - zobrazení štítku při kompaktním zobrazení seznamu úkolů-1.msg nemohu editovat protože je uzavřeno,tak jako nové vyjádření ty maily"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) ano, toto riesime tiez v inom pripade"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Sorry mělo být opraven. Problém malých/velkých písmen v adrese."
+    }
+  ]
+}

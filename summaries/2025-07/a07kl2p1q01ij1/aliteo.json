@@ -6,7 +6,7 @@
   "first_response_minutes": 51,
   "name": "Úprava pohledu nezobrazuje zadané podmínky",
   "description": "Pokud mám uložený/nastavený nějaký Pohled i s nastavenými podmínkami, pokud ho jdu Upravit, tak v dialogu nevidím ony nastavené Podmínky viz obrázek -",
-  "owner": "Lukáš Trunečka",
+  "owner": "lukas.trunecka@karatsoftware.cz",
   "priority": "Normální",
   "surveyquality": "Highest",
   "surveyterm": "Highest",
@@ -24,7 +24,7 @@
       "comment": "Ahoj, ano chapem, chyba - posielam na vyvoj"
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Ahoj Dane.... díky ;-)"
     },
     {
@@ -32,7 +32,7 @@
       "comment": "@ Lukáš Trunečka (lukas.trunecka@karatsoftware.cz) malo by byt opravene.. teda minimalne u mna je to ok.."
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Ahoj Dane. Zatím to nevidím opravené, asi to ještě nenasadili do produkce? Ty to zkoušíš tu, nebo na nějaké testovací Betě? Zkusím znova později ;-)"
     },
     {
@@ -40,7 +40,7 @@
       "comment": "Nie, nie, praveze to je nasadene, otvoril som si jeden svoj pohlad a podmienky tam mam.. mozno ide o nieco specificke.. Skus prosim ine pohlady ci vsade to mas tak ze nevidis.. Posli este raz fotku pohladu kde to nevidis.."
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Aha.... zkoušel jsem to na záložce, která nebyla reloadlá. Jak jsem to reloadl, tak už je to zřejmě ok ;-) - Díky za řešení ;-)"
     },
     {

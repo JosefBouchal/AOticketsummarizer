@@ -1,0 +1,75 @@
+{
+  "id": "a08jj25ml00ctk",
+  "created": "2026-03-11T14:47:42.506Z",
+  "closed": "2026-03-25T19:51:44.872Z",
+  "duration_minutes": 20464,
+  "first_response_minutes": 11,
+  "name": "Poznámka - Dílčí úkol - sledující z hlavního úkolu",
+  "description": "Hezký den, jen možná poznámka na „vylepšení“ Pokud zakládám dílčí úkol a potřebuji, aby v tomto úkolu byly všichni sledující z hlavního úkolu, hodila by se nějaká zrychlená volba pro přidání všech z hlavního úkolu, takto musím vkládat všechny jednotlivě. S pozdravem a přáním pěkného dne Ilona REMEŠOVÁ nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 13,
+    "from_owner": 4,
+    "from_others": 9,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, sice dielcia uloha, je klasicka uloha ale rozumiem pripomienke. Prediskutujeme na produktovej porade. Co sa ma stat ak nasledne tu ulohu zmenim z dielcej na samostatnu? Sledujuci predpokladam maju ostat. Je tak?"
+    },
+    {
+      "creator": null,
+      "comment": "Ano ideálně, aby sledující při změně zůstaly. PS: nevadí že takové postřehy budu posílat na support, nebo chcete posílat na Teams"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Preberiem s kolegami a budem Vas informovat. Co sa tyka nahlasovania, spravny sposob je to posielat na support tak ako tento pripad."
+    },
+    {
+      "creator": null,
+      "comment": "děkuji moc"
+    },
+    {
+      "creator": null,
+      "comment": "Doplnime checkbox rovnako ako v pripade kopirovania ulohy, ktory prenesie z materskej ulohy sledujuicch do dielcej."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, z porady vznikol dotaz, ci by stacil jednoduchy checkbox o prenasani sledujucich, kde nebude vidiet konkrentny zoznam uzivatelov. Nieco ako tu:"
+    },
+    {
+      "creator": null,
+      "comment": "Zdraví Vás, určitě by bylo dostačující."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) tu je odpoved, staci checkbox"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "ok."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) ja myslel ci k tomu vytvoris nejaku ulohu alebo tak.. do vyvoja.. nie len pre info 😀"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Aj som 😉 #10430 Prenos sledujucich pri dielcej ulohe"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, zaradili sme do vyvoja. Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Děkuji moc za zprávu, kdy myslíte, že se dá očekávat nasazení, že bych si poznačila."
+    }
+  ]
+}

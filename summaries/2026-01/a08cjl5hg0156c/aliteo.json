@@ -1,0 +1,79 @@
+{
+  "id": "a08cjl5hg0156c",
+  "created": "2026-01-16T09:21:30.561Z",
+  "closed": "2026-01-26T08:12:27.645Z",
+  "duration_minutes": 14330,
+  "first_response_minutes": 6,
+  "name": "Fwd: FW: ALITEO - #344 - new comment in task: Příchozí hovor - 16.01.2026 09:03:26",
+  "description": "Dobrý den,\r\n\r\nPřeposílám mail od našeho zákazníka s opakujícím se problémem. Mohl by jste\r\ntomu prosím věnovat pozornost?\r\n\r\nDěkuji\r\n\r\n*--*\r\n*Michal Votava*\r\nService SW developer | ICE Industrial Services a.s. | www.ice.cz | +420 725\r\n030 814\r\n\r\npá 16. 1. 2026 v 9:49 odesílatel Rokos Jiří <rokos@strojmetal.cz> napsal:\r\n\r\n> Dobrý den pane Votavo,\r\n>\r\n> přišly mi už dva tikety, ale nemám tam přístup.\r\n>\r\n>\r\n>\r\n> Můžete mi s tím prosí pomoct?\r\n>\r\n>\r\n>\r\n> Děkuji\r\n>\r\n>\r\n>\r\n> *Ing. Jiří Rokos*\r\n> Výrobní ředitel / Production Manager\r\n>\r\n> *Strojmetal Aluminium Forging, a.s.*\r\n> Ringhofferova č.p. 66, 251 68 Kamenice\r\n> tel.: +420 323 619 550\r\n> mob.: +420 702 007 532\r\n>\r\n> fax: +420 323 619 555\r\n> rokos@strojmetal.cz\r\n> www.strojmetal.cz\r\n>\r\n>\r\n>\r\n>\r\n>\r\n> *From:* notifications@aliteo.com <notifications@aliteo.com>\r\n> *Sent:* Friday, January 16, 2026 9:04 AM\r\n> *To:* SAF_DS_Obrobna <SAF_DS_Obrobna@strojmetal.cz>\r\n> *Subject:* ALITEO - #344 - new comment in task: Příchozí hovor -\r\n> 16.01.2026 09:03:26\r\n>\r\n>\r\n>\r\n>\r\n>\r\n> [image: Logo Aliteo]\r\n>\r\n>\r\n>\r\n>\r\n>\r\n> ICE pomocník added *new comment*\r\n>\r\n>\r\n>\r\n>\r\n>\r\n> ICE Industrial Services a.s.  */*  ServiceDesk  */*  SAF Kamenice Obrobna\r\n> */*  Pavel\r\n>\r\n>\r\n>\r\n>\r\n>\r\n>\r\n>\r\n>\r\n>\r\n> *#344*   Pavel\r\n>\r\n>\r\n>\r\n>\r\n>\r\n> *Příchozí hovor - 16.01.2026 09:03:26*\r\n>\r\n>\r\n>\r\n>\r\n>\r\n> Vážený zákazník,\r\n>\r\n> rádi bychom Vás informovali o vzniku servisního ticketu.\r\n>\r\n> Děkujeme za Váš čas a spolupráci.\r\n>\r\n> S pozdravem,\r\n> Tým zákaznické podpory ICE Industrial Services a.s.\r\n>\r\n>\r\n>\r\n>\r\n>\r\n>     Answer the comment\r\n> <comment.a08cje0qn01r6m@aliteo.com?subject=RE:%20ALITEO%20-%20#344%20-%20new%20comment%20in%20task:%20Příchozí%20hovor%20-%2016.01.2026%2009:03:26>\r\n>\r\n>     Show task\r\n> < >\r\n>\r\n>\r\n>\r\n>\r\n>\r\n> [image: Logo Aliteo]\r\n>\r\n>\r\n>\r\n>\r\n>\r\n> Copyright 2022 ALITEO • Powered by KARAT Software\r\n>\r\n>\r\n>\r\n> *⚠️** UPOZORNĚNÍ:* Tento e-mail pochází od externího odesílatele. Buďte\r\n> opatrní při klikání na odkazy nebo otevírání příloh.\r\n>\r\n>\r\n>",
+  "owner": "Michal Votava",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 14,
+    "from_owner": 7,
+    "from_others": 7,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, viete mi popisat proces? Teda ze zakaznik vola, zalozi sa ticket. Pride mui potvrdenie o zalozeni ticketu na email. V emaile je tlacidlo na zobrazenie ticketu a ked na neho kline tak mu to napise ze nema pravo?"
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Přijde mu potvrzení o založení ticketu do emailu (co jsem Vám posílal) a po stisknutí zobrazit úkol se dostane na obrazovku s přihlášením do Alitea"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Podla toho co ste poslali - mi pride ze na clovek, ktory klika na to tlacidlo, nie je ten komu bol smerovany email. Emailove upozornenie podla emailu patri niekomu, ktore je registrovany v ALITEO (Pavel) a teda ma v tlacidle “zobrazit” ukol link do ulohy. Ak je tento email poslany inej osobe - p. Rokos, logicky od neho chce prihlasenie."
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Ano, Pavel je v Altieo přidaný s emailem servis_ice-Obrobna@strojmetal.cz . Z tohotu emailu si to zákazník rozpošle mezi sebou uvnitř firmy podle toho kdo to chce"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak to je vlastne ten dovod - email je prichystany pre uzivatela ktory ALITEO pouziva a teda link je link do aplikacie. Ak ho otvara niekto, kto v ALITEO nie je, chce to prihlasenie. Riesenim je teda pridat ostanych uzivatelvo do projektu, pozvat ich ako externych uzivatelov - pridat im prava suerpvizora za predpokladu ze mozu vidiet vsetko verejne ulohy v danom projekte."
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Tento projekt jsem teď opravil a zkusil na mých dvou soukromých emailech a vše funguje jak má. Ještě jsem zaškrtnul supervizora a přeposlal si z vlastníka projektu na jiný soukromý email a podařilo se mi to otevřít v anonymním režimu zobrazení úkolu. Mohlo mít vliv že vlastník projektu nebyl supervizor?"
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Víte, máme několik projektů a zákazník nám dá jeden email na který se budou posílat tickety o úkolech. U zákazníků dochází k fluktuaci zaměstnanců a my se tímto vyvarujeme že nám bude zákazník posílat nové emaily svých zaměstnanců  kvůli ticketům.  Pošle nám pouze jeden a z tohoto emailu se to rozešle uvnitř jejich společnosti. Nás poté agenda nijak nezatěžuje.\nBude toto fungovat? Popř. jak by to šlo řešit?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No to by slo urobit tak, ze odstranite toho uzivatela z ALITEO. Z neho sa stane anonymny tym padom ak sa email rozposle tak iny anonymny bude moct otvorit aj tuto ulohu v portale. Skuste a dajte vediet. Aby som odpovedal na otazku, jediny vplyv na to aky link sa “skryva” pod tlacidlom “zobrazit ulohu”  je ten ci uzivatel ktory tento email dostane je uzivatel spolocnosti alebo nie."
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Když uživatele odstraním a vložím do vlastníka projektu anonymní email, nepřijde ticket ani úkol se nevytvoří."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vlastnika projektu?? Ak uzivatela odstranite a potom z tohto emailu poslete email na adresu projektu (a mate povolene zakladanie pripadov emailov od anonyma v projekte) potom by sa uloha mala vytvorit. Treba skontrolovat nastavenie projektu."
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Tomu teď úplně nerozumím, asi mluvíme každý trochu o něčem jiném. Můžeme se spojit na meetu a vysvětlit si to?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, o hodinku odchadzam na sluzobnu cestu a vratim sa niekedy vo stvrtok. Mame teda 2 moznosti: - dame si call si este teraz niekedy medzi 8:00 - 9:00 - podla toho ako rychlo zareagujete a ci budete mat cas - pripadne si mozeme zavolat pocas mojej cesty autom (len klasicky cez mobil, ja vas dokazem navigovat takmer kamkolvek v aplikacii spamati) a preberieme co je treba Dajte mi vediet Dakujem"
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Můžeme v 8:20 Děkuji"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Na zaklade callu: - ustredna overuje udaje s ALITEO a nasledne zaklada novu ulohu kde vlastnikom ulohy je adresa nachadzajuca sa v atribute projektu Vlastnik projektu - clena \"pavel\" sme odstranili aby sa generoval link do portalu - aby sme nespamovali uzivatela zadali sme do vlastnika projektu inu adresu (rezbar@seznam.cz) - pripad sa ale na zaklade hovoru nezalozil - v logu ustredne nie je vidiet ako dopadol API call, preto sme sa dohodli ze sa to doplni do tohto logu aby sme zistil kde nastal problem - v idealnom pripade aby: - pripad sa zalozi bude tam ID pripadu - ak sa nezalozi, nech je tam dovod, pripadne response z ALITEO, preco API call na vytvorenie ulohy nedopadlo dobre Odkomunikoval som aj s @ Miloš Dražan (milos.drazan@ice.cz) Skuste  a dajte vediet co sa podarilo.."
+    }
+  ]
+}

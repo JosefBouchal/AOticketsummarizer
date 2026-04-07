@@ -1,0 +1,47 @@
+{
+  "id": "a08fn92510040b",
+  "created": "2026-02-09T13:41:48.826Z",
+  "closed": "2026-02-10T06:15:00.348Z",
+  "duration_minutes": 993,
+  "first_response_minutes": 68,
+  "name": "Komentáře - Interní - výběr uživatelů",
+  "description": "Dobrý den, chtěla jsem využít možnost použití interního komentáře a výběr uživatelů, bohužel tato možno nabízí jen externí bez možnosti změny S pozdravem a přáním pěkného dne Ilona Remešová nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz MPM-Quality, a. s. Příborská 1473, 738 01 Frýdek-Místek IČ 47987430, DIČ CZ47987430 ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nie som si isty ci rozumiem Vasmu problemu. Ak vyberiete internych ludi - tak to vidia interni ludia - nie je dovod zobrazovat dalsich internych. Ak ste mali na mysli vybranych, potom zvolte \"sukromny\" a k tomu pridajte ludi ak potrebujete."
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím, tak to jsem chybně pochopila myslela jsem, že pokud vyberu interní komentář a vyberu jen dané osoby, uvidí komentář jen dané interní osoby a né všichni  interní uživatelé, kteří jsou sledující úkolu - kouknu znovu na návodku aktualizace."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No to sukromie interny a verejne je tak akobolo doteraz - verejny vidiac vsetci a interny len interny clenovia. Teraz sme pridali ze k danemu sukromiu mozete \"prilepit\" extra ludi: - k sukromnemu kohokolvek - k internemu kohokolvek z externych (iny nedavaju zmysel) - k verejnemu nikoho, ten vidia vsetci"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No to sukromie interny a verejne je tak akobolo doteraz - verejny vidiac vsetci a interni len interny clenovia. Teraz sme pridali ze k danemu sukromiu mozete \"prilepit\" extra ludi: - k sukromnemu kohokolvek - k internemu kohokolvek z externych (ini nedavaju zmysel) - k verejnemu nikoho, ten vidia vsetci"
+    },
+    {
+      "creator": null,
+      "comment": "... co na to říct, že je to logické a já byla mimo ... velká omluva 😇 prosím úkol zavřete"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "nic sa nedeje, to je v poriadku, nie je za co sa ospravedlnovat 🙂 samozrejeme aj my mame niekedy profesionalnu deformaciu a nevidime jednoduche veci.. takze sme za kazdy par oci naviac radi... Dakujem a keby nieco, napiste 🙂"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a08dmi61bg00ak",
+  "created": "2026-01-24T20:42:17.832Z",
+  "closed": "2026-01-31T21:48:47.590Z",
+  "duration_minutes": 10146,
+  "first_response_minutes": 2,
+  "name": "Nastavení karty úkolu",
+  "description": "Dobrý den,\r\n\r\nprosím lze konfigurovat nastavení karty úkolu? Máme tam pro nás zbytečné políčka ale nikde nemohu najít, kde to lze konfigurovat. Děkuji mockrát!\r\n\r\n*Petr Rubáček\r\n* +420 732 252 300 *\r\n* *office: Hala 40, Bubenské nábřeží 306/16, Prague - Holešovice* ( Holešovická tržnice ( https://www.google.com/maps/place/H40+-+OSE+Czech+Republic/ @50.09934,14.4452843,17z/data=!3m1!4b1!4m5!3m4!1s0x470b9492ef008b7b:0x8d1d08caa9c112d4!8m2!3d50.0994044!4d14.4474774 ) )\r\n*www.remembership.cz ( http://www.remembership.cz/ )* *\r\n*",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobry vecer, skuste mi poslat o ktore konkretne informacie ide - ktore by ste chceli skryt. - idealne poslat print screen s oznacenim. Dakujem"
+    }
+  ]
+}

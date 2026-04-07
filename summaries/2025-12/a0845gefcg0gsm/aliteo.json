@@ -1,0 +1,31 @@
+{
+  "id": "a0845gefcg0gsm",
+  "created": "2025-11-11T19:38:06.337Z",
+  "closed": "2025-12-02T16:56:18.246Z",
+  "duration_minutes": 30078,
+  "first_response_minutes": 100,
+  "name": "Vyber kalendáře - není vidět celý",
+  "description": "Na úkolu jdu do kalendáře a kliknu na ikonu kalendáře a vyskočí mi okno, kde je vidět část kalendáře a dole klávesnice. Co je špatně: Při zobrazení kalendáře s čísly dnů by mi neměla vyjet klávesnice. Pokud nevyjede, tak je to ok Pokud kliknu jen do data, tak vyjede klávesnice a nevyjede výběr dnů - to je OK.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Cauko, dik, posuvam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Petr, kalendar by mal byt opraveny,,"
+    }
+  ]
+}

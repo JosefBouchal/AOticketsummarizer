@@ -1,0 +1,75 @@
+{
+  "id": "a087np8fi01ajt",
+  "created": "2025-12-09T13:20:15.086Z",
+  "closed": "2025-12-26T21:51:21.253Z",
+  "duration_minutes": 24991,
+  "first_response_minutes": 4,
+  "name": "Nefunkční otevření odkazu na Aliteo z aplikace Teams",
+  "description": "Ahoj , dnes při otevření odkazu na Aliteo z aplikace Teams se nám nedaří odkaz otevřít (notebook Silvie Hadašové). Načítání se zastaví na obrazovce \"Ověření odkazu...\". Otevření odkazu v prohlížeči Edge (provizorně nastaveno do chrome ,ve kterém to nedělá) . Soubory cookies a nastavení webu v atd... v Edge promazáno -> po prvním spuštění ok -> projití přes Aliteo přihlašovací obrazovku -> doplnění údajů -> po následném otevření dalšího odkazu zůstává načítání odkazu zase ve stejném stavu \"Ověření odkazu...\".\r\n\r\n[ https://app.aliteo.com/?query=download&blobid=a087nmmu100mri-FileContent&guid=6ebd44e1-9519-7946-206b-548d98709fca&filename=image.png&fileopen=true ]\r\n\r\n\r\nBest regards,\r\nDavid Mastný\r\nAdministrator IT\r\n\r\ntel.: +420 581 737 172 | mobil: +420 606 724 793 | David.Mastny@karatsoftware.cz< >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< >",
+  "owner": "David Mastný",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 13,
+    "from_owner": 0,
+    "from_others": 13,
+    "unique_authors": 4
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, coho odkaz to je? ako sa ziska? vyzera netradicne.."
+    },
+    {
+      "creator": null,
+      "comment": "Ahoj , nefunkční byli veškeré odkazy , pro příklad -> https://app.aliteo.com/task/a0866e9qg00e4m/?view=comments"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Prosim, Ta, a co sa stane ak na ten odkaz tuknes hned druhy krat.. rovnaky postup?"
+    },
+    {
+      "creator": null,
+      "comment": "Skončilo to na stejné chybě"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) nesuvisi toto nejako s tymto takisto: #9333 PRIM: Aliteo - problém s otevřením úkolu z notifikace ##3"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Podle mne souvisí, mám myšlenku že to mlže souviset s tím, že mám pocit že v pátek David změnil ověřování https z našeho certifikátu na azure certifikát... David zkoumá v rámci #9333 PRIM: Aliteo - problém s otevřením úkolu z notifikace ."
+    },
+    {
+      "creator": null,
+      "comment": "test"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Zkus si prosím nainstalovat starší verzi prohlížeče EDGE - nějaký build 142. a vyzkoušet, jestli se problém vyskytuje i zde. Musíš si dát akorát pozor, aby se ti prohlížeč sám neaktualizoval. Starší verzi lze stáhnout zde: https://www.microsoft.com/en-us/edge/business/download?ch=1&form=MA13FJ"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Tak už to není potřeba."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Kočíř (david.kocir@karatsoftware.cz) bol to teda ten isty problem ako si pisal: Problém nesouvisel se změnou certifikátu, ani s žádnou jinou konfigurací aplikace ALITEO, ale se změnou chování v prohlížeči Microsoft Edge ve verzích 143.x.x.x. Souvislost se změnou certifikátu byla pouze časová, neboť k ní došlo ve stejném období, kdy si uživatelé začali aktualizovat Microsoft Edge na verzi 143.x.x.x. Problém se navíc projevoval pouze za určitých okolností ?"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Ano, byl to přesně tento problém."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Kočíř (david.kocir@karatsoftware.cz) dakujem za potvrdenie.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Mastný (david.mastny@karatsoftware.cz) na zaklade info z vyvoja: Problém nesouvisel se změnou certifikátu, ani s žádnou jinou konfigurací aplikace ALITEO, ale se změnou chování v prohlížeči Microsoft Edge ve verzích 143.x.x.x. Souvislost se změnou certifikátu byla pouze časová, neboť k ní došlo ve stejném období, kdy si uživatelé začali aktualizovat Microsoft Edge na verzi 143.x.x.x. Problém se navíc projevoval pouze za určitých okolností By mal byt problem vyrieseny.. mozeme uzatvorit?"
+    }
+  ]
+}

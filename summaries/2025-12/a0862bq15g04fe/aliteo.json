@@ -1,0 +1,51 @@
+{
+  "id": "a0862bq15g04fe",
+  "created": "2025-11-26T14:08:28.913Z",
+  "closed": "2025-12-03T15:34:06.582Z",
+  "duration_minutes": 10165,
+  "first_response_minutes": 38,
+  "name": "přidání případů do sekcí týmu",
+  "description": "Čau,\r\n  bavil jsem se s Allanem a slíbil jsem mu, že zadám případ na práci se Sekcemi Týmu.\r\n\r\nStručně:\r\nPokud opakovaně zrcadlím do týmu a případ tam již je, tak se nemá přesouvat do jiné sekce.\r\n\r\nPodrobněji:\r\nMám tým „Pavel Drtil“, abych si v něm řešil své sekce. Mám k řešení 130 případů. Představme si, že mi přiskočí dalších 20 případů. Dořešil jsem ty kritické a hledám, co řešit dál, chci používat to zrcadlení v týmu.\r\nVejdu do svých případů, načte se mi jich 100, ale když si to dám podle komentáře, tak v té stovce budu mít s jistotou ty nové. (Neexistují u mě případy bez komentáře, takže nemám ty nové nikdy pod hranicí viditelna.)\r\nVyberu případy (100) a při zrcadlení se mě ptá na tým a sekci. Těch nových je 20, a těch 20 nových chci mít v té zvolené výchozí sekci „Nezařazeno“, ale ty již pracně zařazené již nechci znovu vložit do Nezařazených.\r\nNijak nevnucuji to, že by se to tak mělo chovat obecně, klidně u toho zatrhnu přepínač v tom dialogu („Existující přeskočit“), nebo někde v nastavení uživatele (sebe).\r\nNení řešení to, že bych procházel těch 100 případů a hledal, které tam již mám a které ne. (Pokud mi na to nepřidáte filtr „není zrcadlen v týmu Pavel Drtil“.)\r\nNení řešení to, že bych pokaždé těch 100 případů znovu a znovu přehazoval mezi sekcemi.",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 2,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "porznamky z callu od PDR: - presuva naraz niekolko stoviek ulohy a nevie ktore su uz nazrkadlene - pri presune novych do sekcie nezaradene sa presunu do tej sekcie aj tie ktore su zrkadlene v inych sekciach daneho timu) - nevie ktore su zrkadelene v jeho time - nie je na to mozne vytvorit pohlad - moznosti: - moznost fitlrovat ulohy podla zrkadlenia v timoch (pridat do podmienok) - pridat prepinac pri zrkadleni - \"nepresuvat uz zrkadlene ulohy\" Pozn: vysvetlil som moznost pridat si hromadne stitky na zrkadlene ulohy a potom filtrovat bez tohto stitku.. ! beriem na poradu"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Pri zrkadleni ulohy ktora uz v danom tyme je, nemenime sekciu v ktorej sa v time nachadza. Rovno zaloz na AKO a daj ako chybu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) chceme teda natvrdo (bez prepinaca) ignorovat ulohy, ktore v danom time uz su. Napada ta nejaky argument alebo use case, kedy by sa toto nechcelo?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Čau, ani ne. Já osobně nemám nikdy důvod si to přepsat. Navíc to vždy můžu udělat tak, že to z týmu odeberu a znovu to tam přidám."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dobre, takze teda to urobime tak ako som pisal a tym padom by to malo byt vyriesene aj pre teba nie?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Ano, děkuji."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, zalozene do vyvoja.."
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "first_response_minutes": 3874,
   "name": "Podivnost tlačítek pro přidání  a odebrání dalšího řešitele",
   "description": "No.... tak na tohle se napálím pokažde, když s tím příjdu do křížku :-) Scénář: Jdu nastavit dalšího řešitele, vím, že mám kliknout na to malé tlačítko vpravo , ale ukliknul jsem se (nebo jsem si to rozmyslel a chci ho zase odebrat, tak prostě logicky kliknu na to samé místo.... a ejhle Takže ve výsledku jsem toho koho jsem nechtěl, nastavil jako jediného řešitele. Už jsem se tak napálil několikrát a protože jsem to dělal tak nějak intuitivně, tak jsem to i potvrdil a pak nechápal, proč na případu byl jiný řešitel, než jsem zamýšlel :-) Prosím o zvážení změny, protože tohle je opravdu past na uživatele jak hrom. Děkuji ;-)",
-  "owner": "Lukáš Trunečka",
+  "owner": "lukas.trunecka@karatsoftware.cz",
   "priority": "Normální",
   "surveyquality": "Unknown",
   "surveyterm": "Unknown",
@@ -24,7 +24,7 @@
       "comment": "Ahoj, dik za podnet - co by si navrhoval? Chapem ze to niekedy nevyjde, ale pravidlo je kliknes na samotneho, tak ho nastavis. Ak sa to v roznom postupe bude chovat inak, tak sa obavam ci to nebude este horsie. Vyhodou je ze stale mozes dat tuto zmenu zrusit a nastavit znova.."
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Ahoj Dane ;-) to sice ano, ale na jednom fyzickém místě očekávám principiálně stejné tlačítko... ale tu se ten princip mění. Takže očekávám, že v té pravé části je přidání a odebrání řešitele z řešitelské skupiny. A na tom hlavním tlačítku víc doleva je přidání a změna hlavního řešitele (jeidného). Ale jednoduše.... neřeš nic okolo a zamysli se nad tím triviálním mým scénářem, kde sorry jako, ale to je prostě past ;-)"
     },
     {
@@ -44,7 +44,7 @@
       "comment": "@ Lukáš Trunečka (lukas.trunecka@karatsoftware.cz) je tu starsia uloha, snazili sme sa to nejak optimalizovat ale bolo to pomerne komplikovane. Zatial nechavame bez zmeny,"
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Ok, klidně případ uzavřu, ale i po půl roce si stojím za tím, že ta současná logika je nešťastná a velmi často se uklikávám, nebo trávím čas urputným přemýšlením nad tím, které tlačítko mám zmáčknout, abych dosáhl toho, co chci...."
     }
   ]

@@ -1,0 +1,43 @@
+{
+  "id": "a08fa176qg0i2i",
+  "created": "2026-02-06T08:32:19.736Z",
+  "closed": "2026-02-09T11:58:41.493Z",
+  "duration_minutes": 4526,
+  "first_response_minutes": 263,
+  "name": "Náhled a správa úkolů přes jeden účet",
+  "description": "Dobrý den, je možné  v Aliteu zobrazit a spravovat úkoly v jedné registraci u dvou různých účtů (dvou emailových adres)? Kromě Beneš a Lát máme ještě Seva-czech a někteří zaměstnanci mají emaily jak s @benesalat.cz tak i s @seva-czech.cz. Příklad: Jan Stránský jan.stransky@benesalat.cz jan.stransky@seva-czech.cz Dotaz: Je možné z registrace jan.stransky@benesalat.cz mít náhled a správu úkolů, které byly zaslány z jan.stransky@seva-czech.cz , nebo tyto účty nějak propojit? Občas si lidi nepřepnou emailový alias, a pak mají úkoly na dvou různých účtech. Děkuji za informaci.",
+  "owner": "Jakub Trhlík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nie som si uplne isty ci rozumiem, ale v jeden moment mozete byt prihlaseny jednym uctom (ak sa teda nebavime o anonymnom rezime ci viacerych prehliadacoch). Ak chapem spravne tak mate v jednej spolocnosti 2 uzivatelov, ktore ale vyuziva jedna osoba. Za mna spravne, je jedneho uzivatela dat prec - odpojit a prehodit vsetky jeho veci na toho druheho. Mozeme teda nasledne este riesit ktore komplikacii za tym vidite. Dakujem"
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Dobrý den, jasně, rozumím. My jsme narazili na situaci, kdy nám do Alitea poslal kolega Úkol z email aliasu, který nebyl přidaný jako uživatel v Aliteu a on si nevšiml emailu, který mu Aliteo poslalo o tom, že se úkol nezaložil. Tak jsme mu email alias přidali do uživatelů, ale teď je právě vedený pod dvěma uživateli. Anonymní přidávání zapínat asi nechceme, odpojit ten jeho alias email z uživatelů asi taky nechceme. Spíš si kolega bude muset zvyknout posílat Úkoly k nám z jednoho emailu, pokud chce mít všechny zaslané Úkoly pohromadě na jednom emailu. Asi neřešme, to byl spíš jen dotaz, zda existuje v Aliteo nějaká taková funkce náhledu na \"cizí úkoly\", pokud byste měli málo věcí k řešení na poradách, tak máte třeba něco k zamyšlení. Jinak můžete úkol uzavřít, díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To ma ale jednoduchsie riesenie mozno ako si myslite .. 🙂 (dufam ze som to dobre odhadol) 🙂 Jednoducho zmente vlastnika toho pripadu (ze nespravneho emailu) na toho realneho uzivatela spolocnosti."
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Ano, to máte pravdu, můžeme to takto sjednotit přehozením vlastníka 🙂 Ono to není naštěstí moc časté, spíše výjimky. A uživatele, kteří maji takto dvě emailovky, jsme poučili. Za mě tedy OK, díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Super, som rad ze sa to vyriesilo. Dakujem"
+    }
+  ]
+}

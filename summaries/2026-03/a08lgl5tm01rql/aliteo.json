@@ -1,0 +1,47 @@
+{
+  "id": "a08lgl5tm01rql",
+  "created": "2026-03-26T13:36:21.560Z",
+  "closed": "2026-03-31T18:33:25.685Z",
+  "duration_minutes": 7497,
+  "first_response_minutes": 179,
+  "name": "Kopírování / Přesun úkolů s možnosti výběru včetně dílčích",
+  "description": "Dobrý den, měla bych prosbu, jak moc náročné by bylo, aby byla možnost Kopírování / Přesun úkolů s možností výběru včetně dílčích úkolů V tuto chvíli předěláváme více projektů a pomohlo by v časové úspoře. S pozdravem a přáním pěkného dne Ilona REMEŠOVÁ nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, aky je aktualny stav a co by mal byt cielovy stav? Teraz sa dielcie ulohy pri kopirovanie a presune neprenasaju?"
+    },
+    {
+      "creator": null,
+      "comment": "Hezký den, Současný stav: přesouvá se pouze daný úkol bez dílčích Cílový stav: možnost vybrat, zda se přesouvají i dílčí úkoly, nejlépe s možností výběru jednotlivých  úkolů"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Preberiem s kolegami na produktovej porade. Mozna pomoc je vytvorit si sablonu a potom vytvorit ulohu zo sablony ale chapem, ze ak sa ta uloha neopakuje tak to asi velmi nevyuzijete."
+    },
+    {
+      "creator": null,
+      "comment": "Díky moc, ale udělat šablonu z úkolu včetně dílčích úkolů je dobrý typ. V tomto případě nám to pomoci může. Ale to, že by se někdy hodila i varianta co je předmětem úkolu, by bylo dobré, pokud by se podařilo nastavit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, presli sme tuto poziadavku na porade s kolegami a z technicky dovodov to aktualne nie je mozne urobit. Len pre vysvetlenie: dielcie ulohy mozu byt v uplne inych projektoch, pracovnych priestoroch a aj timoch. Preto preto je velmi otazne co by sa s tymi ulohami malo diat - pri presune ostat alebo sa nanovo vytvarat, podobne pri kopii. Mrzi ma to, ale momentalne tuto vec nebudeme rozvijat. Dakujem a prajem pekny vecer."
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím Vás, děkuji za zprávu a chápu situaci. Krásný večer i Vám. Úkol můžeme uzavřít a případně si to můžete nechat na vývoj někdy do budoucna 🙂"
+    }
+  ]
+}

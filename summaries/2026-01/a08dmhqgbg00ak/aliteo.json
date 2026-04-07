@@ -1,0 +1,27 @@
+{
+  "id": "a08dmhqgbg00ak",
+  "created": "2026-01-24T20:38:21.674Z",
+  "closed": "2026-01-31T20:44:55.162Z",
+  "duration_minutes": 10086,
+  "first_response_minutes": 4,
+  "name": "Konfigurace karet projektů",
+  "description": "Dobrý den,\r\n\r\nu jednoho klienta používáme Aliteo, pro nás je to nový systém. Máme na Vás dotaz, zda lze a případně jak konfigurovat kartu projektů. Například vždy nám tam bude svítit, že máme neaktivní SLA což pro nás v nástroji na projektové řízení nehraje žádnou roli a zvyšuje tak kognitivní zátěž týmu. Dá se toto prosím odstranit když tuto funkci nevyužíváme a ani pro nás nedává žádný smysl používat? Také bychom rádi dali pryč u některých projektů Chat, prosíme také o radu, jak toto nastavit, nikde se mi to nepodařilo najít.\r\n\r\nDěkuji\r\n\r\n*Petr Rubáček\r\n* +420 732 252 300 *\r\n* *office: Hala 40, Bubenské nábřeží 306/16, Prague - Holešovice* ( Holešovická tržnice ( https://www.google.com/maps/place/H40+-+OSE+Czech+Republic/ @50.09934,14.4452843,17z/data=!3m1!4b1!4m5!3m4!1s0x470b9492ef008b7b:0x8d1d08caa9c112d4!8m2!3d50.0994044!4d14.4474774 ) )\r\n*www.remembership.cz ( http://www.remembership.cz/ )* *\r\n*",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, bohuzial nieje mozne skryvat jednotlive evidencie (vykazy prace, mentoring atd v hornej liste) ak sa nepouzivaju a takisto ani ich casti (SLA na projekte). Uprimne ak by sme mali projekty kde by SLA bolo a inde nie, vytvorilo by to zubate zobrazenie, co by bolo takisto kognitivne neoptimalne. Ale vo vyvoji mame zaplanovanu funkcionalitu, kedy bude mozne zobrazit zoznam projektov v kompaktnom rezime (bez tej spodnej tabulky) - podobne ako je to mozne na zozname uloh. Toto by mohlo riesit Vas problem. Co myslite?"
+    }
+  ]
+}

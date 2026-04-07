@@ -1,0 +1,35 @@
+{
+  "id": "a08f34jv900qno",
+  "created": "2026-02-04T16:22:46.583Z",
+  "closed": "2026-02-13T16:26:59.711Z",
+  "duration_minutes": 12964,
+  "first_response_minutes": 69,
+  "name": "Export výkazu",
+  "description": "Ahoj kluci,\r\nPo domluvě s Petou prosím o info nebo pomoc jak vyexportuju PDF výkaz za měsíc seřazený nikoliv podle datum, ale podle klienta .\r\nJde to prosím nějak? Nebo plánuje se to prosím do budoucna?\r\n\r\nA další věc, o které jsme mluvili se šéfem, šlo by případně nebo půjde někdy udělat štítek nad výkazem?\r\n\r\nDiky za info a hezký den\r\nZdenča \r\nOdesláno z iPhonu",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ad radenie vykazov: - zoradzovat vykazy prace je mozne len tak ako je to uvedené v evidencii výkazy prace a teda podľa dátumu vytvorenia alebo dátumu výkazu práce - predpokladam ze klient je nejaky atribut alebo projekt? ad stitok nad vykazom: - zatial to mozne nie je, je mozne si na to vytvorit atribut - zalezi aky bol system tych stitkov - ked nam poskytnes detail, mozeme to prebrat na porade produktu"
+    },
+    {
+      "creator": null,
+      "comment": "Ahoj,\r\nAd výkaz:\r\n\r\n  *   Ano, klient je atribut, jde mi o to, že by bylo fajn, aby to mohlo být i přílohou faktury, když dělám hromadnou fakturaci za celý měsíc, tak mu vyjet všechny výkazy, které se pro něj dělali… ono chápu, že je blbé, že to neděláme v KARAT, ale když už to tam jde takhle hezky filtrovat, tak další filtřík na atribut by byl pěkný 😊\r\nAd štítek:\r\n\r\n  *   Jde nám o to, že máme klienta, který na každý ticket dělá objednávku a ne vždy se povede hned s uzavřením vyfakturovat tento požadavek a pak, protože má klidně 30 i více úkolů za měsíc se může stát, že se něco zapomene vyfakturovat, nebo se ještě třeba na číslo objednávky čeká a musí se to rozklikávat jeden úkol po druhém a dívat se na to, zda-li je to dořešeno či nikoliv. Tak jsme si s Honzou říkali, že nějaký atribut (štítek) by byl na tyto případy fajn. Popsala jsem to správně Honzi? @Jan Duda< > a snad jsem to popsala srozumitelně o co mi jde 😊\r\n\r\nDíky\r\nZdenča"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ad vykaz: - ale vo vykazoch prace je mozne pridat pohlad s podmienkou na atribut, cim sa to odfiltruje - nasledne hromadnym exportom urobit export csv a budu tam len vykazy pre daneho zakaznika ad stitok: - ak vyhovuje atribut - tak si pridajte atribut s typom vycet - a vyplnte si tam zakaznikov -  a teda si vzdy poznacite pre koho. Bavime so Vasom ALITEO alebo ALITEO v KARAT?"
+    }
+  ]
+}

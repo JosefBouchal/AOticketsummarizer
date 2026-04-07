@@ -1,0 +1,39 @@
+{
+  "id": "a08d85jnbg01ri",
+  "created": "2026-01-21T08:51:37.191Z",
+  "closed": "2026-02-04T06:47:22.649Z",
+  "duration_minutes": 20035,
+  "first_response_minutes": 481,
+  "name": "čekat na uzavření úkolu nabízí uzavřené úkoly",
+  "description": "nyní jsem chtěl zkusit funkčnost čekat na uzavření úkol a zjistil jsem, že mi tam nabízí i uzavřené úkoly - což by asi nemělo: A samotný výběr je skoupý na informace: - takže ani nějakým stavem nepoznám, v jakém je stavu, či jestli je interní nebo externí (ale chápu, že to asi není potřeba), ale nabízet by měl podle mě pouze ty neuzavřené.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 0,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano, suhlasim - je to chyba, posielam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Este pridavam info, ze teoreticky by pomohli tooltipy nad tym vyhladavanim.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) opravene v bete, este zistujem ako by to bolo s info k ulohe, napriklad cez tooltip - mali sme za to ze drobkovka staci pod nazvom ulohy"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zaplanovali sme do vyvoja aj moznost zobrazit tooltip nad ulohami aby si dostal viac dat ako je len drobkovka - vid uloha vo vyvoji"
+    }
+  ]
+}

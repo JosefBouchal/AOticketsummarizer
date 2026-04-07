@@ -1,0 +1,35 @@
+{
+  "id": "a08i6knfv017gh",
+  "created": "2026-02-28T20:01:44.942Z",
+  "closed": "2026-03-04T21:07:53.523Z",
+  "duration_minutes": 5826,
+  "first_response_minutes": 26,
+  "name": "Překlep v popisku",
+  "description": "Všiml jsem si překlepu v popisku nabídky Připomenout , tady .",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik, za upozornenie, posielam na vyvoj na opravu.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Popisok opraveny, dakujem este raz za report.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "OK, díky."
+    }
+  ]
+}

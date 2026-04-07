@@ -1,0 +1,47 @@
+{
+  "id": "a087j5i99g1ajt",
+  "created": "2025-12-08T10:27:02.590Z",
+  "closed": "2025-12-09T13:02:30.884Z",
+  "duration_minutes": 1595,
+  "first_response_minutes": 69,
+  "name": "Dotaz k uživatelům",
+  "description": "Dobrý den,\r\nChtěl jsem se zeptat. Chtěl bych zkusit nastavit dva externí uživatele u nás ve firmě (zatím přechodně pro seznámení).\r\n1/ Potřebuji vědět, jestli mohu u nich nastavit stejnou e-mailovou schránku. Čili různá jména ale stejný e-mail\r\n2/ mohu pro takového uživatele použít nějakého původního, ale archivovaného protože ten u nás už nepracuje a nebude\r\n\r\ndíky\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, 1. je otazka co myslite tym \"nastavit stejnou emailovou adresu\"... Pokial ide o registraciu uzivatelov, tak nie, nemozu byt 2 uzivatelia registrovani pod jednomy emailom. Pokial sa pytate na pripojenie kalendara, tam by som problem nevidel... oba ucty \"pozeraju do rovnakeho\" 2. nie som si isty otazkou, ale nie je nutne pouzivat starych uzivatelov.. ak chcete pridat noveho, jednoducho ho pozvite cez jeho email on sa registruje a prihlasi"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den,\r\n2/ ok nebudu používat archivované členy.\r\n\r\n1/ ano mám dva zaměstnance a ti mají stejný pracovní e-mail. Pokud musí mít každý svůj, to by mi museli dát soukromé e-maily. Mají nějaké riziko soukromé e-maily, které jako firma nemám pod kontrolou ?\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ad 1: mate teda 2 moznosti: 1. vytvorite im jeden ucet a budu pouzivat jeden ucet obaja - nie uplne idealne lebo ak sa nieco stane dohladatelnost je 0 bodovo asi 2. mozete ich pozvat na ich sukromny email, oni sa registruju, budete ich mat v spolocnosti a tam budu pracovat.. ak sa nejakym sposobom dostanu mimo spolocnostui (co teraz nevedia svojvolne - musite ich odpojit, ale casom aj to bude) tak to Vas teoreticky nijako nazasahuje - on pristupuje k datam Vasej spolocnosti - malo by to tak byt. Dokonca vy si mozete nastavit potom v nastaveniach uzivatela preferovany email, kde date ten jeden.. a tam bbudu chodit vsetky upozornenia.. Je treba vyskusat - vlastne nemate co stratit.."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den,\r\nOK rozumím. Udělám dva účty z jejich soukromých e-mailů.\r\n\r\nJeště doplňující dotaz. Jestli jsem to dobře pochopil, tak externí členové uvidí případně úkoly, kde jsou řešitelé nebo sledující a mohou k nim napsat komentář.\r\nA vidí projekt pokud jsou jeho členy ?\r\nJe to tak ? A nic jiného nevidí.\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Externy uzivatel nemoze byt riesitelom ulohy.. Externy uzivatel moze byt vlastnikom Alebo uloha moze cakat na reakciu externeho uzivatela.. Co sa tyka videlnosti tak externy uzivatel: - vidi projekt, ktoreho je clenom alebo ak viditelnost projektu nastavena na \"vsetci uzivatela\"  alebo \"externi uzivatelia\" - vidi len verejne ulohy - ak je ich sledujucim - alebo ak je supervizorom projektu"
+    },
+    {
+      "creator": null,
+      "comment": "Díky, to je vše\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    }
+  ]
+}

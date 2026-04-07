@@ -1,0 +1,39 @@
+{
+  "id": "a088t2kq4g1kv5",
+  "created": "2025-12-18T14:35:12.096Z",
+  "closed": "2026-01-13T14:15:19.223Z",
+  "duration_minutes": 37420,
+  "first_response_minutes": 1050,
+  "name": "přílohy - řazení a zabarvení/označení (dle soukromí)",
+  "description": "v komentáři když chci označit přílohu, tak: 1. řadí se od nejstarší, takže při 30 příloze vždy roluji dolů a dolů, přitom vždy chci dávat tu poslední, co jsem tam dal. 2. nevidím, která je interní a která externí - není tam rozlišení barvou nebo nějakým znakem. Takže nevím jakou přílohu tam vkládám. prosím o zvážení a případnou úpravu.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ok, prejdeme na Porade"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Vyriesime obratenie radenia a doplnime, sukromie, datum vzniku. 2. Farby nedoplname rozlisenie bude vyjadrene ikonou a popisom sukromia."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "super, zapínám si sledování na vazebním."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) je to opravene na bete"
+    }
+  ]
+}

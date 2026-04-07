@@ -1,0 +1,59 @@
+{
+  "id": "a087r1ruig5eqr",
+  "created": "2025-12-10T08:22:51.255Z",
+  "closed": "2026-01-10T14:00:50.723Z",
+  "duration_minutes": 44977,
+  "first_response_minutes": 3,
+  "name": "Nefunkční vložení odkazu + problém reconnect",
+  "description": "Ahoj , mám tu další problémy s Aliteo.\r\nChtěl jsem vložit následující odkaz do Aliteo případu vytvořeného přes email:\r\n\r\n#327615 Výpočet mezd< >\r\n\r\nProblém je že mi tento odkaz nikdy do případu nevloží -> místo toho se provede reconnect stránky a skočím zpátky na popisu případu ->  rozepsané vyjádření mi to smaže\r\n\r\n[Image001]\r\n\r\nPodobný problém nastává i při byť jen malém výpadku připojení. Komentář mi to opět zahodí a vrátí mě to zpět na popis případu.\r\n\r\n[Image002]\r\n\r\n\r\nBest regards,\r\nDavid Mastný\r\nAdministrator IT\r\n\r\ntel.: +420 581 737 172 | mobil: +420 606 724 793 | David.Mastny@karatsoftware.cz< >\r\nKARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz< >",
+  "owner": "David Mastný",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 1,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": null,
+      "comment": ""
+    },
+    {
+      "creator": null,
+      "comment": "Teď jsem si všim že mi to zahodí rozepsaný komentář a vrátí zpět na popis úkolu, při zaktivovaní záložky s rozepsaným komentářem, po delším časovém useku (asi 10-15 minut)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dobre podme teda postupne: - spolocnost KARAT? - uzivatel ? david.mastny@karatsoftware.cz ? - uloha 327615 ? Podla toho co som zistil, nemas k tej ulohe ani pravo.. ci?"
+    },
+    {
+      "creator": null,
+      "comment": "To vypadá jako by to psalo AI. Zavolej mi jak budeš moct , projdem to"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "sumar: - uzivatel: david.mastny@karatsoftware.cz - ma v portale: https://app.aliteo.com/anonymoustasks/david.mastny%40karatsoftware.cz/a02680eeqg1n4b/0411d599-c94f-b491-8a05-0ef56f45aa5c/a087np8fi01ajt - problem pri vkladani odkazu: https://app.aliteo.com/task/a0866e9qg00e4m/?view=comments - Odkaz sa nevlozi - prepne sa stranka na \"popis\" - napriklad tento odkaz problem nerobi: https://app.aliteo.com/task/a0866e9qg00e4m/?view=comments - takisto nerobia odkazy ine problem - problem je aj v prehliadaci Brave aj Chrome"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "predal som na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, vsetko dobre v novom roku, opravu sme urobili az v novej verzii, ktora bude vydana snad do mesiaca. Robi ti to terza nejake extra problemy alebo to mozeme zatvorit a v pripade ze sa to bude znova vyskytovat po nasadeni tak budeme riesit ??"
+    },
+    {
+      "creator": "David Mastný",
+      "comment": "Ahoj , tobě taky. Momentálně to už nesleduji, takže problém nemám , zavřel bych to a otevřel v případě že by se problém znovu objevil ."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Super, dakujem a zatvaram"
+    }
+  ]
+}

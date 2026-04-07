@@ -6,7 +6,7 @@
   "first_response_minutes": 16,
   "name": "Předefinovaný text se nevloží se zalomením",
   "description": "Ve verzi 24 se Předdefinovaný text do textového pole příspěvku nevloží se svým zalomením řádků.",
-  "owner": "Lukáš Trunečka",
+  "owner": "lukas.trunecka@karatsoftware.cz",
   "priority": "Normální",
   "surveyquality": "Highest",
   "surveyterm": "Highest",
@@ -28,7 +28,7 @@
       "comment": "@ Lukáš Trunečka (lukas.trunecka@karatsoftware.cz) malo by byt opravene.. - pricina sa mohla stat pri nejakom importe, kedy tento komentar nebol definovany v editore ALITEO ale odniekial skopirovany s /r/n - toto je opravene a nahradzame <br> - kazdopadne by bolo fajn tieto komentare nadefinovat v ediotre, pripadne aj s formatom"
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Jj, ono to bylo opravené celkem rychle chvilku po tom, co jsem o tom informoval. Díky ;-)"
     },
     {

@@ -54,7 +54,9 @@ area_mapping = {
 }
 
 def clean_html(raw_html):
-    soup = BeautifulSoup(raw_html, "html.parser")
+    if raw_html is None:
+        return ""
+    soup = BeautifulSoup(str(raw_html), "html.parser")
     return soup.get_text(separator=" ", strip=True)
 
 def fetch_user_name(user_id):

@@ -1,0 +1,47 @@
+{
+  "id": "a08frjgqkg0846",
+  "created": "2026-02-10T14:54:09.059Z",
+  "closed": "2026-02-11T19:33:41.048Z",
+  "duration_minutes": 1719,
+  "first_response_minutes": 163,
+  "name": "AI  - nefunguje nad daným úkolem",
+  "description": "chtěl jsem po AI nad úkolem aby mi odpověděla a spadlo to do chyby: byl to úkol: #319643 update na v25 a ptám se: proveď mi rekapitulaci tohoto případu, případně i těch vazebních, které se toho týkají - pád na chybu. Tak jsem mu napsal: tak šup a odpověděl: Mohu vám pomoci s úkolem \"update na v25\"? Pokud máte konkrétní dotaz nebo potřebujete zjistit nějaké informace, dejte mi vědět! ale na konkrétní dotaz již neodpovídá. ptal jsem se ho zde:  a #310654 Přirážka - online výpočet ceny i do budoucích období - realizace a tu odpověděl korektně.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ok, posuvam na vyvoj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) mohol by si znova vyskusat?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Vypadá to ok. Jen tedy na otázku jaký je stav mi to napadlo že je to ve stavu: CloseRequest Ale jinak psal česky, takže ok a uzavírám"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) myslis stav ulohy?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, predam este toto na vyvoj"
+    }
+  ]
+}

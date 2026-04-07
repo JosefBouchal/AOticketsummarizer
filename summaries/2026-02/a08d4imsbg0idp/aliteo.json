@@ -1,0 +1,71 @@
+{
+  "id": "a08d4imsbg0idp",
+  "created": "2026-01-20T11:56:35.435Z",
+  "closed": "2026-02-04T08:29:57.192Z",
+  "duration_minutes": 21393,
+  "first_response_minutes": 228,
+  "name": "v případu nelze poslat CFG soubor",
+  "description": "V případu https://app.aliteo.com/task/a08c41tgeg0bsg/?view=comments jsem přiložil cfg soubor licence, ten však nejde stáhnout.\r\nK čemu mi ho tedy dovolilo přiložit? Hlavně na CFG není nic nebezpečného. Takové soubory si potřebujeme vyměňovat.\r\n\r\n\r\nMimochodem, už celkem dávno jsem dodával seznam textových souborů, které by mohly mít náhled, pokud jej ještě nemají a ten CFG náhled stále také nemá.\r\n\r\n    public static readonly IReadOnlyCollection<string> TextFileExtensions = new HashSet<string>\r\n    {\r\n        // text a formátovaný text\r\n        \".txt\", \".text\", \".txtile\", \".log\", \".md\", \".properties\", \".rst\", \".tex\", \".bib\", \".ipynb\",\r\n        // data\r\n        \".csv\", \".tsv\", \".xml\", \".json\", \".yaml\", \".yml\",\r\n        // konfigurace\r\n        \".ini\", \".cfg\", \".config\", \".editorconfig\", \".manifest\", \".master\", \".inf\", \".env\", \".toml\", \".dockerfile\",\r\n        // šablony\r\n        \".fdf\", \".xfdf\", \".xsl\", \".xslt\", \".xsd\", \".dtd\",\r\n        // c# a Visual Studio\r\n        \".cs\", \".csproj\", \".xaml\", \".resx\", \".wsdl\", \".sln\",\r\n        \".c\", \".h\", \".cpp\", \".hpp\", \".vcproj\", \".vb\", \".vbproj\",\r\n        // skriptování a vývoj\r\n        \".bat\", \".cmd\", \".vbs\", \".ps1\", \".psm1\", \".psd1\", \".sh\", \".bash\", \".zsh\", \".reg\",\r\n        \".make\", \".mk\", \".gitignore\", \".gitattributes\", \".gitmodules\",\r\n        \".js\", \".ts\", \".css\", \".less\", \".scss\", \".sass\",\r\n        \".htm\", \".html\", \".xhtml\", \".mht\", \".mhtml\", \".svg\",\r\n        \".asp\", \".ascx\", \".aspx\", \".jsp\", \".php\",\r\n        \".sql\", \".sqlplan\", \".sqlproj\", \".xdl\",\r\n        \".py\", \".pyw\", \".pl\", \".pm\", \".rb\", \".gradle\", \".groovy\", \".lua\",\r\n        \".r\", \".rmd\", \".swift\", \".go\", \".java\", \".kt\", \".kts\",\r\n        // proprietární\r\n        \".krd\", \".kdc\", \".mrt\", \".srd\",\r\n    };",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 5,
+    "from_others": 7,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Jen pokus, zda to selže i zde: pokus.cfg"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, no ja som napriklad nemal teraz problem stiahnut ten subor z tvojho komentara. Asi nam pridaj prava do tej ulohy v popise aby som to skusil tam ked tak. Co sa tyka nahladov, tak tie podporujeme iba vymenovane.  Chces teda aby sme podporovali vsetky vymenovane? Nespominam si si aky bol verdikt minule - ci to uz nie je niekde na plane vyvoja. Neviem kolko to zaberie Dusanovi - zistil by som."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Přidal jsem tě do sledujících. Mně nejde ten soubor stáhnout ani v tomto případu. Ono se to dokonce tváří, že se to stahuje, ale pak to ohlásí tu chybu. Na disku je jen dočasný soubor. Dělám to v Chrome, tam to padá. Zkusil jsem to nyní ve FireFox a tam se to stáhlo. Koncovky souborů by byly fajn, protože bych hned v náhledu viděl, co v tom je. Nevím, jak to dopadlo minule, zkoušel jsem případ hledat a nenašel. Přidání je otázka minut."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No tak potom sa zda ze je to nie je problem ALITEO ale prehliadaca nie? Mne to takisto blokol prehliadac ako poskodeny subor: . Alebo sa mylim? Ak tam nie je problem s bezpecnostou a trva to par minut nevidim, problem. Nasiel som ten tvoj pripad starsi: #6168 sql soubor jako zobrazitelný . Skusim s aspytat v tom vyvojovom, ci by sme to vedeli spravit skor ako je to naplanovane."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ked som dal dokonca na tri bodky a ponechat, tak mi ho normalne stiahlo a potom som ho otvoril - je to vec prehliadaca... za mna - ale ano nahlad je na ALITEO"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Tak jsem hledal a je to opravdu věc Chrome i podle jejich vyjádření: https://support.google.com/chrome/a/answer/7579271?hl=en Koukal jsem na zdrojové kódy a těch \"nebezpečných\" je mnoho: https://codereview.chromium.org/1881763002/patch/100001/110003 Ten CFG a INI je dost překvapující, ale asi co kdyby si to někdo stáhnul a pak jako správce někam zapsal. ALITEO by mohlo, kromě náhledu, jedině nabídnout stažení všech příloh v ZIP. Stránky jako GIT, nebo i webové mailovací stránky to nabízí - třeba email.cz , gmail.com Ale to je čistě věc AO, zda by to považoval za přínosné."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, mame v plane vyvoja ulohu ktora umozni stiahnutie viacerych uloh ako zip - to ale neriesi to ze ked tam da niekto cfg  a bude to jeden subor ze to nestiahes ako zip nie?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Tak na těch mail-portálech je tam Stáhnout všechny přílohy, což stahuje jeden ZIP, a je tam ta volba i v případě, že je tam jediná příloha."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "takze preferujes aby bolo vzdy mozne zip, resp: - ak je jeden subor - tak mat aj moznost zip - ak je viac - vzdy zip - tam to asi ani inak nepojde"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "ano"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu: - stahovanie suborov do zip (pre jeden aj pre viacero) - uz to nejaky zakaznik chce - hromadne stiahnut subory.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Pavle, ak teda mame na to ulohu vo vyvoji, doplnili sme aby bolo exaktne aj pre prilohy z uloh"
+    }
+  ]
+}

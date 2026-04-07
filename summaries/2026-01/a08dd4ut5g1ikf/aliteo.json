@@ -1,0 +1,47 @@
+{
+  "id": "a08dd4ut5g1ikf",
+  "created": "2026-01-22T13:52:08.435Z",
+  "closed": "2026-01-27T10:43:12.625Z",
+  "duration_minutes": 7011,
+  "first_response_minutes": 1103,
+  "name": "reakce do e-mailu - duplicitně a s tělem odpovědi",
+  "description": "dokážete zjistit co se zde #329824 modul  - MCL - nasazení do testu rozbilo, že je tam to stejné vyjádření vložené 4x? Chápu, že by zákazník odpověděl vícekrát, ale dle toho co tma je tak to vypadá na odpověď z mailu a nepředpokádám, že by 4x odpověděl ten stejný text na jeden mail nebo na 4mail - v přílohách někdy je moje vyjádření, někdy čeká na reakci atd. tak to je první věc a druhá je, proč ve vyjádření je podpis? - mají to blbě nastavené nebo co je špatně, že se tam vloží i tělo?",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Petr, - tie emaily skutocne tak prisli ako su ulozene aspon tak mi to ukazuje servisne menu - co sa tyka odpovede - ak stlacis tlacidlo v tele emailu \"odpovedat\" tak tam to povodne telo nemas, ale ked pouzijes odpovedat ako fungkciu emailoveho klienta, tak ten ti povodne telo emailu zachova.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) test mailu"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "takže to skutečně odeslal vícekrát - chápu. takže dali odpovědět místo tlačítko. Chápu, že to tedy neumíme odstranit ten podpis - když dám odpovět přes funkci mailu a ne tlačítko, je to tak? pokud ano a nebudeme umět, tak uzavřeme."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pracujeme na tom, je na to zvlast uloha ale problem je ten ze nedokazeme vzdy dobre lokalizovat zaciatok a koniec odpovede. Lokalizujeme svoje klucove slova, pretoze okrem gmailu, ktora ma div_quote (alebo tak nejak) ostatne emailove klienty jednoznacne neosnazuju v kode zaciatok a koniec povodne spravy a teda sa to tazko parsuje. Snazime sa o to v ulohe: #8177 Optimalizacia emailov ako komentarov mozes si tam aj pozriet priebeh kam sme to dostali.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ok toto zavřeme."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) najlepsi vysledok ku ktoremu sme sa dostali: Výsledek: SEZNAM: GMAIL: OUTLOOK (APP): MAIL.KARATSOFTWARE.CZ:"
+    }
+  ]
+}

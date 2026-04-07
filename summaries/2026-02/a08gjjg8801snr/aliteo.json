@@ -1,0 +1,35 @@
+{
+  "id": "a08gjjg8801snr",
+  "created": "2026-02-16T10:42:33.764Z",
+  "closed": "2026-02-18T11:11:32.219Z",
+  "duration_minutes": 2908,
+  "first_response_minutes": 4,
+  "name": "Synchronizácia kalendára v Aliteo a MS Outlook",
+  "description": "Dobrý deň, vytvoril som stretnutie v ALITEO a neskôr som si všimol, že nezafungovala synchronizácia. Tak som ju v nastaveniach spustil ešte raz, ale aj tak sviete pri tejto položke, že nie je synchronizovaná. Je to tým, že vznikla pred tou opravou a tak už to nie je možné dodatočne synchronizovať, alebo je tam ešte nejaká iná chyba ?",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano je to ako pisete. Ak porada vznikla pred pripojenim kalendara, tak je nepripojena. Ak ste kalendar pripojili - je verifikovany a vidite uz udalosti v kalendari ALITEO, je treba ist do danej porady alebo rady porad a pomocou tlacidla \"pripoji poradu\" pripojit ju ku kalendaru. Tym sa dodatocne vygeneruje udalosti aj do pripojeneho kalendara."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "super už to mám. Kalendáre som zosynchronizoval ale nevšimol som si tú možnosť pripojiť opätovne udalosť na ľavej strane dolu. (bolo treba posunúť posuvník nižšie). Ok, ďakujem, možeme uzatvoriť"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, som rad ze vyriesene. Prajem pekny den."
+    }
+  ]
+}

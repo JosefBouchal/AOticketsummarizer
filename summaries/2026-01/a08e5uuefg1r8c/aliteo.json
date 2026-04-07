@@ -1,0 +1,43 @@
+{
+  "id": "a08e5uuefg1r8c",
+  "created": "2026-01-28T14:24:34.870Z",
+  "closed": "2026-01-29T11:19:48.234Z",
+  "duration_minutes": 1255,
+  "first_response_minutes": 56,
+  "name": "Dotaz k nastavení práv-ESON CZ",
+  "description": "Dobrý den,\r\nMěl bych takový dotaz. Existuje možnost nastavení, aby do projektu jehož členem nejdem, jsem ale zadávat úkoly.\r\nPointa. Chtěl bych, aby interní uživatelé mohli zadávat úkoly do projektu, ale nechci, aby do něj koukali.\r\nZatím jsem se ale dostal jen k variantě, že aby mohli zadávat úkoly, tak musí být členové projektu, ale pak do něj vidí.\r\n\r\ndíky\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, otazka je co v tom projekte by nemali vidiet? Ak uzivatelia nemaju pravo supervizor, tak neuvidia ulohy kde nie su sledujuci... Takze ak mate projekt X a uzivatela A a B (bez prava supervizor na projekt, prac. priestore a spolocnosti). Tak ak oboch uzivatelov pridate do projektu X, potom ho vidia, mozu tam zadavat ulohy a vidia len tie svoje ktore zadali - je to pre nich mozno aj fer ze vidia svoje. Moze byt? Alebo som zle pochopil? Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Ano myslím, že takto je to správně a je fér, aby svoje viděli.\r\nJeště maličkost, Vůbec se mi nedaří, kde nastavit, aby se mi při zakládání úkolu automaticky vyplnil datum zahájení. Vždy tam mám Neuvedeno.\r\n\r\ndíky\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, bohuzial taka moznost nie je. Je to aj kvoli planovaniu viacerych uloh do buducna - ze nie je ziaduce aby sa vsetky zacinali dnes. Chapem ze v niektorych pripadoch je to ziaduce - mozem prebrat s produktovym timom."
+    },
+    {
+      "creator": null,
+      "comment": "OK, rozumím, já jen jestli někde nedělám chybu. Já na to vždy totiž zapomenu, protože při zadání úkolu tam není volba zadat datum.\r\nTen se musí zadat až když je založený úkol. Možná kdyby při zakládání tam byla možnost datumu jako datumu splnění, tak by to bylo OK.\r\n\r\nAle to je na vás spíše koncepční otázka.\r\n\r\nTo je za mne v tomto úkole vše, prosím o uzavření\r\n\r\nS pozdravem/best regards/Mit freundlichen Grussen\r\n\r\nIng. T. Šesták\r\n\r\nESON CZ s.r.o.\r\nKarlická 457\r\n252 29 Lety\r\nCzech Republic\r\nTel.: +420 602236683\r\ne-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, validna poznamka, preberieme s vyvojom... Dakujem"
+    }
+  ]
+}

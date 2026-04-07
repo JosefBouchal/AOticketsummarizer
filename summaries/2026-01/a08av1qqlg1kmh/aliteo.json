@@ -1,0 +1,31 @@
+{
+  "id": "a08av1qqlg1kmh",
+  "created": "2026-01-03T14:55:00.273Z",
+  "closed": "2026-01-07T09:48:20.197Z",
+  "duration_minutes": 5453,
+  "first_response_minutes": 2,
+  "name": "mobilna aplikacia - problem s prihlasenim",
+  "description": "Dobrý deň, Využivam vašu mobilnu aplikaciu. Pri reštarte telefonu ma odhlasilo z aplikacie. Prihlasovacie meno a heslo mam zapísané, no napriek tomu Ma nechce pustiť do aplikacie a jediná možnosť Je ktorú ponúka táto aplikácia , že zaregistruj sa. Neponúka ani možnosť zabudnuté heslo ? ( prečo ? ) Takto sa tam neviem dostať, lebo ked znovu registrovať, tak to táto aplikácia Vyhodnocuje ako – že konto už existuje vytvorte si nové. No ja nové nechcem chcem sa dodstať do svojho !!! Vieto mi poradiť ako jednoducho postupovať a prihlasiť sa v mobile Do vašej aplikacie Aliteo ? S pozdravom / Best regards / Mit freundlichen Grüßen Roman  MELICHERÍK        Project Manager mob:+421 905 375 851 email: melicherik@dispoline.sk <mailto:melicherik@dispoline.sk> web: www.dispoline.eu <http://www.dispoline.eu/>",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím Vás, prosím o poslanie screenu. V prípade, že otvoríte aplikáciu malo by byť k dispozícii takéto tlačidlo prihlásiť sa:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dnes som zachytil email ze s prihlasenim uz problem nie je. Preto si dovolujem zatvorit tento pripad. Dakujem a prajem vsetko dobre v Novom roku."
+    }
+  ]
+}

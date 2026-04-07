@@ -1,0 +1,31 @@
+{
+  "id": "a08jit5gr00ctk",
+  "created": "2026-03-11T13:53:01.980Z",
+  "closed": "2026-03-16T15:58:41.336Z",
+  "duration_minutes": 7325,
+  "first_response_minutes": 47,
+  "name": "test",
+  "description": "S pozdravem Mgr. Šárka Housírková consultant tel.: +420 581 737 142 | mobil: +420 702 276 152 | sarka.housirkova@karatsoftware.cz KARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz Facebook LinkedIn YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": null,
+      "comment": "testování adresy - vyřešeno"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, vsetko v poriadku. Mozem tento test zrusit?"
+    }
+  ]
+}

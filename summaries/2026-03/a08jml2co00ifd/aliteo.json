@@ -1,0 +1,27 @@
+{
+  "id": "a08jml2co00ifd",
+  "created": "2026-03-12T11:42:41.127Z",
+  "closed": "2026-03-19T12:35:29.999Z",
+  "duration_minutes": 10132,
+  "first_response_minutes": 51,
+  "name": "Přílohy v oznámení z Alitea",
+  "description": "Zdravím, Aliteo před relativně nedávnou dobou začalo odesílat oznámení včetně příloh, které bezprostředně nesouvisejí s aktuálním komentářem; v příloze jsou printscreeny přiložené ke komentáři z dávné historie AA (komentář ##1), netuším, podle jakého klíče je vybírá. Je možné nastavit, aby Aliteo zasílalo pouze přílohy náležející k příslušnému komentáři? Díky. PVD From: notifications@aliteo.com <notifications@aliteo.com> Sent: Thursday, March 12, 2026 11:03 AM To: Vodička Pavel – KARAT Software a.s. <Pavel.Vodicka@karatsoftware.cz> Subject: #323210 - nový komentář úkolu: Onevision - on demand nesting - Roll ID Chott Jan přidal nový komentář #323210 Onevision - on demand nesting - Roll ID Chott Jan Dobrý den pane Vodičko, prosím o drobnou úpravu. Přejmenování elementu \"priority\" ve WS protokolu [Image001.png] na \"express_printing\". Děkuji. Zobrazit komentář Odpovědět emailem SOUVISEJÍCÍ ÚKOL KARAT / Assistance / Showdown Displays Europe, s.r.o. / Chott Jan #323210 Onevision - on demand nesting - Roll ID Dobrý den, tímto tiketem bychom chtěli navázat na úpravy #311860  On Demand Nesting a přidat další funkčnosti do našeho procesu \"automatizace tisku\". Výše zmíněný ticket můžeme tedy uzavřít a pokračovat zde. Následují body, které bychom potřebovali nově zapracovat: 1.     Více výrobních tiskáren pro jeden typ tiskového materiálu.Potřebovali bychom rozšířit kartu a „typ tiskového materiálu“ od další tiskárny[Image001.png], celkem by měly být 4. Tak abychom mohli přidávat více alternativních tiskáren. 1. Tiskárna bude výchozí, ostatní 3 tiskárny bude možné vybrat po rozkliku při zadávání parametrů nestingu.[Image002.png] 2.     Přidání pole „Číslo role“ do okna pro zadání parametrů nestingu [Image003.png]. Pole by mělo nabývat hodnot 1-20. Výchozí hodnota bude „1“.  Když se začne tisknout a „Tisk stav“ se změní na „Printing“ – viz bod 4, tak zadané číslo role již nebude dostupné k výběru a jako výchozí hodnota se nabídne např. „2“. Tím chceme zabránit tomu, aby se nemohla vybrat role, která už je v tisku. 3.     Nové pole „Roll id“ v pohledu ZP. [Image004.png]Hodnota pole se bude generovat z aktuálního datumu a údajů zadaných v parametrech nestingu. „DDMMYY Typ Tiskového materiálu číslo role Výrobní tiskárna“Např.: 29.09.25 PR_SOFTKNI 1 DURST P5 4.     Funkcionalita Tisk RoleDo přehledu ZP bychom potřebovali přidat tlačítko „Tisk role“[Image005.png]. Po jeho stisknutí, se nabídne okno pro výběr role [Image006.png], kde budeme moci vybrat aktuálně dostupné role ze ZP, které splňují podmínky „Nesting“=“OK“, „Nest ID“ <> „0“ a „Tisk stav“=“N/A“ (Např.: 29.09.25 PR_SOFTKNI 1 DURST P5). Po výběru a stisknutí tlačítka \"Tisk\" se odešle přes API do Onevisionu „Roll ID“ a „Nest ID“ jednotlivých nestů, které jsou na roli , případně ještě číslo objednávky a printing ID manuálně přidaných ZP viz bod 5. Onevision pošle zpět update pole „Tisk-stav“ na přehledu ZP na „Printing“. [Image007.png]K této funkcionalitě bude tedy potřeba nové API. 5.     Možnost zadat číslo existující role přímo ke konkrétnímu ZP. Potřebujeme mít možnost k celým nestůn na roli přidávat ještě jednotlivé ZP. To by probíhalo zřejmě pomocí nového tlačítka „Přiřadit číslo role“ nad přehledem ZP, po jehož stisknutí se nabídne stejné okno s výběrem dostupných rolí jako v bodě 4. Po výběru a potvrzení se číslo role přiřadí označeným ZP. Prosím o vyhodnocení časové náročnosti. Ticket pro nás má vysokou prioritu, takže bychom chtěli začít s realizací co nejdříve. Děkuji. Stav Priorita Datum zahájení Datum splnění Úroveň soukromí V řešení Nejvyšší 1. 10. 2025 Neuvedeno Veřejný úkol Tato zpráva byla odeslána automaticky • Powered by ALITEO •",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, Upozornenie k ulohe moze chodit z roznych dovodov ale co sa tyka komentara a prilohy tak upozornenia prichadzaju: - zmienka - pride vzdy - novy komentar - je treba mat nastavene (nezavisi ci tam je priloha alebi nie) - nova priloha - ked niekto vyslovene do zalozky priloh vlozi prilohu (treba mat nastavene) Zaroven plati ze ked niekto vytvori komentar, kde prida prilohu a zaroven ju prida tak ze si praje aby nezostala len v komentari ale sa pridala aj medzi prilohy ulohy tak tych upozorneni moze prist viac."
+    }
+  ]
+}

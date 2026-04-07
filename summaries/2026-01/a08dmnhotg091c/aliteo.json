@@ -1,0 +1,27 @@
+{
+  "id": "a08dmnhotg091c",
+  "created": "2026-01-24T21:40:54.997Z",
+  "closed": "2026-01-26T21:44:30.798Z",
+  "duration_minutes": 2883,
+  "first_response_minutes": 3,
+  "name": "Žádost o smazání účtu",
+  "description": "Dobrý den, prosím o smazání účtu, který byl registrován na email aliteo@jirisliva.com Děkuji, s pozdravem Slíva Jiří",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobrý deň, Zaregistrovali sme Vašu žiadosť o zmazanie účtu  s emailovou adresou aliteo@jirisliva.com . Na základe Vašej žiadosti sme zrušili tento používateľský účet v systéme ALITEO. V prípade potreby nás kontaktujte na emailovej adresy support@aliteo.com S pozdravom Tím ALITEO"
+    }
+  ]
+}

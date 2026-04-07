@@ -1,0 +1,43 @@
+{
+  "id": "a08jq2acu000is",
+  "created": "2026-03-13T07:35:59.323Z",
+  "closed": "2026-03-13T09:09:44.384Z",
+  "duration_minutes": 93,
+  "first_response_minutes": 27,
+  "name": "Nelze vytvořit úkol",
+  "description": "Dobrý den, nelze vytvořit úkol – viz video. Úkol se dá vytvořit posláním emailu na pozadavky@prim.cz S pozdravem a přáním pěkného dne Ilona REMEŠOVÁ nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Unknown",
+  "surveyterm": "Unknown",
+  "type": "Kritická chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím Vás, o tomto probléme vieme a pracujeme na jeho vyriešení. Hneď ako to bude v poriadku, budeme Vás informovať. Ospravedlňujeme sa za nepríjemnosti a ďakujeme vopred za trpezlivost."
+    },
+    {
+      "creator": null,
+      "comment": "Děkuji, zároveň není možné přesouvat úkoly z jednoho pracovního prostoru do jiného."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, to z toho vyplyva nakolko pri presune do ineho pracovneho priestoru sa v novom pracovnom priestore vytvara nova uloha a to sa nestane. Zda sa inak ze na problem sme prisli, nasadime coskoro opravu."
+    },
+    {
+      "creator": null,
+      "comment": "Již funguje, úkol možné uzavřít děkuji moc."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Oprava bola nasadene, dakujem."
+    }
+  ]
+}

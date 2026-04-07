@@ -1,0 +1,35 @@
+{
+  "id": "a087455bmg1jtq",
+  "created": "2025-12-04T18:59:45.096Z",
+  "closed": "2025-12-05T13:17:34.131Z",
+  "duration_minutes": 1097,
+  "first_response_minutes": 873,
+  "name": "Náhled na MD přílohu",
+  "description": "Opravdu moc prosím o spěšnou implementaci podpory náhledu na MD (MarkDown) formát souborů. V dnešní době AI je to nezbytně nutná věc. V KARATu na vývoji s MD pracujeme velice, takže aktuálně trošku trpíme ;-) Děkuji předem.",
+  "owner": "lukas.trunecka@karatsoftware.cz",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Dušan Kovář",
+      "comment": "MD samozřejmě také řešíme, když podporujeme AI zpracování úkolů. Bylo by to jednoduché udělat. Založ mi @ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) na to případ a já to hned provedu, ať jim ulehčíme práci."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, zalozene do vyvoja.. caka na schvalenie Petrom... ci sa to moze robit hned"
+    },
+    {
+      "creator": "lukas.trunecka@karatsoftware.cz",
+      "comment": "Kluci děkuju ;-)"
+    }
+  ]
+}

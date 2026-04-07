@@ -6,7 +6,7 @@
   "first_response_minutes": 625,
   "name": "Já chci obrázky v textu!!!!",
   "description": "Hej, kamarádi.... já už to fakt nemůžu vydržet.... to se fakt nedá :-( Dejte nám možnost se svobodně rozhodnout, jestli si obrázky zobrazíme přímo v textu tak, ať jsme schopní vytvořit přehledný a čitelný foto-návod... Když mám luštit toto, tak fakt umírám.... #287787 Karat Terminál: Špatné styly tlačítek Nebo budu muset nakázat, že to mají dávat do Wordovského dokumentu a vrátíme se 30 let dozadu :-( Děkuji, že vám i na nás záleží ;-)",
-  "owner": "Lukáš Trunečka",
+  "owner": "lukas.trunecka@karatsoftware.cz",
   "priority": "Normální",
   "surveyquality": "Unknown",
   "surveyterm": "Unknown",
@@ -28,7 +28,7 @@
       "comment": "pozn z callu s PDR : - ma ten problem takisto - chce mat moznost zobrazovat nativne zobrazenie - teraz musi klikat, dat do noveho okna, potom to rusit - nepotrebuje mat okolny text - on skuma chybove hlasky - a vela krat je ta fotka od kolegov prilis velka (viac krat 4k) - prijal by nahlady namiesto thumbnailov - prijal by scroll bary a nativne zobrazenie v tooltipe"
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Ahoj Dane ;-) Napsal jsem to tak schválně emotivně, abych vyjádřil expresivně to, jak moc toužím po nějakém lepším řešení, tak si to prosím neber osobně ;-) Já zkusím vytvořit tu na tom Pepově příspěvku ukázku, jak by to mohlo podle mě vypadat.... zkusím to graficky udělat tak, aby to vypadalo jakoby to bylo přímo v Aliteu. Dole přehled příloh mi nevadí, respektive tak jak to teď je ten režim, s tím asi nemám nějak zásadní problém. Mě jde o opravdu jiný režim tak, abych místo těch čísílek měl dané náhledy na ty obrázky roztažené do šířky celého řádku (klidně s nějakým max omezením, ať to není morbidní). Tedy tak, abych četl text a obrázky se tam daly vložit tak, že na ně nemusím nutně klikat.... ... ale připravím nějakou ukázku ;-)"
     },
     {
@@ -44,7 +44,7 @@
       "comment": "Uloha sa medzi tym uz chcel uzatvorit, tak som to znovu dal do reakcie.."
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Jo... nestíhal jsem vydáváme verzi, tak jsem toto upozadil.... omlouvám se. Moje představa je cca takováto: S tím, že je na uživateli, jestli obrázek cíleně do textu vloží (by default to tak nemá být, ale možnost má mít) a s tím, že dostane možnost si určit maximální šířku náhledu, která ale samozřejmě omezovaná šířkou objektu příspěvku (tedy na telefonu to nevyteče z obrazovky). Pokud se tedy někdo rozhodne, že fotopříběh je efektivnější forma, možnost bude mít a obrázky bude fotit a nastavovat tak, ať to smysl opravdu má. A pokud tvořím takový fotonávod, kde obrázek dá za tisíc slov, pak nevadí to, když konzument pak musí scrollovat, protože to stejně čte a provádí postupně. Jinak obrázky jsou náhledy a klikem na ně se provede to samé, co náhledy dělají dnes. Obrázek bude vždy na novém řádku, nebude se řešit nějaké obtékání textem (text vedle obrázku apod.)."
     },
     {
@@ -56,7 +56,7 @@
       "comment": "K tomu ma este napadlo,  je tento styl \"fotonavodu\" ten najlepsi? Nevylepsili by to napriklad gifka ako robim ja? ako som ti poslal v tom predchadzajucom komentari?"
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "GIFy jsou fajn, občas taky používám, ale ty zas nemají komentář a většinou ty návody nejsou tak jednoduché, aby se to obešlo bez komentáře. Navíc kolikrát je ten postup složitější a GIF je protivný v tom, že pořád jede (možná existujě nějaký prohlížeč, co je umí pauznout)... rozhodně GIF není všespásný. Ano, umím si nudloidní příspěvek představit, když chci očima sledovat text a obrázky a myší v jiná aplikaci podle toho klikat. V ALITEO si chci jen očima číst a klikat do něj minimálně. Ano, je to speciální usecase, ale třeba u nás na vývoji velmi častý."
     },
     {
@@ -72,11 +72,11 @@
       "comment": "Zaver z porady: Neriesime, nie je to za nas ok, neriesime."
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Zaver z porady: Neriesime, nie je to za nas ok."
     },
     {
-      "creator": "Lukáš Trunečka",
+      "creator": "lukas.trunecka@karatsoftware.cz",
       "comment": "Doma nikdo není prorokem.... Ale moje naděje umírá poslední. Jsem přesvědčený o tom, že vám to zákazníci i tak otrepou o hlavu ;-) Já totiž od vás zatím neslyšel žádný jiný důvod, než že se vám to esteticky nelíbí aka nechce se vám to řešit. Nicméně v konkrétním usecase, který jsem tu popsal, je aktuální koncept fakt podobně nepraktický stejně tak, jako popis případu v levém panelu (polovina firmy dělá to, že do prvního příspěvku nic nepíšou a popis píšou až do druhého). Prostě nekterými věcmi jste se na krev snažili být originální, ale možná je na čase si umět přiznat, že občas vymýšlíte vymyšlené a jití proti proudu je střílení se do vlastní nohy."
     },
     {
