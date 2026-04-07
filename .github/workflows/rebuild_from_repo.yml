@@ -1,0 +1,41 @@
+name: Rebuild Reports from Repository Data
+
+on:
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Regenerate missing ticket summaries
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/generate_summaries.py
+
+      - name: Regenerate missing monthly reports
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/generate_monthly_report.py
+
+      - name: Regenerate index
+        run: python scripts/generate_index_page.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add summaries/ reports/ index.html
+          git diff --cached --quiet || git commit -m "Rebuild summaries and reports from repository data"
+          git push

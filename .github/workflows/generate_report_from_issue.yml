@@ -22,25 +22,34 @@ jobs:
 
       - name: Extract dates from issue
         id: extract_dates
-        run: |
-          FROM_MONTH=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=From: ).*')
-          TO_MONTH=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=To: ).*')
-          echo "FROM_MONTH=$FROM_MONTH" >> $GITHUB_ENV
-          echo "TO_MONTH=$TO_MONTH" >> $GITHUB_ENV
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.issue?.body || "";
+            const fromMatch = body.match(/^From:\s*(\d{4}-\d{2})$/m);
+            const toMatch = body.match(/^To:\s*(\d{4}-\d{2})$/m);
+
+            if (!fromMatch || !toMatch) {
+              core.setFailed("Missing or invalid From/To values. Expected format: YYYY-MM.");
+              return;
+            }
+
+            core.setOutput("from_month", fromMatch[1]);
+            core.setOutput("to_month", toMatch[1]);
 
       - name: Check if dates are present
         run: |
-          if [[ -z "${{ env.FROM_MONTH }}" || -z "${{ env.TO_MONTH }}" ]]; then
-            echo "❌ Chybí data (From nebo To)"
+          if [[ -z "${{ steps.extract_dates.outputs.from_month }}" || -z "${{ steps.extract_dates.outputs.to_month }}" ]]; then
+            echo "Chybi data (From nebo To)"
             exit 1
           fi
 
       - name: Generate Custom Report
         env:
-          FROM_MONTH: ${{ env.FROM_MONTH }}
-          TO_MONTH: ${{ env.TO_MONTH }}
+          FROM_MONTH: ${{ steps.extract_dates.outputs.from_month }}
+          TO_MONTH: ${{ steps.extract_dates.outputs.to_month }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scripts/generate_custom_report.py $FROM_MONTH $TO_MONTH
+        run: python scripts/generate_custom_report.py "$FROM_MONTH" "$TO_MONTH"
 
       - name: Generate index.html with links to all reports
         run: python scripts/generate_index_page.py
@@ -50,7 +59,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add summaries/ reports/ index.html
-          git diff --cached --quiet || git commit -m "📝 Auto update reports"
+          git diff --cached --quiet || git commit -m "Auto update reports"
           git push
 
       - name: Close the issue

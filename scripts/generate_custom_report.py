@@ -10,6 +10,7 @@ from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 from plotly.offline import plot
 from openai import OpenAI
+from openai_utils import QuotaExceededError, create_chat_completion
 
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -55,14 +56,20 @@ Zde jsou shrnutí jednotlivých ticketů:
 {summaries_text}
 """
         print(f"📝 Generuji dílčí souhrn pro batch {batch_number}...")
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[
-                {"role": "system", "content": "Jsi analytik podpory. Tvoříš shrnutí pro vedení společnosti."},
-                {"role": "user", "content": prompt}
-            ]
-        )
-        return response.choices[0].message.content
+        try:
+            response = create_chat_completion(
+                client=client,
+                model="gpt-4o-mini",
+                messages=[
+                    {"role": "system", "content": "Jsi analytik podpory. Tvoříš shrnutí pro vedení společnosti."},
+                    {"role": "user", "content": prompt}
+                ],
+            )
+            return response.choices[0].message.content
+        except QuotaExceededError:
+            return "Souhrn od AI nebyl vygenerován, protože byl vyčerpán OpenAI kredit."
+        except Exception as exc:
+            return f"Souhrn od AI se nepodařilo vygenerovat: {exc}"
 
     # Rozdělení na bloky
     batch_summaries = []
@@ -87,14 +94,20 @@ Zde jsou dílčí souhrny:
 {final_summaries_text}
 """
     print("📝 Generuji finální shrnutí ze všech dílčích souhrnů...")
-    final_response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": "Jsi analytik podpory. Tvoříš finální shrnutí pro vedení společnosti."},
-            {"role": "user", "content": final_prompt}
-        ]
-    )
-    return markdown.markdown(final_response.choices[0].message.content)
+    try:
+        final_response = create_chat_completion(
+            client=client,
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": "Jsi analytik podpory. Tvoříš finální shrnutí pro vedení společnosti."},
+                {"role": "user", "content": final_prompt}
+            ],
+        )
+        return markdown.markdown(final_response.choices[0].message.content)
+    except QuotaExceededError:
+        return "<p>Souhrn od AI nebyl vygenerován, protože byl vyčerpán OpenAI kredit.</p>"
+    except Exception as exc:
+        return f"<p>Souhrn od AI se nepodařilo vygenerovat: {exc}</p>"
 
 
 def format_duration(minutes):

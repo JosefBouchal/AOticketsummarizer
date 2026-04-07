@@ -9,6 +9,7 @@ from plotly.offline import plot
 from openai import OpenAI
 from dotenv import load_dotenv
 from dateutil import parser
+from openai_utils import QuotaExceededError, create_chat_completion
 
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -67,14 +68,20 @@ Zde jsou shrnutí jednotlivých ticketů:
 {summaries_text}
 """
 
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": "Jsi analytik podpory. Tvoříš měsíční shrnutí pro vedení společnosti."},
-            {"role": "user", "content": prompt}
-        ]
-    )
-    return markdown.markdown(response.choices[0].message.content)
+    try:
+        response = create_chat_completion(
+            client=client,
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": "Jsi analytik podpory. Tvoříš měsíční shrnutí pro vedení společnosti."},
+                {"role": "user", "content": prompt}
+            ],
+        )
+        return markdown.markdown(response.choices[0].message.content)
+    except QuotaExceededError:
+        return "<p>Souhrn od AI nebyl vygenerován, protože byl vyčerpán OpenAI kredit.</p>"
+    except Exception as exc:
+        return f"<p>Souhrn od AI se nepodařilo vygenerovat: {exc}</p>"
 
 # ====== Načtení dat ======
 def load_tickets(base_path):

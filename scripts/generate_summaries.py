@@ -3,6 +3,7 @@ import json
 from dotenv import load_dotenv
 from openai import OpenAI
 import tiktoken
+from openai_utils import QuotaExceededError, create_chat_completion
 
 load_dotenv()
 
@@ -11,6 +12,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 summaries_path = "summaries"
 
 skipped_log = []
+failed_log = []
 
 # Projde jednotlivé měsíce
 for month_folder in os.listdir(summaries_path):
@@ -69,13 +71,25 @@ Data:
             skipped_log.append(f"{month_folder}/{task_folder} – {num_tokens} tokenů")
             continue
 
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[
-                {"role": "system", "content": "Jsi analytik support dat. Vytváříš kvalitní, čitelné a variabilní shrnutí support ticketů."},
-                {"role": "user", "content": prompt}
-            ]
-        )
+        try:
+            response = create_chat_completion(
+                client=client,
+                model="gpt-4o-mini",
+                messages=[
+                    {"role": "system", "content": "Jsi analytik support dat. Vytváříš kvalitní, čitelné a variabilní shrnutí support ticketů."},
+                    {"role": "user", "content": prompt}
+                ],
+            )
+        except QuotaExceededError:
+            message = f"{month_folder}/{task_folder} - OpenAI quota exceeded"
+            print(f"⚠ {message}")
+            failed_log.append(message)
+            continue
+        except Exception as exc:
+            message = f"{month_folder}/{task_folder} - {exc}"
+            print(f"⚠ Failed to generate summary for {month_folder}/{task_folder}: {exc}")
+            failed_log.append(message)
+            continue
 
         summary = response.choices[0].message.content
 
@@ -83,3 +97,13 @@ Data:
             f.write(summary)
 
         print(f"✅ Summary generated for {month_folder}/{task_folder}")
+
+if skipped_log:
+    print("\nSkipped tickets:")
+    for item in skipped_log:
+        print(f"- {item}")
+
+if failed_log:
+    print("\nFailed tickets:")
+    for item in failed_log:
+        print(f"- {item}")
