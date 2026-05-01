@@ -1,0 +1,51 @@
+{
+  "id": "a08or6p2ng0m0u",
+  "created": "2026-04-21T10:18:16.152Z",
+  "closed": "2026-04-25T07:30:40.441Z",
+  "duration_minutes": 5592,
+  "first_response_minutes": 8,
+  "name": "Api prověření Description",
+  "description": "Dobrý den, posílám tiket za kolegu. -- Dobrý den, dnes dopoledne jsem zavolal na infolinku Alitea (+420 581 737 176), protože jseme si nebyli jistí, kde bychom našli v API pole \" Popis \" (viz. obrázek Aliteo - kontrola.jpg). Pan Daniel Dzuro mi poslal do portálu (#10735) obrázek s místem, kde přesně toto pole v API najdeme (viz. API - Dohlednání pole.jpg). Ten jsem poslal našemu dodavateli, ale ten bohužel v poli \"description\" vidí pouze NULL hodnotu (viz. API u dodavatele.jpg). Rádi bychom Vás poprosili o ověření (popřípadě opravu), zda se toto pole správně plní. Předem děkuji, Michal Kopačka",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 1,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vás, preverim Vašu poziadavku a budem Vas co najskor informovat. Ospravednujem sa za neprijemnosti. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pan Kopacka bol pridany medzi sledujucich."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "díky, potvrzuji že ticket vidí. Zajímavé, že h ove sledujících nevidím. Ale ticket vidí. :-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Je to preto, ze je tak nastaveny projekt.. ak by to bolo nastavene inak, potom by ste videli vsetkych externych ostatnych spolocnosti, co asi nie je v poriadku."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Preveril som a zda sa ze je chyba na nasej strane.. predal som riesenie na nas vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, chyba bola opravena, API uz vracia project description."
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, moc děkuji za rychlou opravu. I náš dodavatel potvrdil, že se data začala přenášet. Za mě se tiket může uzavřít. S přátelským pozdravem, Michal Kopačka"
+    }
+  ]
+}

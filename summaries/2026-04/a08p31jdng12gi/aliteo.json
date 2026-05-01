@@ -1,0 +1,31 @@
+{
+  "id": "a08p31jdng12gi",
+  "created": "2026-04-23T07:57:55.676Z",
+  "closed": "2026-04-24T07:27:16.206Z",
+  "duration_minutes": 1409,
+  "first_response_minutes": 4,
+  "name": "Zmazanie účtu ",
+  "description": "Dobrý den, prosím, o smazání účtu ma-rtina@email.cz , jednalo se o vyzkoušení Vaší aplikace před tím, než ji zavedeme ve firmě. Předem děkuji -- S pozdravem Martina Plecháčová",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobrý deň, zaregistrovali sme Vašu žiadosť o zmazanie účtu s emailovou adresou ma-rtina@email.cz . Vašej požiadavke sa budeme venovať a o jej spracovaní Vás budeme informovať. S pozdravom, Tím ALITEO"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobrý deň, na základe Vašej žiadosti sme zrušili používateľský účet s emailovou adresou ma-rtina@email.cz v systéme ALITEO . S pozdravom, Tím ALITEO"
+    }
+  ]
+}

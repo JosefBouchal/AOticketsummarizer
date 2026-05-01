@@ -1,0 +1,71 @@
+{
+  "id": "a08m4p32ig0o03",
+  "created": "2026-03-31T10:49:35.097Z",
+  "closed": "2026-04-21T07:29:35.359Z",
+  "duration_minutes": 30040,
+  "first_response_minutes": 35,
+  "name": "FW: Aliteo - Převzetí řešení z mailu",
+  "description": "Dobrý den, nešlo by při převzetí úkolu nějak přejít rovnou na úkol? Kolega by rád nějak zobrazil i ten úkol bez nutnosti se vracet. Jirka Dvořák From: Samuel Kalíšek <kalisek.samuel@ncline.cz> Sent: Tuesday, March 31, 2026 12:40 PM To: Jiří Dvořák <dvorak@ncline.cz> Subject: Aliteo - Převzetí řešení z mailu Ahoj, když přebírám řešení rovnou z mailu: Tak se zobrazí jen webová stránka s infem že jsem přebral řešení ale čekal bych alespoň náhled na to káčko takto musím otevřít na novo v aliteu nebo přes druhé tlačítko z mailu: Samuel Kalíšek Specialista ERP +420 737 279 699 , kalisek.samuel @ncline.cz NC Line a.s. Komenského 233 742 01 Suchdol nad Odrou Czech Republic www.ncline.cz",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 4,
+    "from_others": 8,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, ano, to je asi funkcia - oznamenie ze akcia bola uspesna. Vy by ste teda chceli aby sa teda akcia vykona a otvorila sa dana uloha? Len pre istotu sa spytam par otazok: - uzivatel je internym clenoma chce sa stat riesitelom - uzivatelovi sa otvara pri kliku prehliadac kde je prihlaseny do ALITEO? Dakujem"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "- ano, je to jeden z členů týmu, co jim chodí oznámení o tom, že se založil nový požadavek. (řešili jsme nedávno, jak to zařídit, tak jsem to tak nastavil) - ano je přihlášený v aliteo. Musí si kliknout do emailu, otevřít hlášku, že si to převzal, zavřít a kliknout na zobrazit úkol a pak teprve je na úkolu. Ideální by bylo, kdyby na to kliknul, šel by rovnou na úkol, jak to dělá to druhé tlačíko, ale tam by byla hláška, že si převzal úkol. Stačí to takhle vysvětlit?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ano, dakujem, staci, preberiem s kolegami.. a dam Vam vediet.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, este sa chcem spytat k tomuto pripadu, chcem sa len spytat ci ste si vsimli ze v hornej liste ulohy je tlacidlo na \"Prebrat riesenie\": Pretoze cez ten email su 2 cesty: - zobrazit ulohu, lebo sa chcete pozriet a ked chcete prevziat tak klikat na toto tlacidlo (Zobrazit ulohu) v aplikacii - alebo druha cesta - preberate riesenie z emailu , tlacidlo \" Prebrat riesenie\" (nie je treba byt prihlaseny) ale nechcete iste dalej"
+    },
+    {
+      "creator": null,
+      "comment": "Smerovat zakaznika k tomu, ze prejde cez notifikaciu do aplikacie a tam staci prebtat k rieseniu. Danu obrazovku rusit nemozeme, vyuziva sa na prebranie ulohy bez registracie. Nateraz to inac robit nebudeme."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Dobrý den, to tam je  a je to v pořádku. Ten \"problém\" je, že když si kolega přebere úkol rovnou z emailu, tak se mu zobrazí jen hláška, že to přebral. Proč to neskočí do úkolu, kde se to přebere? Viz obrazovky. To, že to může převzít rovnou z emailu je jasné, případně když je v úkolu, tak si ho může přebrat tím tlačítkem, co říkáte.  Ale když si ho přebere, tak se mu zobrazí v podstatě zbytečná hláška, která ho nenavede k úkolu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, rozdiel je v tom ze tlacidlo na prebratie nepozera na to ci ste alebo nie ste prihlaseny, nastavi Vas riesitela nezavisle na tom. Tlacidlo na prbratie logicky vyzaduje prihlasenie."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) vid komentar od p. Dvoraka vyssie, neviem ci dava zmysel to davat opat na poradu, je to tak ako som to prezentoval. Moj napad aby sme dali odkaz na ulohu do tej obrazovky (ktora je potvrdenim  o prebrati riesenia) si odmietol (zo slovami ze je to nezmysel ze je to rovnaky pocet klikov ako ist na \"zobrazit ukol\", tak neviem ako to riesit."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "aha, jasné."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Napisal by som mu, ze to riesit nebudeme, nakolko to ma dalsie navzanosti a uprime to ma maly prinos. Radsej uprednostnime nieco co bude mat vacsiu hodnotu aj pre neho. Zatial je prvy, ktory dal podnet."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, Aktualne sme sa rozhodli tuto zmenu neimplementovat, pretoze by vyzadovala dalsie upravy s malym prinosom. Vasu spatnu vazbu si vazime a evidujeme ju pre pripadne buduce upravy. Dakujeme za pochopenie a verime ze sme Vas nesklamali 🙂 Prajem pekny den."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Super, díky moc i tak 🙂"
+    }
+  ]
+}

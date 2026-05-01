@@ -1,0 +1,71 @@
+{
+  "id": "a08kj9eklg1ce9",
+  "created": "2026-03-19T10:32:01.710Z",
+  "closed": "2026-04-06T20:41:02.673Z",
+  "duration_minutes": 26529,
+  "first_response_minutes": 52,
+  "name": "Dotaz - Zrcadlení úkolu",
+  "description": "Dobrý den, měla bych dotaz a prosbu, jestli by se neuvažovalo o možnosti „zrcadlení  - kopie“ úkolu s možností zobrazení kdekoliv v jiném projektu, týmu atd Jak jsme řešili máme Projekty, ale objednávky se pak řeší v jiném pracovním prostoru. Zrcadlení by urychlilo práci a přehled. Bohužel když se dá kopie úkolu, nekopírují se komentáře, což chybí. Předem děkuji. S pozdravem a přáním pěkného dne Ilona REMEŠOVÁ nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 3,
+    "from_others": 9,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, zrkadlenie a kopia su dve rozdielne veci. To ani robit nechcete, lebo sa bavite o tej istej veci. Ak mam: -  ulohu A v projekte X -  ulohu B v projekte Y A chcem tieto obe ulohy vidiet v time T, tak otvorim ulohy A a B, v zalozky vazby kliknem v oblasti Zrkadlenie na Tim a vyberiem si  tim ktory potrebujem: Nasledne sa mi v time tieto ulohy objavia."
+    },
+    {
+      "creator": null,
+      "comment": "Jenže já potřebuji zrcadlit hlavně do jiného projektu. Tu kopii jsem uváděla z toho důvodu, že to je pro mě náhradní řešení, ale není ideální. Zároveň opravdu škoda, že neumožňuje kopii včetně komentářů."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Rozumiem , Bohuzial nie je mozne zrkadlit do inych projektov. Projekty su zdroje zrkadlenia. Preco nevyhovuje tim?"
+    },
+    {
+      "creator": null,
+      "comment": "Protože máme projekt Objednávky kde vznikne požadavek na objednání, který má vazbu na projekt a i tam je potřeba mít informaci o tom že je objednáno a tak mě to zrcadlení přišlo jako nejjednodušší způsob 😉  Případně to vzniká i obráceně, že v daném projektu se řeší položka, která se objedná a bylo by dobré o ní mít přehled v objednávkách."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) vies sa k tomu nejako vyjadrit, nepride mi uplne uz ten proces co maju spravne, ale nepoznam detailne - ci nahodou uz nezvnikaju potreby na zaklade zleho pouzivania"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "toto je to o com sme sa spolu bavili, ked sme  snou volali. KEd sme ten projekt robili takzeto poziadavky tam nebolo. Tkaze neviem kludne si s nou zavolaj a porad jej inac, v kontexte novych okolnosti. Urobme to zdarma, ona drzi ALITEO v Prime."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, metodicky by sa mal ten hlavny tok informacii nachadzat v tej hlavnej ulohe a vsetky sekundardne v tom druhom. Napriklad: - v projekte A - kde sa riadi cela vyroba a dodanie produktu, sa nachadzaju vsetky ulohy s tym suvisiace a ak sa tam nachadzaju dolezite ulohy pre inych tak mame v zasade dve moznosti: - vytvorenie inej ulohy - do vazby alebo ako dielciu, kde sa riesi \"podproces\" a potom updaty to hlavnej ulohy v projekte - zrkadlit ulohu do timu - ale v tomto pripade to nema zvlast proces , lebo je to stale uloha v tom projekte, len je zobrazena aj v time Je teda spravne zvolit proces, nie vzdy je dobre rozpadat ulohu na viac, ale niekedy je to nevyhnutne. Ak je potrebne mozeme si k tomu zavolat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dohodli sme sa ze si teda zavolíme 30.3.2026 o 10:00. Tesim sa na rozhovor."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "odkaz na teams: https://teams.microsoft.com/meet/34808733395420?p=gHJyYc5n4VhJlErDKm"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, tak sme si na dnesnom calle presli otvorene otazky. Navhrli sme trochu zmenu a teda ze: - projektove objednavky ostavaju v projektoch (typ ulohy objednavka) - ostatne objednavky by mali byt v projekte Objednavky, ale v rovnakom pracovnom priestore ako projekty (teda nie v pracovnom priestore obchodneho oddelenia) Je teda treba prelozit ulohy z projektu Objednavky (PP Obchod) do Objednavky (PP Projekty) - mal by ostat data (popis, komentare, prilohy), odstranit by sa mali atributy, resp je ich treba nastavit nanovo Ukazali sme si aj zmenu dashboardov tak aby ukazovali objednavky po projektoch a zaroven v akom su stave Presli sme si dalsie moznosti zobrazenia: - dalsie dashboardy a pohlady -  pouzitie ganta - idealny postup pri planovani a riadeni projektu Pani Remesova, vyssie poznamky zo stretnutia, mozeem tento pripad uzatvorit? Dakujem vopred"
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím, předem moc děkuji za dnešní online. Aktuální stav je navrženým řešením rozhodně vyřešen. Jen doufám, že do budoucna nebude využíván ještě jiný pracovní prostor - pak by se zrcadlení z projektu do projektu stejně hodilo 😉 Ještě malá otázka jak jsme řešili ty úkoly které se opakují po nějaké frekvenci, navrhoval jste pozastaveno, ale pak mi došlo, že ale zase to tak ten uživatel nevidí ve frontě úkolů a přijde mu až v den kdy má splnit, což je pozdě. Takže né úplně ideální řešení. Pořád mám v hlavě, že \"průběžný termín splnění\" který by si mohl nastavit uživatel na úkol a pak třídit/filtrovat - já v tuto chvíli řeším, že si dávám dodatečné připomenutí na úkolu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ad zrkadlenie z projektu do projektu: - ak bude uloha A v projekte X, a nazrkadlili by ste si ju do projektu Y a potom by ste robili dashboardy - ktoremu projektu by ste chceli aby ta uloha patrila? X alebo Y alebo obom? nie je to analyticky uplne jednoduche ad opakujuce sa ulohy - potom teda nepozastavovat na 30 dni ale na 25, aby mal 5 dni na to aby to splnil 🙂 ( plus moze mat zvlast filter na pozastavene ulohy, do ktorych moze pravidelne pozerat) - ak ho nepozastavi, bude ho mat vo fronte uloh cely cas - takisto asi nie idealne - ak som spravne pochopil, on by si mal svju pracu na ulohe urobit a potom ju na cas dat nabok aby mu nesmrdela medzi ostatnymi. Ak nebude umyselen ist do inych pohladov, tak potom inak ako zmenou etapy na pozastaveno, alebo nastavenim ineho riesitela ako je sam to nepojde - ano, aj pripomienka je riesenie, len ju musite stale pozastavovat"
+    }
+  ]
+}

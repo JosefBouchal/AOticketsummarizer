@@ -1,0 +1,31 @@
+{
+  "id": "a08p32fj0g1u7c",
+  "created": "2026-04-23T08:07:32.499Z",
+  "closed": "2026-04-26T07:00:46.616Z",
+  "duration_minutes": 4253,
+  "first_response_minutes": 0,
+  "name": "Zmazanie účtu ",
+  "description": "Dobrý den, prosím, o smazání účtu plechacova.martina@gmail.com , jednalo se o chybné registrování přes soukromý e-mail. Děkuji Vám",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobrý deň, zaregistrovali sme Vašu žiadosť o zmazanie účtu s emailovou adresou plechacova.martina@gmail.com . Vašej požiadavke sa budeme venovať a o jej spracovaní Vás budeme informovať. S pozdravom, Tím ALITEO"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobrý deň, na základe Vašej žiadosti sme zrušili používateľský účet s emailovou adresou plechacova.martina@gmail.com v systéme ALITEO . S pozdravom, Tím ALITEO"
+    }
+  ]
+}

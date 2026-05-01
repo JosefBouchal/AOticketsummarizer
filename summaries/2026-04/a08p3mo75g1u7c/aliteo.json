@@ -1,0 +1,51 @@
+{
+  "id": "a08p3mo75g1u7c",
+  "created": "2026-04-23T11:48:56.438Z",
+  "closed": "2026-04-24T07:16:01.180Z",
+  "duration_minutes": 1167,
+  "first_response_minutes": 43,
+  "name": "Chybně napočítaná data v API",
+  "description": "Dobrý den, měli bychom na Vás prosbu. Po další detailní analýze dat jsme našemu dodavateli poslali požadavek na opravu napočítaných hodnot ve sloupci [Typ výkazu] u výkazů, které jsou založené přímo na úkolu. Hlavní problém : u výkazů založených na úkolu se do DWH propisují hodnoty „IT Vývoj“, „Manuály a školení“ a „IT Podpora“, ale hodnota „Projektový management“ nikoli. V příloze posíláme data, na základě kterých jsme k tomuto zjištění došli: • Excel (Vytažená data.xlsx) obsahuje výkazy práce uživatele Jakub Buriánek z projektu „Speech to text AI – události, OP, škody“. Kuba zde má 13 výkazů, u kterých není vyplněný atribut [Typ výkazu]. Vytažená data.xlsx • Obrázek 1 ukazuje jeden z těchto výkazů přímo v Aliteu, kde má Kuba atribut vyplněný hodnotou „Projektový management“. ------------------------ Dodavatel nám sdělil, že je problém s propisováním dat do api. Dále kopíruji zprávu od dodavatele: Tohle jsou typy výkazů, které se nám ukládají: (viz. Obrázek 2) Co jsem zkoušela ještě přes API zjišťovat, když jsem si vyjela sharedattributes, tak \"Projekt management\" se schovává pod ID a08hgtjc1g04u8, ale není to v idapicode, takže se nám ten text nepropíše do response u timesheetů (viz. Obrázek 3): Takže třeba u toho výkazu \"TTS - vedení projektu\" se nám to nepropíše: select * FROM [dbo].[aliteo_detailtimesheet] where [Timesheet_id] = 'a08jmu9mdg1u78' -------------------- Prosím o prověření a případné upravení api. Pokud budeme potřeboval detailnější informace, tak se prosím obraťte na erika.cvandova@intecs.cz . Předem děkuji. S přátelským pozdravem, Michal Kopačka",
+  "owner": "Michal Kopačka",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 2,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pozeram na tie data a: - vykaz z obrazka ma cislo 18737 - ale v tej tabulke vykaz z takym cislom nie je Tazko sa mi tieto veci analyzuju, neviem na ktore data sa dopytujete a podobne. Uprimne by som potreboval asi konkretnejsi popis problemu. napriklad: pouzivam endpoint xxxx a mal by som dostat YYYY ake dostavam null. Rozumieme si?"
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, omlouvám se – po Vaší zprávě jsem si uvědomil, že jsem Vám do Excelu nevložil čísla výkazu práce z Alitea. Tato čísla si totiž v Azure nahrazujeme vlastními ID ([TimesheetDwId]). V příloze proto posílám upravený Excel, který jsem rozšířil o sloupec [Číslo výkazu hodin] s příslušným číslem z Alitea. Vytažená data_2.xlsx Detailnější popis problému jsem vyznačil na obrázku:  Místo hodnoty None by měl být  \"Projektový management \"(viz. obrázek ) Více technických detailů bohužel nevím. Zpracovává to pro nás Intecs. Pro více informací prosím napište na email erika.cvandova@intecs.cz . Já pak následně pracuji s daty v MS Azure a vytváříme s Intecs Power BI aplikace. S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) co an to hovoris.. chcem to riesit.. ale ci ja mam byt ten kto ma pisat ich dodavatelovi.. ale ked ju dam do sledujuceho tak dostane email.. takze tam by problem nemal byt zeby som to musel iresit dvomi kanalmi.. len ide o to ci ja to mam riesit za neho.. pan Kopacka nie je ani adminom a ja do spolocnosti Respect pristup nemam"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas pani Cvandova, mam na Vas kontakt od p. Kopacku. Mal by som s Vami riesit problem s API komunikaciou medzi Vami a ALITEO. Ak som spravne pochopil problem je v tom ze niektore hodnoty sa nevracaju prostrednicvom API spravne. Skusme asi postupovat nasledovne: - napiste nam endpoint ktory posielate - jeden pripad kedy sa to vrati spravne - jeden pripad kedy sa to vrati nespravne Pridavan do komunikacie aj pana @ Michal Přibyl (Michal.Pribyl@respect.cz) nakolko pan @ Michal Kopačka (michal.kopacka@respect.cz) nie je administratorom a ja nemam pristup ani k API klucu ani k nicomu aby sme to vyskusali."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pan @ Michal Kopačka (michal.kopacka@respect.cz) som si vsimol ze sa namiesto /timesheets/detail (detail vykazu prace) pouziva /sharedattributes/detail Pozrite s administratorom, asi panom @ Michal Přibyl (Michal.Pribyl@respect.cz) ci mate na moznosti Projekt management vyplnene \"Kód hodnoty pro API komunikaci\". Lebo to vracia NULL ako keby nebolo vyplnene."
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, přeposílám email od Eriky. Psala mi, že nemůže  na Vaši zprávu odpověďet. --- Dobrý den Michale, četla jsem mail od pana Dzura z Aliteo, ale já se bohužel nedostanu do Aliteo, abych mohla odpovědět přímo - každopádně jsem viděla, že ty typ výkazu \"Projekt management\" už se propisuje správně do pole attributes.valueapicode. Myslím, že už je to teda v pořádku. Pan Dzuro v mailu ještě upozorňoval, že využíváme endpoint /sharedattributes/detail, ale to jsem jenom ukazovala testování na swaggeru, data jinak stahuju z toho správného endpointu timesheets/detail. --- Potvrzuji, že se hodnota \" Projektový management \" v poli [typ výkazu] už propisuje. Proto by mělo být už vše v pořádku. Děkuji za rychlou opravu. Prosím o uzavření tiketu. S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Super, dakujem pekne za spravu pan @ Michal Kopačka (michal.kopacka@respect.cz) . Pani Cvandova, odpovedat by Vam malo ist klasickou odpovedou na email. Dakujem este raz a prajem pekny den."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a08lkf5q9010e1",
+  "created": "2026-03-27T11:48:53.301Z",
+  "closed": "2026-04-03T12:27:47.145Z",
+  "duration_minutes": 10118,
+  "first_response_minutes": 38,
+  "name": "Re: dotaz ke stavům",
+  "description": "Dobrý den, Můžete mě prosím poradit ohledně nastavení sekce \"Stavy\". Je tam přednastaveno \"nová - analýza - programování - testování - uat - čeká na reakci - pozastaveno - žádost - žádost\". Rád bych to editoval a nastavil si sekce podle sebe? Je jich tam moc, tolik jich nepotřebujeme 🙂 . Díky. S pozdravem, Milan Musil Obchodní partner společnosti TV Nova s.r.o. Milan.Musil@novatv.cz TV Nova s.r.o. Kříženeckého nám. 1078/5 152 00 Praha 5 Czech Republic nova.cz tn.cz oneplay.cz Please consider the environment before printing. Od: Marzini Pavel - ALITEO <pavel.marzini@aliteo.cz> Odesláno: pátek 27. března 2026 12:32 Komu: Musil Milan <Milan.Musil@novatv.cz> Předmět: RE: dotaz ke stavům Dobrý den, pane Musile, děkuji za dotaz. Chtěl bych Vás pouze poprosit, zda byste přeposlal přímo na support@aliteo.com . Kolegy ze supportu jsem informoval, že jim budete psát. Přihoďte případně ještě screen a kolegové Vám obratem poradí. Moc děkuji a přeji příjemný víkend. S pozdravem, Pavel Marzini From: Musil Milan <Milan.Musil@novatv.cz> Sent: Friday, March 27, 2026 11:03 AM To: Marzini Pavel - ALITEO <pavel.marzini@aliteo.cz> Subject: dotaz ke stavům Dobrý den, Můžete mě prosím poradit ohledně nastavení sekce \"Stavy\". Je tam přednastaveno \"nová - analýza - programování - testování - uat - čeká na reakci - pozastaveno - žádost - žádost\". Rád bych to editoval a nastavil si sekce podle sebe? Je jich tam moc, tolik jich nepotřebujeme 🙂 . Díky. S pozdravem, Milan Musil Obchodní partner společnosti TV Nova s.r.o. Milan.Musil@novatv.cz TV Nova s.r.o. Kříženeckého nám. 1078/5 152 00 Praha 5 Czech Republic nova.cz tn.cz oneplay.cz Please consider the environment before printing. Internal Please note that the below disclaimer shall apply to any and all e-mail communications provided on behalf of TV Nova s.r.o. Upozornění: Obsah tohoto e-mailu slouží pouze pro účely komunikace a nemůže být vykládán jako návrh nebo přijetí návrhu na uzavření/změnu/ukončení jakéhokoli smluvního vztahu ze strany společnosti TV Nova s.r.o. (dále jen „Společnost“), včetně zajištění či utvrzení dluhu, vzdání se práva či prominutí dluhu ze strany Společnosti. Vezměte prosím na vědomí, že uzavírání/změna/ukončení smluvních vztahů podléhá internímu schvalovacímu procesu Společnosti, a proto nelze důvodně očekávat uzavření smlouvy ani změnu/ukončení existujících smluvních vztahů, dokud nebude právní jednání Společnosti učiněno v písemné formě s podpisem oprávněné jednající osoby. Společnost tímto vylučuje přijetí jakéhokoliv návrhu na uzavření smlouvy (nabídky) s dodatkem či odchylkou, a to i v případě, kdy takový dodatek či odchylka podstatně nemění podmínky nabídky Společnosti. Tento e-mail a všechny přiložené soubory jsou důvěrné a jsou určeny pouze adresátům jmenovaným výše. Jestliže jste tento e-mail obdrželi omylem nebo nejste adresátem jmenovaným výše, informujte prosím odesílatele a vymažte tento e-mail, včetně veškerých přiložených souborů a kopií. Jestliže nejste oprávněným adresátem tohoto e-mailu, nejste oprávněn informace v něm obsažené žádným způsobem zveřejňovat, šířit ani jinak užívat. Děkujeme. Veškeré informace a kontaktní údaje související s ochranou osobních údajů společnosti TV Nova s.r.o. naleznete zde . Internal",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím Vás, Tento kamban stavov reprezentuje vsetky stavy uloh, ktore mize jloha nadobudat. Prepínajú sa aj stláčaním tlačidiel v detiale úlohy Ak tých etáp riešenia (to je podmnožina stavov) chcete mať menej, otvorte Nastavenia spolocnosti -> pracovné priestory -> konkretny pracovný priestor -> etapy. Ostatné stavy ako pozastavene’, čaká na reakciu sú štandardné a tie sa odstrániť nedá."
+    }
+  ]
+}

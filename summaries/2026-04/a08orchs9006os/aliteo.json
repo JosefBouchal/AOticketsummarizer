@@ -1,0 +1,47 @@
+{
+  "id": "a08orchs9006os",
+  "created": "2026-04-21T11:21:20.826Z",
+  "closed": "2026-04-21T14:17:20.518Z",
+  "duration_minutes": 175,
+  "first_response_minutes": 63,
+  "name": "Nastavení práv interního uživatele",
+  "description": "Dobrý den, Existuje nějaká možnost nastavit interního uživatele bez licence jako řešitele úkolu ? díky S pozdravem/best regards/Mit freundlichen Grussen Ing. T. Šesták ESON CZ s.r.o. Karlická 457 252 29 Lety Czech Republic Tel.: +420 602236683 e-mail: t.sestak@eson.cz",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, riesitelom ulohy moze byt iba: - interny clen spolocnoti - externy clen spolocnosti s licenciou + musi byt internym clenom daneho projektu kde je dana uloha Ako riesit spojenie s externym uzivatelom? mozete pouzit stav ulohy \"cakat na\" a vyberiete uzivatela (externeho) - musi byt opat clenom projektu."
+    },
+    {
+      "creator": null,
+      "comment": "OK, rozumím. Takže potřebuji dokoupit licenci. Nyní máme 6 a potřebuji 7. Jak na to ? S pozdravem/best regards/Mit freundlichen Grussen Ing. T. Šesták ESON CZ s.r.o. Karlická 457 252 29 Lety Czech Republic Tel.: +420 602236683 e-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Otvorte nastavenie spolocnosti -> Licencie Kliknete na tlacidlo a dalej sa riadit tym co vidite - vo vasom pripade pridate uzivatela a dokoncite nakup.."
+    },
+    {
+      "creator": null,
+      "comment": "Díky, objednáno, zaplaceno. S pozdravem/best regards/Mit freundlichen Grussen Ing. T. Šesták ESON CZ s.r.o. Karlická 457 252 29 Lety Czech Republic Tel.: +420 602236683 e-mail: t.sestak@eson.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Super, dakujeme 🙂 Mozeme uzatvorit?"
+    },
+    {
+      "creator": null,
+      "comment": "Ano"
+    }
+  ]
+}

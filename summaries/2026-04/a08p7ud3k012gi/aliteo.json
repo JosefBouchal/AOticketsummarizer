@@ -1,0 +1,35 @@
+{
+  "id": "a08p7ud3k012gi",
+  "created": "2026-04-24T12:30:37.847Z",
+  "closed": "2026-04-26T16:56:31.931Z",
+  "duration_minutes": 3145,
+  "first_response_minutes": 18,
+  "name": "dotaz na SLA",
+  "description": "Dobrý den, chci se zeptat zda lze nějak nastavit aby se SLA nepočítalo o státních svátcích?",
+  "owner": "Josef Blažek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano, v pracovnom priestore v nastaveni pracovnej doby, si pridajte vynimky prave pre dni kedy SLA nechcete pocitat."
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "Děkuji, to znamená že velikonoce nesmím zapomenout nastavit. Můžete tiket zavřít"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, vsetky celozavodne dovolenky, sviatky a podobne je treba nastavit ako vynimky. Snazime sa byt legislativne nezavisli. Dakujem zatvaram."
+    }
+  ]
+}

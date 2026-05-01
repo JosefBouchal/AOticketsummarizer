@@ -1,0 +1,43 @@
+{
+  "id": "a08m0um9og0ka1",
+  "created": "2026-03-30T12:32:39.534Z",
+  "closed": "2026-04-08T17:20:00.632Z",
+  "duration_minutes": 13247,
+  "first_response_minutes": 32,
+  "name": "Nelze založit interní KA na karat@ncline.cz",
+  "description": "Dobrý den, Stalo se nám u dvou lidí, že nefunguje založení tiketu v Aliteo přes email. V příloze zasílám 2 emaily. Jeden jak ho poslal – druhý, co mu to odpovědělo. Přičemž ale jiné emaily fungují a tikety normálně zakládají. Ještě máme jednoho takového šotka „Cannot create task for project a07iapq5ng1al0 - owner polasek@ncline.cz cannot be owner for such task.“ Víz nastavení projektu na obrázku. Jirka From: Jitka Mičulková <miculkova.jitka@ncline.cz> Sent: Monday, March 23, 2026 10:08 AM To: Jiří Dvořák <dvorak@ncline.cz> Subject: Nelze založit K na karat@ncline.cz Ahoj, Viz příloha Jitka From: Roman Šulek < rsulek@ncline.cz > Sent: Monday, March 23, 2026 8:42 AM To: Jitka Mičulková < miculkova.jitka@ncline.cz > Cc: Samuel Kalíšek < kalisek.samuel@ncline.cz > Subject: RE: prtscr Ahoj, email byl zaslán ve čtvrtek 19. 3. 2026 na adresu karat@ncline.cz , na základě čehož byl následně na moji adresu odesláno oznámení týkající se problému s účtem ALITEO, viz přílohy. Předem děkuji. S pozdravem/Best regards/Mit freundlichen Grüßen Roman Šulek Controlling + 420 737 983 581, rsulek @ncline.cz NC Line a.s. Komenského 233 742 01 Suchdol nad Odrou Czech Republic www.ncline.cz From: Jitka Mičulková < miculkova.jitka@ncline.cz > Sent: Monday, March 23, 2026 8:31 AM To: Roman Šulek < rsulek@ncline.cz > Cc: Samuel Kalíšek < kalisek.samuel@ncline.cz > Subject: RE: prtscr Ahoj, Na jaký  email si posílal požadavek? Můžeš mi mail přeposlat? Díky Jitka",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ako mate nastaveny projekt, kde padaju tieto emaily? Ide mi priamarne o to nastavenie, kde sa povoluje zakladanie uloh emailom. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Aha teraz som si vsimol, ze ste posielali, idem sa na to pozriet."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Update: Nasadzovali sme nedavno aktualizaciu rozpoznavania emailovych adries a ich konverziu na realnych clenov spolocnosti.  Pri tejto aktualizacii je mozne ze ochrana vytvorenie ulohy nejako nezablokovala ineho externeho uzivatela. Pracujeme na oprave."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Moc děkuji za informace. Dejte vědět, jak budete mít úpravu - zkusíme to pak otestovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, oprava bola nasadena, mozete skusit prosim?"
+    }
+  ]
+}

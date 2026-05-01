@@ -1,0 +1,63 @@
+{
+  "id": "a08orok6gg098n",
+  "created": "2026-04-21T13:33:12.657Z",
+  "closed": "2026-04-25T08:31:31.744Z",
+  "duration_minutes": 5458,
+  "first_response_minutes": 40,
+  "name": "Ukládání pracovního výkazu s atributem [Typ výkazu] na projektu",
+  "description": "Dobrý den, chtěl bych Vás poprosit o radu s následujícím problémem. U výkazů máme nastaven povinný customizovaný atribut [Typ výkazu]. Chování je však rozdílné podle toho, jakým způsobem uživatel výkaz zakládá: Když uživatel založí pracovní výkaz na úkolu a vyplní povinný atribut [Typ výkazu], atribut se uloží správně (viz obrázek č. 1). Když uživatel založí pracovní výkaz přímo nad úkolem a vyplní povinný atribut [Typ výkazu], atribut se neuloží. Navíc se ani neobjevuje v seznamu atributů. Zkoušeli jsme tento atribut přidat do projektů, ale nepodařilo se nám to. Mohli byste nám prosím doporučit nějaké elegantní řešení? Předem děkuji. S přátelským pozdravem, Michal Kopačka",
+  "owner": "Michal Kopačka",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 6,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, rozdiel je v tom ze v jednom pripade urobil uzivatel vykaz na projekt a v druhom pripade na ulohu. Teda ak mate atribut na projektovy vykaz prace tak sa Vam zobrazi iba vo vykazoch nad projektovou ulohou."
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, Výkaz práce na projektu: při zakládání výkazu práce na projektu vyplním tabulku s detaily výkazu . Po uložení této tabulky se na detailu právě založeného výkazu zobrazí informace, že atribut [typ výkazu] byl změněn, ale bohužel, se tento tento atribut (v levém horním rohu) vůbec nezobrazuje. Když data v Aliteu zkontroluji pomocí nástěnky, tak je patrné, že tento vyplněný atribut Aliteo ignoruje. Jako by se do databáze vůbec neuložil. Výkaz práce na úkolu : U výkazu práce na úkolu vše funguje podle očekávání. Chtěl bych se zeptat, jak bychom mohli tento problém s výkazy vyřešit. Předem děkuji. S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravim, ak mate prava, pozrite nastavenie zobrazenia atributu... ci tam mate nastavene kde sa ma a aza akych podmienok zobrazovat.. ide o toto nastavenie"
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, spojil jsem se s kolegou, která má potřebná práva. Koukali jsme se u nás na pracovní prostor \" vývoj \" a nastavení atributu. Když se podívám na Váš komentář ##3 , tak vidím, že máme nastavený atribut [Typ vývoje] stejně, jako vy. Problém stále přetrvává."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pozeram na to a ide o vykaz prace na projekt nie na ulohu. Pre tento typ musite pozriet do nastavenie spolocnosti -> atributy -> atributy a skontrolujte toto nastavenie tam Tam to asi nebude nastavene aby bol ten atribut viditelny v lavom paneli vykazu prace"
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, koukali jsme se s kolegou do atributů, jak jste nám psal v komentáři ##5 , ale nevíme přesně co zde mám zkontrolovat. Poslal byste nám prosím nějaký obrázek, jak tyto atributy mají být správně nastavené? Předem děkuji. S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, tak ako som pisal v komentari ##3 v atribute je treba najst vlastnost (oznacenu sipkou) \" Zobrazit na detaile vykzu prace v levem panelu \". Tymto nastavite aby sa dany atribut objavil v tom lavom paneli. Takto to mate nastavene pre vykazy prace na projektove ulohy (nastavuje sa nastavenie spolocnosti -> pracovny priestor-> atributy) Treba to takto nastavit aj na vseobecne vykazy (nastavuje sa: nastavenie spolocnosti -> atributy -> atributy) Nastavte si teda vseobecny atribut podla toho v pracovnom priestore."
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, zkusíme to nastavit a následně Vám napíšu. Předem děkuji. S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, nastavení v Aliteu prošel a nastavil p. Blažek. Bohužel problém stále přetrvává. Poradil byste nám prosím, co přesně bychom měli zkusit v nastavení aliteo zkontrolovat? Předem děkuji. S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, už se nám to podařilo nastavit. Nyní už vše funguje podle očekávání. Moc děkuji za rady. Prosím o uzavření tiketu. S přátelským pozdravem, Michal KOpačka"
+    }
+  ]
+}

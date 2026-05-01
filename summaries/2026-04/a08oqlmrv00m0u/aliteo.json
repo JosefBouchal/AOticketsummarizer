@@ -1,0 +1,47 @@
+{
+  "id": "a08oqlmrv00m0u",
+  "created": "2026-04-21T07:11:49.746Z",
+  "closed": "2026-04-21T10:23:20.376Z",
+  "duration_minutes": 191,
+  "first_response_minutes": 1,
+  "name": "API a Popis projektu",
+  "description": "Kde najdem v API popis projektu",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 3,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, popis projektu najdete v endpointe /projects/detail. V response: Data -> Description :"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, moc děkuji za radu, kde najdeme v API pole \"Popis projektu\". S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Je teda dana vec vyriesena a mozeme pripad uzatvorit?"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den,\r\n\r\nještě jednou děkuji a prosím o uzavření tiketu.\r\n\r\nS přátelským pozdravem,\r\n\r\nMichal Kopačka\r\n\r\n\r\n﻿Michal Kopačka\r\nIT aplikační specialista\r\n●\r\nRESPECT, a.s.\r\nPod Krčským lesem 2016/22, 142 00  Praha 4\r\nmobil +420 793 943 374\r\nmichal.kopacka@respect.cz\r\nwww.respect.cz\r\n●"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, zamiestli ste uzatvorenie ticketu. Mate este nejake otazky k tomu?"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, ještě jednou moc děkuji za pomoc. Nemám další otázky. Psali jsme si s dodavatelem a vypadá to, že se pole \"Discription\" neplní správně. Můj vedoucí založí tiket pro ověření této funkčnosti. S přátelským pozdravem, Michal Kopačka"
+    }
+  ]
+}

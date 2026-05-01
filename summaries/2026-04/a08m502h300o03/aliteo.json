@@ -1,0 +1,83 @@
+{
+  "id": "a08m502h300o03",
+  "created": "2026-03-31T12:05:51.421Z",
+  "closed": "2026-04-25T06:12:58.989Z",
+  "duration_minutes": 35647,
+  "first_response_minutes": 105,
+  "name": "Fwd: FW: ALITEO - #344 - new comment in task: Příchozí hovor - 16.01.2026 09:03:26",
+  "description": "Dobrý den, zákazník se chtěl po týdnu podívat na automatické uzavření ticketů, ale nemohl je zobrazit. Odkazy v přiložených emailech mu zobrazili zase login stránku. Mohl by jste se na to prosím podívat? Nastavení mám stejné jako na jiných projektech. Zákazník si to přeposílá uvnitř jeho firmy. Děkuji -- Michal Votava Service SW developer | ICE Industrial Services a.s. | www.ice.cz | +420 725 030 814 ---------- Forwarded message --------- Od: Rokos Jiří < rokos@strojmetal.cz > Date: út 31. 3. 2026 v 9:22 Subject: RE: FW: ALITEO - #344 - new comment in task: Příchozí hovor - 16.01.2026 09:03:26 To: Michal Votava ICE < michal.votava@ice.cz > Dobrý den pane Votavo, v příloze Vám posílám poslední tickety, na které se nemůžu přihlásit. S pozdravem Ing. Jiří Rokos Výrobní ředitel / Production Manager Strojmetal Aluminium Forging, a.s. Ringhofferova č.p. 66, 251 68 Kamenice tel.: +420 323 619 550 mob.: +420 702 007 532 fax: +420 323 619 555 rokos@strojmetal.cz www.strojmetal.cz From: Michal Votava ICE < michal.votava@ice.cz > Sent: Tuesday, March 31, 2026 7:58 AM To: Rokos Jiří < rokos@strojmetal.cz > Subject: Re: FW: ALITEO - #344 - new comment in task: Příchozí hovor - 16.01.2026 09:03:26 Dobrý den, pane Rokosi, kolega Jonáš se zmiňoval že máte problém s ticketama v Aliteu, můžete mi poslat email s odkazem přes který se na něj dostáváte? Děkuji -- Michal Votava Service SW developer | ICE Industrial Services a.s. | www.ice.cz | +420 725 030 814 pá 16. 1. 2026 v 10:21 odesílatel Michal Votava ICE < michal.votava@ice.cz > napsal: Dobrý den, Přeposílám mail od našeho zákazníka s opakujícím se problémem. Mohl by jste tomu prosím věnovat pozornost? Děkuji -- Michal Votava Service SW developer | ICE Industrial Services a.s. | www.ice.cz | +420 725 030 814 pá 16. 1. 2026 v 9:49 odesílatel Rokos Jiří < rokos@strojmetal.cz > napsal: Dobrý den pane Votavo, přišly mi už dva tikety, ale nemám tam přístup. Můžete mi s tím prosí pomoct? Děkuji Ing. Jiří Rokos Výrobní ředitel / Production Manager Strojmetal Aluminium Forging, a.s. Ringhofferova č.p. 66, 251 68 Kamenice tel.: +420 323 619 550 mob.: +420 702 007 532 fax: +420 323 619 555 rokos@strojmetal.cz www.strojmetal.cz From: notifications@aliteo.com < notifications@aliteo.com > Sent: Friday, January 16, 2026 9:04 AM To: SAF_DS_Obrobna < SAF_DS_Obrobna@strojmetal.cz > Subject: ALITEO - #344 - new comment in task: Příchozí hovor - 16.01.2026 09:03:26 ICE pomocník added new comment ICE Industrial Services a.s. / ServiceDesk / SAF Kamenice Obrobna / Pavel #344 Pavel Příchozí hovor - 16.01.2026 09:03:26 Vážený zákazník,rádi bychom Vás informovali o vzniku servisního ticketu.Děkujeme za Váš čas a spolupráci.S pozdravem,Tým zákaznické podpory ICE Industrial Services a.s. Answer the comment Show task Copyright 2022 ALITEO • Powered by KARAT Software ⚠️ UPOZORNĚNÍ: Tento e-mail pochází od externího odesílatele. Buďte opatrní při klikání na odkazy nebo otevírání příloh.",
+  "owner": "Michal Votava",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 15,
+    "from_owner": 7,
+    "from_others": 8,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, - takze uzivatel s emailom rokos@strojmetal.cz je vlastnikom pripadu - anonymnym (nemate ho v spolocnosti ICE). - dostane upozornenie k pripadu do emailu - tukne na \"zobrazit ulohu\" a otvori sa mu prehliadac ale nenasmeruje ho do portalu ale na prihlasovaciu obrazovku ALITEO?"
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Zdravím,\nVlastník je projektu je servis_ice-L329@strojmetal.cz na který přišel ticket a zákazník si ticket přeposlal uvnitř firmy, třeba na rokos@strojmetal.cz (Domnívám si že to tak dělají, nejsem si jistý)\nPo kliknutí na odkaz se mu otevře přihlašovací obrazovka do Alitea,  stejně tak mě když kliknu na odkaz v emailu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, mne ide o vlastnika pripadu. Mozeme sa pokojne spojit, lebo to bude asi na dlhsie vysvetlovanie. Ked by ste prosim mali cas? Ja mozem aj hned teda 2.4.2025 do 12:55."
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Dnes už to nezvládnu, co v úterý 7.4 od 14:00 a déle? Nebo v kdykoliv v pátek 10.4"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dnesne popoludnie uz mam obsadene (dopoludnie mam volne). Dalsie moznosti mam stvrtok 9.4 9-12:00 alebo piatok 13-14:00. Dakujem"
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Dobrý den, dejme to v pátek ve 13:00?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dohodnute, poslal som vam pozvanku do MS Teams."
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "#344 Příchozí hovor - 16.01.2026 09:03:26 - test URL úlohy #344 Příchozí hovor - 16.01.2026 09:03:26 - test ##1 URL tlačítka \"Show task\"\nÚloha založena přes API\nVlastník projektu servis_ice-Obrobna@strojmetal.cz lev pan..png"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem pekne.. este prosim potom o ten pripad, kedy vsetko funguje.."
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Zde příklad OK ticketu #407 Příchozí hovor - 10.04.2026 13:21:52 URL úlohy https://portal.aliteo.com/anonymoustasks/a08ne27an01v4v/a04v5hfoj00i8j/13370a86-4a8d-4032-4f0a-51d75cc8a09d/a08ne2d6a00v3k URL tlačítka \"Show task\"\nÚloha založena přes API Vlastník projektu rezbar@seznam.cz lev pan OK.png ok ticket 2.png ok ticket.png"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, super, prehadzujem to hned na kolegov z vyvoja. Na prvu vidim rozdiel v tom, ze uzivatel servis_ice-Obrobna@strojmetal.cz je \"neaktivny\" a uzivatel rezbar@seznam.cz je v stave pozvanka. Skuste sa este pohrat s tym uzivatelom \" rezbar@seznam.cz \" , napriklad zruste mu pozvanku, napiste komentar, aby mu prisiel znovu email a ci bude nadalej fungovat ak bude neaktivny."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, opat sme patrali v datach a zda sa ze bol problem v tom ze: - dany email existoval ako uzivatel spolocnosti - vznikla uloha s nim ako vlastnikomulohy - uzivatela ste odpojili Vznikol tak stav ked uloha bola zalozena vlastnikom, ktory je znamy v spolocnosti a potom ste ho odstranili. Tym padom mu dosla notifikacia ako beznemu uzivatelovi, aj ked nim uz nebol. Zaroven plati, ze na ulohach ktore budu zalozene tymto uzivatelom odteraz (resp. po jeho odpojeni).. by mal odkaz do portalu fungovat spravne."
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Zdravím , super, je pravda že uživatel nebyl přidán, odstranil jsem ho, poslal pozvánku znova, při dal ho a při testech mi to fungovalo. Poprosil jsem ještě zákazníka ať vyzkouší. \nDěkuji za odpověď"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nie je urcite za co.. nechavame tento pripad otvoreny kymzakaznik potvrdi ze je to v poriadku alebo ho zatvorime?"
+    },
+    {
+      "creator": "Michal Votava",
+      "comment": "Očekávám že mi do pátku dá vědět. Když, ne připomenu se mu následující týden, ale může se to uzavřít."
+    }
+  ]
+}

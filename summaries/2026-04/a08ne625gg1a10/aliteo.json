@@ -1,0 +1,39 @@
+{
+  "id": "a08ne625gg1a10",
+  "created": "2026-04-10T12:01:48.490Z",
+  "closed": "2026-04-21T11:37:35.843Z",
+  "duration_minutes": 15815,
+  "first_response_minutes": 10,
+  "name": "Nefunkční odkaz pro přijetí pozvánky do firmy pro nového zaměstnance s externí licencí",
+  "description": "Dobrý den, Chtěl bych nahlásit chybu, která se nám stala dnes, kdy nový zaměstnanec s externí licencí Aliteo nemůže potvrdit pozvánku do firmy – viz screenshot Odkaz pozvánky do firmy je https://portal.aliteo.com/invitation/a08ne3e52g050n/748e5733-e8a9-43be-8149-87cb4937a6ec Díky za vyřešení, S pozdravem David PLEVA IT oddělení tel.: +420 776 581 680 david.pleva @prim.cz www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, bol uzivatel registrovany do ALITEO? Ak je mozne prosim poslite nam emailovu adresu, pod ktorou ste uzivatela pozyvali. Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, Ano zaregistrovaný je – edita.kollarova@prim.cz David PLEVA IT oddělení tel.: +420 776 581 680 david.pleva @prim.cz www.prim.cz | Facebook | Instagram | YouTube"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, posuvam kolegom na vyvoj..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, vec sme zda sa vyriesili ale este ju testujeme. Ale mozete skusit ci Vam prejde prijatie pozvanky"
+    }
+  ]
+}

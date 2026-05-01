@@ -1,0 +1,59 @@
+{
+  "id": "a08jishnb01u78",
+  "created": "2026-03-11T13:46:16.546Z",
+  "closed": "2026-04-01T20:40:10.302Z",
+  "duration_minutes": 30653,
+  "first_response_minutes": 59,
+  "name": "Api k prověření",
+  "description": "Dobrý den, podařilo se mi dohledat, že v Aliteo API je nějaký problém s endpointem tasks/list. Proces funguje tak, že si z endpointu projects/detail načteme seznam hodnot ze sloupce section a přes tyto hodnoty potom iterujeme a voláme seznam úkolů (endpoint tasks/list), kde je parametr volání hodnota section z projektu. Včera a dnes (během mého testového spouštění) se začalo stávat, že endpoint tasks/list nevrátí seznam ids úkolů, ale vrátí chybu. Při opětovném pokusu to projde, ale spadne to zase na jiném volání section id. Příklad: section id a045dsu7k0getk Error:  ListTask {\"company\": \"[REDACTED]\", \"section\": \"a045dsu7k0getk\"} <Response [500]> při pokusu přes Swagger UI: Když jsem to zkoušela znova, tak už to prošlo bez problémů. Teď se zdá, že to prošlo, ale nevím, jestli se chyba nebude ještě opakovat. Šlo by prosím prověřit, jestli se něco neměnilo v Aliteo API a jestli to je něco, co by bylo potřeba na naší straně nějak ošetřit dlouhodobě? S pozdravem Erika Čvandová",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 4,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, takze problem je ten ze API funguje avsak obcas sa stane ze dostanete chybu tohto typu: Response: Error:  ListTask {\"company\": \"[REDACTED]\", \"section\": \"a045dsu7k0getk\"} <Response [500]> Tak?"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "ano, přesně tak.\nnemůže to souviset s limitem toho Api, co jste nedávno zavedli ?\nabych pravdu řekl, nevím jak to tam je licencované, a jak moc volání od nás probíhá, ale voláme to celé jednorázově okolo 22: h a celé to běží 40 minut.\n\nMichal"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To ma napadlo takisto, to obmedzenie nie je vsak na celkove dotazy ale na pocet dotazov za jednu minutu. Ak ste niekedy dosiahli limit, malo by to byt uvedene v licenciach s tym, ze pri prvom prekroceni by to nemalo odrezat komunikaciu - mala by dojst a na naslednu v ramci danej minuty by ste mali byt upozorneni. Cakal by som ze dostanete aj hlasku o tom ze nemate licenciu. Zaroven som ale z popisu pochopil ze ste to skusali aj jednorazovo. Ak to teda neplati a teda sa to stava pri nejakej davke, potom je tato uvaha validna. Vedeli by ste zistit kolko API dotazov sa pusti priemerne za minutu ked bezi ta davka? Predpokladam ze to moze byt problem ked to ide 40 minut."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "ok zjistím to, jaké jsou tam tedy limity prosím?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Aktualne tam mate teraz 200 volani za minutu s tym ze toto licencovanie je vysvetlene nasledovne: Zobrazená hodnota predstavuje najvyšší počet pokusov o API volania zaznamenaný počas jednej minúty v danom mesiaci (vrátane zamietnutých požiadaviek po prekročení limitu), nie počet skutočne spracovaných volaní."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Mohu dostat přesnou responsi? Http 500 znamená Internal server error, nicméně v těle rsponse by mělo být uvedeno, o jakou chybu jde. Ten JSON v popise mi připadá spíše jako request, nikoliv response."
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "Díky,\nnakonec to vypadá, že kolegyně se to povede vyřešit. Zdá se, že to jsou dva jiné problémy, ale oba jsem schopná vyřešit přímo v extrakci. jedna věc je, že u některých projektů to vrátilo prázdné section id, což se nám přepíše na NaN a na tom to pak padalo, k tomu mě navedla tato response {'version': 3, 'versionRequired': 2, 'iserror': True, 'error': 'section attribute missing or not valid', 'isrepeatable': False} druhá věc je, že pro section id a045dsu7k0getk se vrací tisíce ids úkolů, na tom zase padalo ukládání. kdyby ne, dám vědět. Každopádně díky za reakci"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "mozeme teda uzatvorit a pripadne zalozite novy pripad?"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "jojo díky, snad už je to ok. Michal"
+    }
+  ]
+}

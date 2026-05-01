@@ -1,0 +1,35 @@
+{
+  "id": "a08or722g00m0u",
+  "created": "2026-04-21T10:21:20.322Z",
+  "closed": "2026-04-21T11:06:54.462Z",
+  "duration_minutes": 45,
+  "first_response_minutes": 2,
+  "name": "přístup do aliteo support",
+  "description": "Dobrý den, můžete prosím zřídit přístup panu Michalovi Kopačkovi do alitea.\n\n\npozice \"IT aplikační specialista\" \nměl by mít přístup ke svým ticketům telefon:773 177 235\nemail michal.kopacka@respect.cz děkuji Michal Přibyl",
+  "owner": "Michal Přibyl",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vás, preverim Vašu poziadavku a budem Vas co najskor informovat. Ospravednujem sa za neprijemnosti. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, uzivatel s emailom michal.kopacka@respect.cz bol pozvany do spolocnosti a pridany do projektu Support. Mozeme uzatvorit tento pripad?"
+    },
+    {
+      "creator": "Michal Přibyl",
+      "comment": "díky  moc . Můžeme zavřít 🙂 Michal"
+    }
+  ]
+}

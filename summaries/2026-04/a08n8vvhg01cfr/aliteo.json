@@ -1,0 +1,47 @@
+{
+  "id": "a08n8vvhg01cfr",
+  "created": "2026-04-09T05:47:44.966Z",
+  "closed": "2026-04-22T16:21:12.054Z",
+  "duration_minutes": 19353,
+  "first_response_minutes": 1,
+  "name": "PCV: Podnety k exportom",
+  "description": "Na zaklade stretnutia na Karat Konferencii v Brne sme zalozili tento pripad za cielom zozbierat podnety k exportom a mat ich ako vstup na pripadne vylepsenia.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pan Duda, prosim Vas o supis podnetov k exportom o ktorom sme sa rozpravali - veci ktore Vam chybaju v ALITEO pri exportovani. Spominali ste hlavne vykazy prace ale predpokladam ze sa to moze tykat aj inych miest. Dakujem vopred"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, pane Dzuro, \nu firem našeho typu, tedy poskytujících služby a účtujících na základě požadavků a vykonané práce se to týká zejména výkazů práce. Ale také požadavků atd.\nPřikládám jak to řeší CDesk, tedy při potřebě exportu dat mi nabídne formát (pdf, xlsx, xls, html) a následně zobrazí seznam dostupných sloupců, které si mohu vybrat do požadovaného výstupu. Pamatuje si, které jsem si vybral a nemusím to dělat opakovaně.\nNásledně dostanu výstup v příloze."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za rychlu odpoved. Chapem teda spravne ze CDesk nema pracovne priestory a teda atributy vykazov prace ktore sa rozne podmienkuju a na zaklade toho sa zobrazuju? Priklad: - v priestore kde riesim helpdesk moze byt struktura vykazov prace nejaka - v priestore kde riesim napriklad projekty moze byt struktura vykazov ina Ak exportujem vykazy prace z oboch priestorov (lebo je to pre jednu firmu) musim riesit ako zobrazit strukturu pre priestor, ktory jej neprislucha. Teda v skratke povedane, ak to bude matica - riadky su vykazy a stlpce su data (spolocne, specificke pre helpdesk a specificke pre projekty) tak tam toho bude skratka vela a samozrejeme tam kde sa stretne riadok vykazu prace so servisu so stlpcom prisluchajucim projektu to bude skratka nevyplnene. Pre priklad obrazok: Je to takto v poriadku?"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, omlouvám se za pozdní odpověď. Ano, takto by to bylo v pořádku. CDesk nemá pracovní prostory, řeší tzv. zakázky, projekty a položky (šablony typů), je to jiná logika, ale v zásadě se dosahuje toho samého. Z mého pohledu vynikající funkčnost je právě ta možnost uživatelem nafiltrování sloupců, které chce na sestavu v ten konkrétní okamžik."
+    },
+    {
+      "creator": null,
+      "comment": "V ramci exportu umoznime exportovat vsetky data s ohladom na prava, bez obmedzenia na podmienky, pravidla atd.... Do exportu sa prida toggle, ktory to prepne do rezimu \"vsetko\""
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nakolko ide o pomerne komplikovanu vec, aktualne umoznime exportovat vsetko. Ciel bude aby sa to exportu dostalo aspon vsetko co tam moze byt, aj ked nateraz bez konfiguratora. Casom sa mozno dostaneme ak ku konfiguratoru. Dakujem za podnet a vysvetlenie potreby."
+    }
+  ]
+}

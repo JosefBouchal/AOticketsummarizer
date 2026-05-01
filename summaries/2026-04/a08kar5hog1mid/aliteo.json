@@ -1,0 +1,27 @@
+{
+  "id": "a08kar5hog1mid",
+  "created": "2026-03-17T09:19:48.335Z",
+  "closed": "2026-04-01T16:46:48.077Z",
+  "duration_minutes": 22046,
+  "first_response_minutes": 38,
+  "name": "Zadávání úkolu",
+  "description": "Dobrý den , Původně v ALITEO bylo nastaveno při zadávání úkolu, když si vyberu firmu poté si vybírám pracovní prostor Aktuální nastavení je ale jiné a můžu vybrat pouze projekt Je možnost si někde toto nastavení změnit uživatelsky Děkuji agriKomp Bohemia s.r.o., Ostopovická 756/10, 664 47 Střelice",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, zmena nastala kvoli zjednoduseniu. Pre ulozenie ulohy je nutne vzdy vybrat projekt alebo tim - nikdy nestaci pracovny priestor. Usetrili sme klikanie a zaroven uzivatel nemusi vzdy vediet v akom pracovnom priestore sa projekt nachadza. Navyse pre vyhladanie projektu sluzi aj zadanie textu. Nastavit to do povodneho stavu nie je mozne. Mozete nam napisat ake problemy Vam to sposobuje? Dakujem a prajem pekny den."
+    }
+  ]
+}

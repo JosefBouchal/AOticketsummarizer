@@ -1,0 +1,79 @@
+{
+  "id": "a08m0u13fg0ka1",
+  "created": "2026-03-30T12:25:25.432Z",
+  "closed": "2026-04-02T10:14:18.317Z",
+  "duration_minutes": 4188,
+  "first_response_minutes": 61,
+  "name": "Oznámení - Žádost o uzavření",
+  "description": "Dobrý den, Mám prosbu – kolegové nám nepotvrzují žádosti o uzavření úkolu. Když jsem se po tom pídil, tak mi tvrdí, že jim nechodí upozornění, že by to měli potvrdit – příklad KA – viz obrázek. Vzhledem k tomu, že paní Divínová je velmi pečlivá, tak si myslím, že to není případ zatoulaného nebo opomenutého emailu, tak bych se rád zeptal, zda je třeba nějaké nastavení, aby to chodilo. Případně, zda je možné, aby jim nějak pravidelně chodila sjetina toho, co má kdo uzavřít – něco jak to chodí z Karatu KA. Případně, zda je tam někde nastavení, kdy to může uzavřít automat po nějaké kratší době. Máme na tom postavená KPI. A s tím souvisí i poslední věc – lze dobu vyřešení počítat ne do potrzení uzavření, ale do žádosti o uzavření? Díky moc Jirka Dvořák Ing. Jiří Dvořák, Ph.D. Manažer digitalizace, +420 608 242 700, dvorak@ncline.cz NC Line a.s. Komenského 233 742 01 Suchdol nad Odrou IČ: 040 20 022 www.ncline.cz",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 14,
+    "from_owner": 6,
+    "from_others": 8,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ad potvrdenie - urcite im chodia upozornenia do praveho panelu, ak maju nastavene aj emaily tak aj do emailu - teda potvrdme si najprv ze im to fakt nechodi a potom hladajme chybu, kde by mohla byt ad system co maju zatvorit - vytvorte im pohlad v \"ulohach\", kde nastavite z oblasti reakcnych a ktore su v stave \"caka na uzatvorenie\". Tento pohlad im nazdielajte a vsetci ktori sa tam pozru budu tam vidiet ulohy, ktore maju zatvorit. Mozu si tento pohlad pripnut do horneho panela na domovskej obrazovke ad automaticky uzatvaranie - v nastaveniach pracovneho priestoru v casti pokrocile najdete nastavenie: - po akej dlhej dobe sa ma uloha z \"caka na reakciu vlastnik\" preppnut do \"ziadosti o uzatvorenie\" (vtedy ked na to vlastnik uz kasle) - cas po akom sa ma uloha uzatvorit ak uzivatel nereaguje a uloha je v stave \"ziadost o uzatvorenie\" - vychodzie hodnotenie spokojnosti (co sa tam aplikuje ak zakaznik spokojnost nevyplni) ad KPI - neviem ako to pocitate, teda pokial myslite SLA tak je mozne nastavit, ktore etapy riesenia a stavy uloh sa maju pocitat do riesenia a ktore sa maju vylucit. - ale pocitanie casu sa pozastavuje ak uloha caka na vlastnika, naslende sa navrhne na uzatvorenie a potom sa sama uzatvori (a medzi tym nie su ziadne pasaze, kedy ste zodpovedny za riesenie) potom by sa tie casy mali takmer zhodovat"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Dobrý den, - potvrzení - zkusím to nějak vytrasovat. psal jsem kolegyni, ať se podívá do upozornění. - já myslel, že by tenhle pohled chodil emailem, ale i tohle je dobrý tip - díky - automatické zavření - to je tohle? - co se týče KPI, tak jsem udělal jednoduchý dashboard a tam počítám s dobou potřebnou k uzavření požadavku Jenže mi tam skáče to, že to lidi dlouho neuzavírají. proto jsem se ptal, zda by to nešlo nějak z té doby vyhodit, ať tam není doba mezí žádostí o uzavření a vlastním uzavřením."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "- automaticke uzatvorenie - ano, to je doba medzi \"caka na reakciu vlastnika\" a \"ziadost o uzatvorenie\", ale  potom tam je este toto: - pocitanie casu - tam to asi uplne mozne nie je bohuzial - neriesili sme to preto, lebo to vela krat nebyva koncovy stav. Mna ale napadlo SLA, teda ak sledujete SLA tak tam by sa mozno dalo dopracovat k datam.. SLA je vhodnejsie aj na to KPI pocitanie. Alebo nie?"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Dobrý den, kolegyně odvedla dobrou práci - posílám co píše: ano, pokud se podívám do upozornění, vidím i žádost o uzavření úkolu, viz včerejší případ: Nicméně poslední informaci, která mi přijde do e-mailu je komentář, žádost o uzavření ne, viz maily k tomuto případu: Kdyby včera nepřišlo tvoje upozornění na neuzavřené interní KA, tento případ by taky nebyl uzavřen. Včera jsem se ptala i Katky, má stejný problém … komentáře OK, žádost o uzavření nepřijde. - Skvělé - našel jsem to automatické uzavření.  Děkuji. - SLA jsem nezkoušel. Zkusím se do toho nějak ponořit a pochopit, jak to funguje. Máte k tomu nějaký návod?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ad upozornenia - problem teda je, ze uzivatel dostane upozornenie (o zmene stavu ulohy na ziadost o uzatvorenie) do praveho panela, ale do emailu uz nie? - mozete mi dat blizsie informacie k danemu uzivatelovi a aky ma vztah k ulohe? - aky ma pristup k ulohe - je sledujucim alebo cez supervizora? - aky je clen projektu? interny alebo externy? - je tento uzivatel vlastnikom alebo riesitelom? - dostane emailove upozornenie na inu zmenu stavu? napriklad pozeram ze z obrazka \"ceka na reakci vlastnika\" - mozete aj email usera aby sme sa pozreli na data - zatial vidim: - Uzatvorenie ulohy (upozornenie) 30.3.2026  12:45 - ocakavame v tom case aj email ad SLA: - mame instruktazne video ALITEO SLA - ak bude treba mozeme si k tomu kratko zavolat"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "emaily uzivatelov: divinova@ncline.cz miculkova.jitka@ncline.cz"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "vztah k úloze - viz obrázek. Paní Divínová to zakládala z emailu je sledující a i vlastník. je to běžný interní člen projektu je vlastníkem, není řešitelem dostává informace, zřetelně dostala tu ohledně přidaného komentáře, ale ne ohledně uzavření. stačí to takhle? díky za to sla, podívám se na to."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano staci, len malickost prosim, ci dostava emailove upozorneniach o inych zmenach stavu ulohy.. naprikadl caka na reakciu, alebo nejaka z etap riesenia.. Ciel je zistit ci je problem len so ziadostou na uzatvorenie alebo vlastne pri vsetkych aktivitaych tykajucich sa zmenu stavu ulohy. Dakujem"
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Kolegyně kontrolovala svůj mail box a žádné změny stavu nevidí, pouze první krok „z emailu byl vytvořen úkol: …“ , pak už jen „nový komentář úkolu: …“ nic víc."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "OK, predal som na kolegov na vyvoji, hned ako budem mat viac informacii, budem Vas informovat.."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Kolegyně ještě posílá tyto informace, pokud by to pomohlo #3292 – uzavřený #3393 – uzavřený #3394 – ještě běží, dnes budeme nastavení kontrolovat a pokud bude v pořádku, můžeme uzavřít"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nasadili sme opravu, skuste sa na to pozriet. testujeme aj my ale kozete skusit na vasich datach."
+    },
+    {
+      "creator": "Jiří Dvořák",
+      "comment": "Vypadá to funkční. Moc děkuji, tohle můžete uzavřít."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, som rad.. a prajem pekny den"
+    }
+  ]
+}

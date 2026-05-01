@@ -1,0 +1,43 @@
+{
+  "id": "a08pji519g1044",
+  "created": "2026-04-27T08:11:06.434Z",
+  "closed": "2026-04-30T12:00:41.779Z",
+  "duration_minutes": 4549,
+  "first_response_minutes": 161,
+  "name": "Zobrazení grafu dvě hodnoty",
+  "description": "Dobrý den, při zobrazení grafu kde porovnávám plánované oproti odvedené práci je zavádějící že u každé hodnoty je použito jiné měřítko a pro vedení to pak vypadá že neumíme plánovat. Viz příloha",
+  "owner": "Josef Blažek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, skusali ste zmenit nastavenie pre os Y? Tuto: Malo by byt mozno nastavit jednu mierku."
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "Když dám jednu osu Y tak se to sečte do jednoho sloupce já potřebuji zobrazovat rozdíl hodnot plánováno oproti odvedeno"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, mozete mi prosim poslat scren nastavenia widgetu? Toto nestavenie by namalo spajat 2 hodnoty, iba nastavit mierku. Dakujem"
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "Už jsem to našel omylem jsem měl , skládaný graf. což udělalo při jedné ose sloučení. Děkuji."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak som rad ze sa to vyriesilo, nedavalo mi to velmi zmysel ale chybicka moze byt aj u nas takze tak.. Dakujem uzatvaram"
+    }
+  ]
+}

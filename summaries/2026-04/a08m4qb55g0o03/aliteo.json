@@ -1,0 +1,27 @@
+{
+  "id": "a08m4qb55g0o03",
+  "created": "2026-03-31T11:03:15.951Z",
+  "closed": "2026-04-07T11:41:20.182Z",
+  "duration_minutes": 10118,
+  "first_response_minutes": 37,
+  "name": "FW: Aliteo - změna termínu",
+  "description": "Dobrý den, kolega pracuje s Gantem a říká, že to po něm pořád chce schválení. Nemám s tím zkušenosti, že bych mu poradil, tak prosím o radu – jak se dá vypnout ta žádost. Tvrdí, že mu to dříve nedělalo. Jirka Dvořák From: Pavel Jeřábek <jerabek@ncline.cz> Sent: Tuesday, March 31, 2026 12:26 PM To: Jiří Dvořák <dvorak@ncline.cz> Subject: Aliteo - změna termínu S pozdravem/Best regards/Mit freundlichen Grüßen Pavel Jeřábek Technical director +420 737 253 914 jerabek @ncline.cz NC Line a.s. Komenského 233 742 01 Suchdol nad Odrou Czech Republic www.ncline.cz",
+  "owner": "Jiří Dvořák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano, pravo gantovho planovaca vyplyva z logiky ze existuje jeden clovek ktory zodpoveda za planovanie projektu - Gantov planovac - vsetci ostatni uzivatelia mozu len ziadat o posun - o prijati terminu rozhoduje gantov planovac a priamo v gantovi (kedze sa musia prepocitavat zavislosti ostatnych uloh) - ano, ak som ja sam Gantov planovac a nerobim posun v gantovi (na co mam pravo) ale som v detaile ulohy a chcem posunt tak v principe ziadam sam seba (ale principialne, ak to je gantom a su tam zavislosti, nie je spravne urobit rozhodnutie v ulohe - nevidim dopad na zvysok projektu)"
+    }
+  ]
+}
