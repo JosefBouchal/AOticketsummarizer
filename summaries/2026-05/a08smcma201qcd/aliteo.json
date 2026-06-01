@@ -1,0 +1,35 @@
+{
+  "id": "a08smcma201qcd",
+  "created": "2026-05-21T07:54:28.522Z",
+  "closed": "2026-05-29T07:57:32.296Z",
+  "duration_minutes": 11523,
+  "first_response_minutes": 19,
+  "name": "TO NOVA, Company ID - API",
+  "description": "Dobrý den, prosím o pomoc s vyplněním přihlašovacích údajů nutných pro práci s API. Viz. komunikace níže. API klíč mám a je funkční, ale nemám company ID. Děkuji S pozdravem Marek Svatoš Internal From: Marzini Pavel - ALITEO <pavel.marzini@aliteo.cz> Sent: Thursday, May 21, 2026 8:14 To: Svatoš Marek <Marek.Svatos@nova.cz> Subject: RE: Company ID - API Dobrý den, pane Svatoši, ať to neřešíme po emailech a máme konverzaci na jednom místě, chtěl jsem Vás poprosit, zda byste založil úlohu přímo do implementačního projektu a nebo případně poslal přímo na support@aliteo.com . Již si to převezme kolega a bude s Vámi komunikovat v rámci tiketu. Děkuji za pochopení. S pozdravem, Pavel Marzini From: Svatoš Marek <Marek.Svatos@nova.cz> Sent: Thursday, May 21, 2026 7:46 AM To: Marzini Pavel - ALITEO <pavel.marzini@aliteo.cz> Subject: Company ID - API Dobrý den, pane Marzini, zkouším se do Aliteo připojit přes API, abych mohl automatizovaně sledovat stav určitých ticketů. API klíč funguje, ale narazil jsem na problém s Company: Data parameter Company - component not found. Takto vypadá nevyplněný soubor pro přihlašování do API. { \"base_url\": \" https://api.aliteo.com \", \"api_key\": \"\", \"company\": \"\", \"usercompany\": \"\", \"email\": \"\", \"workspace\": \"\", \"project\": \"\", \"section\": \"\", \"filter_id\": \"\" } Primárně se chci ve workspace TV Nova zaměřit na projekty \" LEGITO: Migrace - Integrace - Workflow \" a \"Šablony\". Prosím o radu, jak správně vyplnit Company, případně další doporučení k API. Děkuji a přeji pěkný den S pozdravem Marek Svatoš Internal Please note that the below disclaimer shall apply to any and all e-mail communications provided on behalf of TV Nova s.r.o. Upozornění: Obsah tohoto e-mailu slouží pouze pro účely komunikace a nemůže být vykládán jako návrh nebo přijetí návrhu na uzavření/změnu/ukončení jakéhokoli smluvního vztahu ze strany společnosti TV Nova s.r.o. (dále jen „Společnost“), včetně zajištění či utvrzení dluhu, vzdání se práva či prominutí dluhu ze strany Společnosti. Vezměte prosím na vědomí, že uzavírání/změna/ukončení smluvních vztahů podléhá internímu schvalovacímu procesu Společnosti, a proto nelze důvodně očekávat uzavření smlouvy ani změnu/ukončení existujících smluvních vztahů, dokud nebude právní jednání Společnosti učiněno v písemné formě s podpisem oprávněné jednající osoby. Společnost tímto vylučuje přijetí jakéhokoliv návrhu na uzavření smlouvy (nabídky) s dodatkem či odchylkou, a to i v případě, kdy takový dodatek či odchylka podstatně nemění podmínky nabídky Společnosti. Tento e-mail a všechny přiložené soubory jsou důvěrné a jsou určeny pouze adresátům jmenovaným výše. Jestliže jste tento e-mail obdrželi omylem nebo nejste adresátem jmenovaným výše, informujte prosím odesílatele a vymažte tento e-mail, včetně veškerých přiložených souborů a kopií. Jestliže nejste oprávněným adresátem tohoto e-mailu, nejste oprávněn informace v něm obsažené žádným způsobem zveřejňovat, šířit ani jinak užívat. Děkujeme. Veškeré informace a kontaktní údaje související s ochranou osobních údajů společnosti TV Nova s.r.o. naleznete zde .",
+  "owner": "Marek Svatoš",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ID company najdete tak ze otvorite nastvenia spolocnosti a potom v lavom spodnom rohu obrazovky (nie okno nastavenia) najdete malym \"ID\" a po kliku sa zobrazi ID, ktore potrebujete."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, děkuji za instrukce. ID jsem našel. Bylo by ale lepší, kdyby bylo ID zobrazeno třeba ve formuláři s API klíčem. S pozdravem Marek Svatoš Business Systems Manager Marek.Svatos@nova.cz M (+420) 602 172 282 TV Nova s.r.o. Kříženeckého nám. 1078/5 152 00 Praha 5 Czech Republic nova.cz tn.cz oneplay.cz Please consider the environment before printing. Internal Please note that the below disclaimer shall apply to any and all e-mail communications provided on behalf of TV Nova s.r.o. Upozornění: Obsah tohoto e-mailu slouží pouze pro účely komunikace a nemůže být vykládán jako návrh nebo přijetí návrhu na uzavření/změnu/ukončení jakéhokoli smluvního vztahu ze strany společnosti TV Nova s.r.o. (dále jen „Společnost“), včetně zajištění či utvrzení dluhu, vzdání se práva či prominutí dluhu ze strany Společnosti. Vezměte prosím na vědomí, že uzavírání/změna/ukončení smluvních vztahů podléhá internímu schvalovacímu procesu Společnosti, a proto nelze důvodně očekávat uzavření smlouvy ani změnu/ukončení existujících smluvních vztahů, dokud nebude právní jednání Společnosti učiněno v písemné formě s podpisem oprávněné jednající osoby. Společnost tímto vylučuje přijetí jakéhokoliv návrhu na uzavření smlouvy (nabídky) s dodatkem či odchylkou, a to i v případě, kdy takový dodatek či odchylka podstatně nemění podmínky nabídky Společnosti. Tento e-mail a všechny přiložené soubory jsou důvěrné a jsou určeny pouze adresátům jmenovaným výše. Jestliže jste tento e-mail obdrželi omylem nebo nejste adresátem jmenovaným výše, informujte prosím odesílatele a vymažte tento e-mail, včetně veškerých přiložených souborů a kopií. Jestliže nejste oprávněným adresátem tohoto e-mailu, nejste oprávněn informace v něm obsažené žádným způsobem zveřejňovat, šířit ani jinak užívat. Děkujeme. Veškeré informace a kontaktní údaje související s ochranou osobních údajů společnosti TV Nova s.r.o. naleznete zde ."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Toto miesto je umyselen takto, kedze sa vyuziva aj v pri atributoch, sekciach, pracovnych priestoroch, etapach atd. Nechceli sme toto ID (ktore je len pre adminov spolocnosti v principe) ukazovat na miestach aby zbytocne nekomplikovalo zobrazenia ostatnym, ktore s API nepracuju. Je teda vec vyriesena a mozeme pripad uzatvorit?"
+    }
+  ]
+}

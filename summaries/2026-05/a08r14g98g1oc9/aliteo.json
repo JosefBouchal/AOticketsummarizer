@@ -1,0 +1,35 @@
+{
+  "id": "a08r14g98g1oc9",
+  "created": "2026-05-08T09:40:11.699Z",
+  "closed": "2026-05-28T13:20:30.399Z",
+  "duration_minutes": 29020,
+  "first_response_minutes": 13,
+  "name": "Vkládání textu nepřepisuje původní obsah",
+  "description": "Když mám v Aliteo v popise text, který začíná tučně a stejný text mám i v komentáři, tak pokud pomocí Ctrl+A označím a zkopíruju text popisu do schránky (tady to schválně ukazuju přes kontextovou nabídku, ale stejně to funguje i pomocí Ctrl+C) a chtěl bych komentář upravit a změnit jej na ten zkopírovaný text popisu, tak i když text komentáře označím pomocí Ctrl+A a text popisu vložím, tak se tento vloží za něj (a nepřepíše původní, jak by měl) .",
+  "owner": "Siska Josef",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ok, chapem.. predam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, malo by byt vyriesene.."
+    },
+    {
+      "creator": "Siska Josef",
+      "comment": "Funguje, díky."
+    }
+  ]
+}

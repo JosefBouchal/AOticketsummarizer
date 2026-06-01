@@ -1,0 +1,27 @@
+{
+  "id": "a08rhstkvg1kpu",
+  "created": "2026-05-12T11:19:18.394Z",
+  "closed": "2026-05-19T11:27:48.686Z",
+  "duration_minutes": 10088,
+  "first_response_minutes": 7,
+  "name": "Zobrazovanie Parent / Sub taskov",
+  "description": "Dobrý deň, ešte jedna vec ma napadla v rámci prehľadu úloh, či sa dá filtrovať Parent / Sub task v zozname tiketov a aj v samotnom dashboarde ?",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, to ze je uloha dielcia alebo master nie je zatial vlastnost podla ktore sa da filtrovat. Aktualne to teda nejde nejako standardne, jedine si tie master ulohy znacit nejakym stitkom (ten ale nejde pouzit v klientsom filtry alebo ako Xovu os na grafe). Mozem sa pozriet ci nahodou vo vyvoji to filtrovanie."
+    }
+  ]
+}

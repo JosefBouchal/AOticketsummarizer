@@ -1,0 +1,51 @@
+{
+  "id": "a08sqm91305ba4",
+  "created": "2026-05-22T08:57:16.228Z",
+  "closed": "2026-06-01T09:38:01.510Z",
+  "duration_minutes": 14440,
+  "first_response_minutes": 15,
+  "name": "Změna Loga PRIM na stránce https://aliteo.com/reference/",
+  "description": "Dobrý den, Na Vašich stránkách https://aliteo.com/reference/ máme staré logo v referencích, prosím o změnu za logo v příloze. Děkuji, DP David PLEVA IT oddělení tel.: +420 776 581 680 david.pleva @prim.cz www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 0,
+    "from_others": 7,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za info, vyriesim to."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) toto na DTR?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "jj"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Daniel Travěnec (Daniel.Travenec@karatsoftware.cz) prosim ta, vid, popis zakaznik nahlasil, ze je treba zmenit logo na nasej stranke.. mohol by si opravit? - sme v supporte, tak ak je treba pouzivaj interne komentare, lebo verejne vidi aj zakaznik"
+    },
+    {
+      "creator": "Daniel Travěnec",
+      "comment": "na webu jsem opravil"
+    },
+    {
+      "creator": "Daniel Travěnec",
+      "comment": "na webu jsem opravil"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, logo sme na webe opravili. Mozeme tento pripad uzatvorit? Dakujem"
+    }
+  ]
+}

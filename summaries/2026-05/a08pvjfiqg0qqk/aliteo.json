@@ -1,0 +1,123 @@
+{
+  "id": "a08pvjfiqg0qqk",
+  "created": "2026-04-30T06:19:56.059Z",
+  "closed": "2026-05-09T08:51:16.095Z",
+  "duration_minutes": 13111,
+  "first_response_minutes": 95,
+  "name": "Vytváranie tiketov cez e-mail",
+  "description": "Dobrý deň, na konferencii Karat v Martine, sme sa bavili s p. Dzurom o možnosti vytvárať tikety v ALITEO v projekte #1 3EC Service Desk cez e-mailovú adresu helpdesk@3ec.onli ne, viete ma inštruovať ako to zrealizovať, alebo mi s tým viete pomôcť ? Keď som pozeral nastavenia projektu, tak je tam nejaká e-mailová adresa vygenerovaná, len nerozumiem či sa táto nahradí tou hore spomínanou alebo sa to na ňu bude preposielať. Dajte mi prosím vedieť, keď tak si k tomu môžeme dať Aliteo meeting / zavolať.",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 25,
+    "from_owner": 9,
+    "from_others": 16,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano je treba aby IT nastavilo preposielanie emailov z tejto adresy helpdesk na tuto vygenerovanu. Je treba take preposielanie (bud cez skupinu alebo transportne pravidlo - IT bude vediet) , ktore zachova hlavicku odosielatela."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "odoslal som info nášmu externému IT, ak by mali nejaké doplňujúce otázky prepošlem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, ok, budem cakat na otazky.."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "zdravím, vytvorili mi adresu : karathelpdesk@3ec.sk s preposlaním na task.a07g92vi001rj5@aliteo.com , ale v projekte #1 3EC Service Desk sa nevytvoril žiadny tiket. Potom som skúsil poslať e-mail priamo na task.a07g92vi001rj5@aliteo.com a dostal som späť chybovú hlášku :"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, skontrolujte nastavenie sekcie - ci tu kde to ma padat je nastavena ako vychodzia  a zaroven ci ma povolene pridavanie uloh."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Viete mi poradiť kde to nájsť ? tu je sekcia backlog v projekte 3EC Service desk, ale aj tak mi e-maily nachodia"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Otvorte nastavenie projektu: Projekt -> Nastavenie (ozubene koliesko vpravo hore) -> Sekcie Tam skontrolujte nastavenie sekcii, ktore pisem v komentari ##5"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Zabudol som printscreen pridať Je to toto nastavenie ?  neviem čo tam mám iné nastaviť."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano to je v poriadku, skusil som poslat email ja.. a dosiel ze bol zaozeny Skuste to od seba znovu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Takze sa zda, ze napriamo je to ok. Skusil som poslat aj na karathelpdesk@3ec.sk ale odtial mi email nedosiel.. a ani chybovy stav - takze to ostalo asi niekde na mailserveri. Bud to uz nepride alebo to tak zdrziava firewall alebo celkovo nejaka politika mail servera."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "#1 3EC Service Desk"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "ano, vyzerá to tak, aj mne to takto isto zafungovalo, takže idem riešiť s našim externým IT"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, kludne, podstatne je urcit taky sposob preposlania aby bol zachovany povodny odosielatel. Bude cez skupinu + RESEND alebo cez transportne pravidlo a REDIRECT tusim (toto je asi len moznost exchange)"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "napísal som na nich tiket, uvidíme či to vyriešia, snáď hej"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobre, dajte vedieť ako ste pochodili"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Požiadali ma, či by ste sa na to mohli pozrieť u Vás, či tam nie je nejaký technický problém. Pretože si dávali preposielať ten e-mail karathelpdesk@3ec.sk na ich e-mailové adresy a e-mail im prišiel.  Preposlal som im aj tú info o type preposielania."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) prosim ta, vedel by si mi pomoct, kde mohol nastat problem? - poslal som email od ich spolocnosti, priamo na adresu projektu a preslo to - poslal somsom email na ich domenovy email (ktory ma byt presmerovany na projekt kde to malo dopadnut)  a uloha sa nazalozila (recepient je rovnaky ako v prvom pripade) Tu su riadky z inboxu:"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Davide, pokud si v release v aplikaci s konzolí nastavíš v program: WebUtilitiesBase.ProvidersType = ProvidersType.Aliteo; WebUtilities.Readonly = true; a pustíš : await QueueHelper.ProcessQueueItemInbox(null, QueueAction.Inbox, \"a08qlgjdi01iak\", cache); tak po přeskočení if(LocalEnvironment... který by to neprovedl) dotrasuješ k místu, kde je : if (EmailReceivedHelper.IsAutoResponse(message)) { xstatus = InboxStatus.Ignored; info = \"auto-response\"; } Je to ošetření které jsi dělal v souvislosti s něčím jiným... ale tady to Danovi nezaloží úkol který to dle Dana mělo založit."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane asi vygeneruj případ na Dana a zkopíruj mu tam ##18 ... ignorování vzniká v důsledku ošetření něčeho co řešil David."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dik @ Allan Konečný (allan.konecny@karatsoftware.cz) urobil som tak ako hovoris.. David ma pripad na sebe.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, previedli sme nejake upravy, prosim vyskusajte."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Super, už to funguje. Čo bola príčina toho, že sa e-mail nepreposielal, ak sa to dá povedať nejako jednoducho 🙂 . Otestoval som aj upozornenie (notifikácie) na novo-vytvorený tiket, pretože ak som ho vytvoril ja, tak upozornenie neprišlo, ale keď som požiadal kolegyňu, tak sa mi zobrazilo aj upozornenie na novo - vytvorený tiket + keď som jej odpísal na tiket cez verejný komentár prišiel jej e-mail s upozornením. Plus ma poteešilo, že keď som tiket presunul do iného projektu, tiež chodili e-mailové notifikácie."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V skratke: pred nedavnom sme implementovali ochranu pred zacyklenim dvoch automatickych systemo - stalo sa nam ze si nase ALITEO a iny system navzajom posielali tickety a zacyklilo sa to. Tak sme doplnali niektore data kvoli takej ochrane a zda sa ze jedna z tych ochran zafungovala a zastavila aj to co nemala.. teda sme opravili a uvidime ako sa bude chovat system dalej Ano upozornenie na Vasu aktivitu nedava zmysel, preto neprichadza. Presuvanie do ineho projektu nema vplyv na zapnute upozornenia alebo vlastnika. Jedine co by mohlo sposobit mozno problem je ak je ten projekt nastaveny inak - napriklad ma zastavene odosielanie emailov alebo ma vypnute zadavanie uloh a komentarov emailom. Skratka ak je nastaveny rozdielne (v ramci tychto funkcionalit) ako projekt z ktoreho sa presuva. Je teda vec vyriesena? Mozeme uzatvorit? Dakujem"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Super, ďakujem za vysvetlenie, tak už môžeme v 3EC naplno využívať nahlasovanie tiketov aj cez e-mail. A áno, môžeme tiket zatvoriť."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tesim sa, ze sa to trochu posunulo.. samozrejeme by bolo lepsie keby to robili a reagovali cez ALITEO, aby videli jeho vyhodu ale ked to aspon Vam pomaha, tak je to super. Ďakujem"
+    }
+  ]
+}

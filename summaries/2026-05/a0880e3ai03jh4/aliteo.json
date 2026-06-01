@@ -1,0 +1,35 @@
+{
+  "id": "a0880e3ai03jh4",
+  "created": "2025-12-11T15:44:04.208Z",
+  "closed": "2026-05-27T08:30:13.315Z",
+  "duration_minutes": 240046,
+  "first_response_minutes": 991,
+  "name": "Ikony Google Play / App Store na webu",
+  "description": "Ikony vypadají podivně, viz screenshot. Pro Google je roztažená přes celou obrazovku, pro App Store je naopak malá. Asi to předat na toho člověka, co se stará o web?",
+  "owner": "David Kočíř",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "David Kočíř",
+      "comment": "IMG_6867.png"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Daniel Travěnec (Daniel.Travenec@karatsoftware.cz) pls bavili sme sa minule o tom, skus na to pls pozriet. Diik 🙂"
+    },
+    {
+      "creator": "Daniel Travěnec",
+      "comment": "opraveno"
+    }
+  ]
+}

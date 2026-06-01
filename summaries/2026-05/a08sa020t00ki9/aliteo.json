@@ -1,0 +1,35 @@
+{
+  "id": "a08sa020t00ki9",
+  "created": "2026-05-18T07:42:10.506Z",
+  "closed": "2026-05-18T09:25:10.475Z",
+  "duration_minutes": 102,
+  "first_response_minutes": 46,
+  "name": "Projekty - Gantt",
+  "description": "Dobrý den, dotaz ohledně projektů, bohužel zatím nemáme dořešenu stále strukturu a nastavení ganttu, ale nové projekty už mají nastavené plánování Ganttem. To znamená, že veškeré úkoly musí schvalovat manažer ganttu. Je možné některé úkoly vyjmout z toho schvalování? Potřebuji řešit v rámci svých objednávek, kde mám danou objednávku rozčleněnu do různých etap, a datum splnění vždy měním dle dané etapy. Případně jestli si budeme moci zavolat a více vysvětlím. S pozdravem a přáním pěkného dne Ilona REMEŠOVÁ nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, zavolat si samozrejme mozeme, avsak nie je mozne vynat niektore ulohy z tohto schvalovacieho procesu, prave preto aby vedel gantov planovac (predpokladajme projektovy manazer, resp clovek zodpovedny za terminy) o kazdej zmene terminu."
+    },
+    {
+      "creator": null,
+      "comment": "Moc děkuji za super rychlou akci, úkol můžeme uzavřít"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, dufam ze som pomohol. Prajem pekny den."
+    }
+  ]
+}

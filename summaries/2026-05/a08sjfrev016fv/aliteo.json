@@ -1,0 +1,75 @@
+{
+  "id": "a08sjfrev016fv",
+  "created": "2026-05-20T15:00:25.581Z",
+  "closed": "2026-05-23T11:39:54.247Z",
+  "duration_minutes": 4119,
+  "first_response_minutes": 233,
+  "name": "ALITEO MCP Server ",
+  "description": "Vytvořit MCP server pro produkt ALITEO postavený nad stávajícím REST API Rozsah: stejný jako současné API – čtení i zápis (úkoly, komentáře, projekty, týmy, výkazy práce,  apod.). Klíčový požadavek: MCP server musí respektovat oprávnění přihlášeného uživatele – stejně jako při přímé práci v aplikaci. Každá operace se provede pod identitou konkrétního uživatele, ne pod globálním API klíčem. Autentizace: uživatel se musí před použitím MCP serveru autentizovat (veřejně dostupný server na Azure by měl mít OAuth 2.1) Pokud není zadání jasné, zorganizuji schůzku vč. Allana a Pavla Drtila... děkuji Ještě motivace - nechceme ať si staví lidí vlastní řešení - formou exportů požadavků, přístup přes scripty,  playwright atd...  to se týká interně KARAT ale využití MCP je za mě velmi důležité pro koncové uživatele i (včetně \"neKARATích \") Děkuji!",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 13,
+    "from_owner": 2,
+    "from_others": 11,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, aktualne riesime vo vyvoji aj MCP server ale jeho finalnu podobu a co bude dovolovat este nemame dohodnutu. Zvazujeme ze plnu moznost cez MCP neumoznime, aby v pripade administratora mohol cez MCP upravovat nastavenia pracovnych priestorov atributov a podobne - toto este prechadza nasimi hlavami ako to bude. Zaroven mam otazku, vzhladom na to, ze aj MCP funguje cez API a vy by ste ho chceli spristupnit aj externym uzivatelom - beriete to tak ze im budete platit ich API komunikaciu? Lebo ta takisto nieco stoji."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Ahoj, myslím si, že uživatelé AO  budou chtít MCP využívat, je to jen otázka času  a jak jsem psal i neKARATí zákazníci. Pokud je potřeba něco k tomu upřesnit udělejme na to schůzku až bude prostor se tomu z vaší strany věnovat a bude to téma aktuální v plánu vývoje AO.  Problematiku licencování řešíme na úrovni produktu KARAT  taky, kdo za co a jak bude platit...Vzhledem k tomu, že to je většinou onpremise řešení musíme nejdřív posbírat data a pak vymyslet jak to licencovat. reálně místo x uživatelů bude stačit jeden AI agent a na to se musíme nachystat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, mame to v plane vyvoja, ked to bude na stole a bude to potrebne, dame vediet."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Jen zapíšu, že jsme se o MCP do AO bavili (různé skupinky lidí, protože je ta potřeba). Dnes má AO API s klíčem a v podstatě by se dalo udělat to, že toto API by akceptovalo mimo klíče i UserToken (OAuth2), pak by to řešilo práva toho uživatele, asi tak, jako se řeší práva toho API klíče resp. práva u aplikace. Nad tím pak už jen vytvořit MCP. A tím zmíním, že existuje backend té hlavní AO aplikace (jiné API), který už dnes přihlášení a práva uživatele řeší. Ale hádám, že tam bude problém v tom, že tam asi nebude ošetřeno, aby se něco nepořídilo nekonzistentně. Tedy tak si to alespoň představuji, protože jinak bych nerozuměl, proč to jen neobalit do MCP. Ono AI se v tom vyzná a nemusí to mít nějak přizpůsobenou strukturu. Také se to může každý týden změnit na něco jiného, protože to AI se snadno přizpůsobí, nepotřebuje pevné API, nebude to blokovat vývoj aplikace. Vlastně by se dalo claude říct, ať koukne na kód v prohlížeči a MCP napíše, jako že bych to mohl udělat sám, ale aby z toho nebylo pak nějaké pnutí. V read-only variantě bych se asi ani nemusel ničeho obávat. Samozřejmě bude nejlepší oficiální řešení. Já mám zatím neoficiální a to není ani proti AO. Data se z AO synchronizují do databáze KSW, takže jen čtu případy a komentáře tam. Umožňuje to rychlé vyhledávání, protože na KSW DB je fulltext index. Bohužel ale neřeším práva, takže takové MCP můžu používat já, hotline a pár lidí, kteří mají na KSW db stejně full práva. Asi bych tam nějaká práva napodobil, ale ne zcela shodně. Velmi omezuji počet takových uživatelů, aby se to nezvrhlo v něco, co by pak někdo zarazil. Čímž se dostávám k tomu, že by se hodilo MCP respektující práva uživatele, tedy to MCP od AO. Které se může postupně rozšiřovat. V prvním kole je potřeba číst zadání případu a komentáře. Pak se může řešit čtení dalších věcí (související, štítky, obrázky, přílohy...) a zápis komentáře, klidně jen privátního. Pak bude potřeba hledání. Není potřeba dělat MCP, které bude okamžitě obsahovat vše, může se průběžně rozšiřovat. Potřebujeme svému claude říct, že má přečíst zadání, komentáře a něco udělat, to je hlavní use case."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) rozumiem tomu sprave ze ti admin KARATu dal API kluc, ty si si postavil nad tym svojho agenta (co by  MCP) a s tym nieco robis? alebo som sa zamotal?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) rozumiem tomu sprave ze ti admin KARATu dal API kluc, ty si si postavil nad tym svojho agenta (co by  MCP) a s tym nieco robis? alebo som sa zamotal?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Chlapci, ALITEO MCP sa bude vyvyjat v tomto sprinte davam dokopy to, co to ma robit a ako to ma fungovat aj s ohladom na  EU AI Act od 2026 a NIS2 od 2027 ....a hlavne s ohladom na buducnost produktu. Ked bude nieco k diskusii, kludne to mozeme prebrat. V kazdom pripade, diky za podnety."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Chlapci, ALITEO MCP sa bude vyvyjat v tomto sprinte davam dokopy to, co to ma robit a ako to ma fungovat aj s ohladom na  EU AI Act od 2026 a NIS2 od 2027 ....a hlavne s ohladom na buducnost produktu. Ked bude nieco k diskusii, kludne to mozeme prebrat. V kazdom pripade, diky za podnety."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "##7 Čau, ne, mám přístup do KSW databáze. A pak, bez ohledu na nějaké moje MCP a nějaké moje aktivity, se provádí synchronizace mezi AO a KARAT. Takže využívám toho, co tato synchronizace dostane z Azure k nám na náš MS SQL Server do KARAT databáze na naší serverovně."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "##10 Můj názor k legislativě: Z pohledu EU AI Act není MCP server AI, je to jen API, na které se připojí AI (nebo něco jiného, ani to nemusí být AI), takže to bude maximálně dokumentační záležitost. Z pohledu NIS2, DORA, ISO 27001, GDPR apod. je to API, jako ty druhé dvě API, které máte. Má to tedy dost podobné podmínky, že má být zabezpečené, má se řešit risk management, logování apod. Pokud někdo používá Claude a ten jede třeba v Americe, kde ta firma má nějaká pravidla, že data nesmí opustit EU, tak se tohoto nesprávného jednání dopouští ten uživatel Claude, který dal tomu Claude oprávnění k MCP a ne to MCP samotné. K rozvoji produktu: Za mě je MCP nutnost. Veškerá konkurence to mít bude resp. už má. Už i ten GitLab pro Issues apod. to má. Spíše je to místo, kde můžete podpořit marketing - registrovat aplikaci všude, že to máte, ať je vidět. Ono bez toho MCP na to lidi chodí přes Claude Chrome, nebo MCP do Playwrite apod. Že si to tam nakonec uživatelé stejně najdou i bez MCP, jen je to pro ně méně pohodlné - AI za ně kliká v prohlížeči, trvá to, zatěžuje to klienta i server, místo cíleného dotazu se tahá moc nevyužitých dat."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Ještě motivačně. 🙂"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "🙂 super, @ Pavel Drtil (pavel.drtil@karatsoftware.cz) neboj o AI funkcnociach a prepojeniach sme hovorii este v case ked si sa mi smial, ze AI ti nevie vyriesit rovnicu s dvoma protiiducimi autami 😀...takze som rad, ze nadsenie vzrastlo, MCP je esencialna vec, ktoru ALITEO spolu s dalsimi funkcnostami v tomto vyvojovom obdobi doda, a verim, ze v rozsahu, ktory kazdemu zjednodusi zivot...takze neboj pracujeme na tom 🙂"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Už jsem to nechtěl komentovat ale k ##15 dodám - O AI a jeho potenciálu se bavíme dlouho a věnujeme se tomu již roky ale právě teď, kdy jsou nástroje jako MCP dostupné i běžným uživatelům, má smysl na to naplno vletět. AI ještě spoustu věcí nezvládne (ani ty protijedoucí auta si nemusí... ) ale tam, kde máme jasné důkazy, že to reálně pomáhá s každodenní agendou, nemá cenu otálet o měsíc, dva nebo půl roku. Technicky to nemusí být tak složité a náročné. Navrhuju, ať se setkáme a probereme to společně, protože přínosy jsou zásadní – pro oba naše produkty i pro zákazníky. Není to o tom kdo s čím kdy přišel, ale když už MCP řeší ať je to TOP. A pak se někdo nedohaduje co to neumí."
+    }
+  ]
+}

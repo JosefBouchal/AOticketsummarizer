@@ -1,0 +1,27 @@
+{
+  "id": "a08qibu1ig1k96",
+  "created": "2026-05-04T19:38:28.217Z",
+  "closed": "2026-05-12T14:23:12.330Z",
+  "duration_minutes": 11204,
+  "first_response_minutes": null,
+  "name": "Test",
+  "description": "test",
+  "owner": "Peter Nový",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 1,
+    "from_others": 0,
+    "unique_authors": 0
+  },
+  "comments": [
+    {
+      "creator": "Peter Nový",
+      "comment": ""
+    }
+  ]
+}

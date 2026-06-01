@@ -1,0 +1,51 @@
+{
+  "id": "a08po98di017ch",
+  "created": "2026-04-28T11:41:35.085Z",
+  "closed": "2026-05-09T13:39:20.267Z",
+  "duration_minutes": 15957,
+  "first_response_minutes": 23,
+  "name": "vyhledavani v ukolech - jen od dvou retezcu?",
+  "description": "Ahojte, Je něco spatne s vyhledavanim v ukolech, nebo něco, co jsem v novinkách necetl? Nefunguje vyhledavani pro jedno-slovna hesla, jak vidno, funguje to jen pro dvouslovna… Dekuji za odpoved Filip Pražák consultant tel.: +420 581 737 184 | mobil: +420 607 082 393 | filip.prazak@karatsoftware.cz KARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz Facebook LinkedIn YouTube",
+  "owner": "Filip Pražák",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Cauko, zadanie pripadu je. Otvorim projekt XXX (Madal) napisem slovo komise a nenajde sa mi uloha ktora ma toto slovo v nazve alebo v popise alebo komentare.. Tak je?"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "ahoja, otevřeš vlastně úkoly, nemusíš mít projekt. ctrl+f respektive vyhledavaci pole, napises retezec, treba asistence, viz dalsi screen, das enter. Filtr se zda byt potvrzeny zadny filtrovani se neaplikuje, ale tvari se, ze ano ale divej: zadam dva retezece oddelene mezerou a hled"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Neviem ako to simulovat uprimne.. mne to u Teba ide:"
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "co rict, uz to funguje"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "uprimne, aj mne sa sem tam stane.. ze to nefunguje dobre.. ale nikdy to neviem zreplikovat.. aby som to nahlasil.."
+    },
+    {
+      "creator": "Filip Pražák",
+      "comment": "mrz ime, ze jsem nenatocil video, kazdopadne uz to asi funguje takze prosim zavrit"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, ja skusim takisto.. dik.."
+    }
+  ]
+}

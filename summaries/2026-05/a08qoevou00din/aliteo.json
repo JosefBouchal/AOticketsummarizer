@@ -1,0 +1,31 @@
+{
+  "id": "a08qoevou00din",
+  "created": "2026-05-06T07:08:58.845Z",
+  "closed": "2026-05-07T11:50:42.662Z",
+  "duration_minutes": 1721,
+  "first_response_minutes": 379,
+  "name": "Užívatelia - zmeny",
+  "description": "Dobrý deň, Chcem Vás poprosiť o informáciu, ako postupovať v nasledujúcich prípadoch: 1. Z Alitea potrebujem odstrániť interného používateľa – ako to urobím – v nastaveniach firmy na záložke užívatelia, som nič také nenašiel. 2. Kolegovi sa mení pracovná pozícia, a tým pádom bude mať aj nový e-mail, ktorý bude používať. Jeho starý e-mail (ktorý aktuálne používa aj pre Aliteo) bude priradený novému kolegovi, ktorý nastúpi na jeho pozíciu. Aký je najvhodnejší postup, pre takéto zmeny? Ďakujem S pozdravom / Best regards Marek Smolko smolko@ekofence.sk +421 908 836 583 EKO fence PLOTOVÉ CENTRUM Vajanského 73 080 01 Prešov, Slovakia www.ekofence.sk fb | Ig | pin | yt",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 1,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, 1. ked otvorite nastavenia spolocnosti, na zalozke uzivatelia, najdete ndaneho uzivatela a potom v zalozke pokrocile, mu mozete zakazat pristup k datam 2. tu zalezi na tom na aky email je vytvoreny ucet v ALITEO. Standardne by ste ho mali pozvat na iny email a potom na neho prehodit ulohy ktore sa ho tykaju.."
+    },
+    {
+      "creator": null,
+      "comment": "Ďakujem, môžete uzavrieť toto AO."
+    }
+  ]
+}

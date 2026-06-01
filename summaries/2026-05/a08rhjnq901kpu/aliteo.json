@@ -1,0 +1,43 @@
+{
+  "id": "a08rhjnq901kpu",
+  "created": "2026-05-12T09:39:00.665Z",
+  "closed": "2026-05-14T10:45:47.858Z",
+  "duration_minutes": 2946,
+  "first_response_minutes": 35,
+  "name": "Dashboard : Len určité projekty v rámci spoločnosti",
+  "description": "Dobrý deň, viete mi poradiť ako by som do svojho existujúceho dasbhoardu mohol vyfiltrovať len úlohy v rámči určitých projektov a nie všetky projekty v rámci spoločnosti ? ďakujem",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, mam k tomu niekolko myslienok: - v ramci podmienok je mozne vybrat iba pracovny priestor a teda nie konkretny projekty. - druha moznost je odklikat si jednotlive projekty z widgetu ale to si widget zatial nepamata pri znovu nacitani (mame vo vyvoji) - ak chcete funkcne dosiahnut to co chcete, tak si vytvorte portofolio, do neho dajte projekty ktore chcete filtrovat a potom toto portfolio pridajte do podmienok. Tak asi dosiahnete co potrebujete."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Zdravím. Vytvoril som si portfolio a dal so do neho projekty týkajúce sa IS Karat, ale v podmienkach nevidím portfolio, viete ma navigovať ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Jasne, je to v tej prvej tabulke (o dve urovne spat):"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Perfektné, ja som išiel do tých všeobecných podmienok nie podmienok nad úlohou, to ma nenapadlo, ďakujem, už to funguje, môžeme tiket zatvoriť."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Super, tak sme radi. Drzte sa 🙂"
+    }
+  ]
+}

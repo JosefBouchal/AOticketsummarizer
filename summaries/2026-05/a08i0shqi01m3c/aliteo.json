@@ -1,0 +1,91 @@
+{
+  "id": "a08i0shqi01m3c",
+  "created": "2026-02-27T10:30:02.609Z",
+  "closed": "2026-05-05T07:52:59.821Z",
+  "duration_minutes": 96322,
+  "first_response_minutes": 170,
+  "name": "AI - nefunguje na můj dotaz",
+  "description": "zeptal jsem se na úkolu na předpřipravenou otázku a funguje to, zeptal jsem se na moji otázku: \"zjisti na které straně bylo největší zdržení. jestli na straně zákazníka nebo na naší.\" a spadlo to. případ #297228 Napojení IMOS",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 17,
+    "from_owner": 9,
+    "from_others": 8,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "tak ne všechny otázky ho matou, první zvládnou, ale dotaz druhý už nezvládl:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Cauko, diky.. Chcem sa len spytat, rozmyslam ci ma ako zistit kto je zakaznik - aby sme aj my vedeli algoritmizovat.. neskusal si sa skor spytat - nie zakaznik ale vlastnik? Neviem ci vie ze zakaznik je vlasntik. Rozmyslam podobnym sposopbom na vycislenie, aky ma byt vysledok? v akych jednotkach? Alebo teda vysledok ma byt aspon \"nejaky\" napriklad \"neviem kvantifikovat?. Dik"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "chceš říci, že pokud AI neví, tak se sekne? to snad ne. Pokud neví, tak se má zeptat.\nJako akademicky rozumím, že zákazník může být vlastník, nebo dáváme čekat na uživatele atd.\n\nJá bych mu odpověděl, kolik se čekalo na stranu externí a interní. ano, zeptal jsem se jinak a něco napsal: ale brání se to vysčítat - tam bude problém:"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "jen pro info, claude si s exportem poradil a dal výstup i s analýzou. mě tedy stačilo jen to Karat 285 dní a Zákazník 313dní."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "chapem, posuniem dalej na vyvoj.. co s tym.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "jinak DBU se ptal taky a dopadlo to podobně - jen on nemá červenou chybu, ale taky to nic nedělá."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) aktualne by mal byt AI asistent funkcny, mozes sa na to pozriet? DBU nema cervenu hlasku - tu maju len vybrani ludia aby hned vedeli ked je v konzole nejaky error - takze to je v poriadku"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "tak na produkci to stále není dobře: stejné ka, stejný dotaz a opět chyba"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "nasadili sme dalsiu opravu mozes prosim skusit? @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz)"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "a ty jsi to zkoušel? zkouším a jak ve FF, tak v Edge: Error AI communication: HttpStatusCode InternalServerError (to je to co dala červená hláska na zkopírování) jinak pak takto:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Neskusal nakolko rozny uzivatelia mozu mat rozne vysledky. takze sj keby mi to islo predal by som na Teba. je to problem ze som ti to posunul? posunul som na vyvoj naspat"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "nee, problém to není, jen nevím, proč na tomto případě to nefunguje a jinde ano, zkusil jsem jiný prohlížeč a taky problém, zkus pls na tom případu jestli ti to hodí chybu stejný případ a stejný text (CTR+C a V) a jak to dopadne.\nTřeba zde stejný text korektně odpoví:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak sa mi to potvrdilo, ja odpoved mam nekontroloval som relevanciu odpovede"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "hmm, o to zajímavější."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "takze chapes preco ani neskusam take veci 🙂"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) malo by byt opravene.. mozes vyskusat prosim?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "funguje."
+    }
+  ]
+}

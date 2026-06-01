@@ -1,0 +1,91 @@
+{
+  "id": "a08se0cpeg1n6s",
+  "created": "2026-05-19T07:03:57.094Z",
+  "closed": "2026-05-21T13:23:50.310Z",
+  "duration_minutes": 3259,
+  "first_response_minutes": 41,
+  "name": "FW: RE: #11004  žádost o uzavření požadavku: Projekty - Gantt",
+  "description": "Dobrý den, včera jsem zkoušela nastavovat ty atributy (zatím jsem nastavila dva), ale narazila jsem, jak si pak filtrovat úkoly které jsou to termínu splnění v dané etapě. Jak si dokážu vyfiltrovat všechny úkoly, které jsou po termínu v dané etapě ? Ještě mě napadla varianta, jestli na sledování etap dané objednávky nepoužít dílčí úkol. No jenže tam narážím na ten problém, že schvalování těch změn termínů jsou v ganttovým manažerem. Bohužel mi chybí kapacity na vymýšlení nastavení s ostatními úkoly, které mám. S pozdravem a přáním pěkného dne Ilona REMEŠOVÁ nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 17,
+    "from_owner": 9,
+    "from_others": 8,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, bohuzial to nejde dat do jedneho pohladu, ktory by kombinoval vsetko co potrebujete. Pretoze vy by ste potrebovali: Zobraz mi ukoly ktore: - etapa A a sucasne termin A je po termine - alebo etapa B a sucasne termin B je po termine - alebo etapa C a sucasne termin C je po termine atd Cize islo by o komplikovanu kombinaciu podmienok. Mame teda 2 moznosti: 1. na kazdu etapu mat zvlast pohlad a tam mat podmienku na termin: - vyhoda - budete na prvu vidiet kolko tam je veci - nevyhoda - pohladov bude tolko kolko mate etap kde sledujete termin 2. widget - zobrazovat si ulohy po termine na casovej ose a a zapnut si druhu hodnotuu (alebo radu) stav uloh - vyhoda: jedno miesto kde mate vsetko - nevyhoda: nie je to pohlad na domovskej obrazovke a je treba sa v tom trochu zorientovat"
+    },
+    {
+      "creator": null,
+      "comment": "Budu moci poprosit o pomoc při nastavení widgetu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, bohuzial ja nemam pristup do Vasej spolocnosti a teda Vam to neviem nastavit, ale ked som skusil spisat Vam postup ako si to nastavit narazil som na Vec ktoru som si pred tym neuvedomil. Ze kazdy atribut typu datum je zvlast atribut a teda nie je mozne ich vsetky dat do jedneho widgetu. Cez widget je teda jedina moznost, ze si ho definujete takto: 1. pridat widget -> vytvorit vlastny widget 2. prepinac ulohy 3. v podmienkach: - vybrat projektove - vybrat spravny pracovny priestor - zaskrnut potrebne etapy (dat pre uzatvorene a zrusene) - pridat podmienky sposobom: - datum A je mensi ako dnesny den ALEBO - datum B je mensi ako dnesny den ALEBO - datum C je mensi ako dnes den ULOZIT podmienky a zatvorti okno s podmienkami - vo wigete dalej nastavit: - hodnota: pocet ukolu - os X - stav s etapami - casove obmedzenie podla - Neobmedzene Skuste a poslite mi screen ak nieco nebude pasovat Vysledok teda bude ze vidite kolko uloh mate v ktorej etape po termine. Kliknete na nich a rovno ich mozete riesit"
+    },
+    {
+      "creator": null,
+      "comment": "Děkuji moc za radu, dělala jsem chybu, že jsem nemohla najít, kde se vybere etapa - tato možnost je aktivní při vybrání oblasti úkolů. Jen je velká škoda, že widgety se nedají kopírovat, bylo to pro mě hrozného času a ještě koukám dva mi chybí vytvořit . Ještě bych měla prosbu, pokud si nastavím atribut, kontrolní den úkolu, jak si nejlépe dát přehled takových úkolů?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "viem ze Vám to teraz veľmi nepomôže ale kopírovanie widgetov máme v pláne vývoja"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Čo sa týka atribútu kontrolný deň, neviem vám poradiť lebo neviem aký je to dátum a načo by to malo slúžiť"
+    },
+    {
+      "creator": null,
+      "comment": "Ale do budoucna věřím, že možnost kopírování widgetů ještě využiji, takže je to dobrá zpráva."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Date mi este vediet aky widget by ste chceli vediet urobit na zaklade atributu \"kontrolny den\"?"
+    },
+    {
+      "creator": null,
+      "comment": "už to vymýšlím jak to popsat 😀"
+    },
+    {
+      "creator": null,
+      "comment": "Kontrolní den dle etap mám nastavené v atributech jednotlivé termíny pro danou etapu. Ale v zobrazení přehledu na kartě úkolu nechci mít zobrazeny všechny termíny, protože by to bylo hodně nepřehledné, nechala jsem si že se mi zobrazuje pouze termín dodání (který je vlastně nejdůležitější v rámci objednávky) a pak jsem si dala ještě Kontrolní den úkolu, který je shodný s termínem dané aktuální etapy . Na kartě úkolu díky tomu, že vidím danou etapu, tak vím že ten kontrolní den úkolu patří k tomu. A teď konečně k tomu co jsem si říkala, že by se mi mohlo hodit ve widgetech nebo i na přehledu úkolů Mít třeba nastavené dva týdny, kde by na časové ose bylo vidět, který den co je potřeba kontrolovat. No a když to tak sepisuji, tak jsem si to vlastně už i dokázala nastavit  😀 ale někde mám chybu, protože chci aby se zobrazovali úkoly od dnešního dne a dále + 14 a vidím datum 19.05."
+    },
+    {
+      "creator": null,
+      "comment": "Je hrozné když u toho člověk má x telefonátů, tak něco vymyslet"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Takze teda skoro vsetko je vyriesene len riesime tu podmienku? Mate tam opacne znamienok.. Ak chcem buducnost tak tam musi byt ze Datum > Dnesny den + 14 dni To kde chcete vidiet datum sa nastavuje v datum atribute - je tam zvlast nastavenie pre \"prehled\" a zvlast nastavenie pre \"lavy panel\""
+    },
+    {
+      "creator": null,
+      "comment": "To nastavení datumu je ale divné při nastavení menší nebo rovno je graf takto - datumy jsou do budoucna při nastavení větší nebo rovno je graf takto - datumy jsou do budoucna, ale až od 5.6. do 29.9. což není nastavených 14 dní"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To je spravne pretoze: - Datum > Dnesny den + 14 dni: vsetky ulohy ktore maju datum vyssi ako dnes + 14 dni - teda od 4.6.2026 a dalej 4.6.2026----> - Datum < Dnesny den + 14 dni: vsetky ulohy ktore maju datum nizsi ako dnes + 14 dni - teda do 4.6.2026 späť <----- 4.6.2026"
+    },
+    {
+      "creator": null,
+      "comment": "ok, evidentně míchám dvě věci ... protože to nastavení 14 dní co jsem dala, není omezení toho jak toho na jak dlouho to chci vidět ... Už jsem na to přišla nastavit to časové omezení Omlouvám se, abych to řekla slušně, někdy si sedím na vedení."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Znamená to teda, že všetky otázky sú odpovedané a môžeme tento prípad uzatvoriť alebo je ešte niečo čo potrebujeme riešiť?"
+    },
+    {
+      "creator": null,
+      "comment": "Děkuji můžeme uzavřít"
+    }
+  ]
+}

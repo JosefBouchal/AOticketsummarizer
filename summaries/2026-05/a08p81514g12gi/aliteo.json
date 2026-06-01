@@ -1,0 +1,67 @@
+{
+  "id": "a08p81514g12gi",
+  "created": "2026-04-24T13:00:38.494Z",
+  "closed": "2026-05-07T08:14:02.253Z",
+  "duration_minutes": 18433,
+  "first_response_minutes": 236,
+  "name": "Nefungující Filtr",
+  "description": "Dobrý den, v příloze obrázek zasílám s tikety, jde he nastaven filtr bez komentáře, ale přesto se filtrují i tikety které mají komentáře, především mi jde o ty, kde poslední komentář je od externího uživatele",
+  "owner": "Josef Blažek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 1,
+    "from_others": 10,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pozriem sa na to a budeme Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) toto vidis ako chybu? mam nahlasit do vyvoja? externe komentare by sa mali brat do uvahy nie?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Opraveno."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane opravil jsem, bude v dalším patchi, ale nemám tu patchovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano @ Allan Konečný (allan.konecny@karatsoftware.cz) prave preto som sa ta pytal v komentari ##2 ci ti mam zalozit vyvojovy pripad. Podla hlavicky predpokladam ze vidis ze je to v inom pracovnom priestore nez je vyvoj, kde je patchovanie.. Mam ho teda vytvorit, aby som vedel ci bolo patchnute alebo nie?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pripravili sme opravny patch, ktory by mal byt nasadeny dnes vecer."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Vytvoř... já nezkoumám odkud to je, rovnou to čtu a řeším. Pak až se divím proč tam není Patchovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) chapem, ale v komentari som sa ta pytal ci ti to mam zalozit.. neviem ako to mam inak riesit abysom isiel po procese.. Bolo teda patchnute? oplati sa to este zakladat? posledna verzia bola nasadena dnes rano, takze chapem, ze to asi je nasadene, je tak?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Oprava byla provedena 30.4, do ostré takže ano, je to nasazené."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim pan Blazek, oprava bola nasadena, prosim o potvrdenie, ze funguje. Dakujem"
+    },
+    {
+      "creator": "Josef Blažek",
+      "comment": "Dobrý den, oprava funguje. děkuji JB"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a08qsheo800gfh",
+  "created": "2026-05-07T06:54:02.402Z",
+  "closed": "2026-05-14T07:17:27.281Z",
+  "duration_minutes": 10103,
+  "first_response_minutes": 22,
+  "name": "Re: Unibon otázky",
+  "description": "Dobrý den, mám dvě otázky 1. kde najdu uzavřené úkoly ? 2. lze vyměnit jednoho člena u testování za jiného ? Máme tam jen 5 uživatelů, což je málo v našem případě kdy pracuje na projektu xlidí, abychom mohli vyzkoušet funkčnost. Děkuji a přeji hezký den čt 30. 4. 2026 v 9:46 odesílatel Nikola Salfická < nikola.salficka@unibon.cz > napsal: Dobrý den, již jsme založili naši společnost na testování, chtěla bych se zeptat, jak já mohu přidavat další členy a jak udělám, že mi chodí maily do alitea ? Děkuji a pěkný den -- Bc. Nikola Salfická Operation Manager UNIBON I.S.M. s.r.o. Pražská 1957 274 01 SLANÝ Czech Republic +420 605 207 566 www.unibonism.cz www.unibon.cz -- Bc. Nikola Salfická Operation Manager UNIBON I.S.M. s.r.o. Pražská 1957 274 01 SLANÝ Czech Republic +420 605 207 566 www.unibonism.cz www.unibon.cz",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, 1. uzatvorene a archivovane ulohy (tie ktore nechcete aby sa Vam plietli pod rukly ak boli ukoncene) si zobrazite cez pohlad. Otvorte ulohy, pridajte pohlad a tam si vyberiete aj \"uzatvorene\" aj v spodnej casti \"archivovane\". Vtedy uvidite vsetky. 2. vymenit clena je mozne - musite toho ktore chcete odobrat \"odpojit\" - to sa robi v nastaveni spolocnosti v casti uzivatelia - vyberietre konktneho uzivatela a v zalozke \"pokrocile\" ho odpojite - nasledne potom cez tlacidlo \"pridat\" pozvete dalsieho 3. aby chodili emailove upozornenia, musite si pripojit kalendar - otvorite \"Moje nastavenia\" (kliknete vpravo hore na svojho avatara a nizsie najdete tuto moznost) - prejdete na \"prisposobit\" -> \"kalendar\" -> \"poskytovatel sluzby\" - a pripojite kalendar - Nasledne si v zalozke \"upozornenia\" (takisto v Moje nastavenia) nastavite ktore upozornenia mam to emailu maju chodit - tymto upozornenia treba venovat cast a prejst si ich"
+    }
+  ]
+}

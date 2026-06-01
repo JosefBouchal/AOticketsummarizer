@@ -1,0 +1,107 @@
+{
+  "id": "a08qouetag0eso",
+  "created": "2026-05-06T09:57:59.259Z",
+  "closed": "2026-05-25T11:28:57.483Z",
+  "duration_minutes": 27450,
+  "first_response_minutes": 207,
+  "name": "Fakturace - cena dokoupené licence * ALITEO",
+  "description": "Dobrý den, mohu Vás poprosit o kontrolu fakturované částky pro dokoupené licence Faktura 3302871119 – fakturovaná částka 144,00 Eur bez DPH, dle výpočtu níže vychází cena 94,25 Eur Předem děkuji za zprávu. S pozdravem a přáním pěkného dne Ilona REMEŠOVÁ nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 21,
+    "from_owner": 2,
+    "from_others": 19,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pozrieme sa na to a  budeme Vas informovat. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) mohol by si sa prosim pozriet na vypocet"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Oni mají pravdu. V případě, že v rámci jednoho platebního intervalu zvyšují licenci podruhé nebo více než po druhé, pro výpočet odpočtu z minulosti a budoucnosti  jsem chybně vycházel namísto z celého roku pouze z části roku od předchozího zvýšení do konce roku. Tím jsem nepočítal slevy poměrově k 365 dnům roku, ale k méně dnům (od předchozího zvýšení). Viz kalkulace v excelu - správně to mělo vyjít cca 71 euro bez daně, tedy 86 euro s daní. Výpočet jsem opravil, znovu se již nestane. Tedy nekontroloval jsem co spočítala pí. Remešová, jen mi padlo do oka že se poměrově nedělí 356, našel chybu a opravil. Aktuální data již nezměním (příliš komplikované), navrhuji vykompenzovat to s nimi dobropisem a doufám že to je jediný případ, nové nenastanou. Pí Remešové se omlouvám. Dane jde o případ ze supportu, prosím vytvoř mi chybový případ."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Dane verze je nasazena."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ako mam teda overit, ze to co si opravil je to kde ona zistila rozdiel? Mozem jej napisat ze sme opravili vypocet a riskovat ze mi povie ze jej to nevychadza a ze teda mame chybu este niekde inde?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Ten stejný stav už neověříš, ale pokud teď udělá navýšení licence k dnešnímu dni, mělo by se jí už v textech těch minusů minulého a budoucího období objevit částka /365 ... což je za mne správně."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Jinak simulace není tak jednoduchá, musel bys jeden den zaplatit licenci, druhý den navýšit a třetí den znovu navýšit, aby bylo alespoň něco vidět."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) poprosim ta, skontroluj to poriadne...nakolko nam platia +- 4 000 eur rocne za licencie...a uz teraz tam bojujeme s IT odeelenim...tak nerad  by som im daval dalsie naboje. Skontroluj to v kontexte nou reklamovanej chyby...nech nie sme za amaterov, ze to budeme opravovat na viac krat...povodne vedenie je prec, takze uz tam nemame taku poziciu ako sme mali."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Ten proces cenotvorby je dost komplikovaný, kdybych to měl znovu testovat dělám práci testera a strávím tím hodiny až dny. Vlastní oprava je podle mne v pořádku, tu jsem v rámci možností kontroloval."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) tak pls posli algoritmus ktory to napocitava, kludne ako vysek kodu."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) tak pls posli algoritmus ktory to napocitava, kludne ako vysek kodu."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "& CompPayment_new.cs CompPayment_old.cs přiložil jsem původní a nový stav po opravě, AI z toho snad pochopí co jsem opravil, ale nejsem si jistý jestli mu to bez kontextu kódu bude jasné. v tom active byla poslední pltba kde from je datum platby, předělal jsem to tak že dny se počítají z roku nebo měsíce zpětně od konce období, který ke v pořádku."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahoj @ Allan Konečný (allan.konecny@karatsoftware.cz) presiel som si to s AI a je to opravene spravne. Avsak Claude nasiel v tom kode par veci, ktore este nefunguju korektne. Skus sa na to prosim pozriet co z toho mozeme implementovat. Dik. code_review_grow_prorating.md @ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) poprosim ta teda o dobropis, cez nasu ekonomku smerom k nim."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, prisli sme na chybu a ospravedlnujeme sa za nespravnu fakturaciu. Zariadime dobropisovanie sumy smerom k Vam. Este raz sa ospravedlnujem. Dakujem za pochopenie a trpezlivost."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) mozem vychadzat a dopropisovat z toho co dopocitala ona? teda rozdiel medzi 144 a 94,25 = 49,75 ?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Pokial je to spravne tak ano...a kedze to nevieme overit, tak to asi bude nutne skontrolovat. 🙁"
+    },
+    {
+      "creator": null,
+      "comment": "Moc se zeptat v jakém stavu je řešení dobropisu?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ospravedlnujem sa ze to tak trva, ale na vratenie prostriedkov nemam uplne kompetencie, takze to riesim. Dakujem za trpezlivost"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dobropis bol podla mojich informacii vystaveny a odoslany. Prosim potom o potvrdenie ci vsetko dopadlo v poriadku. Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, děkuji moc za zprávu, koukala jsem a na email: faktury@prim.cz doručen opravný doklad. V řešení je doplnění čísla účtu. Děkuji za pomoc, úkol je možné uzavřít."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem a este raz sa ospravedlnujem za nespravnu fakturaciu."
+    }
+  ]
+}

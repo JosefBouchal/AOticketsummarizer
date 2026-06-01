@@ -1,0 +1,35 @@
+{
+  "id": "a08pvrfin01nk0",
+  "created": "2026-04-30T07:47:18.868Z",
+  "closed": "2026-05-07T10:35:45.533Z",
+  "duration_minutes": 10248,
+  "first_response_minutes": 6,
+  "name": "Unibon otázky",
+  "description": "Dobrý den, již jsme založili naši společnost na testování, chtěla bych se zeptat, jak já mohu přidavat další členy a jak udělám, že mi chodí maily do alitea ? Děkuji a pěkný den -- Bc. Nikola Salfická Operation Manager UNIBON I.S.M. s.r.o. Pražská 1957 274 01 SLANÝ Czech Republic +420 605 207 566 www.unibonism.cz www.unibon.cz",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, uzivatelov pozvete v nastaveni spolocnosti - kliknete na svoje meno v pravom hornom rohu a potom stlacite ozubene koliesko pri nazve spovjej spolocnosti. Tak sa dostanete do nastaveni. Potom na zalozke uzivatelia, dat pridat uzivatela a zadat jeho email. Odporucam si prejst tutorial videa na nasej stranke https://www.youtube.com/@ALITEO_software/playlists Aby ste dostavali emaily, musite v nastaveni uzivatela (v rovnakom menu, ked kliknete na svoje meno) - Moje nastavenia, v zalozke Prisposobit - kalendar pripojit kalendar. Potom si nastavit, ktore upozornenia chcete aby Vam chodili do emailu."
+    },
+    {
+      "creator": null,
+      "comment": "Tak to bude ono, já tam to ozubené kolečko ani možnost přidávat nemám, předpokládám, že když to založil pan Mariot, tak tuto možnost má asi jen on ? Kalendář už jsem tam dostala. Spíš jsem si myslela, že mi budou chodit do Alitea i všechny emaily, které nyní chodí do google mailu, tak abych si z mailu mohla vyzobávat své úkoly a ostatní z týmu zase ty jejich. čt 30. 4. 2026 v 9:53 odesílatel < notifications@aliteo.com > napsal: -- Bc. Nikola Salfická Operation Manager UNIBON I.S.M. s.r.o. Pražská 1957 274 01 SLANÝ Czech Republic +420 605 207 566 www.unibonism.cz www.unibon.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ad uzivatelia - ano, ten kto vytvoril spolocnost a je jej administratorom, moze pozyvat dalsich uzivatelov ad emaily - ano, ja som to tak pochopil, ze chcete v emaile vediet co sa stalo v ALITEO - je mozne aj to aby sa Vam ulohy vytvarali na zaklade emailov - musite na strane emailveho servera nastavit (IT vie ako sa to robi) aby Vam tieto emaily preposielal (so zachovanim odosielatela) na emailovu adresu projektu - tu si nastavite v jeho administratii (povolenie vytvorenia ulohy emailom)"
+    }
+  ]
+}

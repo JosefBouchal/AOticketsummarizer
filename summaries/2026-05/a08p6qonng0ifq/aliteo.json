@@ -1,0 +1,59 @@
+{
+  "id": "a08p6qonng0ifq",
+  "created": "2026-04-24T06:01:23.036Z",
+  "closed": "2026-05-07T12:01:25.640Z",
+  "duration_minutes": 19080,
+  "first_response_minutes": 57,
+  "name": "PRIM - Dotazy",
+  "description": "Dobrý den, Píšu s pár dotazy, které bych potřeboval osvětlit v rámci fungování ALITEO 1. Když v rámci helpdesku po uzavření tiketu koncový uživatel napíše komentář s tím že se problém znovu objevil, dá se automaticky tiket přepnout zpět do „V řešení“? 2. Když odpovím na komentář pomocí tlačítka  „odpovědět“, tak bych čekal že i bez označení daného uživatele pomocí @ přijde notifikace – jde tohle nějak globálně nastavit? 3. Chtěl bych se zeptat zda se tohle bude implementovat, v minulosti jsme se společně bavili že ano - Reakce pomocí emoji na komentáře, zamezí to psaní výplňových komentářů jako \"Ano, potvrzuju\", \"Beru na vědomi\" atp 4. Jde nějak u TODOs zadávat datum splnění? Když má někdo x TODOs – jde vidět někde přehled všech na jednom místě? 5. Jde v anonymním portále zapnout aby anonymní uživatel viděl řešitele úkolu? Díky za odpověď, David Pleva David PLEVA IT oddělení tel.: +420 776 581 680 david.pleva @prim.cz www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 2,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za dotazy, posielam postupne odpovede: 1. otvorenie uzatvoreneho ticketu - zalezi kto je vlastnikom - ak je vlastnikom externy uzivatel (pouziva ALITEO) - v nastaveni pracovneho priestoru je mozne zapnut tuto funkciu - anonymnom vlastnikovi to nefunguje (odpovedat emailom na upozornenie alebo cez portal) - je treba ale povedat ze to procesne nie je idealne hned z niekolkych dovodov - ked raz uz bol pripad uzatvoreny tak vacsinou je k tomu spokojnost, vykazy prace a nejaka uzatvorena dohoda - to sa moze tymto znovuotvaranim narusit a moze v tom vzniknut chaos. Chcelo by sa to pozriet a mozno navrhnut iny postup 2. odpovedat na komentar - ak sa bavime o odpovedi v ramci komentarov, tak tym len vytvarate novy komentar s odkazom na iny - teda ta zmienka sa nevytvara - chceli by ste teda aby ked odpovedam na komentar uzivatelovi A, tak aby sa ten komentar spraval ako keby som ho zmienil ?? nie je to zly napad mohol by som to prebrat s produktovym timom - inaksie ak mate nastavene podrobne notifikacie (ktore sa mozu zapinat automaticky), tak viete o kazdom komentari 3. emoji - ano toto mame v plane vyvoja - vid graficke navrhy 4. to-dos - nejde to tam zadavat - to-dos su takto stihle a zapuzdrene v ulohach (moju byt len doplnkom v ramci danej ulohy) - aby neduplovali funkciu dielcich uloh, co by sa po nich urcite chcelo ak by sme im zacali pridavat funkcionality podobne uloham 5. anonymny portal - prava pre externych uzivatelov a anonymnych uzivatelov sa nastavuju v pracovnom priestore -> Nastavenie prav - portal vyuzivaju neregistrovani uzivatelia a teda bohuzial pre nich nie je mozne zatial nastavit zobrazenie riesitela"
+    },
+    {
+      "creator": null,
+      "comment": "Díky za odpověď, mám ještě jeden dotaz - při nahrání .webp souborů se nezobrazuje náhled - za nás je to hlavní formát fotek které používáme"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, mozem preverit, ci by bol problem podporovat tento format obrazkov."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Dušan Kovář (dusan.kovar@karatsoftware.cz) prosim Ta, bol by problem podporovat tento typ obrazkov ako nahlad? Pridal by som este .heic (iphone) ak by to nebol problem. Plus daj odhad kolko casu by to zabralo a preberieme na produktovej."
+    },
+    {
+      "creator": "Dušan Kovář",
+      "comment": "Dívám se a už jsem ho tam měl, ale chybně (neměl jsem před webp tečku, tak to asi nefungovalo). Klidně napiš, co všechno chceš, případně přidej soubory pro testování a já to rychle doplním (klidně jako chybu) private static imageFileExtensions = [\".jpg\", \".jpeg\", \".jfif\", \".png\", \".gis\", \".gif\", \".webp\"];"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, update, pracujeme na uprave, aby mohol byt aj obrazok webp zobrazeny v nahlade. Budem vas informovat."
+    },
+    {
+      "creator": null,
+      "comment": "Děkuji - odpověď na komentář s notifikací dává za mě smysl - prosím proberte. Zároveň se chci zeptat - kdysi jsme řešili hromadné stažení všech příloh v úkolu do zipu - je toto možné, případně v jakém stavu to je? Díky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, - upozornenie na odpoved na komentar sme zaradili do vyvoja - hromadne stiahnutie priloh je takisto zaradene do vyvoja"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Doplnam - nahlad na webp bol doplneny.."
+    }
+  ]
+}

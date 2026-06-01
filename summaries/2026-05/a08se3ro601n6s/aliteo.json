@@ -1,0 +1,59 @@
+{
+  "id": "a08se3ro601n6s",
+  "created": "2026-05-19T07:41:49.564Z",
+  "closed": "2026-05-19T12:24:32.068Z",
+  "duration_minutes": 282,
+  "first_response_minutes": 5,
+  "name": "Menu - nezobrazuje se",
+  "description": "Hola, hlásím trápení a požádám o prověření – viz přílohy. Předpokládám, že z příloh je patrné vo co gou – ale v případě dotazů jsem k dispozici. Děkuji DB",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 9,
+    "from_owner": 3,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj David, problem je teda v spravnom zobrazeni odkazu do KARATu v ramci aplikacie ALITEO. Je tak? Moze byt ze to nie je nami ale problemov s odkazom. Ak to skusis otvorit na novej karte, tak to funguje?"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "David se stavil osobně - ukázal jsem mu řešení. Nejedná se o problém AO, ale o problém vloženého iframe. Už jsme problém jednou řešili s někým na hotline. Až vyřeší, měl by přepnout. dohledal jsem - #9331 Při přechodu na záložku Lidé nebo Upozornění se zobrazil dotaz o Povolení/blokaci přístupu k místní síti"
+    },
+    {
+      "creator": null,
+      "comment": "Ahoj Dane, \nšel jsem za Davidem K. s jedním dotazem a při té příležitosti mi ukázal, kde asi bude problém. \nTak ještě chvilku vydržme, ověřím a dám vědět 🙂\nDíky"
+    },
+    {
+      "creator": null,
+      "comment": "Hlásím, že už je vše zalité sluncem 🙂 \nAle jinak děkuji za rychlou reakci. Opatruj se"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Založil jsem případ na support IS KARAT: #337217 Bezpečnostní dialog při načítání KARAT v iframe v ALITEO . M. Piga se pokusí najít vhodné řešení. My nemáme možnost ovlivnit. @ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) Kam si můžu prosím vykázat? Můžu sem?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "David, dik za info... som rad ze za nas vyriesene.. zatvaram ticket"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Kočíř (david.kocir@karatsoftware.cz) ano, kludne vykaz sem.. problem teda nie je u nas tak? potom daj vediet nech mozem uzatvorit.."
+    },
+    {
+      "creator": null,
+      "comment": "👍👍"
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Tak asi tento úkol můžeme uzavřít. Úkol #337217 Bezpečnostní dialog při načítání KARAT v iframe v ALITEO řeší M. Piga."
+    }
+  ]
+}

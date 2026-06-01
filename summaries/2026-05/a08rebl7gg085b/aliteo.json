@@ -1,0 +1,95 @@
+{
+  "id": "a08rebl7gg085b",
+  "created": "2026-05-11T14:42:10.258Z",
+  "closed": "2026-05-19T07:40:17.001Z",
+  "duration_minutes": 11098,
+  "first_response_minutes": 99,
+  "name": "Opravení API",
+  "description": "Dobrý den, v rámci dnešní pravidelné kontroly dat jsme narazili na nesrovnalost — u některých výkazů práce není pole [Typ výkazu] přenášeno z Aliteo do API endpointu. Pro názornost přikládám výkaz č. #21609, kde je hodnota v Aliteu řádně vyplněna ( Aliteo_vykaz.jpg ), avšak hodnota [Typ výkazu] se do endpointu nepropisuje ( API.jpg ). Mohl bych Vás poprosit o opravu této hodnoty v API? Technické detaily: endpoint : /timesheets/detail company : \"a0459pp59003k3\" Id výkazu: \"a08qtael301ata\" Předem děkuji. S přátelským pozdravem, Michal Kopačka",
+  "owner": "Michal Kopačka",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 18,
+    "from_owner": 8,
+    "from_others": 10,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim vas, skuste mi poslat ako to mate nastavene v pracovnom priestore pre dany atribut. Len pripomeniem spravne fungovanie na prilklade. Mam atribut \"Znacka auta\" - bud pouzivam id atributu (vygenerovany ALITEO - 14miestny kod) alebo pouzijem api kod, ktory si sam definujem napriklad \"api_car_brand\" - nasledne ak ma tento atribut polozky napriklad \"BMW, Ford, Skoda\", tak mozem opat pouzit: - alebo value (label): BMW, Ford, Skoda (toto pouzitie nefunguje vzdy spravne) - alebo idvalue: generovaný 14miestny kod ALITEO - alebo opat definujem api kod polozky (value api kod), teda: api_brand_bmw, api_brand_ford, api_brand_skoda Naistejsie je pouzivat vzdy definovatelne api kody, ktore sa nachadzaju aj v definicii atributov tak v definicii jednotlivych poloziek v zalozk pokrocile. Mne pride ze nepouzivate tuto definiciu spravne."
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, omlouvám se, ale asi jste odpověděl na jiný tiket. V zadání upozorňuji, že API nenačítá správná data k atributu [Typ výkazu]. Pokud se nepletu, tak \"api_car_brand\" nestahujeme. S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, Nie, 🙂  odpovedal som vám k tomu čo píšete. Tak teda inak. Prosím Otvorte si v nastaveniach ten atribút a pošlite mi screeny ako máte nastavené. Hlavne value api code. Dakujem"
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, omlouvám se. Pošlu Vám screeny zítra ráno. Já stále nemám dostatečná práva, abych mohl otevřít nastavení. S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V poriadku, bolo by dobre aby ste ich mali, inak sa velmi nepohneme. Pripadne sa mozeme spojit s niekym kto tie prava ma a mozem Vam vysvetlit ako to funguje. Kazdopadne ak Vam vracia valueapicode null, tak na tomto mieste asi nemate nic definovane (priklad)."
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, tak vyšší práva na aplikaci Aliteo  bohužel nedostanu, ale samotné nastavení Aliteo aplikace ověří naše \"IT podpora\". Až budu mít více informací, tak Vám napíšu. S přátelským pozdravem, michal Kopačka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za info. Neviem ci kolegovia vedia, preto radsej pripomeniem, je mozne prava dat len na pracovny priestor, teda nemusia Vam davat administratora celej spolocnosti ale len tam kde potrebujete. Ale kto vie, mozno to vedia a je nejaky dovod preco nemozu. Kazdopadne plati, ze sa mi nezda ako to mate nastavene takze aj bude treba mozeme si dat potom aj s kompetentnymi nejaky call k tomu. Budem teda cakat."
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, vzhledem k tomu, že nemám dostatečná oprávnění pro nastavení Aliteo, předal jsem požadavek i se všemi Vašimi poznámkami naší interní podpoře. Bohužel ani oni nejsou schopni podle poznámek jednoznačně ověřit, zda je Aliteo nastavené správně. Rád bych Vás proto poprosil o společnou schůzku, na kterou by se připojil i kolega s potřebnými právy. Pod Vaším vedením bychom společně prošli nastavení Aliteo a případně provedli potřebné úpravy. Mohu Vás poprosit o zaslání pozvánky na schůzku, nebo ji raději pošlu já? Předem děkuji za odpověď. S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, asi si najprv syncnime datum kedy by sa Vam aj kolegovi dalo - piatok o 11:00 ?"
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, potvrzuji, že se nám s kolegou hodí pátek v 11:00 . Můžete nám prosím poslat pozvánku na michal.kopacka@respect.cz a jan.sefcak@respect.cz , nebo ji raději pošlu já? Předem děkuji. S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Kludne poslite pozvanku vy, dakujem."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, este ma napadlo, ze ak by ste pouzivali ID polozky vyctu, potom mozete pouzit este endpoint /ComponentInfo, ktory Vam vrati aj nazov tej polozky. Takze by to komplet malo riesit vsetko co potrebujete. Mozeme pripad uzatvorit ako vy rieseny? Dakujem"
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, s chůzka s Vámi nám opravu hodně pomohla.  Ještě jednou děkujeme za schůzku. Nastavení Aliteo nám výrazně pomohlo, ještě ho ale dolaďujeme – konkrétně procházíme, ve kterých pracovních prostorech uživatelé zakládají tickety. V první polovině týdne bych Vám napsal, jak jsme dopadli. S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravím vás, Chcete nechať túto úlohu otvorenú alebo uzatvoríme v prípade potreby založíte novú?"
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, dnes jsme ještě přenastavovali Aliteo. Mohu Vás prosím požádat, abyste ticket nechali otevřený ještě dva dny? Zítra se aktualizují data v MS Azure a hned poté provedu kontrolu. Předem děkuji, Michal Kopačka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V poriadku, davam ulohu na Vas, tak potom dajte vediet ako to dopadlo a uzatvorime."
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, vyřešili jsme zbývající problémy s přenosem dat. Ještě jednou děkuji za pomoc. Prosím o uzavření projektu. S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nie je za co, som rad ze som pomohol. Prajem pekny den."
+    }
+  ]
+}
