@@ -1,0 +1,39 @@
+{
+  "id": "a09135scv01e6r",
+  "created": "2026-06-24T12:03:10.068Z",
+  "closed": "2026-06-30T12:52:53.120Z",
+  "duration_minutes": 8689,
+  "first_response_minutes": 0,
+  "name": "Možnosť  navýšenia licencie Aliteo",
+  "description": "Dobrý deň, otváram tento tiket, chceli sme ísť zaplatiť navýšenie licencie, ale nedovoluje nám možnosť platby kartou. Je na to nejaký dôvod ? Viete nám poradiť ako sa to dá platiť kartou resp. prečo nám to nefunguje ?",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Vytvorenie tiketu"
+    },
+    {
+      "creator": null,
+      "comment": "The escalated task has been successfully completed. The result is available at this link: https://app.aliteo.com/Task/a090289p9009q8 . You can continue working on this task."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravím vás p. Polak, spôsob úhrady licencií je možné meniť vždy k výročiu licencie. Toto obmedzenie vyplýva z možností platobnej brány, ktorú používame. 🙁 V praxi to znamená, že ak máte aktuálne licencie nastavené na úhradu bankovým prevodom, navýšenie licencií bude potrebné uhradiť rovnakým spôsobom, teda prevodom. Ideálny postup je, aby ste si pri najbližšom výročí licencie nastavili nový spôsob platby (platobnou kartou). Následne sa už budú ďalšie platby automaticky realizovať z karty bez potreby manuálnych úhrad."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "ok, tak to necháme na výročie, už sa mi to nechce riešiť, ďakujem za asistenciu a vysvevtlenie, zatváram tiket."
+    }
+  ]
+}

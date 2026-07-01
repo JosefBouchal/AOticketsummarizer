@@ -1,0 +1,87 @@
+{
+  "id": "a08silq2k016fv",
+  "created": "2026-05-20T10:15:57.845Z",
+  "closed": "2026-06-06T07:16:17.126Z",
+  "duration_minutes": 24300,
+  "first_response_minutes": 85,
+  "name": "Možnosť preniesť popis z Timesheetu do komentára tiketu",
+  "description": "Dobrý deň, poslednú dobu používam Time tracker nad úlohami a vykazujem si ich do Timesheetu. Napadla ma taká idea, či by sa popis z Time Trackeru, dal automaticky zverejniť do komentáru tiketu (predvolený privat komentár), podobne ako je to pri funkcionalite počas meetingov, kde je možnosť poznámku preniesť do komentára tiketu. Čo vy nato, dávalo by Vám takéto vylepšenie zmysel, resp. aké vidíte prípadné úskalia. Berte to len ako návrh na vylepšenie čo ma napadol pri používaní časovača.",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 16,
+    "from_owner": 8,
+    "from_others": 8,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, chapem spravne ze ciel je prepojit vykaz prace s komentarom?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "áno dať tam tú možnosť, že z popisu, ktorý ukladám ak som si meral čas úlohy, by sa mi tento popis skopíroval aj do komentáru konkrétnej úlohy, nad ktorou ten časovač spúšťam. Rovnaká funkcionalita ako keď som na meetingu a robím si poznámky a dolu je tam prepínač, že poznámku uložiť do komentára úlohy."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem, tu to mame vymyslene inak.. skor ze si robit vykaz prace nad komentarom, ale je pravda ze tam nemate spusteny casovac. Ja to robim potom tak ze si pustim casovac (je jedno aky) ale poznamky co som robil si robim do komentara a az ked mam hotovo, tak si urobim vykaz prace na komentar (vtedy sa do textu vykazu prenesie popis komentara) a cas zadam na zaklade beziaceho casovaca."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "i tak še dá, ja to tiež kopírujem z opisu časovač do komentára tiketu, len mi to prišlo trochu tricky, ale je to len návrh na zlepšenie. Napadlo ma to v súvislosti s tým ako som si robil meeting cez Aliteo a tie poznámky čo sa napoja do komentára, že možno aj tu pri časovači by to bolo fajn. Ak nie tak pokojne môžete tiket zatvoriť, je to len nice to have fičúrka bez ktorej prežijem :)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Takze vam dava zmysel robit si poznamky rieseniu danej ulohy mimo komentare danej ulohy? Kam si ich teda davat pocas riesenia ak nie do komentara?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Mne áno . Mám spustený časovač nad určitou úlohou a keď ho uložím tak si do popisu zapisujem čo som za daný časový úsek, v danej úlohe vykonal."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No ale casovac neumoznuje popis.. takze v tom co pisete mate poznamky bokom, potom mate casovac a ked ho ukoncujete tak si tam tie poznamky prenasate. To by potom este lepsie bolo, ked u sa bavime v tejto rovine, aby ste do casovaca mohli davat rovno poznamky nie?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Keď zastavím časovať a idem ho uložiť tak do opisu / description píšem poznámku, že čo som k tej danej úlohe vykonal, aké aktivity. A toto si ja zapisujem aj do komentára v tikete. No a to je to čo musím robiť duplicitne, tak ma napadlo, tak ako je to pri meetingoch, dať tam možnosť preniesť to do komentára tiketu Keď tak dajme videocall pozriem ako máte volne terminy v calendly, možno sa stále nerozumieme. Plus by som aj potreboval pokecať ako lepšie managovať projekty a tasky u nás v 3EC, nejaký nezávislý pohľad ako to robiť lepšie."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem, ja pracujem s myslienkou ze poznamky k tomu co clovek robi, si mozno je lepsie robit priebezne - aby si to nemusel pisat bokom alebo aby si nemusel spominat co vsetko robil. Ale rozumiem co myslite. Kludne dajme kratky call.. a inak radsej si termin dohodnime tu, lebo teraz je problem s prepojenim calendly a outlooku u nas. Napiste mi kedy mate volnejsie dni, terminy a nieco vyberieme."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "dnes a zajtra po obede a potom až budúci týždeň kedykoľvek."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dnes to uz nedam a zajtra tam nieco mam. Mohli by sme teda pondelok 1.6.2026 o 10:00?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "jasné, pošlem pozvánku na Aliteo meeting"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem za pozvanku.. len neviem ci budem moct hodinu sa Vam venovat.. Mam potom po dlhsom case prezentaciu v anglictine.. 🙂 tak sa budem musiet trochu pripravít.. 🙂"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "okey, tak dajme pol hodinku, nemám moc čo riešiť len ten časovač a chcel by som nezávislý pohľad ako nastaviť Aliteo pre naše použitie a zopakovať si použítie Gantu na plánovanie a tiež dátumi deadline."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, mozeme tento pripad uzatvorit?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "áno, našli sme workaround, môžeme zatvoriť, vďaka za tip"
+    }
+  ]
+}

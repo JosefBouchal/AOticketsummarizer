@@ -1,0 +1,39 @@
+{
+  "id": "a0916o0it018be",
+  "created": "2026-06-25T08:49:46.822Z",
+  "closed": "2026-06-25T10:33:43.277Z",
+  "duration_minutes": 103,
+  "first_response_minutes": 77,
+  "name": "Presun dokumentu z jedného projektu do druhého",
+  "description": "Dobrý deň, mám dokument na záložke Dokumenty na projekte. Chcela by som ho presunúť na záložku Dokumentu do iného projektu. Je to možné? Drag and drop mi funguje vrámci priečinkov jedného projektu, ale keď skúšam z okna do okna z jedného projektu do druhého, tak sa mi to nedarí.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, bohuzial nie je mozne presuvat dokumenty z projektu do projektu."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "ok dakujem za informaciu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mozeme tento pripad uzatvorit?"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "ano"
+    }
+  ]
+}

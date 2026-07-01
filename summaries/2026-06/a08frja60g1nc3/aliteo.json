@@ -1,0 +1,75 @@
+{
+  "id": "a08frja60g1nc3",
+  "created": "2026-02-10T14:51:52.975Z",
+  "closed": "2026-06-25T10:28:35.746Z",
+  "duration_minutes": 194136,
+  "first_response_minutes": 170,
+  "name": "úkoly - přepínání pohledů ",
+  "description": "Viz video msedge_13OQxhwS1I.mp4 v nové verzi AO 1)pokud vyberu uložený pohled na úkoly, celý levý panel poskočí nahoru 2) pokud vyberu pohled, který je \"oblíbený\" tak se navíc  ztratí všechny ostatní pohledy.",
+  "owner": "Juraj Matěj",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 13,
+    "from_owner": 5,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, posuvam na vyvoj.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj @ Juraj Matěj (juraj.matej@karatsoftware.cz) . skoky pohladov boli odladene na alfe, vies sa prosim pozriet tam, ci je to ok?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Ahoj, vyzkouším, jen čekám na zaslání kódu z https://aliteoalfaapp.azurewebsites.net/ to by mělo být hned ne?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, malo by to byt hned... ty tam este nemas ucet.. ? Tam asi teda nebudes mat dostatok dat ci?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "tak registrace se mi nedaří (nepřijde mi mail), tedy nemám jak ověřit."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Preraba sa prihlasovanie, implementujeme SSO, preto tam su asi problemy... @ David Kočíř (david.kocir@karatsoftware.cz) navrhol ze vyriesi ten kod a potom nam da vediet aby standardna registracia fungovala.."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "ano probrali jsme to spolu, takže až bude aktuální a registrace možná, rád přepínání pohledů vyzkouším."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Z přiloženého obrázku ##3 je viděž, že se jedná o firemní účet, který již v AO existuje: Účty do ALITEO jsou sdílené napříč verzemi, oddělená jsou pouze data. Místo zakládání účtu se tedy zkus prosím přímo příhlásit."
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "Díky,  zde je záznam testu přihlášení fungovalo  díky. ❗ zůstává - 1)pokud vyberu uložený pohled na úkoly, celý levý panel poskočí nahoru 👍toto je za mě ok - 2) pokud vyberu pohled, který je \"oblíbený\" tak se navíc  ztratí všechny ostatní pohledy."
+    },
+    {
+      "creator": "David Kočíř",
+      "comment": "Tohle je tedy již na @ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) ."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, predal som na Dusanovi"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Juraj Matěj (juraj.matej@karatsoftware.cz) znova sme optimalizovali, mozes prosim pozriet?"
+    },
+    {
+      "creator": "Juraj Matěj",
+      "comment": "ahoj to vypadá dobře 👍"
+    }
+  ]
+}

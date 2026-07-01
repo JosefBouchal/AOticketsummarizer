@@ -1,0 +1,79 @@
+{
+  "id": "a04jqr9if01mhb",
+  "created": "2023-06-23T07:13:00.467Z",
+  "closed": "2026-06-24T09:22:41.600Z",
+  "duration_minutes": 1579809,
+  "first_response_minutes": 4293,
+  "name": "Podpis v odpovědi (komentáři)",
+  "description": "Dobrý den, je nějaká možnost automatického podpisu při odpovědi v komentáři? Můžu sice využít předdefinovaný komentář, ale ten mi přemaže původní zprávu, kterou jsem napsal, takže musím myslet na to, abych dal podpis, a pak až zprávu, což jsou ruční kroky, kterým se chceme vyhnout. Šlo by nastavit, aby předdefinovaný komentář nemazal původní zprávu? Nebo promyslet novou funkci, která by při odeslání dopsala podpis za původní zprávu? Často lidi s námi komunikují pouze přes email, kde si nemůžou rozkliknout osobní kartu jako v Aliteu, kde je tel. číslo, email, atd... Děkuji za promyslení.",
+  "owner": "Jakub Trhlík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 14,
+    "from_owner": 3,
+    "from_others": 11,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, dakujem za podnet, preberieme to na produktovej porade a budem Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu: - podpis vs automaticky podpis uzivatela - preddefinovany podpis premaze napisany komentar - navyse by asi bolo treba riesit dalsie otazky: - ako oddelit normalny komentar od podpisov - kto ho bude definovat a kde bude ulozeny atd"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "z porady: - zavedieme novu funkcionalitu - zadat ulohu do vyvoja a na analyzu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim pan Trhlik, Vas podnet sme prebrali a myslime si ze ide o dobry napad, preto to zaradime medzi podnety, ktory budeme analyzovat a nasledne zaplanujeme do vyvoja."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Prec to je znova otvorene? Chceli to otvorit? Berem, ze to je podnet."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) Trhlik to chcel v pripade #2639 Znovuotevření úloh otvorit niekolko uloh."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "ok dik, za info."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Jakub Trhlík (jakub.trhlik@benesalat.cz) riesime prave analyticky ako by mohol podpis vyzerat. Dosli sme k tomu ze by to bola separatna funkcia na tlacidlo v liste kde sa nachadza preddefinovany komentar. Otazka znie ako by sa to malo nastavovat. - malo by to byt za Vas len nastavenie na uzivatelovi alebo by to malo byt mozne nastavovat na prac. priestore napriklad (aby mali vsetci rovnaky podpis)? alebo teda aj aj s tym aby malo nastavenie na prac. priestore prednost (podobne ako je to s udajmi na spolocnosti) - ak to ma byt nejako hromadne pre viacerych ludi, asi by sme museli brat dostupne udaje zo spolocnosti Je to ok takto?"
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Ano, toto řešení by pro nás bylo přínosné. Za nás by bylo nejlepší, pokud by si každý uživatel mohl nastavit vlastní podpis - takže nastavení na uživateli. Díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To znamena ze nepotrebujete tak komplikovane riesenie, ale staci , aby sme na uzivatelovi dovolili nejake okno, ktore si vyplni textom a to bude jeho podpis? Nepotrebujete to nijak mat pod kontrololu?"
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Představuji si to podobně jako v Outlooku. Máme standard v PDF jak má podpis vypadat, ale nastavení podpisu v Outlooku je pak na každém uživateli. Ale když to zmiňujete, tak by bylo dobré mít možnost v Aliteu zasáhnout jako admin do podpisu nějakého uživatele, pokud by používal něco nevhodného."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak to teda nemozme nechat len na uzivatelovi - preto bol ten komentar ##11 Musime to teda vyriesit viac komplexne, nez len obycajnym textom. Dakujem za feedback"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nasiel som tento pripad ako starsi a cakal na implementaciu. Aktualne je mozne podpis nastavit, ako na uzivatelovi tak na spolocnosti, ktory vlastne nastavi vsetkym rovnaky podpis: Podpisy sa nachadzaju v brandingu spolocnosti: Bohuzial stale nepodporuje vstavane obrazky, nakolko sa k obrazkom v komentari spravame specialen a nevkladame ich cele do tela komentara. Neviem teda ci Vam toto riesenie nejako vyhovuje. Dajte vediet ked tak.. Dakujem"
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Dobrý den, jojo, o této možnosti jsem četl, pro naše potřeby je to vyhovující, asi můžete uzavřít. Díky."
+    }
+  ]
+}

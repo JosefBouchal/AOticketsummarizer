@@ -1,0 +1,79 @@
+{
+  "id": "a08taoogd001tm",
+  "created": "2026-05-26T06:36:48.264Z",
+  "closed": "2026-06-03T08:52:27.900Z",
+  "duration_minutes": 11655,
+  "first_response_minutes": 11,
+  "name": "/SyncGetSimpleComponents - type Create i když už je vyplněno eid",
+  "description": "Když v API zavolám /SyncGetSimpleComponents na ID co již má vyplněno eid, tak stejně je type Create, nemělo by být pak Modify? Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 14,
+    "from_owner": 4,
+    "from_others": 10,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Lubo, predam na vyvoj, resp poziadam o odpoved. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) mohol by si prosim odpovedat? ak bude treba zalozim pripad na opravu do vyvoja, len daj vediet ci treba"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "syncGetSimpleComponents dnes vrací vždy Create bez ohledu na skutečnost, jestli má nebo nemá naplněno ExternalId. Je to tak by design a je otázka co je lepší. Nemám problém plnit Modify pokud má naplněno ExternalId, ani si nemyslím, že by to byl kompatibilní problém."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "my si když tak taky můžeme ten type změnit, ale z logiky věci bych řekl, že modify pokud jej už protistrana má zní logicky, jelikož pak může využít stejného mechanismu jako při klasické synchronizaci, takže kdyby bylo na mě, já bych se přiklonil k změně a pokud by byl záznam smazán, tak samozřejmě Delete."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) zalozit na to priprad ak to vieme zmenit? co pise Lubo?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "Ano."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zalozene na vyvoj"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "děkuji"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Allan to opravil, ale este cakam na patch.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "díky, já na to nespěchám, možná příští měsíc začneme se zapracování podpory i volání /SyncGetSimpleComponents ale přípdně až na konci června"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobre, ale myslim ze to bude zajtra mozno pozajtra, podla toho kedy sa bude patchovat.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) malo by byt opravene.. mozes prosim potvrdit ze je to ok?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane, ano dneska je to už ok . Díky moc Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ďakujem za otestovanie"
+    }
+  ]
+}

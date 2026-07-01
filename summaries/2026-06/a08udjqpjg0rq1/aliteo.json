@@ -1,0 +1,95 @@
+{
+  "id": "a08udjqpjg0rq1",
+  "created": "2026-06-03T17:36:21.510Z",
+  "closed": "2026-06-04T10:32:52.702Z",
+  "duration_minutes": 1016,
+  "first_response_minutes": 1,
+  "name": "Parent / child task",
+  "description": "Viete čo ma napadlo p. Dzuro, že ja by som mohol Parent a Child tasks zrušiť a vytvoriť si len atribút nad úlohou, kde si dám povinné pole a tam dám hodnoty z ktorých treba vybrať. Lebo ja tom mám navrhnuté tak, že Parent sú názvy Formulárov a TZ ktorých sa daný child task týka. Čiže si vytvorím Atribút (Type of Forms) vytvorím si tam x formulárov v rámci našeho procesu a dám to ako povinné pole. A nemusím mať zbytočne veľa tiketov tým že mám Parent Tasky, ktoré len zgrupujú cez subtasky súvisiace úlohy. Čo vy nato, dáva to logiku ?",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 18,
+    "from_owner": 9,
+    "from_others": 9,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, dava to zmysel ale ked nebudete robit dielcie ulohy tak stratite prehlad ku ktoremu parentu patri dany child.. Takze je to kombinacia..  mozete potom filtrovat a zaroven vyuzivat dielcie.."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "konkrétne ako to ja využívam. Máme E2E proces, od zadania požiadavky zákazníka na certifikáciu až po vystavenie certifikátu. A v každom kroku procesu máme nejaký formulár v IS Karat cez, ktorý zadávame údaje do Karatu a cez Tlačové Zostavy máme nejaké výstupy. No a ja som si rodičovské úlohy nazval podľa jednotlivých formulárov. A akýkoľvek tiket mi príde resp. vytvorím, tak ho priradím k rodičovskej úlohe, ktorá sa volá - Formulár xxx + TZ. Nerozumiem, teraz, že akú by malo výhodu mať rodičovskú úlohu, kde je len názov formulára a pod ním podúlohy, ktoré sa týkajú toho formulára alebo TZ. ?   Ten Rodičovský task, mi slúži len na to aby som aj na porade išiel krok po kroku v procese (formulároch) a videl koľko je otvorených tiketov (podúloh) za jednotlivú fázu (formulár) procesu. Inak teraz keď tu o tom píšem ma napadlo, že možno by to nebolo zlé aj unifikovať a že mať jednotlivé fázy procesu (formuláre) ako sekcie. 1. Vytvorenie požiadavky (web formulár na zadanie požiadavky zákazníka) 2. vytvoreie CP (formulár CP) 3.vytvorenie žiadosti o certifikáciu (formulár žiadosti) 4. posúdenie žiadosti (formulár posúdenia) 5. program auditu (formulár programu auditu) 6. zazmluvnenie .... Takto keď si o tom s Vami píšem ma napádajú lepšie a lepšie možnosti :)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Na lepsie pochopenie toho ako to mate, by som potreboval nad tym posediet a porozmyslat.. ale v principe je niekolko moznosti, zalezi na tom ake je okolo toho operativa. - Ci jednotlive formulare idu za sebou chronologicky (maju rozne terminy a roznych riesitelov a treba ich planovat) - potom to musia byt separatne ulohy so zavislostami - ak ich netreba planovat so zavislostami - potom jedna uloha s viacerymi etapami - vsetko je v jednej ulohe a jednotlive etapy certifikacie su etapy riesenia (na zaklade zmeny etap potom mozete nechat vyskakovat rozne atributy ako upozornenia alebo miesto kde niekto vlozi vysledok predchadzajucej prace atd)"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Tak reálne v Aliteu robím a žiaľ asi aj dlho robiť budem len ja, nakoľko aplikačná zručnosť 90 percent fimy je pero papier a miera  digitalizácie je excel, word a MS Outlook a s obrovským odporom začiatky IS Karat. A ja som rovnako ak vy fanúšikom, zjednodušovania a automatizácie svojich denno denných procesov. Nechcem Vám zneužívať a páliť Váš drahocenný čas, lebo povedzme si na rovinu zo 70 eur na rok so mňa nevyžijete 🙂 ale Aliteo používam rád, len vidím, že má extrémne veľa možností a vedel by som si ho neskutočne naškálovať na svoju prácu a zautomatizovať ju. Zatiaľ som skúsil zrušiť existujúce a založi nové sekcie, ktoré by boli fázami procesu a prepínal by som si medzi nimi úlohy v operatíve a v service desku by som si tam zatriedoval úlohy aby som vedel , ktorá čas procesu je najviac zasiahnutá nejakými problémami prípadne zmenovými požiadavkami. Len jednej veci nerozumiem, prečo nemožem odstrániť sekcie, stále mi tam hlási, že tam mám aktívne úlhy ale ja tam nič reálne nevidím. Ale to môžeme na nejakom online stretku prejsť, asi niekde robím chybu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vsetky ulohy si musite zobrazit cez pohlad - zaskrtnite aj zrusene/uzatvorene ale co je podstatne aj \"archivovane\". Vtedy uvidite vsetky"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Áno už tam vidím uzatvorené úlohy. A viete mi poradiť ako zruším všetky sekcie, že ich vypnem, či vždy musí jedna zostať vytvorená v rámci projektu ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Obavam sa ze uz nie je mozne vypnut uplne sekcie - nakolko musi vzdy nejaka existovat. Aj ked su vypnute stale tam nejaka defaultna je - vo vyvoji mame aj to vypinanie aby sa to stratilo. Ale zatial je to tak ze ked ich zapnete tak uz nevypnete nakolko sa ta struktura vytvorila a ulohy tam uz patria."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "jj presne to som si myslel, ale tak dá sa to vyriešiť tým, že si tú existujúcu premenujem na takú akú potrebujem nie ? Teraz tam mám backlog, tak si ju premenujem na zadanie požiadavky od zákazníka a vytvorím ostatné sekcie podľa procesu a malo by to fungovať. Alebo ak by to nešlo prepísať, tak vytvorím nové sekcie a presuniem tikety do tých nových a tú starú zmažem."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Prepisat nazov urcite ide.. takze to problme nie je. Myslel som ze ich nechcete vobec."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "nie nie, chcel by som si sekcie spraviť ako jednotlivé fázy procesu (formuláre v ISK) a budem si tak zatrieďovať jednak tiket z chybami (service desk) a jednak v operatíve konkrétny projekt v akej ho mám fáze."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V poriadku, tak sme teda dospeli k rieseniu? Alebo su este nejake otazky?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "je to okey, môžeme to uzavrieť, dali ste mi viacero návrhov ako si to nastaviť, hovorím zatiaľ je  (ne)šťastie, že Aliteo u nás používam len ja a nemusíme tam riešiť zložitejšie nastavovania ale zas má to tú výhodu, že ak sa niekedy riaditeľka / zástupca rozhodnú ísť do toho tak budem už dokonale zaškolený"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "predsa len. Keď som išiel vymazať sekciu tak zas mi tam vyhodilo túto hlášku Dal som v zozname všetky úlohy, je možné že sú tam ešte nejaké ďalšie. Napadá ma, tie archivované ako zistím ? takú možnosť na ľavej strane nevidím."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ako som pisal v komentari ##5 musite si vytvorit pohlad a v nom (okrem ineho) v spodnej casti zaskrtnete \"vratane archivovanych\"."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "ok, a je možné že archivovanú úlohu nemôžem presunúť do inej sekcie ? Keď skúšam drag and drop s myšou tak mi tie tikety nechce premiestniť. robí niečo zle, alebo mi viete poradiť ako na to ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, je to mozne, ze ani presun ulohy nie je mozne urobit na archivovanych ulohach.. asi je treba aktivovat, presunut a potom archivovat naspat.. aktivovat sa musi po jednom, archivovat sa da hromadne.."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "okey, tak inštrukcie mám, niekedy sa do toho dám, vďaka za pomoc a poradenstvo, môžeme tiket zatvoriť"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nie je problem, dufam ze pomohlo, keby nieco znova napiste.. dakujem"
+    }
+  ]
+}

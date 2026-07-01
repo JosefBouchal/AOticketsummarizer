@@ -1,0 +1,51 @@
+{
+  "id": "a08uk905900ecm",
+  "created": "2026-06-05T08:24:43.062Z",
+  "closed": "2026-06-17T13:12:17.451Z",
+  "duration_minutes": 17567,
+  "first_response_minutes": 144,
+  "name": "Po vložení obrázků do komentáře se změní jejich název",
+  "description": "Dobrý den, po vložení obrázků do komentáře úkolu (ne do příloh úkolu), se změní název přílohy (dle úkolu) a po stažení obrázku se název změní úplně na něco jiného. Prosím o prověření, potřebujeme zachovávat název obrázku, jelikož se v něm nesou data pro tisk „TROYER GARAZ_banner s oky od Tesca_sikmy_1ku10_5900x2920x2400mm.jpg“ Díky, Pleva David PLEVA IT oddělení tel.: +420 776 581 680 david.pleva @prim.cz www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 2,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano, je to tak - ulohy sa premenuju preto, aby sme mali jednoznacne identifikatory. Poradim sa teda s kolegami, ci by technicky slo ponechat povodne nazvy."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "vyjadrenie programatora ohladom pomenovania obrazkov: Dusan: Při vložení do komentáře rozlišuji obrázky a neobrázkové dokumenty. U obrázků si nepamatuji původní název souboru, jelikož obrázky se mohou do komentáře dostat různými způsoby, nejen ze souboru - prostě to tak historicky vzniklo a je pak zobrazen název na základě úkolu, pořadí komentáře a pořadí přílohy. Při stažení však dělám ten název Image  + order explicitně - mohl by aspoň tam být stejný název jako je v preview = název úkolu + číslo komentáře + pořadí přílohy v komentáři. Stačilo by to?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, posielam update/vysvetlenie na zaklade preverenia s vyvojom. Pri vkladani obrazkov priamo do komentara si system nepamata povodny nazov suboru, pretoze obrazky sa tam mozu dostat roznymi sposobmi (napr. zo schranky alebo pretiahnutim), kde povodny nazov casto nie je k dispozicii. Z tohto dovodu sa obrazky ukladaju pod systemovym nazvom podla nazvu ulohy, cisla komentara a poradia prilohy. Este to interne preberieme, ci by bolo technicky mozne do buducna zachovavat aj povodny nazov suboru."
+    },
+    {
+      "creator": null,
+      "comment": "Díky za info, pokud to nebude možné, tak budeme muset všechny obrázky vkládat také do příloh, což není asi úplně žádoucí."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dohodli sme sa na porade, ze v dalsej verzii (vyjde koncom leta), ak bude aplikacia vediet nazov, tak si ho zapamatame az po stiahnutie. To by teda malo riesit Vas problem nie?"
+    },
+    {
+      "creator": null,
+      "comment": "Super, díky!"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mozeme tento pripad uzatvorit ?"
+    }
+  ]
+}

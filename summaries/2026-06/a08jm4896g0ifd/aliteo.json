@@ -1,0 +1,75 @@
+{
+  "id": "a08jm4896g0ifd",
+  "created": "2026-03-12T08:39:00.616Z",
+  "closed": "2026-06-16T07:07:16.934Z",
+  "duration_minutes": 138148,
+  "first_response_minutes": 229,
+  "name": "emailová notifikace u různých druhů komentářů",
+  "description": "Dobrý den, Začali jsme s kolegyní u jednoho projektu používat rozlišení druhů odesílaného komentáře (veřejné, interní, soukromé). Zjistili jsme ale, že pokud je komentář zadán jako soukromý a odeslán příjemci (který je zvolen přes zavináč jako zmínit uživatele), nedojde příjemci emailová notifikace o novém komentáři. U interní či veřejné varianty komentáře je to OK. Má být toto chování správně? Nedalo by se někde upravit nastavení, aby ty notifikace chodily i pro soukromé zprávy? Předem díky za info. Martin PŘIKRYL IT Coordinator Lesaffre Česko & Lesaffre Slovensko Mob. +420 739403300 Hodolanská 34, 779 00 Olomouc, Czechia m.prikryl@lesaffre.com – www.lesaffre.cz – www.lesaffre.sk – www.lesaffre.com Zvažte, je-li nutné tento e-mail vytisknout. - Please only print this email if it is necessary.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 13,
+    "from_owner": 6,
+    "from_others": 7,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, sukromny komentar je len pre vas ale pokial by ste ho chceli ukazat niekomu inemu tak pri tvoreni komentara zvolte Sukromny a pridajte vybranych. Potom by to malo fungovat. Naslednou otazkou je, ci by sa pri sukromnom komentari kde umiestnim zmienku mali pridat tieto zmienene osoby k vybranym."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, omlouvám se za pozdní odpověď. Právě, že nefunguje, proto jsem psal dotaz, jestli to tak fungovat má. Když vytvořím soukromý komentář a přidám osobu, se kterou chci tento komentář sdílet, notifikace dotyčné osobě nepřijde. O zmínce jsem psal už dříve. Nejde o požadavek na klientskou změnu, ale o zjištění stavu, jak to správně funguje resp. fungovat má. Díky, MP"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, ja som sa snazil vysvetlit, ze ak vyberiete surkomie komentara \"sukromne\" ale nepridate nikoho naviac tu: , tak aj ked zmienite toho cloveka v komentari, tak mto nepride ako upozornenie, lebo na ten komentar nema pravo. Vo Vasom popise nepiste nic o tom ze ste zvolili sukromie \"sukromny + vybrani\" ale iba sukromny a teda je spravne ze nepride notifikacia aj ked ste tam urobili zmienku. Rozumieme si?"
+    },
+    {
+      "creator": null,
+      "comment": "Jasne, rozumim tomu rozdilu. Kazdopadne pokud zadam soukromy ticket a pridam interního uzivatele tak notifikovan neni. Proc to resim. Hledam cestu, jak omezit mnozstvi emailovych notifikaci pro sledujici a cesta soukromeho komentare mi prosla jako idealni cesta."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano ja som tomu tak rozumel a preto som vysvetlil ako to funguje. Preto som aj polozil tu otazku v prvom komentari, ze ci by bolo vhodne aby sa pri zadani zmienky do komentara pridal dany uzivatel aj medzi “extra uzivatelov” aby ten komentar videli? To by riesilo Vas problem nie?"
+    },
+    {
+      "creator": null,
+      "comment": "Omlouvam se, ale asi si budeme muset zavolat a ukazat si na příkladu. Děkuju."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Prave pozeram ze ste pisali este v komentari o sukromnom tickete, co je zas iny pripad 🙂 asi bude rozumne si zavolat. Dnes som na ceste na KARAT konferenciu, takze ak sa neuvidime tam, navhrnite par terminov na zaciatku dalsieho tyzdne a mozeme si zavolat."
+    },
+    {
+      "creator": null,
+      "comment": "Aha, to je ma chyba, to mel byt komentar. PO 30.3. od 13:00 nebo UT 31.3. od 8:30. Díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V poriadku, mozeme teda utorok 31.3 10:00-10:30 ?"
+    },
+    {
+      "creator": null,
+      "comment": "Ano, děkuji."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, nasiel som tento komentar, ktory je dlhsie otvoreny.. je mozne ho uzatvorit?"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, přiznám se, že si už nevybavím výstup z naší schůzky. Dokážete mi ho připomenout? Díky, MP"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Uprimne, Vystup si nepamatam ale co sa tyka upozorneni tak sukromny komentar je sukromny a nikto okrem Vas na neho nema pravo. Ked chcete zmienit kolegynu je treba k sukromnemu sukromiu este pridat “vybrani” a vybrat kolegynu. Myslim ze sme sa bavili len o tom ze ci by sa nedalo automatizovat ze ak pridate zmienku tak ci sa nema pridat medzi “vybranych” automaticky. Je tam ale problem s tym ze co ak upravite komentar a odoberiete zmienku ci sa to ma odobrat alebo uz nie. Su na to naviazane dalsie otazky ako sa to ma spravat - teda nie je to take teivialne ako sa to na prvy pohlad zda."
+    }
+  ]
+}

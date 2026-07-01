@@ -1,0 +1,39 @@
+{
+  "id": "a08vt19fr00ovc",
+  "created": "2026-06-15T05:51:03.586Z",
+  "closed": "2026-06-15T07:39:47.426Z",
+  "duration_minutes": 108,
+  "first_response_minutes": 23,
+  "name": "Aliteo - notifikace email - nejsou zasílány",
+  "description": "Dobrý den, dnes mi nechodí notifikace do emailu na úkoly, v panelu jsou zobrazeny V mém nastavení mám zapnuta všechna upozornění V úkolu mám také zapnuta upozornění Prosím o prověření. Už jednou mi kolegyně zmiňovala, že ji také nedorazilo. S pozdravem a přáním pěkného dne Ilona REMEŠOVÁ nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "David Kočíř",
+      "comment": "Řeším"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím Vás, o tomto probléme vieme a pracujeme na jeho vyriešení. Hneď ako to bude v poriadku, budeme Vás informovať. Ospravedlňujeme sa za nepríjemnosti a ďakujeme vopred za trpezlivost."
+    },
+    {
+      "creator": null,
+      "comment": "Zdravím, notifikace zpětně dorazily. Úkol se možné uzavřít, děkuji a přeji krásný den."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, nasadili sme opravu. Dakujem a prajem pekny den."
+    }
+  ]
+}

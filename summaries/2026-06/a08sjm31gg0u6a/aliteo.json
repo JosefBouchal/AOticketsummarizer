@@ -1,0 +1,127 @@
+{
+  "id": "a08sjm31gg0u6a",
+  "created": "2026-05-20T16:08:32.975Z",
+  "closed": "2026-06-11T08:09:04.860Z",
+  "duration_minutes": 31200,
+  "first_response_minutes": 158,
+  "name": "Napojenie Karat Assistance na Aliteo 3EC",
+  "description": "Dobrý deň, ako mám postupovať ak chcem napojiť Karat Assistance, ktorý je momentálne napojený na Aliteo Sanga/KaratSoftware, na Aliteo 3EC. Ide mi o to aby som naučil užívateľov vytvárať tikety / návrhy na vylepšenie cez Karat Assistance a najskôr prechádzali filtrom cezomňa resp. našu firmu a až keď nebudeme vedieť problém vyriešiť budem tikety eskalovať na Sango / Karatsoftware. Plus aby mi automaticky prikladalo kompletné informácie o aktuálnom okne v ISK aby som aj pri preposielaní tento súbor poslal developerom pre lepšiu orientáciu. ďakujem",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 26,
+    "from_owner": 10,
+    "from_others": 16,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, neviem ci toto je nejako standardne mozne, skusim kolegov."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) prosim Ta, je toto mozne co popisuje zakaznik? Ak to chapem spravne, tak by si chcel vediet z vlastneho KARATu hlasit veci do vlastneho ALITEO.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Dobrý den, jestli to chápu správně, tak chcete ze svého KARATu mít možnost zadat do dvou různých ALITEO společností. 1. do KSW ALITEO, kde vás dostáváte podporu od nás. 2. do vašeho firemního ALITEO - kde budete dělat první level podpory vy. Dříve bylo možné v karatu nastavit zaslání e-mailu a ten bylo možné přijmout přes ALITEO jako příjem e-mailu a založit případ. Karat to podpořil a je možné v Menu: Zadávání případů do ALITEO zadat nový řádek a tam nadefinovat přístupové údaje do vašeho ALITEO. Pole Popis Pořadí Pořadí v nabídce při zakládání případu Název Co se uživateli zobrazí v nabídce API klíč Klíč pro komunikaci IS KARAT ↔ ALITEO (zjistitelný v ALITEO) Společnost ID společnosti zákazníka v ALITEO — tady se změní ta firma Projekt ID projektu v ALITEO Platnost Příznak aktivity záznamu Zkuste tedy nastavit tam."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Vďaka za odpoveď. Za mňa ani nie že na dve spoločnosti v Aliteo ale skôr, že najskôr len na nás, do našeho Alitea ako 1st level, a ak si s tým nebudeme vedieť dať rady, tak túto úlohu eskalujeme na 2level to je Sango a oni ak niečo nevedia preposielajú na Váš tím v rámci Alitea, kvázi 3 level podpory. Ide mi len o to preveriť či to technicky ide a ak áno, porozprávam sa s tým s našim dodávateľom a tiež p. Pazderom."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "v tom případě by to měnu mělo splnit přesně to, co chcete."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Vďaka za vysvetlenie, takže tu na tomto mieste v ISK ? Len tam nikde nevidím možnosť zadať e-mail, takže asi požiadam nášho implementátora, plus otázka na p.  Dzura, treba tam potom zadať adresu toho projektu v Aliteu na ktorý chceme tikety zasielať ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Predpokladam ze sa tam zadavaju ID spolocnosti a projektu. Je tak @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) ?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "##8 ano - viz ##3 - tedy něco takového: je tam potřeba dát \"Přidat\" a tam to zadat, to co tam máte vychází z licence. ##7 - ano to je to menu. Varianta s mailem je potřeba řešit přes server xml jestli si to dobře pamatuji. a v karatu pak je tam možnost to odeslat mailem: a zde jim předvyplníte tu mailovou adresu: - ale toto je již na dotaz na karat."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Vďaka za info, takže je treba kontaktovať nášho implementátora a dohodnúť to s ním. P. Dzuro a to ID projektu (projekt v 3EC International) nájdem kde ? lebo momentálne tam vidím  #lic a neviem aký údaje je pre projekt : #1 3EC Service Desk"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Otvorte projekt a v url najdete jeho id"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) napsal jsi to interně."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Otvorte projekt a v url najdete jeho id"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dik"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Len pre potvrdenie, čiže vytvorím nové zadávanie prípadov a do API dám API kód z aktuálneho projektu v Aliteo a do polí spoločnosť a projekt zadám ID z url pre spoločnosť / projekt a malo by to hypoteticky fungovať, tak ?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ano, zkuste a uvidíte. Když ne tak založit případ na Karat."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "okey, poslal som na schválenie nadriadenej kúpu licencie kde je prístupné aj API, keď mi ju schváli, zakúpim licenciu a otestujem to."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "P. Dzuro, dnes som zakúpil licenciu, zrejme pár dní potrvá kým ju zaregistrujete. Zvláštne bolo, že som išiel platiť, vybral som spôsob platby kartou a sprievodca sa zatvoril. Ale vyzerá to že sa licencia aktivovala len zatiaľ nemám možnosť získať API na prepojenie s IS Karat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, no ked na to pozeram tak ste zakupili licenciu ktora bude platit az po datume vyrocia. Mali ste zvolit : \"navysit k aktualnemu datumu\" ale podla toho ako to vyzera sa zda ze ste zvolil \"zmenit k datumu ukoncenia\" (alebo nejako tak to tam je). Alebo sa mylim?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "fúúú, tak to som si nevšimol. Dá sa to nejako zmeniť ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, mozete prosim skontrolovat ze ste fakt zaplatili? Najdete to v history payments. Realne by ste este nemali mat moznost takto dopredu platit.. ak ste nezaplatili mala by tam byt moznost \"zrusit\" a skusit prejst znova zakupenim, avsak zvolit \"od dnesneho dna\"."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Ano nie je to ešte zaplatené, to bola ďalšia vec, ktorú som nechápal. A áno, teraz som skúšal dať navýšenie licencie, tak mi vypočítalo parciálnu čiastku k dátumu obnovenia licencie a potom asi bude chcieť zaplatiť 70 eur, ak som tomu správne porozumel."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ako som pisal vyssie, mali by ste dat zrusit tu ktora mala platit od 22.8 a potom kupit licenciu od dnesneho dna. Cena, ano, mala by byt vypocitana alikvotne k tomuto datumu od dnes."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "noo, podarilo sa mi zrušiť platbu kartou a teraz mi zmizla možnosť navyšenie licencie, ide mi karta dnes. Tak počkám kým to nabehne znova a pojdem za šéfom nech to zaplatíme. Možnosť zrušiť som tam nevidel. Nie je to myselné tak, že zaplatím tých 8 eur do augusta a potom ma vyzve na zaplatenie tých 70 na ďalší rok ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Museli sme aj my zrusit cakanie na zmenu.. skuste teraz"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "áno už je tam opäť možnosť navýšenia licencie, keď budem zo šéfom aktivujem si ju, vďaka. Nechajme to tu ešte otvorené keby niečo zlyhá resp. keby sa mi nepodarí napojiť Karat Assistance do projektu v spoločnosti v 3EC."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok nechavam a davam na vasu reakciu - vlastnika. Ak nepride dlhsi cas nic, samo sa to navrhne na uzatvorenie.. dakujem"
+    }
+  ]
+}

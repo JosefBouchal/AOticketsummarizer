@@ -1,0 +1,35 @@
+{
+  "id": "a08vh02pjg153d",
+  "created": "2026-06-12T07:43:32.878Z",
+  "closed": "2026-06-19T09:18:35.502Z",
+  "duration_minutes": 10175,
+  "first_response_minutes": 15,
+  "name": "Odkaz na anonymní portál ?",
+  "description": "Dobrý den, Aktivoval jsem u konkrétního projektu „anonymní portál“. Kde najdu odkaz na tento anonaymní protál ? Jedná se o projekt „Helpdesk“ takže potřebuji se dostat k webové stránce, pomocí které, budou uživatelé zadávat svoje požadavky do helpdesku. Jedná se o externí uživatele bez registrace Aliteo. Děkuji Petr Malevič S pozdravem / Best Regards Petr Malevič technický konzultant / sales engineer M: +420 705 501 921 P: +420 257 011 177 E: petr.malevic@audiopro.cz Audiopro s.r.o. Mladoboleslavská 1108 (budova 6) 197 00 Praha 9 Czech Republic www.audiopro.cz www.kreatek.cz www.smartvideo.cz www.zasedackanaklic.cz",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, zatial anonymny portal takto nefunguje. Aktivaciou anonymneho portalu v nastaveniach projektu, dovolite uzivatelovi, ktory dostane emailove upozornenie aby mal v emailovom upozorneni tlacidlo, na ktore ked klikne, otvori si dany pripad (a vsetky nim zadane pripady) v anonymnom portali ALITEO - bez prihlasenia. V buducnosti planujeme doplnenie do portalu aj o tuto moznost. Co sa tyka zakladania pripadov su dostupne moznosti: 1. odoslanie emailu na konkretnu adresu - ak je povoleny portal, potom moze komunikovat cez portal, na ktory sa dostane cez tlacidlo v emaile ktory dostane 2. pozvanie uzivatelov do svojej spolocnosti ako externych (nie je treba platit licenciu ak maju priady len zadavat) 3. vytvorit si jednoduchy formular na vasej stranke (vyhoda je ze si ho designujete podla toho ako chcete)  a nasledne cez API zalozit pripad - komunikacia nasledne podobne ako bod 1"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, Tak to je dost zásadní nedostatek. Pro použití jako Helpdesk pro zákazníky je toto nepoužitelné. Chybí zde možnost vidět konsolidovaně stavy jednotlivých tiketů. Z mého pohledu se tedy nejedná o tiketovací nástroj. S pozdravem S pozdravem / Best Regards Petr Malevič From: notifications@aliteo.com <notifications@aliteo.com> Sent: Friday, June 12, 2026 10:01 AM To: Petr Malevič <petr.malevic@audiopro.cz> Subject: #11216 - odpověď na požadavek: Odkaz na anonymní portál ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ak sa uzivatel dostane na portal cez tlacidlo \"zobrazit  v portali\" dostane sa na portal do danej ulohy. Nasledne sa z tohto miesta cez tlacidlo \"vsetky pripady\" dostane na zoznam vsetkych, nim zadanych pripadov"
+    }
+  ]
+}

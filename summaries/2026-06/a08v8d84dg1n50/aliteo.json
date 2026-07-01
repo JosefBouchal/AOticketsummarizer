@@ -1,0 +1,91 @@
+{
+  "id": "a08v8d84dg1n50",
+  "created": "2026-06-10T05:41:38.192Z",
+  "closed": "2026-06-17T11:39:20.061Z",
+  "duration_minutes": 10437,
+  "first_response_minutes": 148,
+  "name": "Hledání nenajde úkol, na který mám právo (KA:1451451)",
+  "description": "Viz obrázek hledám 172678, ale zkoušel jsem i 172678) kdyby vždy číslo bral jako číslo komponenty (úkolu, VP), ale on to nenajde, proč? PS: chtěl jsem hledat i KA: 172678, jenže : vyhodnocuje jako mezeru či co,  a tak hlásí, že slova s méně jak 3 znaky jsou ignorována, což úplně nechápu, ale repektuju. Luboš Není to pro mě nějak kritické, já jsem si to našel v IS KARAT a proklikl jsem se 😊 , ale překvapilo mě to.",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 17,
+    "from_owner": 6,
+    "from_others": 11,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, dik spytame sa vyvoja.. ze preco to nenaslo."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vedel by si nam povedat preco sa nenasla aj uloha ktora ma cislo v nazve:"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "1. úkol s číslem 172678 #172678 Oprava pokladnicneho dokladu, chyba pri vkladani null (KA:114926) se po přihlášení za LBE našel"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "takže nějaké cache? na úkol jsem si přidal právo přes API, pak si jej i v AO zobrazil, ale vyhledat nešel, takže otázka proč a zda to chcete řešit"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "1. úkol s číslem 172678 #172678 Oprava pokladnicneho dokladu, chyba pri vkladani null (KA:114926) se po přihlášení za LBE našel 2. ten druhý úkol s číslem v názvu se nenajde proto že je archivovaný a main search v archivovaných nehledá, v rozšířeném vyhledání se najde"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "nám jde o ten druhý úkol, ani mě nenapadlo, žes v ##3 dával ten, co se ukázal. Ano je archivovaný, to mě nenapadlo, mno uživatelsky to není moc pochopitelné, jelikož pokud bys tam nehledal v archivovaných, tak bys bys to nenašel přes vaše číslo , ale asi v archivovaných dle čísla hledáte, ok, já odpověď znám, sám více řešit nechci, takže Dane pls můžeš navrhnout k uzavření, pokud by jste to chtěli nějak uživatelsky (a i hotlinově usnadnit), tak to nechávám na vás. Díky moc Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, teda uzivatelsky by si chcel nejako v tom dropdowne naznacit ze sa hlada lenv otvorenych ulohach? Ze pri archivovane, je treba pouzit \"rozsirene hladanie\"?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "je otázka, čemu říkáš otevřené úkoly, to jsou dle mě nedokončené, tady to hledá v archivovaných úkolech nejspíše jen dle čísla, jelikož to vyhledá. Takže je otázka, zda opravdu hledat jen nearchivovaných úkolech. Co bych chtěl úplně nevím jelikož chápej, nenajdu úkol a nevím proč, jelikož na něj nemám právo, jelikož je archivovaný a nevím proč ještě, já jsem předtím vyhodnotil, nenašel, jelikož asi nezjistil, že už na to právo mám a nebylo to tak a asi by bylo dobré, aby uživatel věděl co a jak to přesně hledá, i když chápu, že to možná v dokumentaci je. Tedy zda to jde nějak lépe uživatelsky zpříjemnit nechávám na vás"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Opravujem sa, ked hladam v dropdowne, tak ze sa hlada v aktivnych ulohach, teda ze su vylucene archivovane. Je to kvoli rychlosti, nemozeme v dropdowne hladat vsetko. Takze viem si predstavit nejaku vizualizaciu, kde bude trochu viac zrejem ze som neprehladal vsetko na co mam narok a pre hlbsie hladanie nech sa pouzije rozsirene hladanie. Takto?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ono to je velmi podobne aj pri pohlade na ulohy.. preco nenajdem nieco .. lebo skratka je tak nastaveny pohlad, ze to nevidim.. chapes.."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano tak nějak, třeba i kdyby zde bylo třeba Úkoly (nearchivované) ale to tam být nemůže, jelikož jak jsem psal, vy tam hledáte i archivované úkoly, jen v nich nehledáte dle textu, takže vlastně ani nevím co kde jak srozumitelně napsat"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Takze ak zaver je: Zadam retazec na hladanie tak: - v aktivnych hlada aj cislo aj nazov? - v archivovanych len cislo? Tak?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dane, \nto já nevím, to musíte vědět vy, já to z pozorování a zkoušení tak vyvodil. Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "beriem teda na poradu, ci nejako budeme menit ci nie: Zadam retazec na hladanie tak: - v aktivnych hlada aj cislo aj nazov? - v archivovanych len cislo? neviem ze pre hladanie v nazvoch mam ist do \"rozsireneho\""
+    },
+    {
+      "creator": null,
+      "comment": "Logika ostava taka aka je, vzhladom na to, ze to bola poziadavka od KARAT. Boldom bude vyhladany vyraz vo vysledkoch. A vysledky ktore sa nezmestia do zobrazenia budu zabodkovane. Na desktope rozsirit vyhladavac na 600 px."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ok, můžeme uzavřít. Dále chápu vyjádření a požadavky už zadávat nebudu, jelikož by byly od KARAT max, až budu pracovat v jiné společnosti oprava: takže min. dle upřesnění DanemD, jsem nechápal to vyjádření správně, jakože byl požadavek hledat dle čísla i v archivovaných a takto to i zůsten, pak ok"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, v pohode, vysvetlili sme si preco je aktualny stav a hlada sa takto hybridne: - v aktivnych v nazve aj ID - v archivovanych iba v ID (lebo pri hladani ID sa predpoklada ze to bude jedna konkretna uloha a najdeme ju hned) Cize ostava to tak ako to a teda ze ak chcem hladat ID aj v nazvoch archivovanych uloh, musim ist do rozsireneho vyhladavania."
+    }
+  ]
+}

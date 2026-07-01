@@ -1,0 +1,51 @@
+{
+  "id": "a08ug6c320100g",
+  "created": "2026-06-04T08:37:55.242Z",
+  "closed": "2026-06-16T11:00:33.699Z",
+  "duration_minutes": 17422,
+  "first_response_minutes": 35,
+  "name": "Platba za licenciu",
+  "description": "Dobrý deň, Túto noc nám mala byť z platobnej karty stiahnutá úhrada za licenciu, avšak dnes som sa dozvedel, že platobná karta, ktorá je priradená k účtu, je zablokovaná. Aktuálne nemáme k dispozícii inú platobnú kartu. Aké máme možnosti úhrady? Ďakujem S pozdravom / Best regards Marek Smolko smolko@ekofence.sk +421 908 836 583 EKO fence PLOTOVÉ CENTRUM Vajanského 73 080 01 Prešov, Slovakia www.ekofence.sk fb | Ig | pin | yt",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 0,
+    "from_others": 7,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, chapem spravne, ze ked date zaplatit, mate moznost zmenit kartu, ale vy inu kartu nemate, je to tak? ALITEO ma moznost aj inej platobnu metodu - prevodom, ale platobna metoda sa neda menit pri opakujucej sa platbe. Tu je treba najprv ukoncit. Museli by ste najprv ist na Basic a nasledne zakupit licencie znova, problem ale je ten ze pridete o povodnu cenu licencie, ktora Vam ostala z minulosti, ked sme prechadzali na nove licencovanie."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Marzini (pavel.marzini@karatsoftware.cz) @ Peter Ďurčák (peter.durcak@karatsoftware.sk) fyi zeby ste vedeli ze sa tu taka vec riesi"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dnes mi volal aj riaditel, ze vybavuju novu kartu a ked dnes zaplatia ci bude vsetko fungovat. Vzhladom na to ze im tam este nesvieti Basic, som im povedal ze ano."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, len Vam chcem pripomenut, ze by bolo dobre predist tomu aby Vam padla licencia do Basic, obavam sa ze potom uz nebude mozne vratit naspat povodnu cenu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Podla vsetkeho uz padli do Basic. Pri zakupeni licencie uz asi nebude dostupna legacy licencia."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Volal pan Straka, ze nemaju dostupnu staru cenu, vysvetlil som, ze som im o tom hovoril tak sa snazil zjednat na nizku sumu. S Petrom sme sa dohodli ze im neumiznime custom licenciu (stary tarif nie je mozne vratit)."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobry den pan Smolko, chcem Vas informovat o aktualnom stave licencie. Vzhladom na to, ze povodna licencia nebola uhradena, bola automaticky prevedena na Basic plan. V dosledku zmien v licencnom modeli uz bohuzial nie je mozne obnovit povodny (legacy) tarif - v kode aplikacie sa uz tieto tarify nenachádzajú. Ak budete chciet pokracovat v pouzivani aplikacie, bude potrebne zakupit ju podla aktualneho cennika. Aby sme aspon ciastocne znizili dopad zmeny ceny, mozete zvazit rocnu platbu, pri ktorej ziskate 2 mesiace bezplatne (platite teda len za 10 mesiacov)."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a08qt8mqs01aam",
+  "created": "2026-05-07T11:08:01.209Z",
+  "closed": "2026-06-14T05:50:18.037Z",
+  "duration_minutes": 54402,
+  "first_response_minutes": 2,
+  "name": "aliteo.com - nespravny SPF zaznam v DNS",
+  "description": "Dobry den. Notifikacné správy z aliteo.com sú ohodnotené SpamAssasin vysokým skóre a dostávaju sa nám do karantény... Mate nastavny nespravny SPF zaznam v DNS   \"v=spf1 include:sendgrid.net -all\" Aktuálny záznam povoľuje iba servery sendgrid.net  (include:sendgrid.net), ale správa odchádza k nám zo servera o1.ptr3000.aliteo.com. Ostané servery (-all)  sú \"podvod\" . Delivered-To: durdak.marian@smzjelsava.sk Return-Path: bounces+22950306-6f02-durdak.marian=smzjelsava.sk@em5834.aliteo.com Received: from o1.ptr3000.aliteo.com (o1.ptr3000.aliteo.com [208.117.54.211]) Ak je to mozne, mozete upravit SPF zaznam aby bol spravny? Dakujem. Ing. Marian ĎURĎÁK vedúci odboru IT SMZ, a.s. Jelšava Teplá Voda 671 049 16  Jelšava www.smzjelsava.sk",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za podnet, preverim a poslem kolegom na vyvoj."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, zaznamy boli upravene, mohli by ste prosim na Vasej strane skontrolovat ci je teraz vsetko v poriadku?"
+    },
+    {
+      "creator": null,
+      "comment": "Dobry den. Je to uz v poriadku. SpamAssassin score je 1 z 3  a hodnoty su dobre: SPF zaznam ste zmenili z \"-all\"   -> \"~all\" a opravili, doplnili DMARC. Predtym KAM_DMARC_REJECT(3)  teraz DMARC_PASS(-0.1) Dakujem. Ing. Marian ĎURĎÁK vedúci odboru IT tel.: +421 58 482 23 76 SMZ, a.s. Jelšava Teplá Voda 671 049 16  Jelšava www.smzjelsava.sk"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, mozeme ulohu uzatvorit?"
+    }
+  ]
+}

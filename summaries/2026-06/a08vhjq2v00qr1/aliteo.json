@@ -1,0 +1,43 @@
+{
+  "id": "a08vhjq2v00qr1",
+  "created": "2026-06-12T11:19:01.747Z",
+  "closed": "2026-06-22T07:24:13.269Z",
+  "duration_minutes": 14165,
+  "first_response_minutes": 541,
+  "name": "FW: Jak přidat u seznamu projektů filtr na portfolia ?",
+  "description": "Dobrý den, Přeposílám dotaz. Děkuji S pozdravem / Best Regards Petr Malevič From: Marzini Pavel - ALITEO <pavel.marzini@aliteo.cz> Sent: Friday, June 12, 2026 12:40 PM To: Petr Malevič <petr.malevic@audiopro.cz>; info@aliteo.cz Subject: RE: Jak přidat u seznamu projektů filtr na portfolia ? Dobrý den, pane Maleviči, Děkuji za dotaz. Poprosím Vás o zaslání dotazu přímo na support@aliteo.com , kde Vám kolegové velice rádi pomohou a řeší tyto případy od zákazníků. Děkuji za pochopení. Moc děkuji a přeji příjemný víkend. S pozdravem, Pavel Marzini account manager Tel.: +420 720 839 590 | pavel.marzini@aliteo.cz KARAT Software a. s., Dvořákova 2881/77 750 02 Přerov, Česká republika From: info@aliteo.com <info@aliteo.com> Sent: Friday, June 12, 2026 10:01 AM To: info@aliteo.cz Subject: Jak přidat u seznamu projektů filtr na portfolia ? Dobrý den, Jak se prosím přidá v seznamu projektů fotr na Portfolia ? Abych mohl při větším množství pojektů filtrovat jen ty, které patří konkrétnímu projektu / projektům ? Jak vyhledávat v portfoliích ? Ve vyhledávacím okně „hledat“ to je omezené jen na „úkoly, týmy, projekty a výkazy práce. Portfolia tam chybí. Děkuji Petr Malevič S pozdravem / Best Regards Petr Malevič technický konzultant / sales engineer M: +420 705 501 921 P: +420 257 011 177 E: petr.malevic@audiopro.cz Audiopro s.r.o. Mladoboleslavská 1108 (budova 6) 197 00 Praha 9 Czech Republic www.audiopro.cz www.kreatek.cz www.smartvideo.cz www.zasedackanaklic.cz Člen Asociace obranného a bezpečnostního průmyslu České republiky (AOBP). Member of the Defence and Security Industry Association of the Czech Republic (DSIA). Tento e-mail je určen pouze pro jeho adresáta/adresáty a může obsahovat důvěrné informace, jejichž ochrana může být vyžadována právními předpisy. Jestliže jste zprávu obdržel(a) omylem, neprodleně informujte jejího odesílatele a tuto zprávu, její přílohy a případné kopie ihned vymažte. Jakákoli forma užití, zveřejněni, reprodukce, kopírování, distribuce a šíření této zprávy je v takovém případě zakázána. Audiopro, s.r.o. neodpovídá za možné škody způsobené neúplným přenosem, možnou modifikací či zpožděním této zprávy během přenosu od odesílatele k adresátovi, nebo za škodu způsobenou počítačovým virem, který by se mohl šířit spolu se zprávou. This email transmission including any attachments is intended solely for the ordinary user of the email address to which it was addressed. It may contain legally privileged and/or confidential information. If you have received this email in error or are not an intended recipient please notify the sender immediately and delete this email, attachments and copies. The unauthorized use, disclosure, distribution and/or copying of this email or any information it contains, are prohibited. Audiopro, s.r.o. accepts no liability for any damage caused by incomplete transmission, modification, or delay of this email during the transmission from the sender to the recipient. Audiopro s.r.o. accepts no liability for damage caused by any virus unwillingly transmitted by this email.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 0,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano, je to tak ako pisete. Mozem sa pobavit s produktovym timom, ci by sme to vedeli zaradit aj na tieto miesta."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) viem ze sme sa o tom uz bavili.. ale chcel som sa spytat.. aky je problem s tym aby v klientskom filtre na projekty bola aj kategoria pre portoflia - logicky pripojene rucne."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu produktu: - pridat do klientskeho filtra filter na portfolia - moznost hladat v ciernej liste aj portfolia nie len projekty, timy ulohy.."
+    },
+    {
+      "creator": null,
+      "comment": "Dopracujeme obe. Jak vyhladavanie, tak filter na portfolia."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, produktovy tim rozhodol, ze v buducnosti budeme implementovat aj Vase pripomienky. Teda zapracujeme vyhladavanie portfolii a zaroven aj klientsky filter do zoznamu projektov. Moze byt tento pripad uzatvoreny?"
+    }
+  ]
+}

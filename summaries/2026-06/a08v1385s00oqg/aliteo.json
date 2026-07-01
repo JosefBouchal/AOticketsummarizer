@@ -1,0 +1,63 @@
+{
+  "id": "a08v1385s00oqg",
+  "created": "2026-06-08T11:05:44.886Z",
+  "closed": "2026-06-19T18:26:54.198Z",
+  "duration_minutes": 16281,
+  "first_response_minutes": 8,
+  "name": "Dotaz – nový API endpoint pro změněné tasky (Alitea)",
+  "description": "Dobrý den, rádi bychom se zeptali na možnost vytvoření nového API endpointu pro stahování tasků (tiketů), který by vracel pouze záznamy, u nichž došlo ke změně za zvolené období – obdobně, jako dnes funguje endpoint timesheets/changedsince. Cílem je zrychlit a zefektivnit přírůstkový load dat z Alitea do MS Azure. Rádi bychom se zeptali, zda je něco takového možné? Předem děkujeme za odpověď. S přátelským  pozdravem Michal Kopačka",
+  "owner": "Michal Kopačka",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 3,
+    "from_others": 7,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, mozem sa spytat vyvoja, aky je v tomto postup a dam Vam vediet. Mimochodom ALITEO ma aj moznost webhookov, takze nemusite sa pytat cez API pravidelne, ale ALITEO vie odoslat hned ked zmena nastane napriklad."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) je poziadavka validna co pise pan z Respectu? Vedeli / chceli by sme to robit? - pripadne je na to iny hint ako dospiet k tomu co pise?"
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "V případu #6672 API - zmenene vykazy po datume bylo řešené to stejné pro výkazy práce. Dokážeme to stejné udělat i pro úkoly, má to ale problém... výkaz práce nic relačně neobsahuje a jakákoliv změna na něm je reálná změna která bude brána v úvahu. Úkol obsahuje spoustu relací, které vlastní úkol nezmění... komentáře jsou asi ok, protože zvedají čítač na úkolu, ale přílohy, todo a x dalších věcí se neodchytí. Technické řešení mám - doplnit něco jako changedCountr++ a při změně všeho  co chceme brát v úvahu jej zvednout Otázka je, co vše má způsobit změnu tohoto TS. - komentáře - přílohy - todo včetně změny? - dílčí úkoly pouze založení/zrušení ? - vazby - kalendář? - výkaz práce? Asi návazný případ a na poradu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja beriem priamo tento pripad na poradu.. a az ked sa na niecom dohodneme tak vytvorime navazny.. ak sa nedohodneme.. tak to zatrhneme, len nejako potrebujem vysvetlit preco nie zakaznikovi.."
+    },
+    {
+      "creator": null,
+      "comment": "Nasmerovat ich na webhooky...mali by riesit to co potrebuju."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, chcel by som sa spytat, ci Vam webhooky neposkytuju informacie ktore potrebujete.. resp ktore informacie pri zmene potrebuejte vediet?"
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Jasně, tady je přepsaná verze: Předmět: Požadavek na API – inkrementální přenos dat z Aliteo do Azure Dobrý den, rádi bychom Vás požádali o API, které by využíval náš dodavatel zajišťující každonoční přenos dat z Aliteo do Azure . Náš cíl: zrychlit a zefektivnit aktualizaci dat, která v současnosti trvá poměrně dlouho. Místo přenosu všech úkolů bychom chtěli přenášet pouze: nové úkoly , úkoly, u kterých došlo ke změně (tzv. inkrementální přenos). Jedná se zatím o obecný popis požadavku. Prosím proto o chvíli strpení – spojím se s naším dodavatelem a následně Vám zašlu detailnější technické informace. Předem děkuji za spolupráci. S přátelským pozdravem, Michal Kopačka"
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, přikládám detailnější informace od našeho dodavatele. ---- Dobrý den, Dívala jsem se na dotaz. Nejde o to, že bychom neměli všechny informace, jde jenom o způsob, jak tasky stahujeme. Teď se k datům dostáváme takto: 1) workspaces/list -> vytáhneme ids pro request projects/list 2) projects/list -> vytáhneme ids pro request projects/detail 3) projects/detail -> vytáhneme section pro request tasks/list 4) tasks/list -> vytáhneme ids pro request tasks/detail Myšlenka byla, že pokud by to šlo, chtěli bychom zjednodušit (a zkrátit) proces stahování dat tak, abychom nemuseli iterovat přes project - section (section je teď povinný atribut pro request tasks/list), ale stahovat seznam tasků napřímo. A úplně ideálně jenom seznam těch tasků, kde byla změna, abychom snížili množství stahovaných dat. S pozdravem Erika Čvandová"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobry den, dakujem za informaciu, chapem, prosim pozrite sa na funkcnost webhookov . Je to funkcionalita, ktora odstranuje potrebu data stahovat, ale priamo posiela data pri ich zmene v realnom case https://help.aliteo.com/webhooky-cz/ Zmeny idu priebezne hned ako sa stanu a nie je treba davkovo stahovat vsetky."
+    },
+    {
+      "creator": "Michal Kopačka",
+      "comment": "Dobrý den, poslal jsem zprávu na dodavatele. Až budu mít bližší informace, tak napíšu. Nyní poprosím o trpělivost. S přátelským pozdravem, Michal Kopačka"
+    }
+  ]
+}

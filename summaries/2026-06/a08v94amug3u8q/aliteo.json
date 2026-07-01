@@ -1,0 +1,31 @@
+{
+  "id": "a08v94amug3u8q",
+  "created": "2026-06-10T09:53:44.293Z",
+  "closed": "2026-06-12T12:56:43.794Z",
+  "duration_minutes": 3062,
+  "first_response_minutes": 36,
+  "name": "Zrušení registrace",
+  "description": "Dobrý den, 1.6. jsem se u vás nedopatřením registrovala - přišla mně pozvánka k on-line schůzce s naším obchodním partnerem a bylo to matoucí – vypadalo to, že bez registrace se nespojíme. Nakonec bylo možné přihlásit se jako host. Prosím tedy o zrušení mého účtu: eva.mensikova@tecumed.com . Děkuji za pochopení, s pozdravem Eva Menšíková Eva Menšíková QA Manager Phone: +420 770 324 890 Email: eva.mensikova@tecumed.com Web: www.tecumed.com Address: Maříkova 2287/1a, 62100 Brno, Czech Republic Map: https://maps.app.goo.gl/ENg9cpt5dNcLCPV97 -------------------------------------------------------------------------------------------",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobrý deň, zaregistrovali sme Vašu žiadosť o zmazanie účtu s emailovou adresou eva.mensikova@tecumed.com . Vašej požiadavke sa budeme venovať a o jej spracovaní Vás budeme informovať. S pozdravom, Tím ALITEO"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobrý deň, na základe Vašej žiadosti sme zrušili používateľský účet s emailovou adresou eva.mensikova@tecumed.com v systéme ALITEO . S pozdravom, Tím ALITEO"
+    }
+  ]
+}

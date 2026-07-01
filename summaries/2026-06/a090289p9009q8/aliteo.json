@@ -1,0 +1,55 @@
+{
+  "id": "a090289p9009q8",
+  "created": "2026-06-16T12:15:14.745Z",
+  "closed": "2026-06-24T11:09:56.166Z",
+  "duration_minutes": 11454,
+  "first_response_minutes": 48,
+  "name": "Možnosť  navýšenia licencie Aliteo",
+  "description": "Dobrý deň, včera sme išli platiť za navýšenie licencie, ale vybrali sme nesprávnu platobnú metódu. Keď sme chceli zvoliť správnu a zaplatiť to tak už nevidíme, možnosť navýšenia licencie. Je to obdobný problém ako minule, ďakujem za pomoc",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 4,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, Platbu by ste mali mať zrušenú. Prosím zvolte navýšenie k aktuálnemu dnu nie zmenu k dnu výročia  ."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Ja tam inú možnosť asi ani nemám, chce to odo mňa zaplatiť parciálnu časť 7 eur a potom od výročia 70."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nizsie mate premium a caka na platbu, tam by malo byt \"zrusit\" a potom by sa tie moznosti mali zmenit."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "áno, už je to v poriadku a teda teraz vyberiem tú možnosť Increase of today a tá mi ponúkne možnosť platby k výročiu a obnovenie od výročia. , keď som dal tú druhú možnosť Change Licence tak mi ponúklo predlĺženie od výročia od 22.8.2026"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "A to by malo byt spravne.. Vyberiete zmenu k dnesnemu dnu (lebo to chcete dnes), vypocit Vam doplatok k datumu vyrocia a v datume vyrocia to potom bude chciet fakturovat uz plnu sumu podla noveho nastavenie.. alebo Vam nieco nepasuje?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "presne tak, takto som to pochopil aj ja, len som z toho čo píšte myslel, že je nejaká možnosť to zaplatiť na rok od dnešného dátumu. takže áno takto je to v poriadku. Dnes tu nemám šéfa, tak zajtra to zrejme zaplatím a vyskúšam to API pripojenie na zasielenia tiketov z IS Karat. Nechajme tento tiket do zajtra otvorení, ak by tam náhodou boli nejaké problémy, ak nie tak to môžeme zavrieť."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, tak som rad ze sme sa pochopil. Prepocet je nastaveny tak ze ak mate nejake obdobie, vzdy doplacate k danemu dnu a potom odznova. V opacnom pripade, ak by sa vytvaralo nove obdobie by sa musela odpocitavat ostavajuca cast a bolo by to komplikovanejsie. Dobre nechavam otvorene a ked bude treba ozvite sa."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Áno, táto alternatíva s dopočtom dáva väčší zmysel ako odpočítavať resp. vracať doplatok z predchádzajúcej licencie."
+    }
+  ]
+}

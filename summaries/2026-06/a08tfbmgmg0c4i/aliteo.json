@@ -1,0 +1,47 @@
+{
+  "id": "a08tfbmgmg0c4i",
+  "created": "2026-05-27T09:21:45.412Z",
+  "closed": "2026-06-10T10:23:49.806Z",
+  "duration_minutes": 20222,
+  "first_response_minutes": 1203,
+  "name": "Neuložení rozpracovaného vyjádření v maximalizovanám okně",
+  "description": "Pokud mám rozepsaný nový komentář, hlídáme dokonce při pokusu o uzavření stránky, že tam je aby o něj nepřišel. Pokud ale upravuji komentář a byť omylem (protože mi např. jinde vyskočila notifikace a netrefil jsme se), tak bez jakéhokoliv dotazu přijdu o změny. Teď jsem třeba přišel o dobrých 15 minut práce. Nemohli bychom se i při zavření úprav komentáře jinou akcí než uložením zeptat, jestli uživatel skutečně chce všechny provedené změny uložit? Díky, r@bert",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, takze rekapitulace: - upravujem existujuci komentar v dialogu: - fullscreen mode:  tu nie je moznost zatvorit okno inak ako stlacenim tlacidla \"zrusit\", je tam len zmenist na male okno - klasicky mod - tvoj problem ze : tuknem na krizik (asi nechtiac) a vtedy skontrolovat ci bola urobena uprava  a ked bola tak potvrdzovacie okno na zahodenie uprav? Bavime sa teda o tomto ?"
+    },
+    {
+      "creator": null,
+      "comment": "De facto ano. Ale křížek ani zrušit nezmáčkneš moc omylem. Ale zkus zavadit o Esc... A to je hned. Třeba se Ti jen třepe ruka když chceš zrušit nabízené okno pro zmínku, číslo případu apod."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "OK, mimochodom v dalsej verzii mame moznost nastavit spravanie pri ESC Ale ak chapem spravne, tebe to nevyriesi situaciu (ty si to asi ponechas nastavene na zatvaranie), ale skratka chces aby sa pri zatvarani zistili upravy a ak boli aby tam bolo potvrdzovcie okno. ano?"
+    },
+    {
+      "creator": null,
+      "comment": "Mě by přišlo logické, kdyby se to chápalo jako zavření toho maximalizovaného detailu. Tedy všechno co tam mám by se přeneslo normálně odlů do konceptu vyádření. A to pak buď odešlu zahodím nebo dál edituju. Protože já jsem nechtěl otevřít nový objekt. Já jsem chtěl jen zvětšit prostor pro editaci. A když jsem to udělal, tak se mi tam rozepsaný text přenesl. Takže bych čekal, že se mi vrátí i zpět."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dobre, takze na vyriesenie 2 veci k uprave existujuceho komentara: - zvazit: na krizik (ESC) zistit stav rozpracovania a akl je iny od povodneho, ponuknut potvrdzovacie okno o zahodeni zmien - ak otvorim full screen komnetara, v nom \"upravit\" - neexistuje tam male dialogove okno a ESC (krizik nie je) takisto ochranit upravy zoberiem na poradu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Robert Blaha (robert.blaha@karatsoftware.cz) zaplanovane do vyvoja . ak sa podari.. bude v najblizsej verzii"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a08v0gpajg1sss",
+  "created": "2026-06-08T07:44:04.233Z",
+  "closed": "2026-06-08T08:27:46.367Z",
+  "duration_minutes": 43,
+  "first_response_minutes": 8,
+  "name": "MCP server pre Aliteo",
+  "description": "Dobrý deň prajem, hľadal som možnosť pripojiť si MCP server Aliteo do môjho CODEXu. Existuje taká možnosť ? -- S pozdravom / Best regards Roman Furinda Správca IT / IT Administrator OFZ, a.s. Mobil: +421 917 665 140 Tel: +421 43 5804 340 Fax: +421 43 5804 730 e-mail: roman.furinda@ofz.sk web: www.ofz.company",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, MCP server zatial nie je dostupny v aktualnej verzii. Bude dostupny v tej nasledujucej, ktorej nasadenie je naplanovane na koniec leta 2026."
+    },
+    {
+      "creator": null,
+      "comment": "Tak počkáme. -- S pozdravom / Best regards Roman Furinda Správca IT / IT Administrator OFZ, a.s. Mobil: +421 917 665 140 Tel: +421 43 5804 340 Fax: +421 43 5804 730 e-mail: roman.furinda@ofz.sk web: www.ofz.company"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vzhladom na to, ze o novinkach budete upozorneny, mozeme tento pripad uzatvorit?"
+    },
+    {
+      "creator": null,
+      "comment": "môžete"
+    }
+  ]
+}

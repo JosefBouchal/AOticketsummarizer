@@ -1,0 +1,27 @@
+{
+  "id": "a08uk7jps00ecm",
+  "created": "2026-06-05T08:09:34.644Z",
+  "closed": "2026-06-10T11:25:02.557Z",
+  "duration_minutes": 7395,
+  "first_response_minutes": 141,
+  "name": "Nekonzistentní korektní chování obrázků v popisu úkolu",
+  "description": "Dobrý den, stává se nám že  v popisu úkolu nejde rozkliknout obrázek a píše to tuto hlášku – viz příloha - prosím o ověření. Díky, DP David PLEVA IT oddělení tel.: +420 776 581 680 david.pleva @prim.cz www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, tuto ulohu zaklada niekto v ALITEO? Vlozi tam obrazok a ten nie je citatelny? Dakujem"
+    }
+  ]
+}
