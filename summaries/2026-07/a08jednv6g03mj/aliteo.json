@@ -1,0 +1,67 @@
+{
+  "id": "a08jednv6g03mj",
+  "created": "2026-03-10T11:46:27.973Z",
+  "closed": "2026-07-15T07:22:53.060Z",
+  "duration_minutes": 182616,
+  "first_response_minutes": 3,
+  "name": "Plánování v projektu, lze vidět asi to, co by nemělo",
+  "description": "Byl jsem upozorněn, že například nad Respect můžu vidět kalendář i naších zákazníků, například Jedná se o externí účastníky, tedy ani plánovat bych jej dle mě moc neměl jak (tedy jestli jsem dobře pochopil tu funkčnost), ale že vidím detail jejich kalendáře asi není úplně dobré. Luboš",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 4,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, no je otazka ci to je chyba. Ak maju pripojeny kalendar, tak nizsie je nastavenie pre ktore spolocnosti suhlasis s pouzitim kalendara: Specificky pre planovanie a zmenu stavu udalosti. Teda ak si to odskrtnu, tak ich kalendar neuvidis, ale musi si to dany uzivatel nastavit zvlast. Je potom otazka samozrejme ci by nemalo byt toto pole default \"false\" aby to uzivatel umyselne zapinal a nebola pochybnost ze mu nieco robime pod rukami, aj ked to ma v tom nastavovacom okne."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "chápu, takto to mě uteklo, že se to dá nastavit, tedy pak to jako chybu nevnímám, s defaultem je mě to asi jedno. Ještě malá otázka, mají být účastníci co nemohou být řešitele v plánování? má to smysl? pokud ano, tak pak je vše OK. Díky za objasnění Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Je to validna otazka, ci by sa externy uzivatelia malo objavovat medzi moznymi uzivatelmi pre zaplanovanie. Zoberiem na poradu, podla mna by sa mohli vyhodit odtial..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "na poradu: - defaultne zapnuty pristup kalendara - externy v planovani? je to ok?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano díky moc."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zaver z porady: Na jednu stranu chyba..na druhu stranu externy mozu byt stroje alebo majetok, ktory ma byt planovany, ale nikto nam za neho nebude platit."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Doriesime v ramci #11281 Test: #6237 Kapacitny plan na uzivatelov bez synchronizacie v tomto sprinte."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Lubos, vysledok je teda taky, ze externy clenovia spolocnosti nebudu dostupny v pripade kapacitneho planovania. Teda niebude dostupny ani ich kalendar."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "super, díky moc"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mozeme uzatvorit tento pripad?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano"
+    }
+  ]
+}

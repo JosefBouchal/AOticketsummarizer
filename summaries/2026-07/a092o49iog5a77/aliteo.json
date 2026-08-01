@@ -1,0 +1,51 @@
+{
+  "id": "a092o49iog5a77",
+  "created": "2026-07-07T08:30:39.854Z",
+  "closed": "2026-07-09T15:05:34.687Z",
+  "duration_minutes": 3274,
+  "first_response_minutes": 37,
+  "name": "Diakritika v e-mailu pozvánky",
+  "description": "omylem si mi stalo, že jsem do pozvánkového e-mailu (v nastavení společnosti - uživatelé) dal diakritiku (automatické doplnění na telefonu) a zavřel jsem dialog a hned se to odeslalo přes API. V KARATu nám to pak spadlo na to, že je to nevalidní e-mail. Ošetřili jsme si na naší straně, aby to nepadalo, ale bylo by dobré, aby mail s diakritikou nešel uložit.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Nastavení uživatele",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 1,
+    "from_others": 6,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, chapem spravne ze hovoris aby bolo IU ALITEO osetrene na diakritiku? Lebo ja som to skusal a :"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "může být tam, nebo hlavně zde: ale je to mail, tak asi i zde: ale možná to je vlastně jedno pole, ale asi tedy na každém."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Skřeček (davidskrecek@gmail.com) prosim otestuj vid komentare ci sa na vsetkych miestach kontroluje diakritika.. lebo pri standardnom pozvani uzivatelov to osetreni je"
+    },
+    {
+      "creator": "David Skřeček",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) otestoval jsem: Adresa pro zaslání pozvánky z ##2 - není ošetřeno Email uživatele - není ošetřeno Přidání sledujícího emailem - je ošetřeno Přidání vlastníka emailem - je oštřeno Přidání hosta události - je ošetřeno Hlavní email portfolia - není ošetřeno Kontakt portfolia - není ošetřeno Doména SSO - je ošetřeno Doména email sender - je oštřeno Tohle jsou snad všechny místa, na kterých se takové kontroly provádí (nebo by měly). Dávám znovu na tebe, př. vytvořím případ do vývoje?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ David Skřeček (davidskrecek@gmail.com) dik za test, len neviem preco si testoval v alfe ked toto sa tyka ostrej 🙂 asi tam bude podobny problem (asi aj rovnaky) ale vacsinou ked su nejake veci tak treba overovat na ostrej radsje.. dik.. ano, zaloz prosim pripad do vyvoja a daj do vazieb.. dakujem"
+    },
+    {
+      "creator": "David Skřeček",
+      "comment": "Vytvořil jsem. #11418 Kontrola diakritiky v emailu také viz. vazba.\n\nSorry, nepřepnul jsem se, každopádně jsem zkontroloval znovu a na alfě je stav totožný jako na ostré."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, je vytvorene do vyvoja.. @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) mozeme uzatvorit?"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a0930hr6s005v1",
+  "created": "2026-07-09T09:34:52.721Z",
+  "closed": "2026-07-10T07:43:44.402Z",
+  "duration_minutes": 1328,
+  "first_response_minutes": 80,
+  "name": "Nefunguje vyhledávání",
+  "description": "Dobrý den, prosím nefunguje nám vyhledávání S pozdravem a přáním pěkného dne Ilona REMEŠOVÁ nákupní manažerka tel.: +420 730 855 366 ilona.remesova@prim.cz ELTON hodinářská, a. s. Náchodská 2105, 549 01 Nové Město nad Metují IČ 25931474, DIČ CZ25931474 www.prim.cz | Facebook | Instagram | YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 2,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": null,
+      "comment": "Již asi vyřešeno, nefunguje vyhledat KR-79 příliš krátké ... Dříve jsem si nevšimnula, že nefunguje"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano, kvoli rychlosti to musia byt minimalne 3 znaky zlozene z cislis a pismen. Ak sa tam nachadza pomlcka alebo iny nie alfanumericky znak tak je nahradena medzerom a teda vo vasom pripade ide o 2 dvojznakove slova co nesplnuje podmienku."
+    },
+    {
+      "creator": null,
+      "comment": "Děkuji, v případě tohoto skladového čísla mi to trochu komplikuje, protože pak nejsem schopná dané úkoly dohledávat, ale po nějaké chvíli jsem přišla na další spojení, čímž se mi daný úkol podařilo dohledat. Ticket je možné uzavřít. Přeji pěkný víkend."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ďakujem pekne, som rád že sa našlo riešenie. Aj vám pekný víkend"
+    }
+  ]
+}

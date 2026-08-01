@@ -1,0 +1,71 @@
+{
+  "id": "a0912t6ogg1ngo",
+  "created": "2026-06-24T10:28:24.013Z",
+  "closed": "2026-07-04T11:23:07.008Z",
+  "duration_minutes": 14454,
+  "first_response_minutes": 75,
+  "name": "změna řešitele a automat - generuje chybně pořadí změn v aktivitách",
+  "description": "viz: tak nejdříve je v historii následek. Pak na konci je tam příčina - změna řešitele. Je možné tam nejdříve zapisovat změnu řešitele a až pak to co to způsobí? je to ve stejné minutě, ale komplikuje to identifikaci.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 12,
+    "from_owner": 5,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahoj Peto, obavam sa ze takto sa to stalo chronologicky, aj ked automatom na pozadi a AKO to takto interpretuje a inac nebude moct. V kazdom pripade zobereme na poradu a zistime."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahoj Peto, obavam sa ze takto sa to stalo chronologicky, aj ked automatom na pozadi a AKO to takto interpretuje a inac nebude moct. V kazdom pripade zobereme na poradu a zistime."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) prosim priloz este raz obrazok... lebo ho nejde nacitat.. Budeme riesit konkretne problemy, bude to narocnejsie, zalozime do vyvoja ako chybu a budem riesit v ramci moznosti"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Jedná se o: #338495 Reklamace součtování hodin"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "nemam pravo na ulohu.. ale ano identifikovali sme aj v tejto ulohe nespravne poradie aktivit... hlavne ked sa ovplyvnuju.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Právo přidáno."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No to je fajn.. len ja som chcel vidiet presne ten vyrez kde je problem.. za mna asi 80% pripadu vyriesi zmena: - veci ktore su naplnene pri vytvoreni ulohy mozu ist spolu takmer je jedno v akom poradi - nasledne automaticka etapa (moze zalezat na atributoch vyplnenych pri vytvoreni ulohy) - potom automatika riesitela (moze zalezat na atributoch a etape) - potom automatika komentare (moze zalezat na atributoch a etape) Zatial ma nenapada co este moze robit problem.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ta fotka se mi nepřiložila, posílám ten výřez. Brožková změnila řešitele a na základě toho se tam přidali, ale v aktivitách je, že se přidali a až pak že je změnila."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Jasne, takze v tomtom pripade ide cislo len o spravne poradie medzi riesitelmi a sledujucimi?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ano"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mame to vo vyvoji, hned ako na to bude priestor to opravime..  mozeme uzatvorit?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ano"
+    }
+  ]
+}

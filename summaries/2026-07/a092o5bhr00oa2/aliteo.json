@@ -1,0 +1,75 @@
+{
+  "id": "a092o5bhr00oa2",
+  "created": "2026-07-07T08:42:15.583Z",
+  "closed": "2026-07-13T06:53:49.986Z",
+  "duration_minutes": 8531,
+  "first_response_minutes": 22,
+  "name": "Prezentančný režim",
+  "description": "Dobrý deň, pred vyše rokom som sa dotazovala na možnosť prepnúť ALITEO do \"verejného módu\" , ktorý nezobrazuje interné komentáre z dôvodu návštevy/TEAMS u klienta a prechádzanie si úloh s ním #6671 Verejný \"mód\" .\nVraveli ste, že je to v pláne vývoja pod pojmom prezentačný režim. Chcem sa spýtať na plánovaný termín uvedenia tejto funkcionality.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Lowest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 13,
+    "from_owner": 4,
+    "from_others": 9,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, dakujem za zalozenie pripadu. Zistim aky je casovy plan pre tuto funkcionalitu a budem Vas informovat. Ide o zlozitejsiu funkcionalitu, kedze nejde len o komentare ale aj o dalsie objekty, pre ktore sa da nastavit videlnost pre externeho uzivatela, ako su stavy riesenia, atributy, terminy atd. pozn.: co sa tyka komentarov, tie viete filtrovat uz teraz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) vid vazba, uloha je v 26.3 - teda aky je odhad o rok ? druha polovica roka 2027 ?"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "áno ale musím to robiť za každú úlohu zvlášť a keď sa s klientom prechádzajú úlohy, tak najprv sa úloha otvorí - už sa komentáre zjavia a potom až sa to dá prepnúť. Systém si nepamätá, že v predchádzajúcej úlohe som ten filter mala zapnutý. Možno aspoň to by pomohlo - keď raz prepnem, že chcem len Verejné komentáre, nech si ten filter pamätá, kým ho nezruším."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapem, preberiem s kolegami, co by sa dalo.."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "my to momentálne riešime tak, že máme fiktívneho externého užívateľa-supervízora \"Janka Hraška\" a keď sedíme s klientom, tak sa prihlasujeme ako Janko Hraško, len nepraktické je, keď chceme do úlohy napísať komentár, potom komentár píše Janko Hraško :)"
+    },
+    {
+      "creator": null,
+      "comment": "Prezentacny rezim mame az v 26.3 - pre Andogovu planovanie (ak Peter dovtedy neodpovie v ulohe) - druha polovica 2027 - pamatat si filtrovanie v local storage? - nema zmysel terza riesit"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Plan implementovania funkcionality Prezentacneho rezimu je predbezne druha polovica roka 2027."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "tak to ste nas nepotesili"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To nas mrzi, tak snad Vas potesia ine veci, ktore dovtedy prinesieme."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, mozeme tento pripad uzatvorit? Alebo su este nejake otazky? Dakujem"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "mozme uzavriet"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) termin 1 hviezda - ale ne za to jak rychlo sme odpovedali ale za to podla mna, kedy bude funkcia ktoru chcu.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dajak prezijeme 😀"
+    }
+  ]
+}

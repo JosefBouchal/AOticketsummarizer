@@ -1,0 +1,143 @@
+{
+  "id": "a08vhhphp00gvv",
+  "created": "2026-06-12T10:57:00.027Z",
+  "closed": "2026-07-03T08:40:30.260Z",
+  "duration_minutes": 30103,
+  "first_response_minutes": 565,
+  "name": "Viditeľnosť dokumentov z priečinka - zobrazí sa všetkým užívateľom napriek nastaveniu \"Vybraní\"",
+  "description": "Máme v projekte priečinok Cenové ponuky, kde sme nastavili právo na zobrazenie iba vybraným užívateľom Máme interných užívateľov, ktorí sú supervízori, ale nie sú vybraní užívatelia a dokumenty z tohto priečinka vidia: vidia aj priečinok, aj dokumenty v ňom.\n\nKedysi to fungovalo a užívateľom sa pri priložení odkazu na súbor do komentára zjavila hláška \"Na zobrazenie nemáte právo\" Teraz však sa im dokument zobrazí. Nevieme, kedy presne to prestalo fungovať.\nProsíme o urýchlenú nápravu.",
+  "owner": "Mária Andogová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 30,
+    "from_owner": 16,
+    "from_others": 14,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, mam za to, ze supervizor vidi a videl vsetky data v ramci objektu kde je supervizor a teda sa na neho navztahuje nastavenie vybrani."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "určite to tak nebolo, keď sme to začali používať, tak dokumenty v tomto priečinku videli iba vybraní používatelia, možnosti sú Všetci, Interní a Vybraní. \nJe šanca, že to takto začne znova fungovať?"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Našich interných ľudí máme označených ako supervízorov ale nie kvôli dokumentom, ale prístupu k úlohám. V rámci úlohy však obchodník pripravuje cenové ponuky a zmluvy, ktoré nechceme, aby riešila-videla celá naša firma. Predtým, než sme to dávali do tohto priečinka, sme tieto dokumenty posielali e-mailom, ale komunikácia potom medzi klientom a nami bola kombináciou AO a mailov, takto nám to vyhovuje viac, ale nejaká ochrana dokumentov predsa musí byť.\n\nÁno, mohla by som zrušiť supervízorstvo interným užívateľom, teoreticky by to nevadilo, lebo keď príde nová úloha, dostane ju na riešenie ten, čo má. Avšak mám problém s históriou, napríklad máme novú kolegyňu a ak by nebola supervízor, nevidela by históriu úloh, čo sa riešilo v minulosti..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pravo supervizor v jednoduchosti znamena ze ma pravo na data a datami sa rozumeju jak ulohy tak dokumenty. Ide o nad pravo takze tam nemozu byt vynimky na nejaku konkretnu vec - stratili by to zmysel. Jedine co ma napada je oddelit ten proces kde chcete selektivne udelovat pravo. Nepoznam detail o co ide takze sa mi tazko radi."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "No rozmýšľala som urobiť projekt \"Dokumenty\", kde by neboli supervízori a kde urobím toľko priečinkov, koľko máme klientov a udelím právo len tomu, komu chcem. Lenže problém je ten, že keď chcem, aby dokument videl Janko Hraško z firmy ABB, tak ho musím prideliť do projektu. Síce dám, že do projektu sa nezakladajú úlohy a pekne vidím dokumenty. Ale Janko Hraško tento projekt vidí medzi projektami a vie ísť na \"O projekte\" a tam vidieť všetkých ľudí, čiže by tam videl všetkých našich klientov zo všetkých projektov Je možné urobiť projekt Dokumenty, ale tak, aby ho užívateľ nevidel, keď klikne na \"Projekty\"? Proste nemá ho vidieť, nemá tam chodiť. Projekt by slúžil len na ukladanie dokumentov a keď chcem ten dokument klientovi ukázať, tak do úlohy vložím na tento dokument odkaz. A tak ako som uviedla obrázok v popise úlohy, tak ten odkaz užívateľ buď vidí a vie zobraziť alebo sa mu napíše \"Na zobrazenie nemáte právo\"."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Skuste mi napisat proces a ludi a skusim poradit ako by sme to pocas implementacie riesili my. Vacisnou obchodnicke veci idu v inom procese nez nejake helpdeskove."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "No rovnako ako v KSW, akurát že my sme chceli to obmedzenie, aby cenové ponuky videli len vybraní užívatelia a to ako na strane našej tak aj na strane klienta.\n\nPostup je:\nKlient zadá úlohu, ktorá je typu požiadavka. Na túto požiadavku analytik spracuje návrh riešenia a odhad prác. Následne obchodné oddelenie pripraví a zašle cenovú ponuku (tá má byť viditeľná len pre vybrané osoby) - zašle ju ako komentár, kde priloží odkaz na dokument, ktorý je uložený v priečinku. Klient odsúhlasí a následne sa realizuje. Všetko sa deje v rámci jednej úlohy od analýzy, cez ponuku až po realizáciu a odovzdanie. \n\n---------------\nSkúšam to cez projekt Dokumenty a funguje to, akurát mám ten problém, čo som písala. Otázka je: dalo by sa urobiť, aby keď vyberám Vybraných užívateľov na právo na priečinok, aby mi ukázalo všetkých užívateľov? Ak by mi ukázalo všetkých, mohla by som im pridať práva na priečinok bezohľadu na členstvo v projekte, nemuseli by byť členovia a problém vyriešený.\n\nV opačnom prípade budem musieť založiť toľko projektov, koľko je klientov, čiže Dokumenty - Klient A, Dokumenty - Klient B... atď a všade podávať len tých, čo majú právo na dokumenty v svojej firme"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Bohuzial takto je to umyselne - na dokumenty sa vyberaju ludia iba z clenov projektu. Problem je v podstate asi ten ze vy chcete dovolit ludom pravo na vsetky ulohy ale nie na vsetky dokumenty ktore sa v tych ulohach pouzivaju. Este ma napadlo co tak dat dokument do komentara a jeho sukromie nastavit na sukromne plus vybrani. Toto si nie som isty ci uvidi supervizor. Ono hladat cestu aby supervizor nevidel data je take trochu procesne nespravne lebo ak by supervizor namal vidiet vsetko tak vam tam ludia podavaju milion sukromnych dat bez supervizora a vy by ste na nich nemali dosah (administrator je pravo na nastavenia nie na data)."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "to s tým komentárom mi tiež napadlo, ale to by supervízorovi nezabránilo ísť na záložku Dokumenty a zobraziť si ich v priečinku\n\nešte mi napadlo, platí to aj pre externého supervízora? potom je to úplne zle, lebo externý supervízor môže byť napríklad IT technik, ktorý vidí všetko čo sa rieši vrámci KARATu, ale tiež nemá si čo obhliadať obchodné dokumenty.... OK, rozumiem, takže urobíme to tak, ako som písala, toľko projektov, koľko klientov, pozerala som, že licenčne by sme sa mali zmestiť a podľa predbežného testu to aj funguje tak ako by sme potrebovali"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja som nic nic neoisal o dokumentoch Ja som navrhoval zvazit dat dokument iba do komentara kde nastavite sukromie na vybranych"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "ahaaa, tak to mi nenapadlo.... ok ešte zvážime túto možnosť"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "ale odporuje to Vašej logike, že supervízor má vidieť všetko 🙂"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "\"Problem je v podstate asi ten ze vy chcete dovolit ludom pravo na vsetky ulohy ale nie na vsetky dokumenty ktore sa v tych ulohach pouzivaju.\"\nTakže ak umožníme dať komentáre, ktoré supervízor nevidí, tak je to rovnaké: \"chceme dovoliť ľudom právo na všetky úlohy, aj na všetky dokumenty, ale nie na všetky komentáre\"...\nJednoducho nedá sa to zovšeobecniť... tak ako mám možnosť nastavovať práva na komentáre, mala by byť možnosť nastavovať práva aj na dokumenty"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Presne tak, toto je asi jedine miesto - sukromne sukromie kde asi nebude mat pristup supervizor. Za mna to ale uplne spravne nie je. Tazko asi nieco navrhnut lebo nie je tam taka granularita aby sa nastavovali zvlast prava na data a zvlast na ulohy."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "ale áno je, veď to tám máte a volá sa to \"Právo na zobrazenie - Vybraní\""
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Funkcne mozno ano, ale ked Vam (ako tomu co plati) uzivatelia zacnu zaberat ulozisko a vy neviete cim a nemozete s tym nic robit - myslim ze to nie je spravne. Ci? Musi existovat niekto kto s tym spravi poriadok. Uz asi ideme do polemiky 🙂 . Vieme este nejako pomoct?"
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "a keď to pridám ako prílohu do komentára, tak čím to je iné?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tam to kryje to sukromie typu “sukromne” ale vravim nie som si isty ci sa to nebude musiet zmenit z vyssie uvedenych dovodov alebo nejako inak obmedzit. Zatial je to tak a zakaznici problemy nehlasia."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "no ale navrhujete mi, aby som súkromie dokumentov riešila tak, že to budem pridávať ako súkromné komentáre, vy sa potom rozhodnete, že supervízor má predsa vidieť všetko, aj súkromné komentáre a budeme zase tam, kde sme boli.... lebo na základe logiky, čo píšete, by supervízor mal vidieť všetko. teraz som to skúšala a môžem zdieľať dokumenty cez súkromný komentár, aj súkromný+ ďalšie osoby a ja ako supervízor aj administrátor projektu aj spoločnosti a ten súkromný komentár ani dokument nevidím... Takže podľa mňa záver je: ak má supervízor vidieť všetko, nech vidí aj súkromné komentáre. Ak nemá vidieť všetko, nech je možné na priečinku nastaviť súkromie rovnako ako aj na komentári."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Dobrý deň, prosím Vás, menilo sa niečo od včera?\n lebo vytvorila som priečinok Dokumenty - ELV. Nastavila som tento projekt, že ho vidia iba Členovia, nastavila som tam iba tých členov, ktorých som chcela. Vytvorila som priečinok, na priečinok som nastavila právo Vybraní. \nTeraz idem testovať:\n- interní užívatelia všetci vidia aj ten projekt, aj všetky dokumenty, aj odkaz na dokument, všetko sa im zorbazí...\n- externí užívatelia: keď dám odkaz na projekt alebo pričinok dokumenta do prehliadača, napíše sa, že nemá právo, ale keď príde na odkaz, ktorý bol vložený do komentára, tak ho vidí!!! a je to externý užívateľ, ktorý nemá právo na priečinok ani na projekt, v ktorom dokument je uložený!!! \nvýsledok: je to ešte horšie ako predtým, lebo teraz dokumenty nevidia len interní ale už aj externí užívatelia\n\nAle včera som to testovala a fungovalo to, takže nechápem..."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Tak celé som to otestovala ešte raz a už pre externých užívateľov to zdá sa funguje, akurát ešte mám problém, že pre niektorých interných to funguje a pre niektorých nie..."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Nakoniec mi to už funguje, takže zakladám projekty za každého klienta, takže moje dva predchádzajúce komentáre považujte za vybavené.\nMôj názor z ##19 však ostáva rovnaký. Ak má supervízor vidieť naozaj všetko, tak vrátane komentárov. Supervízor aj administrátor strácajú kontrolu nad tým, čo sa deje v súkromných komentároch vrátane príloh. Je to to isté ako prideľovanie práv na prílohy, ktoré tvrdíte, že supervízor má vidieť všetky."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Bude riesene tuna #11249 Zjednotenie opravneni dokumentov a dashboardov ."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) chapem teda spravne ze to bude vyriesene opacne ako na konci chcela.. teda ze ak dam nieco sukromne, tak nebude tam mat pristup nikto..."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ano"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Presli sme si to na produktovej porade a budeme to riesit tak, ze zjednotime opravnvenie dokumentov a dashboardov. Ak bude nieco sukromne, tak nebude mat k tomu pristup nikto, ani supervizor."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "Ďakujem za informáciu, čiže z toho vyplýva, že ak urobím priečinok v dokumentoch a nastavím právo \"Vybraní\", tak dokumenty v tom priečinku uvidia iba vybraní a supervízori nie, tak?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, ked to bude implementovane, tak by to takto malo fungovat."
+    },
+    {
+      "creator": "Mária Andogová",
+      "comment": "a kedy asi je plánované nasadenie tejto funkčnosti?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nakolko je aktualny sprint v behu, tak je to zatial planovane na ten dalsi. Odhad jeho nasadenia je zaciatok dalsieho roka."
+    }
+  ]
+}

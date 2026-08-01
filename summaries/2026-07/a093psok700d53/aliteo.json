@@ -1,0 +1,47 @@
+{
+  "id": "a093psok700d53",
+  "created": "2026-07-15T13:12:16.786Z",
+  "closed": "2026-07-30T14:21:21.844Z",
+  "duration_minutes": 21669,
+  "first_response_minutes": 30,
+  "name": "import kontaktů",
+  "description": "Dobrý den, Na základě našeho telefonátu posílám v příloze seznam kontaktů, které potřebujeme naimportovat do Alitea. Jedná se o naše odběratele. Předem děkuji za pomoc. S přátelským pozdravem | With kind regards Jakub Bielik COO W.: www.FOXmarket.cz M: + 420 775 971 183 E.: jakub@foxmarket.cz P.S.: Během emailové komunikace, prosím, používejte volbu \"Odpovědět všem\". Ušetříte nám tak spoustu času, kterou můžeme investovat do zlepšení našich služeb P.S.: During email communication, please use the \"Reply All\" option. This will save us a lot of time, which we can dedicate to improving our services. Tento e-mail je urcen pouze pro jeho adresata/adresaty a muze obsahovat duverne informace, jejichz ochrana muze byt vyzadovana pravnimi predpisy. Jestlize jste zpravu obdrzel(a) omylem, neprodlene informujte jejiho odesilatele a tuto zpravu, jeji prilohy a pripadne kopie ihned vymazte. Jakakoli forma uziti, zverejneni, reprodukce, kopirovani, distribuce a sireni teto zpravy je v takovem pripade zakazana. Spolecnost FoxMarket, spol. s.r.o. neodpovida za mozne skody zpusobene neuplnym prenosem, moznou modifikaci ci zpozdenim teto zpravy behem prenosu od odesilatele k adresatovi. This email is intended solely for its recipient(s) and may contain confidential information protected by law. If you have received this email by mistake, please inform the sender immediately and delete this email, its attachments, and any copies thereof without delay. Any use, disclosure, reproduction, copying, distribution, or dissemination of this message in such a case is prohibited. FoxMarket, spol. s r.o. is not responsible for any potential damages caused by incomplete transmission, potential modification, or delay of this message during its transfer from the sender to the recipient. FoxMarket, spol. s r.o. | Bělohorská 274/9 169 00 | Praha 6 | Czech Republic",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 1,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ako sme sa rozpravali, potrebujem tie Vasej data v dvoch tabulkach, ktore Vam posielam. Sablona portfolia aliteo-portfolia-sablona Bielik.xlsx - tam budu vsetky udaje tykajuce sa spolocnosti Sablona kontakty aliteo-kontakty-sablona Bielik.xlsx - tam budu vsetky udaje tykajuce sa kontaktov (prvy stlpec musi byt logicky spolocnost, aby to bolo ako prepojit) Stlpce ktore asi nebudete vediet vyplnit: B. typ portfolia - otvorte si nastavenia spolocnosti, zalozka portfolia a tam su nejake defaulne tak si ich prezrite prosim ci Vam davaju zmysel, ak treba upravte. A k tie co ste mi poslali su jedneho typu (napriklad zakaznik) , tak ho vyplnte na vsetky riadky rovnako. V opacnom pripade, vyplnte tak spravne - zadava sa to pri pridani, nie je mozne to potom upravit v existujucom portfoliu C. active - vsade true D. viditelnost portfolia - tu sa da rozhodnovat ci konkretny ludia bduu toto portfolio vidiet alebo vsetci E, F, G, H - nechajte prazdne Ak to tam mam u Vas nahrat potrebujem sa dostat do spolocnosti - na ten ucel Vam nastavim custom licenciu kde ma pozvete ako uzivatela a pridate mi pravo admina. Inak sa nedostanem k datam ktore potrebujem pre import. Po ukonceni importu, mi pravo vypnete a zo spolocnosti ma odstranite. Moze byt?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zapol som custom do konca tyzdna o jedneho uzivatela naviac.."
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, Danieli, dobře, dnes se k tomu už nedostanu, zkusím to připravit zítra."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Jasne, nie je problem, pockam.. ak by boli otazky, kludne napiste."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, znovuotvoril som tuto ulohu a prikladam dokumenty ktore ste mi poslali: aliteo-portfolia-sablona Bielik-2 VYPLNENO.xlsx aliteo-kontakty-sablona Bielik VYPLNENO.xlsx Ostava doriesit: - Typ portfolia - vsetko su to zakaznici? - Administracia - zopakujeme postup ktory som pisal, ze zapnem docasnu licenciu a vy ma pozvete aby som mohol previest import?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, znovuotvoril som tuto ulohu a prikladam dokumenty ktore ste mi poslali: aliteo-portfolia-sablona Bielik-2 VYPLNENO.xlsx aliteo-kontakty-sablona Bielik VYPLNENO.xlsx Ostava doriesit: - Typ portfolia - vsetko su to zakaznici? - Administracia - zopakujeme postup ktory som pisal, ze zapnem docasnu licenciu a vy ma pozvete aby som mohol previest import?"
+    }
+  ]
+}

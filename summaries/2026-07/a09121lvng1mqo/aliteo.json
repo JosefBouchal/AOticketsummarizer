@@ -1,0 +1,43 @@
+{
+  "id": "a09121lvng1mqo",
+  "created": "2026-06-24T05:27:45.756Z",
+  "closed": "2026-07-06T10:08:02.916Z",
+  "duration_minutes": 17560,
+  "first_response_minutes": 389,
+  "name": "Pristup do účtu",
+  "description": "Dobrý den, v aplikaci Aliteo na mobilu a ani v prohlížeči není možnost přihlásit pomocí google. Včera jsem udělal registraci a dnes se chtěl přihlásit na mobilu. Pokoušel jsem si obnovit heslo. V safari na mobilu není možnost si obnovit heslo. V Chrome ano, ale tato funkce nefunguje. Přišel mi kód, ten jsem ověřil a pak mě to přesměrovalo na stránku viz screen. Myslel jsem že mám zapsat nové heslo, ale podle mě jde zase o přihlašovací formulář. Navíc píšete, že účet není nalezený. Vidím tam několik chyb, které by bylo super opravit a otestovat. Vše co jsem dnes popsal jsem dělal na mobilu. Aplikace mi take hlásí že účet není nalezen. --- S přátelským pozdravem Miroslav Tesarczyk CEO W.: www.FoxMarket.cz FoxMarket, spol. s r.o. Bělohorská 274/9 169 00 Praha 6 - Břevnov Czech Republic M: + 420 722 066 666 Tento e-mail je urcen pouze pro jeho adresata/adresaty a muze obsahovat duverne informace, jejichz ochrana muze byt vyzadovana pravnimi predpisy. Jestlize jste zpravu obdrzel(a) omylem, neprodlene informujte jejiho odesilatele a tuto zpravu, jeji prilohy a pripadne kopie ihned vymazte. Jakakoli forma uziti, zverejneni, reprodukce, kopirovani, distribuce a sireni teto zpravy je v takovem pripade zakazana. Spolecnost FoxMarket, spol. s.r.o. neodpovida za mozne skody zpusobene neuplnym prenosem, moznou modifikaci ci zpozdenim teto zpravy behem prenosu od odesilatele k adresatovi. i.: Během emailové komunikace, prosím, používejte volbu \"Odpovědět všem\". Ušetříte nám tak spoustu času, kterou můžeme investovat do zlepšení našich služeb.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 1,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravím vás Miroslav, ďakujeme za správu a veľmi nás mrzia komplikácie, na ktoré ste pri prihlásení narazili. O probléme vieme. Pri publikovaní mobilných aplikácií do obchodov sme v poslednej fáze schvaľovania museli niektoré prihlasovacie funkcie dočasne obmedziť, aby bolo možné aplikáciu v krátkom čase vôbec uvoľniť do storu. Niektoré scenáre prihlásenia preto aktuálne nefungujú tak, ako by mali. Dobrou správou je, že tieto problémy sú už vyriešené v novej verzii aplikácie, ktorá je plánovaná na prelom 08/09 2026. V tejto verzii bude prihlasovanie cez Google aj ďalšie metódy fungovať plnohodnotne priamo v mobilnej aplikácii. K druhému bodu, ktorý popisujete, ak bol účet vytvorený pomocou prihlásenia cez Google, MS ...atď potom je tento účet autentifikovaný práve prostredníctvom Google identity. V praxi to znamená, že do aplikácie sa neprihlasuje klasickou kombináciou e-mail + heslo, pretože tieto prihlasovacie údaje spravuje Google. Štandardné prihlásenie a prihlásenie cez Google sú preto z pohľadu systému dve oddelené autentifikačné metódy, aj keď používajú rovnakú e-mailovú adresu. Tento princíp je bežný pri väčšine služieb, ktoré umožňujú prihlasovanie prostredníctvom externých poskytovateľov identity. Ešte raz sa ospravedlňujeme za vzniknuté komplikácie. Ak chcete mobilnú aplikáciu používať okamžite, najrýchlejším riešením je vytvoriť si nový účet bez prihlásenia cez Google. Následne sa budete prihlasovať klasicky pomocou e-mailu a hesla, pričom mobilná aplikácia bude fungovať štandardným spôsobom. S pozdravom Tím ALITEO"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobrý deň, existuje ešte jedna možnosť, ktorá by mohla situáciu vyriešiť. Je možné daného používateľa zo spoločnosti odpojiť a následne ho do nej znova pozvať. Po prijatí pozvánky sa potom môže zaregistrovať klasickým spôsobom pomocou rovnakého e‑mailu a hesla (nie cez Google prihlásenie). Následne by sa už mal vedieť bez problémov prihlásiť aj v mobilnej aplikácii. S pozdravom Tím ALITEO"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, když uživatele smažu, pak to budu muset vše znova u nastavit ? Jsem zakladatelem. A nepočítáte u uživatelů, kteří se přihlašují pomocí google, že by si mohli v adminu zvolit také heslo ? A není tedy lepší přihlášení pomocí google zrušit u vás jako funkci, když je to polovičatě udělané a vlastně se pak uživatel nemůže přihlásit v mobilu ani v aplikaci ? Nedělá to dobrý dojem pro uživatele. Vedl jsem IT odděleni a takto bych to ven nepustil. Ja nemohu vaši aplikaci několik dni používat a to se mám jako nový klient rozhodnout jestli ji objednám na rok do své firmy. Kdyby tam ta možnost nebyla, při registraci jsem použil heslo a nemusel jsem teď mít tyto problémy. --- S přátelským pozdravem Miroslav Tesarczyk CEO W.: www.FoxMarket.cz FoxMarket, spol. s r.o. Bělohorská 274/9 169 00 Praha 6 - Břevnov Czech Republic M: + 420 722 066 666 Tento e-mail je urcen pouze pro jeho adresata/adresaty a muze obsahovat duverne informace, jejichz ochrana muze byt vyzadovana pravnimi predpisy. Jestlize jste zpravu obdrzel(a) omylem, neprodlene informujte jejiho odesilatele a tuto zpravu, jeji prilohy a pripadne kopie ihned vymazte. Jakakoli forma uziti, zverejneni, reprodukce, kopirovani, distribuce a sireni teto zpravy je v takovem pripade zakazana. Spolecnost FoxMarket, spol. s.r.o. neodpovida za mozne skody zpusobene neuplnym prenosem, moznou modifikaci ci zpozdenim teto zpravy behem prenosu od odesilatele k adresatovi. i.: Během emailové komunikace, prosím, používejte volbu \"Odpovědět všem\". Ušetříte nám tak spoustu času, kterou můžeme investovat do zlepšení našich služeb."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) aka bola vyhoda tohto \"polovicateho\" riesenia ? ze sme umoznili registraciu gmailom bez toho aby sa dokazala aj mobilna apka prihlasit? Alebo sme vlastne nevedeli ze to bude taky problem? Prizname chybu alebo mame na to odpoved?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobrý deň, ďakujeme za otvorenú spätnú väzbu. Rozumieme tomu, že táto situácia môže pôsobiť frustrujúco, najmä ak aplikáciu práve testujete pred rozhodnutím o jej nasadení vo firme. Mobilnú aplikáciu sme sa rozhodli sprístupniť v obchodoch čo najskôr, aby ju používatelia mohli začať používať. Väčšina registrácií v systéme aktuálne prebieha klasicky cez e‑mail a heslo, preto sme zvolili postup, že aplikáciu publikujeme aj za cenu toho, že niektoré menej používané prihlasovacie scenáre budú dočasne obmedzené. Spätne však chápeme, že ak sa niekto zaregistruje práve cez Google, môže to pôsobiť ako nedokončené riešenie. K samotnému prihláseniu cez Google: túto metódu sme navrhli ako štandardné SSO (Single Sign‑On). V takom prípade je autentifikácia používateľa zabezpečená poskytovateľom identity, teda spoločnosťou Google. ALITEO preto heslo používateľa nepozná ani ho neuchováva. Z tohto dôvodu nie je možné dodatočne nastaviť alebo zmeniť lokálne heslo k účtu, ktorý bol vytvorený týmto spôsobom. Ide o bežný princíp využívaný aj pri prihlasovaní cez Microsoft, Apple a ďalších poskytovateľov identity. Ak je používateľ zároveň zakladateľom účtu, riešenie je možné vykonať len cez ďalšiu osobu v účte. Stačí, aby sa do spoločnosti pridal druhý používateľ, ktorému sa dočasne nastaví rola administrátora. Tento používateľ následne môže pôvodného používateľa zo spoločnosti odpojiť a znovu ho do nej pozvať. Po prijatí pozvánky sa potom môže zaregistrovať klasickým spôsobom pomocou e‑mailu a hesla, čím sa účet správne prepojí a prihlásenie bude fungovať aj v mobilnej aplikácii. Ešte raz sa ospravedlňujeme za vzniknuté komplikácie a ďakujeme za vašu spätnú väzbu – práve takéto skúsenosti nám pomáhajú aplikáciu ďalej zlepšovať. S pozdravom Tím ALITEO"
+    }
+  ]
+}

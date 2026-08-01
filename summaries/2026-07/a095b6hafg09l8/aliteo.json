@@ -1,0 +1,51 @@
+{
+  "id": "a095b6hafg09l8",
+  "created": "2026-07-27T12:25:45.274Z",
+  "closed": "2026-07-28T15:02:48.229Z",
+  "duration_minutes": 1597,
+  "first_response_minutes": 10,
+  "name": "Agenda k meetingu",
+  "description": "Dobrý deň, viete mi poradiť prečo je možnosť odoslať e-mailom / stiahnuť PDF k plánovanému meetingu neaktívna (vyšedená ) ?",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, Na prvu by som povedal ze kvoli pravam. Ze externi uzivatelia nemaju pravo exportovat/posielat zapis/harmonogram k porade. Ale preverime ci je to takto."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Dobre hovoríte, neviem ako sa mi podarilo tú sériu meetingov vytvoriť v projekte Karat kde som ako externista plus stále sme sa tam zo začiatku doťahovali aké práva mi môžu dať aby som nevidel čo si tam píšu ... za mňa blbosť lebo mi len zbytočne robili naprieky, keby som klasický internista alebo externista s jasne nastaveními právami tak som si nemusel vytvárať svoj helpdesk, ale to sa nedalo komunikovať s p. Putyrom, ten ma len odbíjal aby mal so mnou čo najmenej starostí. Otázka je teda. Dá sa zmeniť projekt meetingu zo spoločnosti Karat na 3EC International alebo to budem musieť celé zrušiť (celú sériu) a vytvoriť ho pod svojou spoločnosťou ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pravo na poradu nema s exportom nic spolocne pravdepodobne. Je to preto aby ste mohli naplanovat poradu aj ako externista. Je ale vecna otazla na kolko skryvat nedostupne veci a nakolko ich nechavat dissabled aby bolo vidiet ze tam ta funkcia je. Zmenit sa z existujucej neda lebo ta ina bude v inom projekte v inej spolocnosti. Tie data patria spolocnosti a nie uzivatelovi takze preciest sa neda. Musite turo skratit a vytvorit novu u seba. Drzim Vam palce, velmi ma mrzi ze dostavate polena pod nohy a klobuk dole ako bojujete."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Pozdravujem a je niekto, kto by mi aj dnešné poznámky vedel vyexportovať do PDFka ? asi požiadať niekoho kto tam je internista, vy tam nie ste ? Mne je extrémne ľúto, že Váš partner (Spoločnosť Sango) odmieta pracovať s Aliteom a riadiť si tým svoju prácu, resp. svoj proces projektového riadenia. Keby tam mali človeka ako vy, že tomu rozumiete, prínosom takejto evidencie, tak by sa nám od začiatku praovalo lahšie, ale nemôžem ich nútiť a príliš tlačiť, robím čo sa dá ale ke´d vidím, že mi zazdieľajú obrazovku a majú tam 999+ notifikácií a prepisujú veci do wordu a z wordu tak ma ide .... Ale nevadí, ja si idem svoje, ich ovplyvniť nemôžem tak si to nastavujem aspoň u seba a som rád, že mám ako know how aspoň Vás, s ktorým sa dá diskutovať a mám vo vás aj dobrú oponentúru a hľadáte ako sa veci dajú robiť a nenecháte sa ovplyvniť hneď prvým mojim návrhom. To je v dnešnej dobe vzácnosť. V jednej firme som mal 2 takýchto kolegov, že nerozumeli sme do detailu technológii Atlassinu ale hľadali sme ako sa veci dajú robiť, plus sme sa pozerali na technológiu holisticky a neboli sme zaťažený prílišným detailom na samotnú technológiu / kód a nerobili sme zo všetkého vedu a skúšali sme hrali sme sa a také myslenie je vzácnosť, keby môžem tak ich dotiahnem sem, ale tak nedá sa, skôr mám pocit, že čoskoro odídem ja 😀."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, poziadajte prosim niekoho interneho z danej porady, aby Vam tieto poznamky exportoval, resp priamo poslal z porady emailom (najmenej prace). Mne je to luto takisto, jednak ze sami sa neposuvaju ale omnoho viac ze brzdia dalsich - Vas, resp. ludi ktori sa chcu posuvat, vedia menit a budovat si system tak aby boli stale viac a viac efektivnejsi. Ale na druhu stranu som rad, ze vidite ze v tomto nie je obmedzenie ALITEO ale ludia. Drzim Vam palce."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "jeden múdry človek mi povedal že nástroj je len tak dobrý ako dobrý je užívateľ, ktorý ho používa. Obchodák v Microsofte, mi zas hovoril, že najväčšie obmedzenie moderných technológií je človek 🙂 Aj tieto ERP transofrmácie, digitalizácie, AI, nikdy nie sú o nástroji ako si veľa majiteľov, manažérov myslí, je to o exaktne stanovenom procesnom a dátovom modele (flow) = vedieť kto som a ako fungujem +  zmena prístupu, návykov celej firmy  a to sa dá len ak je projekt kvalitne zadefinovaný a riadený a ľudia nájdu svoje dôvody prečo to robiť inak, žiaľ väčšinou sú tie projekty od začiatku riadené špatne a zvalia to na ľudí, že majú odpor k zmená. Ľudia majú odpor / strach z chaosu nie z riadených a komunikovaných zmien . A ak máme jasne zadefinovaný proces projektového manažementu (incident management / change management) aplikovaný v Aliteo, tak by bolo sveta žiť. ok, zamudroval som si, ideme ďalej dík za pomoc, môžeme to zatvoriť."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zas musime uznat, ze plati ze niekedy aj nastroj je limit. Ak by aj boli sebelepsi ludia tak bez rozumneho stacku nastrojov budu zas ludia limitovani. Ciastocne to musi byt kombinacia ale ano, nastroj nestaci… Vdaka za diskusiu."
+    }
+  ]
+}

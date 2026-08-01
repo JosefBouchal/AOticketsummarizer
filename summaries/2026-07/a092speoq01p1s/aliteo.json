@@ -1,0 +1,35 @@
+{
+  "id": "a092speoq01p1s",
+  "created": "2026-07-08T11:39:54.763Z",
+  "closed": "2026-07-08T11:57:58.311Z",
+  "duration_minutes": 18,
+  "first_response_minutes": 13,
+  "name": "uzavření období pro VP- nastavit na společnosti.",
+  "description": "prosím o zvážení možnosti doplnit někam (ideálně na Společnost, ale klidně na Pracovní prostor) datum uzavření období pro VP. Cíl hry: potřebuji definovat, že se do nějakého data nesmí přidávat VP, případně měnit z ALITEO. protože pak do KARATu se zakládají  a padá nám to, protože je to uzavřeno. Pokud budete mít fakturační VP, tak pak odvedení takového VP bude přece taky kazit statistiky nehledě na to, že fakturace za měsíce nebo roky zpětně je problém. Tedy nejjednoduší řešení je na společnosti omezit zakládat/editovat VP do nějakého data. Toto doplnit do synchronizace a my když uzavřeme období, tak nastavíme nové datum.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Výkazy práce",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, myslim ze tu poziadavku si uz daval.. Skusim pohladat vo vyvoji."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nasiel som davam do vazby: #2666 Obmedzenie vytvarania VP ziadal si o to uz tu: #2550 Vp - umožnit zakázat vkládat VP do nějakého období"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "aha, díky, tak v tom případu uzavřeme, chci stále to stejné. děkuji."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "a08v8sjdpg1u8j",
+  "created": "2026-06-10T08:29:19.879Z",
+  "closed": "2026-07-02T06:02:09.330Z",
+  "duration_minutes": 31532,
+  "first_response_minutes": 119,
+  "name": "Zobrazenie dat nad poradou",
+  "description": "Jsem jako účastník porady v KARATe, porada je vázaná na společnost a pracovní prostor. Úkoly jsou v projektu, ale já nejsem členem daného projektu. Na poradě vidím Úkoly k reakci - já vidím 45 úkolů, ostatní vidí 4 úkoly Na poradě nevidím body porady, ostatní je vidí.",
+  "owner": "Jan Kyzlink",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Projekty",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 4,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Jan Kyzlink",
+      "comment": ""
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Cauko, zda sa ze sa bavime o rozdielnych poradach.. Takze pozri to este raz, posli o aku poradu ide a ktory uzivatel vidi nieco ine co ty."
+    },
+    {
+      "creator": "Jan Kyzlink",
+      "comment": "Na poradu – vizuál zrušené porady, viz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobre, najprv sa zamerame na to, preco nemozes prijat poradu.. a potom co vidis a co nie.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja som otestoval u seba na gmail ucte a funguje.. @ Jan Kyzlink (hi@jankyzlink.com) ty fungujes na gmail tiez?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Jan Kyzlink (hi@jankyzlink.com) si potvrdil uzatvorenie? Asi este nie je vyriesene ci?"
+    },
+    {
+      "creator": "Jan Kyzlink",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) Já to beru tak, že Proton Mail je prostě anomálie. I když jsem tam v nastavení zkoušel měnit časové zóny, tak stále tam byl ten bug, kdy se událost vůbec nezobrazila. Pokud to funguje správně v Gmailu a další klientech, tak bych to dál neřešil."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ale proton mail je len klient nie? ci to je mailovy server podobny ako gmail?"
+    },
+    {
+      "creator": "Jan Kyzlink",
+      "comment": "Je to v podstatě obojí. I server i klient. Nicméně já jsem to bral tak, že to není tak rozšířený a není tak relevantní ten bug fixnout. Či?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Aha, chapem, takze je to zvlast platforma cela. Ja myslel ze mas evniroment gmail a proton je len nejaky klient. No asi to tak bude, ze ak je to komplet platforma nie je uplne priorita zaviest vsetky platformy. je tak @ Peter Ďurčák (peter.durcak@karatsoftware.sk) ?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "jj neriesme"
+    }
+  ]
+}

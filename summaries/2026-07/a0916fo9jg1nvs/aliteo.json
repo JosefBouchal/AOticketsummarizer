@@ -1,0 +1,63 @@
+{
+  "id": "a0916fo9jg1nvs",
+  "created": "2026-06-25T07:19:34.154Z",
+  "closed": "2026-07-02T10:32:44.510Z",
+  "duration_minutes": 10273,
+  "first_response_minutes": 24,
+  "name": "Atribut LEGITO ID",
+  "description": "Dobrý den, Ve společnost TV NOVA s.r.o, máme vytvořen atribut LEGITO ID do úkolů jednotlivých projektů se ale propisuje jako read only. Prosím o pomoc s nastavením, aby byl editovatelný. Děkuji S pozdravem Marek Svatoš Business Systems Manager Marek.Svatos@nova.cz M (+420) 602 172 282 TV Nova s.r.o. Kříženeckého nám. 1078/5 152 00 Praha 5 Czech Republic nova.cz tn.cz oneplay.cz Please consider the environment before printing. Internal Please note that the below disclaimer shall apply to any and all e-mail communications provided on behalf of TV Nova s.r.o. Upozornění: Obsah tohoto e-mailu slouží pouze pro účely komunikace a nemůže být vykládán jako návrh nebo přijetí návrhu na uzavření/změnu/ukončení jakéhokoli smluvního vztahu ze strany společnosti TV Nova s.r.o. (dále jen „Společnost“), včetně zajištění či utvrzení dluhu, vzdání se práva či prominutí dluhu ze strany Společnosti. Vezměte prosím na vědomí, že uzavírání/změna/ukončení smluvních vztahů podléhá internímu schvalovacímu procesu Společnosti, a proto nelze důvodně očekávat uzavření smlouvy ani změnu/ukončení existujících smluvních vztahů, dokud nebude právní jednání Společnosti učiněno v písemné formě s podpisem oprávněné jednající osoby. Společnost tímto vylučuje přijetí jakéhokoliv návrhu na uzavření smlouvy (nabídky) s dodatkem či odchylkou, a to i v případě, kdy takový dodatek či odchylka podstatně nemění podmínky nabídky Společnosti. Tento e-mail a všechny přiložené soubory jsou důvěrné a jsou určeny pouze adresátům jmenovaným výše. Jestliže jste tento e-mail obdrželi omylem nebo nejste adresátem jmenovaným výše, informujte prosím odesílatele a vymažte tento e-mail, včetně veškerých přiložených souborů a kopií. Jestliže nejste oprávněným adresátem tohoto e-mailu, nejste oprávněn informace v něm obsažené žádným způsobem zveřejňovat, šířit ani jinak užívat. Děkujeme. Veškeré informace a kontaktní údaje související s ochranou osobních údajů společnosti TV Nova s.r.o. naleznete zde .",
+  "owner": "Marek Svatoš",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 4,
+    "from_others": 6,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ciel je ze by sa ten atribut mal zobrazovat v ulohach kde to budu uzivatelia editovat?"
+    },
+    {
+      "creator": "Marek Svatoš",
+      "comment": "Dobrý den, ano cíl je aby v každém projektu, v každém úkolu se tento atribut zobrazovat (to už platí) a šlo ho editovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pozrite sa na nastavenia atributu v pracovnom priestore, kde tie projekty a ulohy su. Tam sa vo vseobecnych nastaveniach urcuje ci ma byt editovatelny alebo len zobrazeny. Malo by to vyzerat takto:"
+    },
+    {
+      "creator": "Marek Svatoš",
+      "comment": "Můžeme si prosím dát krátky Teams call, kde bych sdílel obrazovku?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, napiste mi ked by ste mali moznost, ja mozem dnes do 13:00. Alebo chcete iny den?"
+    },
+    {
+      "creator": "Marek Svatoš",
+      "comment": "já mohu dnes až po 13, kdy by se vám to hodilo zítra?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Trochu som sa uklikol - mozem dnes do 14, takze ak mozete napriklad 13-13:15 - tak je to ok. Inak zajtra by sa dalo 11:30."
+    },
+    {
+      "creator": "Marek Svatoš",
+      "comment": "ok, tak já pošlu call na 13:15 až 13:30 - kdyby se mi protáhl meeting do 13 hod"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "v poriadku, tak ja budem tam.. dakujem.. mozete link hodit aj sem.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravím, môžeme tento prípad uzatvoriť ako vyriešený?"
+    }
+  ]
+}

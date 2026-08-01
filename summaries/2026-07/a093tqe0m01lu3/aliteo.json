@@ -1,0 +1,31 @@
+{
+  "id": "a093tqe0m01lu3",
+  "created": "2026-07-16T12:04:54.845Z",
+  "closed": "2026-07-21T12:49:26.740Z",
+  "duration_minutes": 7244,
+  "first_response_minutes": 35,
+  "name": "Problém NOBE - marketing@nobe.cz účet",
+  "description": "Dobrý den, zase mi nejede Aliteo prosím o kontrolu děkuji -- S přáním pěkného dne MICHAIL SVANIDZE +420773952170 ředitel marketingu marketing@nobe.cz www.nobe.cz Sledujte nás na sociálních sítích: Obsah této e-mailové zprávy a jejích příloh je důvěrný. Tato e-mailová zpráva a / nebo její přílohy obsahují skutečnosti mající povahu obchodního tajemství ve smyslu §504 zák. č. 89/2012Sb., Občanského zákoníku. Za skutečnosti mající povahu obchodního tajemství se považují zejména, nikoliv však výlučně, jakékoliv cenové nabídky či nabídky slev, jakož i další skutečnosti obchodní povahy. Upozorňujeme Vás, že nejste oprávněn/a bez souhlasu společnosti Autoškola NOBE jakkoliv nakládat se skutečnostmi obsaženými v tomto e-mailu, které mají povahu obchodního tajemství, zejména nejste oprávněn/a je žádným způsobem zveřejňovat, šířit, zpřístupňovat třetím osobám ani využívat pro svou potřebu nebo pro potřebu jiné osoby. V případě porušení práv k obchodnímu tajemství společnosti Autoškola NOBE, jsme oprávněni užít příslušných právních prostředků k ochraně našeho obchodního tajemství. Tato e-mailová zpráva a / nebo její přílohy mohou rovněž obsahovat skutečnosti, které jsou důvěrné a neveřejné z jiného titulu než z titulu obchodního tajemství. Pokud nejste zamýšleným příjemcem této zprávy, žádáme Vás, abyste ji nekopírovali, netiskli, nešířili její obsah a nevyužívali její obsah pro svou ani pro cizí potřebu a abyste ji co nejdříve zaslali zpět na adresu odesilatele. Ihned poté, co tuto zprávu zašlete zpět na adresu odesilatele, ji prosím smažte. Děkujeme.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobrý deň, pán Svanidze, ďakujeme za správu. Aplikáciu sme skontrolovali a z našej strany je momentálne v prevádzke bez výpadkov. Zároveň nám podobný problém momentálne nehlásia ani ostatní zákazníci. Je preto pravdepodobné, že ide o problém s internetovým pripojením alebo lokálnou sieťou. Mohli by ste, prosím, skúsiť pripojenie cez inú sieť, napríklad cez mobilné dáta, a overiť, či bude Aliteo fungovať? Prosíme, dajte nám vedieť, ako test dopadol, prípadne aký je postup (ste prihlásený a otvárate úlohu alebo máte odkaz niekde inde napríklad v emaile - skrátka aký je postup). Na základe toho navrhneme ďalší postup. Ďakujeme a prajeme pekný deň. ALITEO Team"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) @ David Kočíř (david.kocir@karatsoftware.cz) zasa pripad kedy to zakaznikovi nafunguje a vdaka hlaske ma pocit ze je to u nas.. uz sme to riesili zrovna s tymto clovekom a potom sa mu to rozbehlo.. mali sme na porade aj tuto temu co s tou hlskou a rozhodli sme sa neriesit.. tak ja len davam do pozornosti ze sa to mozno bude opakovat.."
+    }
+  ]
+}

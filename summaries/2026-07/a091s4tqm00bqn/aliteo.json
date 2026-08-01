@@ -1,0 +1,127 @@
+{
+  "id": "a091s4tqm00bqn",
+  "created": "2026-06-30T13:30:51.960Z",
+  "closed": "2026-07-13T06:05:43.176Z",
+  "duration_minutes": 18274,
+  "first_response_minutes": 163,
+  "name": "API export úkolů",
+  "description": "Dobrý den, Za firmu CBG bychom potřebovali mít možnost exportů úkolů z Alitea /KARAT které jsme v průběhu let řešili. Prosím o návrh jak to provést. Děkuji S pozdravem a přáním příjemného dne / With best regards Antonín Patka Výrobní ředitel / Production director CBG AUTOMATION s.r.o. Železničního vojska 1367 CZ 757 01 Valašské Meziříčí Phone: +420 571 160 136 Mobile: +420 737 129 200 E-mail: antonin.patka@cbgautomation.com www.cbgautomation.com",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 26,
+    "from_owner": 3,
+    "from_others": 23,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, chapem spravne, ze ste zakakaznikom Karat Software a mate zaujem o pripady ktore ste riesili v ALITEO a ktore sa tykaju hlaseni z ISK? Ďakujem vopred za objasnenie. ALITEO team"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, ano je to přesně tak jak píšete. Stává se nám, že v průběhu let s měnícím se personálem řešíme některé případy 2x a ztrácíme přehled co se kde provádělo a jaké máme firemní modifikace oproti klasickému (standartnímu karátu) Data chceme spojit s kompletní analýzou pro naší interní AI databázi. Děkuji Patka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobrý deň, rozumiem. Predpokladám, že ste externým užívateľom spoločnosti KARAT a teda nie je Vám umožnený export. Prosim založte pre tento účel prípad do spoločnosti KARAT, môžete aj priamo cez ISK. Tento email (support@aliteo.com) sluzi pre technicku podporu aplikácie ALITEO. Ďakujem S pozdravom ALITEO  team"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Neviem na koho taketo veci posuvat @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) preto som odpovedal ze nech zalozia pripad do KARATu a toto sa pokusim zatvorit.. len ti to davam na vedomie.. Pre istotu aj @ Lubomír Bednář (lubomir.bednar@karatsoftware.cz) kedze je Petr na dovolenke. Ak s tym Lubos nemas nic spolocne tak sa ospravedlnujem za spam."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "K tomu slouží modul KT, který IS KARAT má. Kdo by to implementoval nevím, guru toho modulu je Robert Blaha."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tedy zajistit si cenovou nabídku na modul KT v IS KARAT a případně s obchodníkem domluvit i asistenci či implementaci, tedy za mě hlavně to je na obchodníka toho zákazníka, kdo to je, nevím"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ale podla mna on chce mat pristup k pripadom do spolocnosti KARAT nie do svojich..  a predpokladm ze mu pristup do spolocnosti KARAT nedate cez API.. alebo som zle pochopil?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Zrovna jsem v Těrchové, 20stupňů a začalo pršet. Tam odpovím. Ad ##3 správné vyjádření, pokud je to společnost Karat, pokud jiná řešíte vy. Je to společnost Karat a tak je to v naší DTB a modul KT jim nepomůže, protože tam to synchronizovat nebude možné.  Museli bychom to dovolit my a to nevím, jestli MHR bude chtít. Aliteo nedovoluje export pro interní, když to není jejich společnost. Takže ať to založí a zjistíme u MHR. CBG je partnerský zákazník (DBU a VNO)."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V dalsom sprinte vyjde MCP, takze si myslim ze to uz bude vyriesene alebo sa mylim? Bude mat pristup tam kde potrebuje.."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "@ Daniel Dzuro (daniel.dzuro@karatsoftware.sk) takže nepovolíte externímu export do  JSON, PDF atd ale umožníte mu číst a zapisovat přes MCP? To si nemyslím nebo se pletu?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Mas pravdu @ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) , zabudol som ze on je externy a ti asi pristup na MCP mat nebudu.. lebo to zerie API a to asi spolocnost nebude chciet.. Neviem ako to vyriesit.. export pre externeho mame len na detaile ulohy.. Tak jedine ze cez to MCP mu spravi niekto interny a da si pozor na to aby tam nebolo nieco co tam byt nema"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Určitě někdo interní nemůže přes MCP to dělat. A není důvod, protože oni chtějí surový text, ne data z AI. Zde neřešme, až zadají tak budu řešit s MHR. A jen poznamenám že jak to navrhoval LBE by to mohla být cesta. Prodal by se jim modul KT a nepoužívalo by se standardní API, ale napsali bychom firemně plnění z jejich karatu do našeho. Využila by se struktura modulu, ale otázka jestli by to nebyla zbytečná komplikace, je bude zajímat nejspíš jen text vyjádření a název případu, na to by stačily 2tabulky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, posnazim sa to tu uzatvorit..  len stale nechapem tomu KT modulu. Oni maju pripady, tie pripady su v spolocnosti KARAT, potazmo v ISK KARAT. Vy by ste dovolili aby sa data z ISK KARAT preklapali do ISK CBG? Alebo ako by sa oni mali dostat k datam KARATu?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Za mě to může rozhodnout Marcel, jestli dovolíme nebo ne. A technicky to už pak bude druhá věc."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Aha, tak já to celé špatně pochopil, já myslel, že mají vlastní společnost v ALITEO a chtějí to synchronizovat s IS KARAT. Takže modul KT jim nepomůže. Co s tím, nevím, jako IS KARAT může suplovat AO, že bude poskytovat něco ze své DB, ale za mě to není správná cesta, jelikož například přílohy z komentářů nejsou, atd atd i když chápu, že zrovna toto nežádají. Tedy toto za mě má poskytnout ve standardu ALITEO, chápu nyní to nemá a dokud se to neudělá, tak to našeho zákazníka neuspokojí, ale nedá se nic dělat. Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No ALITEO to ma takto naschval - ze nedovoluje taketo datove exporty \"neplatiacim uzivatelom\". Je na zvazeni mozno to dat na nastavenie spolocnosti... ale to len strielam od pasa.. zoberiem na poradu.. ci to budu chciet riesit ostatni ci nie."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dve veci k tomu naviac: - ak by sa to aj dalo povolit, tak neviem ci by stacilo to mat na spolocnosti pre vsetkych - ak nie tak ci by to nebolo prilis narocne - dal som si rychly call s MHR a ten povedal ze skor nie ako ano.. nechce davat zakaznikom nastroj naviac, ktory by sa mohol obratit proti nemu"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, to je přesně ten problém, že už jsem tento případ řešil a bylo mě odpovězeno že neumí, že se mám obrátit přímo na Vás."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano, je to pravda, externym uzivatelom (teda uzivatelom bez licencie) nie je umoznene exportovat data z ALITEO - nie je to teda chyba, ale zamerna funkcia aplikacie ALITEO. Exportovat data mozu iba interní uzivatelia. Dakujem za pochopenie. ALITEO team"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, chápu, mohu poprosit, aby jste pro nás vyexportoval všechny případy pod firmou CBG do txt popřípadě CSV Děkuji Patka"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ KSWPMS - Petr Masařík (petr.masarik@karatsoftware.cz) co s tym? Pisal ze uz niekomu pisal od Vas."
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ty nemůžeš, tak to navrhni k uzavření. Zde se to nemá řešit, jestli se jim to vyexportuje nebo ne si musí rozhodnout SM projektu. A pokud MHR říká že ne, tak to umíme, ale nechceme, nicméně to nemáš řešit ty, ale SM projektu."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tak ale niekto ho na ALITEO poslal, tak ho mam poslat naspat? vid komentar ##18"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "ano, ty přece nemůže jen tak z nějaké společnosti exportovat vyjádření protože napíše někdo. Vyjádření jsou ve společnosti KARAT, tak tam to má řešit. A má to řešit se svým servis manažerem - ten pokud neví, tak se obrátí na mě."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ano, ja suhlasim.. za ALITEO to ide len o to, ze nedokazes ani interny exportovat hromadne externe data.. len o to ide.. Dobre, tak ja ho poslem za SM. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, za nas to nie je mozne. Obratte sa na svojho service managera v KSW. Dakujem"
+    }
+  ]
+}

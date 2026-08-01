@@ -1,0 +1,27 @@
+{
+  "id": "a0928k7p3g02qi",
+  "created": "2026-07-03T14:12:24.392Z",
+  "closed": "2026-07-08T17:59:44.311Z",
+  "duration_minutes": 7427,
+  "first_response_minutes": 57,
+  "name": "Stretnutie vo výkaze práce",
+  "description": "Dobrý deň, napadla ma taká  otázka. Dnes som mal celodenný meeting. Ako by ste do výkazu dali celý tento meeting ? Viem že lepšie je ak je zadaný po úlohách, ale napadlo ma, že ako by som vedel dať napr. status meeting do výkazu.",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím vás, To záleží od kontextu a procesu. Viem si predstaviť že mám projekt ako zákazníka a v ňom si robím úlohy. Môžem si definovať o aký typ úlohy ide napr. bežná komunikácia alebo stretnutie a na základe toho potom robím výkazy práce. Z toho čo píšete mi príde trošku zvláštne že by som ako zápis z celodenného stretnutia urobil jeden výkaz práce. Asi sa mi na to fakt viac žiada mať úlohu kde bude zápis a potom na tú úlohu vykázať čas."
+    }
+  ]
+}

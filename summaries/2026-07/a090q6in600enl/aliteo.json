@@ -1,0 +1,39 @@
+{
+  "id": "a090q6in600enl",
+  "created": "2026-06-22T07:45:03.489Z",
+  "closed": "2026-07-02T15:14:49.745Z",
+  "duration_minutes": 14849,
+  "first_response_minutes": 28,
+  "name": "FW: #11216 - uzavření úkolu: Odkaz na anonymní portál ?",
+  "description": "Dobrý den, V jakém časovém horizontu by měl fungovat anonymní protál tak, aby tam šlo vyplnovat přes formulář do různých polí požadavky ? Dále v jekém časovém horizontu bude fungovat vyhledávání skrz portfolia ? Je to pro naši firmu pro nasazení Alitea zásadní. Děkuji S pozdravem / Best Regards Petr Malevič ------------------------------------------------------------ From: Petr Malevič Sent: Monday, June 22, 2026 9:44 AM To: 'comment.a08vh02pjg153d@aliteo.com' <comment.a08vh02pjg153d@aliteo.com> Subject: RE: #11216 - uzavření úkolu: Odkaz na anonymní portál ? Dobrý den, V jakém časovém horizontu by měl fungovat anonymní protál tak, aby tam šlo vyplnovat přes formulář do různých polí požadavky ? Dále v jekém časovém horizontu bude fungovat vyhledávání skrz portfolia ? Je to pro naši firmu pro nasazení Alitea zásadní. Děkuji S pozdravem / Best Regards Petr Malevič From: notifications@aliteo.com < notifications@aliteo.com > Sent: Friday, June 19, 2026 11:19 AM To: Petr Malevič < petr.malevic@audiopro.cz > Subject: #11216 - uzavření úkolu: Odkaz na anonymní portál ? Uzavření úkolu #11216 Odkaz na anonymní portál ? ALITEO pomocník Vážený užívateľ aplikácie ALITEO, Vaša požiadavka bola uzatvorená. Ďakujeme ALITEO Support Team Otevřít v portálu SOUVISEJÍCÍ ÚKOL #11216 Odkaz na anonymní portál ? Dobrý den, Aktivoval jsem u konkrétního projektu „anonymní portál“. Kde najdu odkaz na tento anonaymní protál ? Jedná se o projekt „Helpdesk“ takže potřebuji se dostat k webové stránce, pomocí které, budou uživatelé zadávat svoje požadavky do helpdesku. Jedná se o externí uživatele bez registrace Aliteo. Děkuji Petr Malevič S pozdravem / Best Regards Petr Malevič technický konzultant / sales engineer M: +420 705 501 921 P: +420 257 011 177 E: petr.malevic@audiopro.cz Audiopro s.r.o. Mladoboleslavská 1108 (budova 6)  197 00 Praha 9 Czech Republic www.audiopro.cz www.kreatek.cz www.smartvideo.cz www.zasedackanaklic.cz Tato zpráva byla odeslána automaticky • Powered by ALITEO •",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 0,
+    "from_others": 4,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, rad by som Vam dal presny termin ale vzhladom na to, ze mame naplanovany plan vyvoja na niekolko sprintov dopredu, musim sa o tom pobavit s kolegami na produktovej porade. To vyhladavanie by nemuselo byt narocne ale to zadavanie je treba tak ci tak robit na overenie cez email, aby to nebolo len o tom, ze niekto zada email a to je vsetko - zahltilo by Vam to system. Kazdopadne prediskutujeme a budem Vas informovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Status z porady k planovaniu: - zadavanie pripadu cez portal - 26.2 - vyhladavanie portfolia v hornej liste - 26.2 - klientsky filter projektov doplneny o portfolio - 26.2"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Vytvorit do vyvoja Anonymny portal. @ Peter Ďurčák (peter.durcak@karatsoftware.sk)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim, mam maly update k planu vyvoja. Vo verzii 26.2, by mala by aplikacia doplnena o vyhladavanie portfolia z pola hladat v ciernej liste, bude doplneny klientsky filter o portfolio v evidencii projekty a takisto bude mozne v portali vytvarat ulohy."
+    }
+  ]
+}

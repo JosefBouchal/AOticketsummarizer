@@ -1,0 +1,91 @@
+{
+  "id": "a09201fug0155e",
+  "created": "2026-07-01T12:11:27.684Z",
+  "closed": "2026-07-06T07:36:55.508Z",
+  "duration_minutes": 6925,
+  "first_response_minutes": 82,
+  "name": "Exportovanie položiek timesheet-u",
+  "description": "Dobrý deň, viete mi prosím povedať ako môžeme exportovať viac ako 100 položiek z  timesheetu ? Dnes som si chcel vyfiltrovať zoznam všetkých výkazov za jún a systém mi dovolil vybrať a exportovať len 100 položiek. Viete mi to prosím rozšíriť ? Ďakujem",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 17,
+    "from_owner": 8,
+    "from_others": 9,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pocet exportovanych poloziek sa neda rozsirovat - je to tak umyselen kvoli datam, ktore spracovava server. Mozem sa spytat kolegov ci sa s tym da nieco robit.. zatial Vam odporucim si export rozdelit na viac casti, napriklad podla obdobia."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Zdravím, áno tak som to aj spravil, od 1.-10.6 a od 11.-30.6. ako workaround fajn, len mi to príde nepraktické."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Porozpravam sa s kolegami na porade o tom a dam Vam vediet ci sa s tym planuje nieco robit. Ide o to ze vysledok moze byt pokojne aj 20 000 objektov a jednak nemame vsetky polozky nacitane naraz a docitavaju sa dynamicky a jednak ak sa ten export sklada na serveri nemusi to dobehnut. O aky pocet u vas ide?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "chápem. Ja som si robil prehľad za posledný mesiac, kvôli tej našej nešťastnej dochádzke. Teraz som mal 175  záznamov, takže pre mňa aspoň tých 200-300 by bol ideál. Ale ak je s tým problém tak si to budem exportovať vo formáte .csv a potom si to v Exceli spojím do jedného. Teraz som to mal v .pdf formáte a prišlo mi, že tam je veľa údajov. Keď som si to dal do excelu tak si tam viem lepšie prispôsobiť, ktoré údaje (ne)chcem zobrazovať pre nadriadenú."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "A nie je lepsie vytvorit dashboard taky aky potrebujete na prvu ukazat nadriadenej? Ked si klikne hned za tym vidi aj konkretne vykazy? Ci akoze, nie je cesta aby to ona pozerala v ALITEO ?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "obávam sa že nie, ale ako pre mňa by to bolo fajn, len neviem ako na to. Ja som rád, že som si pekne vytvoril zoznam úloh v projekte Karatu a u nás v 3EC a mám teraz pekný vizuálny  obraz o tiketoch."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No ked mi napisete, alebo poslete obrazok co reportujete nadriadenej.. poviem Vam ci by sa to dalo vizualizovat v dashboarde alebo nie"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "To nechcete vidieť 😀 to je zas ďalší excel masaker, ale pýtali ste si tak dostanete 🙂 V zásade musím do stĺpca D vedľa začiatočného času zmeny vyplniť zoznam všetkých aktivít za ten daný deň Nepýtajte sa ma prečo, cesta, že by to robili inak neexistuje, oni sú straršia generácia a sú totálne averzní voči akýmkoľvek technologickým zmenám a tobôž ak to navrhne niekto iný ako oni, takže takto tu máme takéto excelovské šialenosti, ale bez šance na zmenu. Už som sa pokúšal viac krát, že aj v IS Karat nám robili dochádzku ale poznáte to, zas klasika, my sme jediný na svete čo to takto majú, nikto iný na svete si neeviduje dochádzku a služobné cesty a my to musíme mať presne takto .... no way to change egomind 3EC_Vyuct_cestov_vydajov-Dochadzka_TPO_06-2026.xlsx Takže moja misia je ako som písal, vyexportovať dáta cez csv do excelu, tam cez querry vytvoriť skript, ktorý mi ten vstup z Alitea prežuje do čo najbližšej formy tohto šialeného excelu (ideálne ho naň napojiť), alebo aspoň ctrl c, ctrl v."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Takze hladame riesenie na problem, ze potrebujete co najviac zjednodusit report vasej dennej prace do konkretnych policok v exceli? Robite to na dennej baze? Co ak by ste si vzdy v pondelok, exportovali do XML vykazy prace za predchadzajuci tyzden, hodili ho AI a povedali mu nech Vam spravi sumar na kazdy den - vyhodi Vam  odstavcov a vy to len skopirujete do danych policiek"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "aj to je cesta. Len som neporozumel tej časti o AI, čo mu mám napísať aby zgrupil činnosti podľa dní a dal ich do excel podoby ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja som myslel ze na to musite pouzit externe AI - k tomu co pisem, Vam nase AI asi nepomoze, nakolko je lokalizovane nad ulohou. Ak mate nejake napriklad GPT alebo claude, ten xml z vykazmi mu hodte, a napiste mu to co potrebujete. Rozumieme si?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "áno, ja som to tak rozumel, že naše AI, nie to čo je v Aliteo.  Len budem musieť porozmýšľať aký typ promptu napísať aby mi toto takto zošrotilo."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "- ja si myslim ze staci mu napisat ze kazdy vykaz patri do ulohy a ta uloha do projektu.. tu strukutur pochopi rychlo kedze mu poslete xml - tam ani nemate co rozmyslat, lebo potrebujete nieco strucne do jednej bunky - takze staci napisat ze chcete strucny sumar prace co ste robili v ramci jedneho dna a povedat mu ako to ma mat strukturu.."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "okey, skúsim sa s tým pohrať, uvidím čo to spraví, keď tak to cez ten .xls cez mquerry spravím. Tam keď vyklíkáte správnu sekvenciu krokov tak keď dodáte ten istý vstup on automaticky vypľuje výstup. Prípadne jej fakt vytvorím nejaké view v IS Karat a nech si tam pozerajú čo som robil, len hovorí oni sú excelový / wordovo / papierový."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "podľa toho aké AI používate si môžete jednoducho vytvoriť agenta alebo jednoducho chat ktorý sa bude správať tak že vždy mu predhodíte exportovane XML a on vám dá výstup do niekoľkých riadkov ktoré len skopírujete a vložíte do bunky"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "nemáme tu zatiaľ žiadne, len free Chat GTP, tak skúsim a uvidím čo to spraví. Môžeme tento tiket uzavrieť."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V poriadku. Prajem pekny den."
+    }
+  ]
+}

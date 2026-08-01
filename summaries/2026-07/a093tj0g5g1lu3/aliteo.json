@@ -1,0 +1,35 @@
+{
+  "id": "a093tj0g5g1lu3",
+  "created": "2026-07-16T10:43:50.510Z",
+  "closed": "2026-07-23T17:17:49.345Z",
+  "duration_minutes": 10473,
+  "first_response_minutes": 18,
+  "name": "Mentoring - nastavení filtru",
+  "description": "Dobrý den, prosím o prověření nastavení filtrů pro záložku Mentoring. Mám na této stránce filtr na osobu Marčík Vít , který je řešitelem úkolu #340864 Import do evidence zakázek … a tento úkol se mě pavel.trhlik@karatsoftware.cz v záložce mentoring  nezobrazuje. Děkuji za prověření Ing. Pavel Trhlík service manager & programmer tel.: +420 581 737 161 | mobil: +420 728 104 784 | pavel.trhlik@karatsoftware.cz KARAT Software a.s. | Dvořákova 2881/77 | 750 02 Přerov | www.karatsoftware.cz Facebook LinkedIn YouTube",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 0,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, pozriem sa na to a dam vediet.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zda sa, ze on sam ju nema v reakcnych, co sa zda byt problem, skontrolujem dalej a dam vediet."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Islo o datovy problem, ktory kolegovia opravili. Prosim o kontrolu, ci je to v poriadku."
+    }
+  ]
+}

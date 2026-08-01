@@ -1,0 +1,55 @@
+{
+  "id": "a08iq3pv1g0t8n",
+  "created": "2026-03-05T13:27:24.836Z",
+  "closed": "2026-07-17T11:00:54.316Z",
+  "duration_minutes": 192813,
+  "first_response_minutes": 2,
+  "name": "Podezření na zranitelnost",
+  "description": "API ALITEO nově umožňuje do komentáře vložit HTML místo prostého textu. Popis API stále hovoří o tom, že je to „Text comment“, ale mám vyzkoušeno, že je to HTML. Zkusil jsem třeba tučnost písma. Přišlo se na to tak, že nám to zakládalo komentáře tak, že to ignorovalo ENTER (vše na jediném řádku). Pakliže to akceptuje HTML, tak tam pravděpodobně bude hrozit stejný typ zranitelnosti, na který dříve (nešikovně) upozorňoval LTR, což bylo tuším něco s class. Nepátral jsem přesně, protože to ani záměrně nejdu zkoušet, aby nedošlo k podobné situaci jako v tom předchozím incidentu, ale prosím, zda by se na to programátor AO podíval a možnosti otestoval. Za KARAT je to tak, že co se zadá do pole zadání případu, tak to 1:1 posíláme na API AO. Tedy to stejné by mělo jít zkoušet i mimo KARAT přes swagger níže. Ze strany KARATu budeme vydávat patch s transformací textu, aby nám ENTER v zadání případu fungoval a mám tam i ošetření escape ostatních HTML prvků, abych text degradoval zpět na prostý text a tak zadání případu nepůjde k takové hypotetické zranitelnosti využít (tedy pokud si ten patch nasadí). Předpokládám, že pokud tam zranitelnost je, tak se na straně AO nějak vyřeší, na to je tento případ (nebo si uděláte návazný). Ještě jsem čekal, zda se DKO k problému API vyjádří, když ho AKO v mém případu hovořícím o API zmiňoval. Ale asi není dobré čekat, protože uvolnění patche KARAT do všech verzí by mohlo být v pátek. Navíc se mi změna hodí, protože potřebuji otestovat build patche KARAT. 😊 Budu doufat, že se API nezmění nějak zase zpět. Zadání případu přes mail support a ne mail security jsem konzultoval s DDZ. https://api.aliteo.com/swagger/ui#/Tasks/RunTasksAdd",
+  "owner": "Pavel Drtil",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 3,
+    "from_others": 5,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Pavle, dakujem velmi pekne za podnet, hned predavam na Vyvoj. Dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Tu len pridavam informaciu, ze v tomto pripade nejde o bezneho uzivatela ALITEO ale o niekoho kto ma k API pristup a teda administratora spolocnosti, ktory ma tak ci tak moznost cez API menit realitu kedze tam sa neriesia opravnenia a podobne veci.."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Ano, je to tak k API běžný uživatel přístup nemá, má k němu přístup aplikace a v té aplikaci běžný uživatel. Na druhou stranu běžný uživatel netuší nic o class a nemá ani motivaci něco takového zkoušet. Takže riziko ze strany KARAT je velmi malé. A riziko přímo API je ještě menší, jak píšeš. (Chtěl jsem to dát jako privátní + Ty, ale to nejde, nejde ani zmínit, interní nejde, takže veřejně, ale asi proč ne, když jde jen o drobné doplnění.)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Máš vlastne pravdu, vôbec som sa nad tým takto ne zamyslel že bežný užívateľ ktorý nemá prístup k API tak vložením niečoho do ISK môže cez API vytvoriť takýto problém. Ďakujem za Upresnenie"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Pavel Drtil (pavel.drtil@karatsoftware.cz) venovali sme tomu X usilia a nieco doplnili. Ak by si chcel vediet co konkretne pozri sa vo vazbach na ulohu. Urcite ALITEO nie je nepriestrelne, takze ak by si na nieco prisiel, budme radi ak nas na to upozornis. Dakujem mozeme uzatvorit tuto ulohu?"
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Čau, ve vazbách nic nevidím, protože asi nemám práva na ty úlohy, ale věřím. Případ můžeme uzavřít, a když na něco narazím, tak zadám nový případ. Dík."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pridal som ta a mal by si vidiet.. a pripad uzatvaram a dalujem za spolupracu a riadne nahlasenie.."
+    },
+    {
+      "creator": "Pavel Drtil",
+      "comment": "Pročetl jsem ten případ ve vazbě. Vypadá to ok. Trošku se teď bojím, zda to nějak nerozbije zadávání případů, ale snad ne. Prostý text tam určitě projde správně, takže by to nebylo tak kritické a uvidíme. Za mě tedy ok."
+    }
+  ]
+}

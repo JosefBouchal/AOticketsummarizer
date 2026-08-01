@@ -1,0 +1,47 @@
+{
+  "id": "a095jgviqg0np1",
+  "created": "2026-07-29T12:56:03.094Z",
+  "closed": "2026-07-30T10:20:15.336Z",
+  "duration_minutes": 1284,
+  "first_response_minutes": 33,
+  "name": "Problém - přidání hostů do události",
+  "description": "Dobrý den, na základě telefonického hovoru s panem Dzurem Vám zasílám požadavek emailem. V případě plánování porady ať už v kalendáři, nebo i přímo v projektu nastává problém v tom, že se mi nezobrazuje půlka možností včetně nemožnosti přidat hosty. Níže přikládám screen: S přáním pěkného dne Tereza Šurdová +420601389131 asistentka ředitele a projektového manažera asistentka@nobe.cz www.nobe.cz",
+  "owner": "Tereza Šurdová",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 1,
+    "from_others": 5,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": null,
+      "comment": "Prosím ještě o přidání další společnosti - aliteo , aby bylo možné kontaktovat podporu. Děkuji."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dobrý deň, to, že sa Vám dané polia nezobrazujú, je s najväčšou pravdepodobnosťou spôsobené tým, že nemáte synchronizovaný kalendár s ALITEO. Prosím, overte si, či máte kalendár prepojený. Ak nie, nastavenie je veľmi jednoduché: Moje nastavenia → Prispôsobiť → Kalendár → Poskytovateľ služby Na Help ALITEO nájdete aj podrobný návod, ako prepojiť napríklad Google Kalendár s ALITEO. Odkaz prikladám TU . Ak by ste aj po nastavení synchronizácie problém naďalej evidovali, dajte nám prosím vedieť a radi sa na to pozrieme. Prajem pekný deň."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dobrý deň, to, že sa Vám dané polia nezobrazujú, je s najväčšou pravdepodobnosťou spôsobené tým, že nemáte synchronizovaný kalendár s ALITEO. Prosím, overte si, či máte kalendár prepojený. Ak nie, nastavenie je veľmi jednoduché: Moje nastavenia → Prispôsobiť → Kalendár → Poskytovateľ služby Na Help ALITEO nájdete aj podrobný návod, ako prepojiť napríklad Google Kalendár s ALITEO. Odkaz prikladám TU . Ak by ste aj po nastavení synchronizácie problém naďalej evidovali, dajte nám prosím vedieť a radi sa na to pozrieme. Prajem pekný deň."
+    },
+    {
+      "creator": "Tereza Šurdová",
+      "comment": "Děkuji, už to funguje 🙂"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "To sme radi 🙂 !"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "To sme radi 🙂 !"
+    }
+  ]
+}
