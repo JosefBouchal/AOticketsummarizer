@@ -1,0 +1,35 @@
+{
+  "id": "a08hgu9kt00sn4",
+  "created": "2026-02-23T13:36:41.541Z",
+  "closed": "2026-08-19T10:18:27.976Z",
+  "duration_minutes": 254681,
+  "first_response_minutes": 111,
+  "name": "po otevření úkolu není možné psát externí vyjádření",
+  "description": "případ je uzavřen a otevírám ho. V minulé verzi se po otevření samo obnovilo a bylo možné psát externí vyjádření. v nové verzi musím dát F5 a pak je možné psát externí vyjádření (protože až pak se nabídne v roletce). prosím o návrat funkčnosti.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ok, predam na vyvoj.. dakujem"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Petr, opravili sme uz do verzie 26.1. Nechat otvoreny pripad kym nebude nasadene alebo mozeme uzatvorit?"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "zavřeme"
+    }
+  ]
+}

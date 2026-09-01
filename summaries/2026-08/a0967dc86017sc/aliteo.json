@@ -1,0 +1,79 @@
+{
+  "id": "a0967dc86017sc",
+  "created": "2026-08-03T08:47:11.483Z",
+  "closed": "2026-08-13T10:35:34.957Z",
+  "duration_minutes": 14508,
+  "first_response_minutes": 405,
+  "name": "Vypnout notifikace na e-mail kt_team_automat@karatsoftware.cz",
+  "description": "Zdravím, V poslední době začaly chodit notikace na kt_team_automat@karatsoftware.cz , takový uživatel nenalezen, ani kt_automat@karatsoftware.cz , prosím vypnout těmto e-mailové notifikace nějak servisně. Děkuji Lubomír Bednář",
+  "owner": "Lubomír Bednář",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 14,
+    "from_owner": 7,
+    "from_others": 7,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj Ľuboš, Nemohlo sa stať že niekto tento email zadal k nejakému užívateľovi? Ďakujem"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "Dle KARATu a dle ALITEO bych řekl že ne a začaly mě chodit notifikace třeba tato: #340868 - předání řešiteli Directiva na zákaz zobrazování toho červeného trojúhleníku na kalkulačku.msg"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tak už možná vím, kdy mě ty notifikace chodí, když se změní řešitel na uživatele synchronizace , jenže mě se nedaří pod daným uživatelem přihlásit, jelikož to píše, že takový uživatel neexistuje, i když má ALITEO ID a015g173q016cv a tak prosím jestli by se dalo tomu nějak vypnout e-mailové notifikace. Ještě možná, že to chodilo i dříve a já měl asi pravidlo, ale vy jste změnili pak odchozí e-mail, ale to už je taky trošku dýl, možná náš přechod na MS365 a pravidlo přestalo fungovat? Jako pravidlo si můžu udělat stále, ale přijde mě zbytečné, aby to vůbec chodilo. Díky moc Luboš"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Existuje uzivatel kt_automat@karatsoftware.cz Nemoze sa to cez neho nejako posielat?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano může, ale já nevím jak se tam přihlásit, neznám heslo, tak udělám přes ověření a a tak stejně i pro kt_team_automat@karatsoftware.cz"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Prepac ze som tak obcasne pisal, mal som dovolenku, teraz to uz bude aktivnejsie. Takze zhrniem.. uzivatel kt_automat@karatsoftware.cz existuje zjavne, tak ho vidim aj ja v servisnom menu ale nejde resetovat heslo a tvari sa to ze neexistuje?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "ano"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Allan Konečný (allan.konecny@karatsoftware.cz) vedel by si nam v tomto pomoct? zalozim aj pripad do vyvoja ak je treba.. Vid predchadzajuci komentar.."
+    },
+    {
+      "creator": "Allan Konečný",
+      "comment": "SELECT * FROM outbox WHERE toemail like 'kt_team_automat%' LIMIT 1000 => 0 záznamů SELECT * FROM outbox WHERE toemail like 'kt_automat%' LIMIT 1000 => 1000 záznamů kt_automat@karatsoftware.cz = id uživatele společnosti a015g173q016cv name Synchronizace Tento uživatel společnosti je připojen k uživateli a015g14uo016cv name Synchronizace s email kt_automat@karatsoftware.cz . Uživateli KARAT - Synchronizace jsem vypnul servisním zásahem všechny notifikace."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "super, díky moc"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem @ Allan Konečný (allan.konecny@karatsoftware.cz) za vyriesenie.. Lubo, je teda vyriesene a mozeme zatvorit?"
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "tak ověřit to nemůžu, ale věřím, že jo, když tak zadám další, tedy za mě uzavřeme"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "V poriadku, dakujem, uzatvaam."
+    },
+    {
+      "creator": "Lubomír Bednář",
+      "comment": "děkuji"
+    }
+  ]
+}

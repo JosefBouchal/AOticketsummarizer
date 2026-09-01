@@ -1,0 +1,63 @@
+{
+  "id": "a095o0pci01h7p",
+  "created": "2026-07-30T15:06:48.042Z",
+  "closed": "2026-08-11T07:32:39.741Z",
+  "duration_minutes": 16825,
+  "first_response_minutes": 0,
+  "name": "Čaká sa na užívateľa Katarína Srdošová",
+  "description": "Dobrý deň, viete mi povedať, prečo v tomto tikete v rámci tohto projektu, nemôžem priradiť na čakanie užívateľa Katarína Srdošová, keď v inom tikete z tohto projektu môžem ?",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 10,
+    "from_owner": 5,
+    "from_others": 5,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": null,
+      "comment": "The escalated task has been canceled. The result is available at this link: https://app.aliteo.com/Task/a095o0mflg1h7p . You can continue working on this task."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Skúšal som tlačítko Cancel, či má potvrdzovaciu hlášku pred samotnou akciu, nemalo 🙂. Každopádne otázka z tiketu zostáva."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Už viem prečo. Katarína Srdošová je v tomto tikete ako owner, preto musím vybrať wait for task owne nie užívateľa. Každopádne zaujíma ma, že ako to že tu u Vás v spoločnosti Aliteo mám práve použiť Cancel a či sa dá nastaviť potvrdzujúca hláška pred to. V spoločnosti Karat túto možnosť nemám, je to zas len otázka nastavení práv externého užívteĺa ?"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravim vas p. Polak o aku hlasku sa jedna? Viete sem prosim hodit screen, Dik"
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Zdravim vas p. Polak o aku hlasku sa jedna? Viete sem prosim hodit screen, Dik"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Pozdravujem. Mal som na mysli, že ak stlačím tlačidlo CANCEL tak po jeho stlačený by som chcel aby sa zobrazila potvrdzujúca hláška / správa, aby sa zabránilo omylu. Neviem či sa to v rámci nastavení dá nastaviť alebo by sa to muselo vyvíjať."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, asi by sme to mali rozdelit na 2 veci: zobrazenie tlacidla Zrusit (“cancel”) - v nastaveniach pracovneho priestoru je mozne nastavit komu sa ma zobrazit a ci to nema byt takisto na ziadost aby to vlastnik vzdy musel schvalit potvrdzujuca hlaska - da sa vytvorit atribut (log. hodnota), ktory nazvete “skutocne zatvorit”, v jeho nastaveniach vytvorit specificke spravanie typu “povinny” na etapu “zrusit” - to sposobi ze pred tym nez realne uloha prejde do stavu zrusit vyskoci hlaska, ktoru musi uzivatel potvrdit (zaskrtnut na na “ano”)"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Zdravím, to zušenie som našiel a nastavil, zas by bolo asi fajn, keby mi to dovolili aj v spoločnosti KARAT. Hlášku asi nie je treba, len teda či je možnosť už zrušený tiket znovu otvoriť aj pre externého užívateľa. Ja ako interný to viem dať späť do statusu na riešenie ale ide mi či aj ako externý mám túto možnosť keď som to už omylom stačil."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, no toto je nastavenie pracovneho priestoru, tak vlastne procesu firmy ktora to prevadzkuje. Znovuotvorenie ticketu sa da nastavit takisto, ale opat je to na spravcovi toho procesu. K znovuotvoreni je ale treba dodat ze nie je to idealna cesta. Pri povodnom uzatvoreni sa uz vytvoria vykazy prace, mozno fakturacia a takisto hodnotenie, ktore by sa znovuotvorenim zrusilo a mohlo by narusit uz existujuce statistiky - ale to je skor metodicky problem nez technicky."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "ok, budem na to myslieť, vďaka za vysvetlenie, môžeme to uzatvoriť."
+    }
+  ]
+}

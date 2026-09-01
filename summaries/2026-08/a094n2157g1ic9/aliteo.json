@@ -1,0 +1,35 @@
+{
+  "id": "a094n2157g1ic9",
+  "created": "2026-07-22T15:06:02.390Z",
+  "closed": "2026-08-17T13:38:32.613Z",
+  "duration_minutes": 37352,
+  "first_response_minutes": 5,
+  "name": "Řazení záznamů v kalendáři nad úkolem",
+  "description": "Podle čeho se řadí záznamy v kalendáři? mělo by být podle datumu  nejnovější nahoře (tady je to úplně na přeskáčku)",
+  "owner": "Martin Válek",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, ano nejake radenie by tam malo byt a takisto by som cakal najnovsie hore. Nahlasim ako chybu.."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Martin, malo by byt opravene.. teda u mna funguje.. prosim potvrd.. dakujem pekne"
+    },
+    {
+      "creator": "Martin Válek",
+      "comment": "Ahoj, vypadá to dobře, kdyby něco ozvu se.."
+    }
+  ]
+}

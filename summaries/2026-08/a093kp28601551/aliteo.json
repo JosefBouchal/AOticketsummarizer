@@ -1,0 +1,127 @@
+{
+  "id": "a093kp28601551",
+  "created": "2026-07-14T07:24:14.849Z",
+  "closed": "2026-08-12T08:11:53.386Z",
+  "duration_minutes": 41807,
+  "first_response_minutes": 40,
+  "name": "Sdílený štítek nelze v kontextu subtýmu použít jako filtr (a nelze v subtýmu založit štítek pouze pro subtým)",
+  "description": "Prostředí: Ostré AO Projekt: KARAT – HTML klient (P-K-HTM210), #939 Subtým: Tým Vývoj › Subtým HTML, #77 Dotčený štítek: „Páteřní\" — typ Sdílený , viditelnost Veřejný , společnost KARAT, sdílený v rámci Týmy a projekty : tým HTML + projekt KARAT – HTML klient (P-K-HTM210) Popis problému: Štítek nasdílený současně do projektu i do jeho subtýmu se chová nekonzistentně mezi oběma kontexty. V obou kontextech jej lze přiřadit k úkolům, ale filtrovat podle něj lze pouze v projektu — v subtýmu se štítek v seznamu filtrů vůbec nenabízí. Netýká se to jen nově vytvořených úkolů v subtýmu, ale i úkolů zrcadlených z projektu do subtýmu. Možným souvisejícím projevem je, že při pokusu založit štítek definovaný pouze pro subtým HTML systém sice štítek uloží, ale zobrazí hlášku, že s ním v daném kontextu není možné pracovat (viz příloha — obrázek). Kroky k reprodukci: Otevřít projekt KARAT – HTML klient (P-K-HTM210). Aplikovat filtr podle štítku „Páteřní\" → funguje, seznam se vyfiltruje. ✅ Přejít do subtýmu Subtým HTML (#77). V levém panelu filtrů hledat štítek „Páteřní\" → v nabídce filtrů chybí , nelze podle něj filtrovat, ačkoli úkoly v subtýmu ten štítek viditelně mají. ❌ Zkusit v subtýmu založit nový štítek se sdílením pouze pro subtým HTML → zobrazí se hláška: „Štítek byl uložen. Nebude však v dialogu zobrazen, protože s ním není možné pracovat v daném kontextu. Štítek najdete v nastavení Uživatele – Štítky.\" Očekávané chování: Štítek sdílený do subtýmu je v kontextu subtýmu plnohodnotně použitelný jako filtr — stejně jako v projektu — a to jak pro úkoly vytvořené přímo v subtýmu, tak pro úkoly zrcadlené z projektu. Skutečné chování: V subtýmu štítek jako filtr chybí; založení štítku pro subtým skončí uložením s hláškou, že v daném kontextu s ním nelze pracovat. 2026-07-14_09h11_35.mp4",
+  "owner": "Adam Rychnovský",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 26,
+    "from_owner": 13,
+    "from_others": 13,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, takze to skratim: - vytvorim stitok nazdielam do projektu a timu - v pohlade pre projekt ho mozem filtrovat - v pohlade pre tim ho filtrovat nemozem Tak?"
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "Ahoj, ano."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "OK, predane na vyvoj.."
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "Supr, dík. (y)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chyba bola opravena a nasadena - pohlad v time by aktualne mal dovolovat pracovat aj so stitkom, ktory mu bol nazdielany."
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "Díky za info - v KSW AO už by to mělo být taky?"
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "Jinak zkoušel jsem to a vylistuje mi to pouze úkoly, jež jsou definovány v rámci toho konkrétního týmu, ty, které jsou zrcadlené to ignoruje."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ano, to je spravne, pretoze v time sa filtruju len timove ulohy a na to je pripraveny ten pohlad..  pohlad nevie kombinovat data z timu a vsetkych projektov z ktorych sa tam nazdielaju ulohy"
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "A je nějaká cesta, jak toho chování dosáhnout? Tohle nám totiž nepomůže - úkoly jsou schraňovány v projektu a týmy slouží jako třídící mechanismus pro jednotlivé pracovní skupiny."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ak sa chce triedit na roznych objektoch, potom je treba asi mat stitok na uzivatelov/uzivatelske skupiny.."
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "OK, vyzkouším. Díky."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Je to skratka tak.. ze ked je to na objekty tak skratka sa filtruje ten typ objektu a ten stitok.. preto to nefunguje inde. Ak to definovane na uzivatelovi, tak je to mozne filtrovat hocikde.. Mozeme teda uzatvorit pripad?"
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "Ahoj, vytvořili jsme uživatelskou skupinu dle info zde: ##10 a chová se to úplně stejně --> nefiltruje to zrcadlené úkoly. Díky, A."
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "2026-07-23_15h44_42.mp4 Ahoj, vytvořili jsme uživatelskou skupinu dle info zde: ##10 a chová se to úplně stejně --> nefiltruje to zrcadlené úkoly. Díky, A."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, pracovali ste stale s tym istym stitkom? Ja len ci ste neskusali uplne novy... uz len preto ze ak ten stitok bol na projekte pred tym pridane a teraz sa zmenilo zdielanie, ci to nenarobilo problemy. Skusit vytvorit uplne novy stitok nazdielat ho priamo hned a poukladat na rozne ulohy. Ci to nebude spravne funguovat."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, pracovali ste stale s tym istym stitkom? Ja len ci ste neskusali uplne novy... uz len preto ze ak ten stitok bol na projekte pred tym pridane a teraz sa zmenilo zdielanie, ci to nenarobilo problemy. Skusit vytvorit uplne novy stitok nazdielat ho priamo hned a poukladat na rozne ulohy. Ci to nebude spravne funguovat."
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "I s fungl novým štítkem to nefunguje."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "cize reprodukujem: - vyrobim stitok - nazdielam ho uzivatelskej skupine ludi - potom tento stitok pridelim na rozne ulohy projektove a timove - idem filtrovat podla toho stitka a neodfiltruje to spravne Tak? plus: nie je to tak ze napriklad v evidencii Ulohy a v projektoch to je spravne ale ked otvorim konkretny tim tak mi to odpali zrkadlene ulohy z projektov, lebo logicky filtrujem len nad timovymi ulohami??"
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "Problém je u úloh, které jsou zrcadlené z projektu do týmu - ty nezobrazí. O tom se tu celou dobu bavíme. 🙂 Testoval jsem to ještě přímo v oddíle úlohy a tma mi zobrazí všechny - tam to funguje správně."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "No ja sa analyticky musim pozerat z vacsej miery.. ak by to nefungovalo celkovo tak je jasne ze ani timy. To ze to nefiltruje projektove ulohy v time nie je dane tim ze nefunguje stitok.. ale ze sa skratka filtruju len timove ulohe.. Mozem sa o tom pobavit s vyvojom.. ale neviem ci to bude mat riesenie.."
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "Tak ono je to pak za mě na úhlu pohledu a ten filtr je pak pro mě k ničemu. Já chci přece filtrovat podle rozhraní, ne podle umístění zdroje a informaci chci mít kompletní. Nebo je pak skutečný užitek zrcadlení velmi relativní - přitom já to považuji za jeden z největších + AO celkově - dodržuje to zásadu jeden zdroj pravdy. Zkuste se na to téma prosím pobavit - kdyby bylo potřeba, klidně vám ten use case odprezentuju. Dík! A."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Use case je jasny.. ja si len neviem rpedstavit technicke riesenie aktualne.. ale nie som programator, preto som to nahlasil a uvidime co na to vyvoj.. Rozmyslam ci docasne sa vie pouzit velka evidencia Ukoly a potom odfiltrovat tim, pripadne projekt.. mozno by to slo ale chapem ze to nie je idealne. Pretoze ak sa pozriem na projektovu zrkadlenu ulohu v time tak ma inu sekciu nez v projekte, ale ked sa na neho pozriem zvonku (mimo tim) tak sa objavi ta projektova samozrejem."
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "Jo tohle jsem si stanovil jako řešení, pokud v tom týmu neuspějeme - ale je to takové \"náhradní\"."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, opravili sme a zda sa ze filter na stitok v time funguje aj na nazrkadlene projektove ulohy.. Skus prosim a daj vediet.. dakujem"
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "Ahoj AO kluci, testoval jsem na stávajících úkolech zrcadlených z PRJ --> TEAM: - štítek příslušící TEAMU a PRJ --> filtr funguje - štítek příslušící Už. skupině i Řeš. skupině --> filtr funguje Za mě komplet vyřešeno a můžeme uzavřít - dík! A."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dakujem, som rad ze je to ok.."
+    }
+  ]
+}

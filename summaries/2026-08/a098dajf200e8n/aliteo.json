@@ -1,0 +1,39 @@
+{
+  "id": "a098dajf200e8n",
+  "created": "2026-08-20T08:03:39.568Z",
+  "closed": "2026-08-21T09:58:40.506Z",
+  "duration_minutes": 1555,
+  "first_response_minutes": 15,
+  "name": "Chyba notifikacii",
+  "description": "Ahojte, V poslednej dobe mi chodia do e-mailu ulohy na ktorych nie som ani sledujuci, ani riesitel, ci vlastnik,nejde dokonca ani o ulohu na mojich projektoch...teda ich nechcem dostavat...neviem, co je nespravne...potrebujem preverit, ci sa toto deje len mne, alebo „nechcene“ informacie o ulohach snad chodia napr. aj zakaznikom? Bola by som nerada, ak by chodili notifikacie uloh neopravnenym osobam. Riesila som presne rovnaku situaciu aj s MHR- zaujimalo ho tlacitko vpravo hore „upozornenia“ aj ked som ich konkretne na danej ulohe vypla, aj tak mi to chodilo a povedal, ze s tym nema uz co urobit a mam sa ozvat vam...tak v podstate asi len nahlasujem, ze toto nie je OK a asi by sa to nemalo diat...ak viete ako tomu zabranit, budem rada za info 😊 vdaka.",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": null,
+  "comment_stats": {
+    "total": 4,
+    "from_owner": 1,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, v ulohe 342490 bola riesitelom kratky cas riesitelska skupina KARAT Software s. r. o.. Sucastou tej riesitelskej skupiny si aj ty. Skontroluj si nastavenia upozorneni, pravdepodobne mas zapnute aby sa ti zapinali podrobne notifikacie ak sa stane Skupina riesitelom pripadu, ale nemas zapnute automaticke vypinanie ak uz je riesitelom skupina, ktorej nie si clenom. Pozri sa prosim na to a daj vediet. Pozn. Prosim posielaj podobne veci priamo na support@aliteo.com Dakujeme ALITEO Team"
+    },
+    {
+      "creator": null,
+      "comment": "Ahoj, nic som si nezapinala v ramci skupiny riesitelov...prave naopak chcem byt „vyhodena“ z takejto skupiny...KSS. Mozno je to tak preddefinovane automaticky...ak je to mozne zruste ma z takej skupiny...ja nie som konz/ani prog, nezopdpovedam ani za vyvoj...a poziadavky v ramci servisnu su mi adresovane na konkretnych projektoch...nepotrebujem byt v skupine riesitelov, sama som sa do ziadnej nedala a nic nenastavovala.. S pozdravom Mgr. Anna Kováčová service & customer manager tel.: +421 948 682 600 | mobil: +421 948 037 433 | anna.kovacova@karatsoftware.sk KARAT Software s.r.o. | Boženy Němcovej 310 / 11 | 949 01 Nitra | www.karatsoftware.sk Facebook LinkedIn YouTube"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "To, ako to je nastavene, kto je v akej skupine riesitelov a ako sa to autoamticky nastavuje, to musis riesit s niekym s KARAT, kto to nastavuje. Ale u Teba si zapni, aby sa ti automaticky vypinalo podrobne upozornenia ked uz nie je riesitelom skupina ktorej si clenom - tym by sa to malo vyriesit a odnikadial ta asi nebudu musiet odoberat. Posielam aj obrazok kde:"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ako sme sa dohodli cez Teams, ucast v riesitelskych skupinach je treba vyriesit s tym kto nastavuje tieto prava. Zda sa ze teda nejde o chybu ALITEO a zatvaram. Dakujem"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a095njbfb00np1",
+  "created": "2026-07-30T12:40:03.428Z",
+  "closed": "2026-08-01T12:59:35.217Z",
+  "duration_minutes": 2899,
+  "first_response_minutes": 16,
+  "name": "MCP server pre Aliteo — stav",
+  "description": "Dobrý deň, v tikete #10855 ste mi v máji avizovali MCP server pre Aliteo v najbližšej verzii (leto 2026) a kolegovi Furindovi ste v #11177 v júni potvrdili nasadenie koncom leta. Chcem sa opýtať, či tento termín stále platí a či existuje možnosť skoršieho beta/testovacieho prístupu k MCP serveru. Ďakujem. -- S pozdravom / Best regards Branislav Klocok generálny riaditeľ / general director OFZ, a.s. Mobil: +421 908 703 366 Tel: +421 43 5804 488 e-mail: branislav.klocok@ofz.sk web: www.ofz.company",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "API",
+  "comment_stats": {
+    "total": 2,
+    "from_owner": 0,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dobrý deň p. Kločok, áno, stále platí pôvodný predpoklad. Nová verzia ALITEO, vrátane podpory MCP, je naplánovaná na nasadenie v priebehu 09/2026 . MCP je už z našej strany dokončené a čaká na vydanie spolu s novou verziou. Žiaľ, skoršie sprístupnenie nie je možné, keďže MCP je vzhľadom na zmeny v API pevne naviazané na novú verziu ALITEO a nie je možné ho vydať samostatne. Ďakujeme za pochopenie."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Dobrý deň p. Kločok, nová verzia ALITEO, vrátane podpory MCP, je naplánovaná na nasadenie v priebehu 09/2026 . MCP je už z našej strany dokončené a čaká na vydanie spolu s novou verziou. Žiaľ, skoršie sprístupnenie nie je možné, keďže MCP je vzhľadom na zmeny v API pevne naviazané na novú verziu ALITEO a nie je možné ho vydať samostatne. Ďakujeme za pochopenie."
+    }
+  ]
+}

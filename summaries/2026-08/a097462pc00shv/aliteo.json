@@ -1,0 +1,47 @@
+{
+  "id": "a097462pc00shv",
+  "created": "2026-08-10T08:23:44.244Z",
+  "closed": "2026-08-17T08:59:51.646Z",
+  "duration_minutes": 10116,
+  "first_response_minutes": 28,
+  "name": "INOVACE | Oblíbené položky defaultně zapnuté",
+  "description": "Ahoj, hodila by se mi funkcionalita, kde bych v rámci nějakého globálního parametru mohl nastavit, že defaultně se mi mají zobrazí jen oblíbené položky (hvězdička zapnutá). Všiml jsme si, že zpravidla vždy první klikám na hvězdičku, až potom hledám tým - projekt -... . Pokud by vám to dávalo smysl - zařaďte to prosím do roadmapy. Díky, A.",
+  "owner": "Adam Rychnovský",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 6,
+    "from_owner": 2,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ahoj, myslis tak ako to funguje na domovskej obrazovke? Ak mas aspon jeden projekt oznaceny ako oblubneny, potom je hviezdicka na oblubene defaultne zapnuta."
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "Jo přesně - a takto mi to stačí, jen jsem si toho nevšiml. Díky. (y)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Este som to otvoril, aby som dodal, ze su miesta kde to takto nie je.. Napriklad u projektov na domovskej to takto je ale ked si kliknes na projekty v hornej liste a teda sa dostanes na evidenciu projekty, tam sme cakali ze ides hladat nieco a preto nie je automaticky zapnuta.. Tak je otazka ci by sa to tam malo spravat rovnako ako domovskej. Nehovorim ze to ideme menit ale ako by si to chcel ty?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Este som to otvoril, aby som dodal, ze su miesta kde to takto nie je.. Napriklad u projektov na domovskej to takto je ale ked si kliknes na projekty v hornej liste a teda sa dostanes na evidenciu projekty, tam sme cakali ze ides hladat nieco a preto nie je automaticky zapnuta.. Tak je otazka ci by sa to tam malo spravat rovnako ako domovskej. Nehovorim ze to ideme menit ale ako by si to chcel ty?"
+    },
+    {
+      "creator": "Adam Rychnovský",
+      "comment": "Ano, původně jsem nad tím tak uvažoval - ale ten dashboard na domovské stránce mi zobrazuje vše - tzn. za mě ještě lepší řešení."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Najlepsie an tom je, ze ked potom das hladat, ze zadas text, tak ti to hlada vo vsetkych a nie len v tych co vidis. Za mna je to idelane.. na rychly klik vidim len par a na vyhaldavanie vsetky.. Mozem teda zatvorit?"
+    }
+  ]
+}

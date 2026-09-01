@@ -1,0 +1,55 @@
+{
+  "id": "a098hicv200q9c",
+  "created": "2026-08-21T08:46:55.401Z",
+  "closed": "2026-08-21T12:37:03.435Z",
+  "duration_minutes": 230,
+  "first_response_minutes": 13,
+  "name": "Zrušení možnosti označení uživatele přes @",
+  "description": "Dobrý den, projekt používáme pro různé externí partnery, kteří se mezi sebou nesmí vidět. Dnes jsme narazily na to, že se vidí při použití @ Tohle bychom potřebovali striktně upravit či vypnout. Díky za pomoc Hezký den Best regards | S pozdravem Tomáš Novák Warehouse supervisor | Vedoucí skladových částí NOVIKO s.r.o. – Letiště Brno – Tuřany  964/13 - 62700 M: +420 720 061 074 tomas.novak@covetrus.com www.noviko.cz",
+  "owner": "tomas.novak@covetrus.com",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 0,
+    "from_others": 8,
+    "unique_authors": 2
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobrý deň pán Novák, Je možné nastaviť projekt tak, aby sa pri použití @ zobrazovali iba používatelia, ktorí sú v úlohe ako sledujúci. Tým by sa docielilo, že externý užívateľ v danej úlohe môže označiť len iného externého a nevidí ostatných externých v projekte. Ide o nastavenie viditeľnosti projektu - Všetci užívatelia spoločnosti . Toto nastavenie má však ten logicky vedľajší efekt — daný projekt sa následne automaticky zobrazí všetkým členom spoločnosti . Skrátka ho uvidia medzi projektmi, ale v ňom vidia to na čo majá právo a môžu tam založiť úlohu. Je pre Vás takéto riešenie akceptovateľné? Ďakujem a prajem pekný deň. ALITEO Team"
+    },
+    {
+      "creator": null,
+      "comment": "Dobrý den, pokud ale daný externí uživatel není členem projektu, nebude ho vidět, je tak? Vyzkoušel jsem to nastavit tak, jak píšete a pokud se jako externí uživatel smažu z projektu, nevidím ho. \nDíky"
+    },
+    {
+      "creator": null,
+      "comment": "Zároveň pokud budu chtít tedy označit kohokoliv z kolegů, který není v řešícím týmu, nepůjde to právě kvůli tomuto nastavení. Jsou i nějaké jiné možnosti?"
+    },
+    {
+      "creator": null,
+      "comment": "Pro jistotu se ještě zeptám, změna tohoto nastavení však nemění např to, že externí uživatele uvidí napříč úkoly ostatních, že? Zkoušel jsem to nasimulovat a zdá se mi, že je to ok, ptám se spíš pro jistotu. Díky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Vy ako interny uzivatel, by ste mali mat moznost oznacit koho kolvek. To obmedzenie sa tyka prevazne externych uzivatelov. Zmena nastavenia viditelnost nema vplyv na pravo na jednotlive ulohy, takze by nemali vidiet viac ako doteraz."
+    },
+    {
+      "creator": null,
+      "comment": "Ok, vyzkoušíme to v  provozu. Díky moc"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano odporucam samozrejme otestovat cez nejakeho externeho clena aby ste si boli isti ze ste dosiahli co ste potrebovali aj s akceptovatelnymi ostatnymi efektmi. Mozeme teda pripad uzatvorit? Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Jj, to jsem vyzkoušel, jen jsem to chtěl mít potvrzeno i z Vaší strany. Můžeme uzavřít. Díky moc a mějte se"
+    }
+  ]
+}

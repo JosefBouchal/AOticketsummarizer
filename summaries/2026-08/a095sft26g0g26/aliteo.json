@@ -1,0 +1,55 @@
+{
+  "id": "a095sft26g0g26",
+  "created": "2026-07-31T17:09:59.814Z",
+  "closed": "2026-08-11T11:46:37.890Z",
+  "duration_minutes": 15516,
+  "first_response_minutes": 213,
+  "name": "Meeting ",
+  "description": "Dobrý deň, viete mi poradiť ako by sa dala zlepšiť komunikácia so spoločnosťou KARAT (partnerom Sango) 1. Kedy bude možné zrkladliť verejné komentáre medzi spoločnosťami ? Pýtam sa lebo, zapisujem informácie v spoločnosti Karat, nakoľko tam mám aj riešiteľov zo Sanga, preto mi je lepšie meetingy organizovať v spoločnosti Karat 2. Keď však organizujem meeting v spoločnosti Karat, nemôžem tam vytvoriť agendu ani zápis, dajú sa také práva nastaviť aj pre externistu ? 3. Ak vytvorím meeting v spoločnosti 3EC International, nemôžem pridávať úlohy zo spoločnosti Karat, nakoľko sú to ich dáta, tak to je asi správne. 4. Dá sa do agendy pridať viacero tiketov naraz miesto pridávania jeden po druhom ? Mám cca otvorených 30 tiketov a chcel by som ich všetky vyfiltrovať, označiť a pridať do agendy. Ďakujem Tomáš",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Chyba",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 8,
+    "from_owner": 4,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, pokusim sa odpovedat postupne. 1. pokusim sa zistit na kedy je planovana tato funkcionalita 2. je mozne menit nastavenia na porade, ale tie sa netykaju toho ci ste externy ale v kedy a ako je mozne menit body porady 3. ano, je to spravne - tie data su v inej spolocnosti 4. do agendy myslite co? na jeden bod porady 30 taskov? to by asi nefungovalo, potom ked urobite zapis k nejakemu, asi nechce aby sa to prepisalo do vsetkych - neviem ci by nebola cesta si urobi stitok a davat to len tam co chcete na poradu a tam to filtrovat… musel by so vidiet konkretny pripad.."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "1. Ok 2. AK vytvorím meeting v spoločnosti KARAT nemám tam možnosť zaslať agendu a zápis porady e-mailom alebo generovať PDF a ani v settingoch konkrétneho meetingu som nenašiel možnosť zmeniť nastavenia. 3. OK 4. Nie, myslím tým, že čo úloha to bod porady / agenda. Čiže chceme prejsť všetkých 30 otvorených tiketov tak som si ich chcel všetky jedným klikom pridať do programu aby som ich nemusel ručne pridávať po jednom"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "1. som na dovolenke, a teda nemam tolko casu, hned ako budem vediet ktory sprint to bude, dam Vam vediet 2. Ja si myslim ze moznost exportu/odoslania harmonogramu/zapisu z porady ma asi len interny clen projektu. 3. - 4. chapem, zatial taku moznost nemame, ale mi to tam logicky nejako nepasuje. Dat tam nieco hromadne a nevediet ci sa to stihne alebo nie. Bud je treba vyuzivat len ulohy na reakciu a po nejakom zapise to vratit na riesenie riesitelovi, alebo si to riadene prehadzovat medzi body porady. Drag and dropom sprava dolava to ide pomerne rychlo."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Zdravím, tak nebudem rušiť, nie je to také urgent, oddychujte a pokojne to môžeme doriešiť keď sa vrátite. 4. Poviem konkrétnu situáciu. Podarilo sa mi ľúdi zo Sanga namotivovať aby sme si aspoň raz mesačne robili Status meeting k otvoreným tiketom. Vždy zoberiem všetky otvorené tikety v spoločnosti Karat, resp. Waiting for Escalation u nás v 3EC, zoradím si ich podľa najstaršieho komentára a všetky tie tikety cca 30 chcem pridať do agendy, aby som mohol vytvoriť zápis a následne ho zaslal svojej nadriadenej aby mala info o tom čo sme tam preberali. No a preto som vytvoril tento tiket. Pretože 1. Oni k nám do spoločnosti nechcú ísť, chcú mať info u seba v spoločnosti Karat, viem, že si robia poznámky vo worde, ale tak je super, že už čoraz viac komunikujeme cez tikety. Lenže ak organizujem meeting v spoločnosti Karat kde som externista, narazil som na tú limitáciu, že nemôžem vytvoriť agendu meetingu a ani následný zápis.  A ďalšia vec je teda to, že ak tam mám 30 otvorených tiketov a chcem ích dať do agendy, je to trošku pracné dávať ich tam jeden po druhom. Momentálne mám takú svoju internú výzvu aby tikety kde je potrebná odpoveď 3EC dali do statusu waiting for response / owner, tak ako to robíte vy, keď dokončíte prácu na tikete, stále to však nerieši môj problém s meetingami. Preto som sa rozhodol vytvoriť meeting u nás v našej spoločnosti 3EC International a.s. a a tam zas čelím tomu, že oni nechcú byť v našej spoločnosti (to by sa vyriešilo tým zrkadlením tiketov, že všetko čo zapíšem do tiketov sa zobrazí aj u nich), no a tá druhá pomoc by u mňa bola, že aby som vedel, jednak vyfiltrovať tikety, ktoré s nimi rieším (waiting for escalation) a aby som ich vedel do agendy pridať hromadne. Ak máte nejaký iný nápad ako to riešiť tak si nechám poradiť. Ja som len opísal čo momentálne riešim a s čím si neviem dať nejako rady, možno existuje nejaké elegantnejšie riešenie. Ako postupom času by som chcel nastaviť úplne workflow, že pri tiketoch mimo problémov, t.j. zmenových požiadaviek alebo nových požiadaviek / nápadov , kde je potrebné interné schválenie, tak si ich najprv pošlem na interné schválanie, resp. zorganizujem interný meeting kde to vedeniu vysvetlím a vyjadria sa mi či do toho ideme alebo nie, následne na to tieto schválenie zmenové požiaavky a žiadosti / idei pošlem na Sango, oni ich zanalyzujú (my ich prípadne doplníme) a následne oni zašlú cenovú ponuku a náši konatelia sa k CP vyjadria, schvália, zamietnu alebo odložia do inej fázy. Skrátka aby všetko čo sa týka nášho projektu bolo v Karate a eliminoval som používanie wordov, pdfiek, e-mailov, excelov ... užívajte dovolenku, potom sa keď tak ozvite, môžeme dať videohovor."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Skusim sa vratit k podstate, ktora bola na zaciatku a zhrniem to: - preberate pripady v KARAT (od Vas) - porady su teda v KARAT lebo su tam pripady - zrhnutie z porady (zapisy jednotlivym bodom nemate k dispozicii) su logicky v KARAT kde ste externy. Skusali ste poziadat KARAT (pripadne sa s nimi dohodnut na pravidel) aby Vam vzdy na konci porady poslali zapis v PDF. Ten by bol zdroj pre dalsie veci - ak ako samotny nebude stacit pre vedenie tak ho pouzit ako zdroj a pomocou AI uz si urobite aky report potrebujete. Dokonca si viem predstavit potom cez MCP preklopit tento zaopis k jednotlivym pripadom Vasim v 3EC, ale musel by tam byt nejaky kluc aby to vedelo prepojit pripady z KARAT na 3EC. Toto by teda riesilo vacsinu problemov? Nech Vam niekto interny posle export z porady?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Áno, budem musieť vždy požiadať ich aby jednak poslali agendu stretnutia, ktorú posielam aj k nám do firmy ak sa chce niekto zúčastniť a jednak ich požiadať o zaslanie zápisov. Neviem moc sa mi toto riešenie nepáči, ono to vychádza z toho, že im sa do toho moc nechce, čiže úprimne, keďže ja som tam externý mal by som si zvolať meeting u nás, nad tiketmi ktoré sú waiting for escalation, zapísať si info do mojich tiketov a oni nech si zapíšu do wordu alebo do papiera ak im to tak vyhovuje. Teším sa keď už bude aj to zrkadlenie verejných komentárov, odpadne mi nutnosť kopírovať ich verejné odpovede a naozaj to budem môcť manažovať u nás, je to takto náročné ak niekto nechce spolupracovať."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ked sa bavime, ze \"sa niekomu nechce\" hovorime o Sango spolupraci alebo o KARAT ludoch, ze Vam nechcu zapisy z porad? Tie porady su teda trojstranne? Vy + Sango + Karat? Vy idete teda vyslovene po Sangu (kedze je to Vas dodavatel) alebo je to tak nejako pomiesane, ze idete aj nieco napriamo s KARAT a Sango sa len prizera ?"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Zdravím, ja komunikujem primárne so Sango (L2) a ak oni  niečo nevedia vyriešiť tak to preposielajú na Karat. Medzičašom mi už  zaslali zápis, takže ich vždy požiadam, resp. ja si naplánujem stretnutia u nás a ich prizvem. Môžete tým pádom tento tiket uzatvoriť."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "a098e6i5d00q9c",
+  "created": "2026-08-20T13:09:02.982Z",
+  "closed": "2026-08-20T13:41:15.264Z",
+  "duration_minutes": 32,
+  "first_response_minutes": 7,
+  "name": "Napojení kalendáře",
+  "description": "Zdravím. Snažím se ve Vaši aplikaci připojit kalendář. Bohužel ani M365, ani Google se mi podle návodu / helpu nedaří. Důvodem je, že nikde v aplikaci neumím najít dle doporučeného postupu uváděné tlačítky, zatržítka apod. Není někde screenshot daných postupů? Nebo je situace dána tím, že licence „zdarma“ tuto funkcionalitu nepodporuje? Díky za odpověď. Lubomír Poloch +420 731 600 668",
+  "owner": null,
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravím Vás, Ďakujem, že ste nám napísali. Problém teda je, že sa Vam nedarí nájsť miesto kde sa kalendár nastavuje? Alebo ste to našli ale nedarí sa Vám email overiť? Ďakujem ALITEO Team"
+    },
+    {
+      "creator": null,
+      "comment": "dobrý den. ano, nenašel jsem, kde to napojení nastavit..."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Posielam Vam kratke gif: Pre istotu aj textovo: 1. pravy horny roh aplikacia, kde mate avatara 2. nizsie potom \"moje nastavenia\" 3. v lavej casti \"prisposobit\" 4. v prave casti \"kalendar\" 5. Vybrat typ poskytovatela kalendara 6. Verifikovat Verim, ze Vam to pomoze a ak nie ozvite sa. Mimochodom na ALITEO sa takisto nachadzaju nejake instruktazne videa, ktore by mohli takisto pomoct, aj ked niektore z nich su vizualne mierne odlisne od aktualne stavu, kedze sme medzitym uz vydali uz niekolko verzii. Dakujem"
+    },
+    {
+      "creator": null,
+      "comment": "Omlouvám se, tohle jsem úplně přehlídl... děkuji mockrát. hezký den. Lubomír Poloch"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nic sa nedeje, som rad ze sa podarilo.. aj Vam pekny den."
+    }
+  ]
+}

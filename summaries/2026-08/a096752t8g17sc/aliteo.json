@@ -1,0 +1,27 @@
+{
+  "id": "a096752t8g17sc",
+  "created": "2026-08-03T07:16:37.292Z",
+  "closed": "2026-08-10T08:15:18.147Z",
+  "duration_minutes": 10138,
+  "first_response_minutes": 494,
+  "name": "nový uživatel",
+  "description": "Dobrý den. Prosím o založení nového uživatele do Alitea pro firmu PEKASS: Filip Trnka, filip.trnka@pekass.eu Děkuji. Ing. Tomáš Mašek IT technik PEKASS a.s. Přátelství 555 104 00 Praha 10 mobil: +420 775850356 email: tomas.masek@pekass.eu web: www.pekass.eu",
+  "owner": null,
+  "priority": "Nejvyšší",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 1,
+    "from_owner": 0,
+    "from_others": 1,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Dobrý deň, Domnievam sa že ide o založenie užívateľa pre účely správy požiadaviek súvisiacich s informačným systémom Karat? Ak áno, založte prosím tento prípad do spoločnosti Karat, do správneho projektu v pracovnom priestore Karat assistance. Tento email support@aliteo.com slúži pre technickú podporu aplikácie ALITEO. Ďakujem za pochopenie. ALITEO Team"
+    }
+  ]
+}

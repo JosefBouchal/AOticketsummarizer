@@ -1,0 +1,51 @@
+{
+  "id": "a0980vtb700t0s",
+  "created": "2026-08-17T08:12:34.705Z",
+  "closed": "2026-08-24T20:23:23.809Z",
+  "duration_minutes": 10810,
+  "first_response_minutes": 21,
+  "name": "Tlačítko \"Otevřít v portálu\"",
+  "description": "Dobrý den, p. Piovarči mi přeposlal notifikaci, která odkazuje na portal a né na klasický úkol. Jaká je podmínka v Aliteo, že se objeví tlačítko \"Otevřít v portálu\" v notifikaci? Posílám v příloze jak to chodí Takto je to OK: Díky za informaci.",
+  "owner": "Jakub Trhlík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, zalezi to od toho akym uzivatelom je ten ktore to upozornenie dostal. Tlacidlo s odkazom do portalu sa vacsinou posiela anonymnemu uzivatelovi, kto nema pristup do spolocnosti."
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Koukám, že vlastník je admin@benesalat.cz, ve společnosti ho máme mezi Externími uživateli, takže anonymní by neměl být. Email admin@benesalat.cz je email alias pro zdenko.piovarci@benesalat.cz, takže práva by měla být OK."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ked vidite jeden z tych obrazkov, tak uzivatel je \"v pozvanke\" takze stale je anonymny, kym neprijal pozvanku."
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Ok, zkusíme, dám vědět, díky"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ok, necham tento pripad este otvrenY?"
+    },
+    {
+      "creator": "Jakub Trhlík",
+      "comment": "Zítra zkusíme, tak ještě ano prosím"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ok, predavam teda na Vasu reakciu, ak by sa nic za niekolko dni nenaslo, automat to sam navrhne na uzatvorenie.. Dakujem"
+    }
+  ]
+}

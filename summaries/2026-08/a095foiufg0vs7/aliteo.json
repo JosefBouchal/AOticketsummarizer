@@ -1,0 +1,43 @@
+{
+  "id": "a095foiufg0vs7",
+  "created": "2026-07-28T15:01:01.116Z",
+  "closed": "2026-08-11T11:48:23.804Z",
+  "duration_minutes": 19967,
+  "first_response_minutes": 279,
+  "name": "Nemožnosť vybrať atribút",
+  "description": "Dobrý deň, včera som si do môjho atribútu Type of tasks v rámci spoločnosti 3EC International a.s. pridal ďalší atribút (Issue). Mám tam Issue, Request, Change Request, Idea / Request a Question, ale ak vytváram tiket nemôže si vybrať žiadny okrem defaultne nastaveného Issue. Viete mi poradiť čo tam mám zle nastavené ? Ide mi vybrať len tá hodnota atribútu, kde mám vo vlastnostiach nastavenú hodnotu default (predvolenú). Pred tým mi to fungovalo v poriadku. Vďaka za pomoc",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 5,
+    "from_owner": 2,
+    "from_others": 3,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "zdravím vás, pošlite mi screen nastavenia atribútu"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Zdravím, toto ste mysleli ? Zaujímavé, že mi to doteraz fungovalo, neviem či sa mne tam niečo podarilo zmeniť. Poslednú zmenu čo som robil, bolo, že som si pridal ďalšiu hodnotu do tohto atribútu. Plus keď som konkrétnu hodnotu od-značil ako predvolenú tak už som nemohol vybrať žiadnu z hodnôť v rámci tohto atribútu, zostal tam len názov samotného atribútu ale nedali sa vybrať žiadne hodnoty."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, ano, toto nastavenie som myslel.. este pozrite na rights restrictions.. ci tam to mate povolene pre internych.-"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Zdravím, vďaka už to funguje. Pre internal bolo natavené view, miesto edit, keď som to prepal, tak to funguje. Bola nejaká aktualizácia software ? Rozmýšľam či to bolo nejakou aktualizáciou alebo sa to nejak nevedome podarilo zmeniť mne. Každopádne funguje, vďaka za pomoc, môžeme to uzavrieť."
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nebola ziadna aktualizacia.. aj keby bola, tak nezvykneme zasahovat do nastavenych dat ktore sa niejako nemenia.. Mozno podvedome bolo zmenene.. Dakujem"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a095igmb500smj",
+  "created": "2026-07-29T07:03:22.346Z",
+  "closed": "2026-08-16T11:43:05.250Z",
+  "duration_minutes": 26199,
+  "first_response_minutes": 266,
+  "name": "nastavení společnosti - atributy - umožnit hledat",
+  "description": "viz obrázek - navrhuji doplnit hledání mezi atributy: ideální stav - jedno pole a to hledá ve všech 3 typech (úkolu, projektu, výkazech). nejsem si nyní jist, jestli pořadí jak to tam je má ještě nějaký vliv - třeba na zobrazení pak v detailu, ale protože to není podle abecedy, tak to není jednoduché tam něco najít.",
+  "owner": "KSWPMS - Petr Masařík",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Podnět",
+  "area": "Nastavení společnosti",
+  "comment_stats": {
+    "total": 3,
+    "from_owner": 1,
+    "from_others": 2,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "ahoj, myslím že už taký návrh máme, pohľadám ho a pripojím. Minimálne je to takisto hľadaní položiek v dátovom ty zoznam"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ulohu som pripojil, bude sucastou vacsej zmeny redesignu atributov... Teraz musis pouzit asi len ctrl+f"
+    },
+    {
+      "creator": "KSWPMS - Petr Masařík",
+      "comment": "Ok"
+    }
+  ]
+}

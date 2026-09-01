@@ -1,0 +1,51 @@
+{
+  "id": "a098h670a017kg",
+  "created": "2026-08-21T06:33:49.004Z",
+  "closed": "2026-08-28T19:18:03.996Z",
+  "duration_minutes": 10844,
+  "first_response_minutes": 4,
+  "name": "Platba za licenciu kartou",
+  "description": "Dobrý deň, dnes je posledný deň na zaplatenie licencie. Majiteľ mi to chcel zaplatiť prostreníctvom karty, ale táto možnosť stále nie je funkčná . Poslednú informáciu čo mám od Vás je, že musíme čakať k výročiu licencie a následne môžeme zmeniť platobnú metódu z faktúry na platobnú kartu. viete nám s tým prosím pomôcť ? Ďakujem",
+  "owner": "Tomas_Polak",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Bez",
+  "comment_stats": {
+    "total": 7,
+    "from_owner": 3,
+    "from_others": 4,
+    "unique_authors": 1
+  },
+  "comments": [
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Zdravim Vas, to stale plati. Zmente si k datumu vyrocia na Basic, teda bezplatnu. Hned ako Vam to padne do Basic si to nakupte znova a tam by malo byt mozne vybrat znova platobnu metodu."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Pán Dzuro, my tomu nerozumieme a celý tento systém platenia je pre nás komplikovaný. Jediné čo chceme je zaplatiť mi prostredníctvom karty predplatné kde je aj API na ďalší rok, nič viac. Minule mi niekto od vás písal, že nemôžeme zaplatiť kartou lebo sme minulú licenciu zaplatili na faktúru a môže sa to zmeniť až k dátumu výročia. Ten deň je dnes, tak si chceme zaplatiť jednu licenciu a zas tam nejde použiť kartu (viď príloha)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Pán Polák, snazil som sa Vam poslat návod ako by to malo byt mozne spravit. Nie je mozne zmenit metodu platby v existucej recuring platbe - je treba treba prejst na Basic a potom vykonat znova aktivaciu plateneho tarifu. Skusim teda podrobnejsie: - nastavenia spolocnosti - licencie - tlacidlo Sprava licencii -> zmenit licenciu - vybrat tarif Basic - tlacidlo \"Znizit licenciu\" To by Vam malo zapnut bezplatny tarif Basic. Nasledne pojdete znova aktivovat, vyberiete si co potrebujete a pri tejto uhrady by ste mali dostat na vyber opat metodu platby. Bohuzial tym, ze budete vykonavat nove zakupenie, uz nebude mat k dispozicii povodny tarif Advance, ale iba nove tarify. Snad som Vam pomohol, ak nie mozeme sa spojit ak bude potrebne. Dakujem"
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "Zdravím, okey, ponížil som licenciu na Basic, išlo mi vybrať platobnú metódu prostreníctvom karty. Potom som si išiel navýšiť licenciu, bola možnosť aj Advanced ale vybral som si tú kde je aj API aby sme sa mohli napojiť na Karat Assistance a keď som išiel zaplatiť tak som opäť nemohol vybrať kartu, nakoľko výročie licencie mi dali na 22.8. teda na zajtra a chce odo mňa (asi na faktúru ) zaplatiť 1 euro. Takže čo teraz ? máme zaplatiť cez faktúru 1 euro, do zajtra. A zajtra máme prísť do práce a zaplatiť si predplatné na ďalší rok, cez kartu ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Ja by som to nechal padnud do Basic, aby Vam aj realne ukazovalo ze mate aktivnu Basic licenciu. A az potom by som isiel aktivovat novu."
+    },
+    {
+      "creator": "Tomas_Polak",
+      "comment": "idem teraz na tyden na dovolenku, vrátim sa 1.9. dá sa to teda potom doriešiť a zaplatiť aby mi to čo tam mám doteraz uložené nebolo zmazané ?"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Nebojte sa, ziadne data spolocnosti pri nezaplateni sa nemazu.. ak nevyriesite zajtra, tak potom ked sa vratite... 🙂 Prijemnu dovolenku prajem 🙂"
+    }
+  ]
+}

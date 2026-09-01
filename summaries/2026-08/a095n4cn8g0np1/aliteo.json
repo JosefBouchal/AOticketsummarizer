@@ -1,0 +1,67 @@
+{
+  "id": "a095n4cn8g0np1",
+  "created": "2026-07-30T09:56:38.576Z",
+  "closed": "2026-08-14T07:22:11.438Z",
+  "duration_minutes": 21445,
+  "first_response_minutes": 215,
+  "name": "Nevygenerovaná/nezobrazená upozornění",
+  "description": "Viz přílohy. V těchto dvou případech se mi nevygenerovala upozornění. Proč? Jak zjistím, jestli je takových víc? On mě tam PGA i zmínil a ty zmínky mi přišly. Ale primárně mělo vzniknout upozornění a s těmi pracuji. Díky, r@bert",
+  "owner": "Robert Blaha",
+  "priority": "Normální",
+  "surveyquality": "Highest",
+  "surveyterm": "Highest",
+  "type": "Konzultace/dat. servis",
+  "area": "Úkoly",
+  "comment_stats": {
+    "total": 11,
+    "from_owner": 3,
+    "from_others": 8,
+    "unique_authors": 3
+  },
+  "comments": [
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Ahoj Robert, po dlhodobom tlaku na optimalizáciu upozornení sme v jednej z predchádzajúcich verzií upravili ich správanie. Ak si v komentári označený, negenerujú sa ti dve upozornenia (na nový komentár a na zmienku), ale iba jedno, že si bol v komentári označený. P. S. Ani mi nehovor, že nepracuješ so zmienkami, keď práve na tvoj podnet vzniklo ich oddelenie od bežných upozornení. 😀 😀 😀"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Skuska komentara so zmienkou @ Peter Ďurčák (peter.durcak@karatsoftware.sk)"
+    },
+    {
+      "creator": null,
+      "comment": "No tak to jste imho, vybrali to horší řešení. Protože pro mě - a přijde mi, že to je logické - jsou důležitější upozornění, protože to jsou případy, které mám řešit nebo je chci sledovat. Zmínky jsou věci, do který se mě někdo snaží vtáhnout. A bylo by mi to jedno, kdyby se zmínky daly smazat stejně jako upozornění. Už jsem to s vámi řešil několikrát. A postupem času jsem k nim získal skoro averzi :-) Protože upozornění je krásné - dojdu do případu něco udělám nebo neudělám a když jsem ho vyřešil, smažu jedním tlačítkem všechna upozornění a mám klid. Ale zmínky? Hledej ručně. A po jedné maž 🤮 Ale chápu. Představoval bych si to jinak. Ale kdo jsem já, abych rozhoadoval 🤪"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Robert Blaha (robert.blaha@karatsoftware.cz) toto uz mame v plane vyvoja.. ze pri zmazani upozorneni bude moznost zmazat len upozornenia, len zmienky alebo zmazat vsetko - nie je mozne robit vsetko, ale postupne sa dostaneme ku vsetkemu"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "@ Peter Ďurčák (peter.durcak@karatsoftware.sk) asi s tym neplanujeme nic robit, vsak? myslim s tym ze ked je to komentar ide tam a ked tam je zmienka tak ide inam.."
+    },
+    {
+      "creator": "Peter Ďurčák",
+      "comment": "Tak nedavno sme to len tak upravili, uprimne nehcel by som to teraz menit znova podla Roberta, ked vlastne teraz mu vadie dizajn ktory sam vymyslel a presadil, aby sa oddelili zmienky a upozornenia...a nemyslim to v zlom. Suhlasim s tym co si pisal, upravime to mazanie, ale ostatok by som nechal tak."
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "Ale mě nevadí dizajn. Já jsem rád, že jsou oddělené. Mně vadí funkčnost - že nejde zmínky hromadně smazat. A proto je nemám rád a mám raději notifikace. Neříkám to poprvé a zatím jsem neslyšel jediný argument/use case k čemu je dobré mazání nemít nebo v čem by mohl být problém ho mít. Protože si vážně myslím, že workflow dostanu se k případu, vyřídím ho tak, že není míč na mojí straně hřiště a v tu chvíli ho nechci mít ani v upozorněních ani zmínkách, je poměrně častý. Já jsem si naopak vzal k srdci Tvoji zpětnou vazbu o \"člověku z doby mailové\" a všechny maily mám vypnuté a jedu jen podle upozornění/zmínek. Ale to nemazání zmínek mě irituje... A jak říkal Milan Markovič: \"Viete čo znamená irituje??? Serie!!!\" :-)"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "Chapeme.. takze to co bude implementovane riesi tvoj problem a to je mazanie vsetkeho - aj upozorneni aj zmienok.."
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "Ano"
+    },
+    {
+      "creator": "Daniel Dzuro",
+      "comment": "dobre, chces to nechat otvorene.. alebo mozeme uzatvorit?"
+    },
+    {
+      "creator": "Robert Blaha",
+      "comment": "Klidně to zavři"
+    }
+  ]
+}
